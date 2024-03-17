@@ -28,6 +28,9 @@ jobs:
           FILENAME="data/${TIMESTAMP}_planet_statuses.json"
           curl "https://helldivers-2.fly.dev/api/${{ steps.fetch-season.outputs.current_season }}/status" -o "$FILENAME"
 
+      - name: Cleanup old data files
+        run: |
+          find data/ -type f -name '*_planet_statuses.json' -mmin +720 -delete
 
       - name: Commit and push if there are changes
         run: |
@@ -38,9 +41,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
           git push
 
-      - name: Cleanup old data files
-        run: |
-          find data/ -type f -name '*_planet_statuses.json' -mmin +720 -delete
+
 
 
 
