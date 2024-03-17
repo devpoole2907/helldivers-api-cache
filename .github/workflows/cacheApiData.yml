@@ -24,12 +24,10 @@ jobs:
       - name: Fetch planet statuses and save with timestamp
         run: |
           mkdir -p data
-          SEQ=$(( ( $(date -u +%s) / 600 ) % 72 + 1 )) # Unique file sequence every 10 minutes, resets after 12 hours
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          FILENAME="data/${SEQ}_planet_statuses.json"
-          curl "https://helldivers-2.fly.dev/api/status" -o $FILENAME
-          # Embed the timestamp within the JSON file
-          echo "{\"timestamp\": \"$TIMESTAMP\", \"data\": $(cat $FILENAME)}" > $FILENAME
+          FILENAME="data/${TIMESTAMP}_planet_statuses.json"
+          curl "https://helldivers-2.fly.dev/api/${{ steps.fetch-season.outputs.current_season }}/status" -o "$FILENAME"
+
 
       - name: Commit and push if there are changes
         run: |
@@ -39,4 +37,11 @@ jobs:
           git commit -m "Update planet statuses for war season ${{ steps.fetch-season.outputs.current_season }}" -a || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
           git push
+
+      - name: Cleanup old data files
+        run: |
+          find data/ -type f -name '*_planet_statuses.json' -mmin +720 -delete
+
+
+
 
