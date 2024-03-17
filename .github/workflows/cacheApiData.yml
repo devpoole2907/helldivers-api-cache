@@ -20,12 +20,17 @@ jobs:
         run: |
           CURRENT_SEASON=$(curl -s "https://helldivers-2.fly.dev/api" | jq -r '.current')
           echo "::set-output name=current_season::$CURRENT_SEASON"
-
-      - name: Fetch planet statuses from Helldivers API and save with timestamp
+      
+      - name: Fetch planet statuses and save with timestamp
         run: |
-          mkdir -p data # Ensure the directory exists
+          mkdir -p data
+          SEQ=$(( ( $(date -u +%s) / 600 ) % 72 + 1 )) # Unique file sequence every 10 minutes, resets after 12 hours
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          curl "https://helldivers-2.fly.dev/api/${{ steps.fetch-season.outputs.current_season }}/status" -o "data/${TIMESTAMP}_planet_statuses.json"
+          FILENAME="data/${SEQ}_planet_statuses.json"
+          curl "https://helldivers-2.fly.dev/api/status" -o $FILENAME
+          # Embed the timestamp within the JSON file
+          echo "{\"timestamp\": \"$TIMESTAMP\", \"data\": $(cat $FILENAME)}" > $FILENAME
+
       - name: Commit and push if there are changes
         run: |
           git config --local user.email "action@github.com"
