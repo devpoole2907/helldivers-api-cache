@@ -36,7 +36,7 @@ jobs:
         run: |
           mkdir -p feed
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          FILENAME="feed/${TIMESTAMP}_feed.json"
+          FILENAME="feed/feed.json"
           curl "https://helldivers-2.fly.dev/api/${{ steps.fetch-season.outputs.current_season }}/feed" -o "$FILENAME"
 
       - name: Cleanup old feed files in /feed
