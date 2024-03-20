@@ -30,7 +30,12 @@ jobs:
 
       - name: Cleanup old data files
         run: |
-          find data/ -type f -name '*_planet_statuses.json' -mmin +720 -delete
+          echo "Listing files in data/ before cleanup:"
+          ls -l data/
+          find data/ -type f -mmin +720 -delete
+          echo "Listing files in data/ after cleanup:"
+          ls -l data/
+
 
       - name: Fetch feed data and save with timestamp
         run: |
