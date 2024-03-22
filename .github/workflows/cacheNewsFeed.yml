@@ -42,12 +42,12 @@ jobs:
                   last_published = 0  # or another suitable default value
 
               # Fetch new items
-              new_news = fetch_news(last_published)
+              new_news = fetch_news(last_published + 1)
 
               # Update the news data and the last published number
               if new_news:
                   news_data.extend(new_news)
-                  last_published = new_news[-1]['published'] + 1
+                  last_published = new_news[-1]['published']
 
               # Save updated news data
               with open(feed_file, 'w') as file:
