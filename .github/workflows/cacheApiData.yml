@@ -52,24 +52,11 @@ jobs:
               fi
           done
 
-
-
-      - name: Fetch feed data and save with timestamp
-        run: |
-          mkdir -p feed
-          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          FILENAME="feed/feed.json"
-          curl "https://helldiverstrainingmanual.com/api/v1/war/news?from=2899330" -o "$FILENAME"
-
-      - name: Cleanup old feed files in /feed
-        run: |
-          find feed/ -type f -name '*_feed.json' -mmin +40 -delete
-
       - name: Commit and push if there are changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions Bot"
-          git add data/ feed/
+          git add data/
           git commit -m "Update data for war season ${{ steps.fetch-season.outputs.current_season }}" -a || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
           git push
