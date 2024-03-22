@@ -1,0 +1,16 @@
+[
+    {
+        "id": 9001,
+        "published": 123456789,
+        "type": 0,
+        "tagIds": [],
+        "message": "TEST ALERT: This is a simulated news item for testing purposes.\nPlease disregard this message."
+    },
+    {
+        "id": 9002,
+        "published": 123456790,
+        "type": 0,
+        "tagIds": [],
+        "message": "SECOND TEST: Another test news item.\nTesting the system further with additional content."
+    }
+]
