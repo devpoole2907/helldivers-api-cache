@@ -114,16 +114,22 @@ jobs:
 
             shell: python
 
-          - name: Commit and push changes
+          - name: Stage and commit changes
             run: |
               git config --local user.email "action@github.com"
               git config --local user.name "GitHub Action"
+              git add .
+              git status
+              git commit -m "Prepare for rebase" -a || echo "No changes to stage"
+
+          - name: Fetch and rebase changes
+            run: |
               git fetch origin main
               git rebase origin/main
-              git add feed/news.json
-              git commit -m "Update news data" -a || echo "No changes to commit"
-              git push origin main
 
+          - name: Push changes
+            run: |
+              git push origin main
 
 
 
