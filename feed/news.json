@@ -2472,5 +2472,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nCivilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete."
+  },
+  {
+    "id": 2820,
+    "published": 3686100,
+    "type": 0,
+    "tagIds": [],
+    "message": "TERMINID SURGE\nMinistry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
   }
 ]
