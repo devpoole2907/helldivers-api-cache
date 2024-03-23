@@ -56,10 +56,13 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions Bot"
+          git fetch origin main
+          git rebase origin/main
           git add data/
-          git commit -m "Update data for war season ${{ steps.fetch-season.outputs.current_season }}" -a || echo "No changes to commit"
+          git commit -m "Update data for war season" -a || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
           git push
+
 
   fetch_news:
         runs-on: ubuntu-latest
@@ -115,10 +118,11 @@ jobs:
             run: |
               git config --local user.email "action@github.com"
               git config --local user.name "GitHub Action"
+              git fetch origin main
+              git rebase origin/main
               git add feed/news.json
               git commit -m "Update news data" -a || echo "No changes to commit"
-              git push
-
+              git push origin main
 
 
 
