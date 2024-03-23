@@ -54,83 +54,10 @@ jobs:
 
       - name: Commit and push if there are changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Actions Bot"
-          git fetch origin main
-          git rebase origin/main
-          git add data/
-          git commit -m "Update data for war season" -a || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
-          git push
-
-
-  fetch_news:
-        runs-on: ubuntu-latest
-        steps:
-          - name: Check out repository
-            uses: actions/checkout@v2
-      
-          - name: Setup Python
-            uses: actions/setup-python@v2
-            with:
-              python-version: '3.x'
-
-          - name: Install dependencies
-            run: |
-              python -m pip install --upgrade pip
-              pip install requests
-
-          - name: Fetch and update feed data
-            run: |
-              import json
-              import requests
-
-              def fetch_news(from_timestamp):
-                  url = f'https://helldiverstrainingmanual.com/api/v1/war/news?from={from_timestamp}'
-                  response = requests.get(url)
-                  return response.json()
-
-              # Load existing feed data
-              feed_file = 'feed/news.json'
-              try:
-                  with open(feed_file, 'r') as file:
-                      news_data = json.load(file)
-                      last_published = news_data[-1]['published']
-              except (FileNotFoundError, IndexError):
-                  news_data = []
-                  last_published = 0  # or another suitable default value
-
-              # Fetch new items
-              new_news = fetch_news(last_published + 1)
-
-              # Update the news data and the last published number
-              if new_news:
-                  news_data.extend(new_news)
-                  last_published = new_news[-1]['published']
-
-              # Save updated news data
-              with open(feed_file, 'w') as file:
-                  json.dump(news_data, file, indent=2)
-
-            shell: python
-
-          - name: Stage and commit changes
-            run: |
-              git config --local user.email "action@github.com"
-              git config --local user.name "GitHub Action"
-              git add .
-              git status
-              git commit -m "Prepare for rebase" -a || echo "No changes to stage"
-
-          - name: Fetch and rebase changes
-            run: |
-              git fetch origin main
-              git rebase origin/main
-
-          - name: Push changes
-            run: |
-              git push origin main
-
-
-
+           git config --local user.email "action@github.com"
+           git config --local user.name "GitHub Actions Bot"
+           git add data/
+           git commit -m "Update data for war season ${{ steps.fetch-season.outputs.current_season }}" -a || echo "No changes to commit"
+           git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
+           git push
 
