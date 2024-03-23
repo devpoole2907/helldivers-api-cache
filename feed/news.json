@@ -2409,5 +2409,68 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nCivilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete."
+  },
+  {
+    "id": 2811,
+    "published": 3317759,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nIn support of civilian population expansion and new energy demands for FTL travel, the Helldivers are ordered to cull the Terminid swarm within the Quarantine Zone through liberation of several planets."
+  },
+  {
+    "id": 2812,
+    "published": 3465808,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
+  },
+  {
+    "id": 2813,
+    "published": 3468550,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTELLIGENCE BRIEF\nA new strain of flying Terminids has suddenly appeared across all Terminid planets, with no prior warning or indication of any kind. While the Ministry of Intelligence has always known this was a possibility, the abruptness of the evolution indicates a high possibility of dissident concealment.\n\nThe deployment of Termicide was fortuitously timed\u2014doubtlessly, it averted an even worse evolution. Helldivers are advised to exterminate these mutations whenever encountered."
+  },
+  {
+    "id": 2814,
+    "published": 3468821,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
+  },
+  {
+    "id": 2815,
+    "published": 3477840,
+    "type": 0,
+    "tagIds": [],
+    "message": ""
+  },
+  {
+    "id": 2816,
+    "published": 3479100,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
+  },
+  {
+    "id": 2817,
+    "published": 3479159,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTELLIGENCE BRIEF\nA new strain of flying Terminids has suddenly appeared across all Terminid planets, with no prior warning or indication of any kind. While the Ministry of Intelligence has always known this was a possibility, the abruptness of the evolution indicates a high possibility of dissident concealment.\n\nThe deployment of Termicide was fortuitously timed\u2014doubtlessly, it averted an even worse evolution. Helldivers are advised to exterminate these mutations whenever encountered."
+  },
+  {
+    "id": 2818,
+    "published": 3562530,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThough many Terminids have been mercifully culled, the Helldivers were unable to penetrate as far inside the Quarantine Zone as ordered.\n\nThe expansion of our citizens to new planets will be reduced in line with the reduction of expected Element 710 to be produced. Further procreation applications will be denied until further notice."
+  },
+  {
+    "id": 2819,
+    "published": 3564909,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nCivilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete."
   }
 ]
