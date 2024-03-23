@@ -1977,5 +1977,59 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nCivilian Biomass Collection Teams (BCTs) are gathering and processing inert Terminids. The Helldivers must maintain our control of the planets until these operations are complete."
+  },
+  {
+    "id": 2811,
+    "published": 3317759,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2812,
+    "published": 3465808,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2813,
+    "published": 3468550,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2814,
+    "published": 3468821,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2815,
+    "published": 3477840,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2816,
+    "published": 3479100,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2817,
+    "published": 3479159,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2818,
+    "published": 3562530,
+    "type": 0,
+    "tagIds": []
+  },
+  {
+    "id": 2819,
+    "published": 3564909,
+    "type": 0,
+    "tagIds": []
   }
 ]
