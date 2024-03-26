@@ -712,5 +712,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TERMINID SURGE\nMinistry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
+  },
+  {
+    "id": 2821,
+    "published": 3911159,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER SUCCEEDED\n\nThe last of the crude solid E-710 has been collected, processed, and shipped off-planet, providing a healthy boost to our colony settlement efforts. The planets can now be left behind to allow the Terminids to repopulate\u2014under careful supervision."
   }
 ]
