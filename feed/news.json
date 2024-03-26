@@ -455,13 +455,6 @@
     "message": "INTELLIGENCE BRIEF\nA new strain of flying Terminids has suddenly appeared across all Terminid planets, with no prior warning or indication of any kind. While the Ministry of Intelligence has always known this was a possibility, the abruptness of the evolution indicates a high possibility of dissident concealment.\n\nThe deployment of Termicide was fortuitously timed\u2014doubtlessly, it averted an even worse evolution. Helldivers are advised to exterminate these mutations whenever encountered."
   },
   {
-    "id": 2814,
-    "published": 3468821,
-    "type": 0,
-    "tagIds": [],
-    "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
-  },
-  {
     "id": 2815,
     "published": 3477840,
     "type": 0,
@@ -525,13 +518,6 @@
     "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
   },
   {
-    "id": 2815,
-    "published": 3477840,
-    "type": 0,
-    "tagIds": [],
-    "message": ""
-  },
-  {
     "id": 2816,
     "published": 3479100,
     "type": 0,
@@ -588,13 +574,6 @@
     "message": "CYBERSECURITY UPDATE\nA recent systems security breach has resulted in Galactic War tables displaying inaccurate information. The breach has been addressed, and all systems have been returned to normal operation.  Any discrepancies are to be considered the result of dissident misinformation.\n\nRest assured that the parties responsible have been identified, arrested, tried, and executed. "
   },
   {
-    "id": 2815,
-    "published": 3477840,
-    "type": 0,
-    "tagIds": [],
-    "message": ""
-  },
-  {
     "id": 2816,
     "published": 3479100,
     "type": 0,
@@ -630,13 +609,6 @@
     "message": "TERMINID SURGE\nMinistry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
   },
   {
-    "id": 2815,
-    "published": 3477840,
-    "type": 0,
-    "tagIds": [],
-    "message": ""
-  },
-  {
     "id": 2816,
     "published": 3479100,
     "type": 0,
@@ -670,13 +642,6 @@
     "type": 0,
     "tagIds": [],
     "message": "TERMINID SURGE\nMinistry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
-  },
-  {
-    "id": 2815,
-    "published": 3477840,
-    "type": 0,
-    "tagIds": [],
-    "message": ""
   },
   {
     "id": 2816,
@@ -753,13 +718,13 @@
     "published": 3916530,
     "type": 0,
     "tagIds": [],
-    "message": "<i=3>NEW MAJOR ORDER</i>\n\nInterrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called \"The Reclamation,\" which appears to be a massive invasion of unprecedented scale. Further details are scarce.\n\nIn response, High Command has authorized <i=3>OPERATION SWIFT DISASSEMBLY.</i> The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success."
+    "message": "NEW MAJOR ORDER\nInterrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called \"The Reclamation,\" which appears to be a massive invasion of unprecedented scale. Further details are scarce.\n\nIn response, High Command has authorized OPERATION SWIFT DISASSEMBLY. The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success."
   },
   {
     "id": 2823,
     "published": 3916544,
     "type": 0,
     "tagIds": [],
-    "message": "<i=3>OPERATION SWIFT DISASSEMBLY</i>\n\n<i=3>PHASE I: Disrupt Communications.</i> We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans."
+    "message": "OPERATION SWIFT DISASSEMBLY\nPHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans."
   }
 ]
