@@ -23,11 +23,21 @@ jobs:
           - name: Fetch and update feed data
             run: |
               import json
+              import re
               import requests
+
+              def sanitize_message(message):
+              # Remove HTML-like tags from the message
+                  return re.sub(r'<[^>]*>', '', message)
+              
               def fetch_news(from_timestamp):
                   url = f'https://helldiverstrainingmanual.com/api/v1/war/news?from={from_timestamp}'
                   response = requests.get(url)
-                  return response.json()
+                  news_items = response.json()
+                  # Sanitize each news item's message
+                  for item in news_items:
+                      item['message'] = sanitize_message(item['message'])
+                  return news_items
               # Load existing feed data
               feed_file = 'feed/news.json'
               try:
