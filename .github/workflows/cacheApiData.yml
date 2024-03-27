@@ -2,8 +2,8 @@ name: Poll Helldivers API and Cache Data
 
 on:
   schedule:
-    # Runs at every 5th minute
-    - cron: '*/5 * * * *'
+    # Runs at every 15th minute
+    - cron: '*/15 * * * *'
 
 jobs:
   cache-planet-data:
