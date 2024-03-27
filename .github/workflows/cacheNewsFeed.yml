@@ -36,6 +36,7 @@ jobs:
                   news_items = response.json()
                   # Sanitize each news item's message
                   for item in news_items:
+                    if 'message' in item:
                       item['message'] = sanitize_message(item['message'])
                   return news_items
               # Load existing feed data
