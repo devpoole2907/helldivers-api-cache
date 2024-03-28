@@ -20,15 +20,23 @@ jobs:
           mkdir -p data
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           FILENAME="data/${TIMESTAMP}_planet_statuses.json"
+
+          # Fetch data with headers
+          RESPONSE=$(curl -i "https://helldivers-2.fly.dev/api/801/status")
+          
+          # Separate headers and body
+          HEADERS=$(echo "$RESPONSE" | sed '/^\r$/q')
+          BODY=$(echo "$RESPONSE" | sed '1,/^\r$/d')
+
           # Extract rate limit headers
-          RATELIMIT_REMAINING=$(echo "$RESPONSE" | grep 'X-RateLimit-Remaining:' | awk '{print $2}' | tr -d '\r')
+          RATELIMIT_REMAINING=$(echo "$HEADERS" | grep 'X-RateLimit-Remaining:' | awk '{print $2}' | tr -d '\r')
           
           # Log rate limit information
           echo "RateLimit Remaining: $RATELIMIT_REMAINING"
 
-          # Check if we have remaining requests
+          # Check if we have remaining requests and save the data
           if [ "$RATELIMIT_REMAINING" -gt 0 ]; then
-            curl "https://helldivers-2.fly.dev/api/801/status" -o "$FILENAME"
+            echo "$BODY" > "$FILENAME"
             cp "$FILENAME" "data/currentPlanetStatus.json"
           else
             echo "Rate limit exceeded, not updating the file this time."
