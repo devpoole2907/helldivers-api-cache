@@ -950,5 +950,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATION SWIFT DISASSEMBLY\n\nPHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans."
+  },
+  {
+    "id": 2824,
+    "published": 4081045,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL EXPANSION NOTICE\n\nIn order to support the destruction of the Automatons, the Ministry of Defense has fast-tracked new support weapons for immediate distribution.\n\nThe LAS-99 Quasar Cannon and MG-101 Heavy Machine Gun are now available for requisition."
   }
 ]
