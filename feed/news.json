@@ -894,5 +894,33 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATION SWIFT DISASSEMBLY\n\nPHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans."
+  },
+  {
+    "id": 2820,
+    "published": 3686100,
+    "type": 0,
+    "tagIds": [],
+    "message": "TERMINID SURGE\nMinistry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
+  },
+  {
+    "id": 2821,
+    "published": 3911159,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER SUCCEEDED\n\nThe last of the crude solid E-710 has been collected, processed, and shipped off-planet, providing a healthy boost to our colony settlement efforts. The planets can now be left behind to allow the Terminids to repopulate\u2014under careful supervision."
+  },
+  {
+    "id": 2822,
+    "published": 3916530,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nInterrogators have extracted alarming information from captured bots, through use of Unpleasant Sensory Experience Simulations. The Automatons are planning something called \"The Reclamation,\" which appears to be a massive invasion of unprecedented scale. Further details are scarce.\n\nIn response, High Command has authorized OPERATION SWIFT DISASSEMBLY. The objective: eradicate the Automatons entirely. It will consist of several phases, each critical to overall success."
+  },
+  {
+    "id": 2823,
+    "published": 3916544,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATION SWIFT DISASSEMBLY\n\nPHASE I: Disrupt Communications. We have identified a long-range communications array deep in Automaton space. Its capture may reveal critical intelligence about the enemy's plans."
   }
 ]
