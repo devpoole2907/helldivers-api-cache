@@ -50,10 +50,12 @@ jobs:
                   last_published = 0  # or another suitable default value
               # Fetch new items
               new_news = fetch_news(last_published + 1)
-              # Update the news data and the last published number
+              # Update the news data with only new unique ids and the last published number
               if new_news:
-                  news_data.extend(new_news)
-                  last_published = new_news[-1]['published']
+                for item in new_news:
+                  if not any(existing_item['id'] == item['id'] for existing_item in news_data):
+                    news_data.append(item)
+                last_published = new_news[-1]['published']
               # Save updated news data
               with open(feed_file, 'w') as file:
                   json.dump(news_data, file, indent=2)
