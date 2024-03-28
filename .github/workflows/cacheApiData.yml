@@ -3,7 +3,7 @@ name: Poll Helldivers API and Cache Data
 on:
   schedule:
     # Runs at every 15th minute
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   cache-planet-data:
@@ -14,19 +14,25 @@ jobs:
       
       - name: Install jq for JSON parsing
         run: sudo apt-get install jq
-
-      - name: Fetch current war season
-        id: fetch-season
-        run: |
-          CURRENT_SEASON=$(curl -s "https://helldivers-2.fly.dev/api" | jq -r '.current')
-          echo "::set-output name=current_season::$CURRENT_SEASON"
-      
+        
       - name: Fetch planet statuses and save with timestamp
         run: |
           mkdir -p data
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           FILENAME="data/${TIMESTAMP}_planet_statuses.json"
-          curl "https://helldivers-2.fly.dev/api/${{ steps.fetch-season.outputs.current_season }}/status" -o "$FILENAME"
+          # Extract rate limit headers
+          RATELIMIT_REMAINING=$(echo "$RESPONSE" | grep 'X-RateLimit-Remaining:' | awk '{print $2}' | tr -d '\r')
+          
+          # Log rate limit information
+          echo "RateLimit Remaining: $RATELIMIT_REMAINING"
+
+          # Check if we have remaining requests
+          if [ "$RATELIMIT_REMAINING" -gt 0 ]; then
+            curl "https://helldivers-2.fly.dev/api/801/status" -o "$FILENAME"
+            cp "$FILENAME" "data/currentPlanetStatus.json"
+          else
+            echo "Rate limit exceeded, not updating the file this time."
+          fi
 
       - name: Cleanup old data files
         run: |
@@ -57,7 +63,7 @@ jobs:
            git config --local user.email "action@github.com"
            git config --local user.name "GitHub Actions Bot"
            git add data/
-           git commit -m "Update data for war season ${{ steps.fetch-season.outputs.current_season }}" -a || echo "No changes to commit"
+           git commit -m "Update data for war season 801" -a || echo "No changes to commit"
            git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
            git push
 
