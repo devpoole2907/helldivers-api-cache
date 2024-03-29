@@ -264,5 +264,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL EXPANSION NOTICE\n\nIn order to support the destruction of the Automatons, the Ministry of Defense has fast-tracked new support weapons for immediate distribution.\n\nThe LAS-99 Quasar Cannon and MG-101 Heavy Machine Gun are now available for requisition."
+  },
+  {
+    "id": 2825,
+    "published": 4168144,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP SWIFT DISASSEMBLY, PHASE I\u2014COMPLETED\n\nThe Automaton Comms Array on Troost has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted.\n\nHowever, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry."
+  },
+  {
+    "id": 2826,
+    "published": 4168509,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nOP SWIFT DISASSEMBLY, PHASE II: Reduce Non-Sentient Combatant Production. Intel analysis have identified the planet Tibit as the most significant producer of illegal Automaton combatants. Liberating this planet would significantly impact the enemy's capacity to replenish decommissioned socialists. \n\nIt would also limit further theft of the planet's natural resources from future generations of inarguably sentient humans."
   }
 ]
