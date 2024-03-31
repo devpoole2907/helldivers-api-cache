@@ -26,12 +26,18 @@ jobs:
               import re
               import requests
 
+              def fetch_planet_info():
+                  url = f'https://helldiverstrainingmanual.com/api/v1/planets'
+                  response = requests.get(url)
+                  planet_info = response.json()
+                  return planet_info
+
               def sanitize_message(message):
               # Remove HTML-like tags from the message
                   return re.sub(r'<[^>]*>', '', message)
               
               def fetch_news(from_timestamp):
-                  url = f'https://helldiverstrainingmanual.com/api/v1/war/news?from={from_timestamp}'
+                  url = f'https://api.live.prod.thehelldiversgame.com/api/NewsFeed/801?from={from_timestamp}'
                   response = requests.get(url)
                   news_items = response.json()
                   # Sanitize each news item's message
@@ -47,7 +53,7 @@ jobs:
                       last_published = news_data[-1]['published']
               except (FileNotFoundError, IndexError):
                   news_data = []
-                  last_published = 0  # or another suitable default value
+
               # Fetch new items
               new_news = fetch_news(last_published + 1)
               # Update the news data with only new unique ids and the last published number
@@ -59,12 +65,18 @@ jobs:
               # Save updated news data
               with open(feed_file, 'w') as file:
                   json.dump(news_data, file, indent=2)
+
+              # Fetch and save planet info
+              planet_info = fetch_planet_info()
+              with open('planets/additionalPlanetInfo.json', 'w') as file:
+                  json.dump(planet_info, file, indent=2)
+              
             shell: python
 
           - name: Commit and push changes
             run: |
               git config --local user.email "action@github.com"
               git config --local user.name "GitHub Action"
-              git add feed/news.json
+              git add feed/news.json planets/additionalPlanetInfo.json
               git commit -m "Update news data" -a || echo "No changes to commit"
               git push
