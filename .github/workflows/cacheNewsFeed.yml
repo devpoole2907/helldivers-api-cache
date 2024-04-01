@@ -43,7 +43,7 @@ jobs:
                   return re.sub(r'<[^>]*>', '', message)
               
               def fetch_news(from_timestamp):
-                  url = f'https://api.live.prod.thehelldiversgame.com/api/NewsFeed/801?from={from_timestamp}'
+                  url = f'https://helldiverstrainingmanual.com/api/v1/war/news?from={from_timestamp}'
                   response = requests.get(url)
                   news_items = response.json()
                   # Sanitize each news item's message
