@@ -285,5 +285,33 @@
     "type": 0,
     "tagIds": [],
     "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
+  },
+  {
+    "id": 2828,
+    "published": 4427640,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP SWIFT DISASSEMBLY, PHASE II\u2014FAILED\n\nThe Automatons have retained Tibit, and its manufacturing facilities. Reports indicate they have already begun increasing production elsewhere.\n\nIntercepted bot chatter includes expressions of great sorrow for the \"murder\" of in-development bots\u2014a transparent attempt at disinformation, as bots can neither feel nor be considered alive. However, the simulated oaths of vengeance may indicate actual strategic intent. A counteroffensive is likely."
+  },
+  {
+    "id": 2829,
+    "published": 4428059,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSeveral weeks ago, our citizens watched in horror as Malevelon Creek fell to the Automatons. Millions of valiant heroes perished attempting to defend it. For too long, the bots have maintained their illegal occupation, desecrating the memory of the fallen by rapidly depleting the planet's exceptionally rich rhodium deposits. This travesty will be allowed to continue no longer.\n\nTake vengeance and honor our heroes. End the theft of valuable minerals. Liberate Malevelon Creek."
+  },
+  {
+    "id": 2830,
+    "published": 4444108,
+    "type": 0,
+    "tagIds": [],
+    "message": "MALEVELON CREEK LIBERATED\n\nAt long last, Malevelon Creek is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them.\n\nColonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek."
+  },
+  {
+    "id": 2831,
+    "published": 4444974,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nOP SWIFT DISASSEMBLY, PHASE III: Hold Ground. The Automatons, clearly having calculated their impending shutdown, have put their remaining resources into a large-scale counterattack. Desperate as it is, should this re-invasion succeed, it may jeopardize our ability to destroy the bots in time to prevent their incoming invasion. Hold your ground."
   }
 ]
