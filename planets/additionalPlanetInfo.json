@@ -8,7 +8,10 @@
   "1": {
     "name": "Klen Dahth II",
     "sector": "Altus",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -548,7 +551,10 @@
   "38": {
     "name": "Viridia Prime",
     "sector": "Cantolus",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -659,7 +665,10 @@
   "45": {
     "name": "Mastia",
     "sector": "Marspira",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -771,7 +780,10 @@
   "53": {
     "name": "Caramoor",
     "sector": "Korpus",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1022,7 +1034,10 @@
   "71": {
     "name": "Ratch",
     "sector": "Iptus",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1230,7 +1245,10 @@
   "85": {
     "name": "Moradesh",
     "sector": "Celeste",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1406,7 +1424,10 @@
   "96": {
     "name": "Outpost 32",
     "sector": "Saleria",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2116,7 +2137,10 @@
   "146": {
     "name": "Osupsam",
     "sector": "Tarragon",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2201,7 +2225,10 @@
   "152": {
     "name": "Durgen",
     "sector": "Severin",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2653,7 +2680,10 @@
   "182": {
     "name": "Heze Bay",
     "sector": "Hanzo",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2722,7 +2752,10 @@
   "186": {
     "name": "Keid",
     "sector": "Akira",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2819,7 +2852,10 @@
   "192": {
     "name": "Lastofe",
     "sector": "Theseus",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3200,7 +3236,10 @@
   "217": {
     "name": "Phact Bay",
     "sector": "Jin Xi",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3283,7 +3322,10 @@
   "222": {
     "name": "Propus",
     "sector": "Leo",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3383,7 +3425,10 @@
   "229": {
     "name": "Setia",
     "sector": "Omega",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3747,7 +3792,10 @@
   "253": {
     "name": "Zzaniah Prime",
     "sector": "Gellert",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3798,7 +3846,10 @@
   "256": {
     "name": "Diaspora X",
     "sector": "L'estrade",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3831,7 +3882,10 @@
   "258": {
     "name": "Zagon Prime",
     "sector": "Mirin",
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
