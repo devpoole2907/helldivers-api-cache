@@ -44,7 +44,10 @@
   "3": {
     "name": "Widow's Harbor",
     "sector": "Altus",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -959,7 +962,10 @@
   "66": {
     "name": "Curia",
     "sector": "Marspira",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -1117,7 +1123,10 @@
   "76": {
     "name": "Terrek",
     "sector": "Orion",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -1263,7 +1272,10 @@
   "86": {
     "name": "Rasp",
     "sector": "Gallux",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -1621,7 +1633,10 @@
   "109": {
     "name": "Dolph",
     "sector": "Nanos",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -2361,7 +2376,10 @@
   "161": {
     "name": "Claorell",
     "sector": "Tanis",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -2615,7 +2633,10 @@
   "178": {
     "name": "Haldus",
     "sector": "Ferris",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
@@ -2899,7 +2920,10 @@
   "195": {
     "name": "Maia",
     "sector": "Severin",
-    "biome": null,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
     "environmentals": [
       {
         "name": "Extreme Cold",
