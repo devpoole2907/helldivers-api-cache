@@ -25,6 +25,13 @@ jobs:
               import json
               import re
               import requests
+              # purely wanting the defense time remaining from this
+              # fetch current campaigns from helldiverstrainingmanual api, until more robust solution devd
+              def fetch_campaigns():
+                  url = f'https://helldiverstrainingmanual.com/api/v1/war/campaign'
+                  response = requests.get(url)
+                  campaign_info = response.json()
+                  return campaign_info
 
               def fetch_planet_info():
                   url = f'https://helldiverstrainingmanual.com/api/v1/planets'
@@ -76,6 +83,12 @@ jobs:
               planet_info = fetch_planet_info()
               with open('planets/additionalPlanetInfo.json', 'w') as file:
                   json.dump(planet_info, file, indent=2)
+
+              # Fetch and save campaign info for defense time remaining
+
+              campaign_info = fetch_campaigns()
+              with open('planets/campaignInfo.json', 'w') as file:
+                  json.dump(campaign_info, file, indent=2)
 
               # Fetch and save galaxy stats
               galaxy_stats = fetch_galaxy_stats()
