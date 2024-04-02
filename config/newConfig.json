@@ -3,5 +3,6 @@
     "automatonRate": "-0.5%",
     "alert": "Created by James Poole",
     "prominentAlert": "",
-    "season": "801"
+    "season": "801",
+    "showIlluminate": false
 }
