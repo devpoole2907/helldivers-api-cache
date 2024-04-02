@@ -101,6 +101,6 @@ jobs:
             run: |
               git config --local user.email "action@github.com"
               git config --local user.name "GitHub Action"
-              git add feed/news.json planets/additionalPlanetInfo.json planets/galaxyStatistics.json
+              git add feed/news.json planets/additionalPlanetInfo.json planets/galaxyStatistics.json planets/campaignInfo.json
               git commit -m "Update news, additional planet info, and galaxy statistics data" -a || echo "No changes to commit"
               git push
