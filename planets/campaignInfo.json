@@ -1,60 +1,60 @@
 [
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 38992,
-    "health": 87166,
-    "maxHealth": 400000,
-    "percentage": 78.2085,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": 1712080007.909
-  },
-  {
     "planetIndex": 196,
     "name": "Malevelon Creek",
     "faction": "Automatons",
-    "players": 70144,
-    "health": 49819,
+    "players": 73478,
+    "health": 36650,
     "maxHealth": 200000,
-    "percentage": 75.09049999999999,
+    "percentage": 81.675,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
     },
-    "expireDateTime": 1712130817.909
+    "expireDateTime": 1712130817.245
   },
   {
-    "planetIndex": 241,
-    "name": "Ubanea",
-    "faction": "Automatons",
-    "players": 46210,
-    "health": 260283,
-    "maxHealth": 350000,
-    "percentage": 25.633428571428567,
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 38894,
+    "health": 77757,
+    "maxHealth": 400000,
+    "percentage": 80.56075,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1712130827.909
+    "expireDateTime": 1712080007.245
+  },
+  {
+    "planetIndex": 241,
+    "name": "Ubanea",
+    "faction": "Automatons",
+    "players": 48422,
+    "health": 251466,
+    "maxHealth": 350000,
+    "percentage": 28.15257142857142,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": 1712130827.245
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 20525,
-    "health": 320400,
+    "players": 20193,
+    "health": 320292,
     "maxHealth": 1000000,
-    "percentage": 67.96000000000001,
+    "percentage": 67.9708,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 5236,
-    "health": 912213,
+    "players": 5272,
+    "health": 918621,
     "maxHealth": 1000000,
-    "percentage": 8.7787,
+    "percentage": 8.137900000000002,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,7 +83,7 @@
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 2485,
+    "players": 2498,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6847,
+    "players": 6836,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 4410,
+    "players": 4607,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
