@@ -3,26 +3,26 @@
     "planetIndex": 241,
     "name": "Ubanea",
     "faction": "Automatons",
-    "players": 177977,
-    "health": 51964,
+    "players": 107806,
+    "health": 40792,
     "maxHealth": 350000,
-    "percentage": 85.15314285714285,
+    "percentage": 88.34514285714286,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1712130853.724
+    "expireDateTime": 1712130857.582
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 34314,
-    "health": 327400,
+    "players": 22520,
+    "health": 328724,
     "maxHealth": 1000000,
-    "percentage": 67.25999999999999,
+    "percentage": 67.1276,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 33475,
-    "health": 516166,
+    "players": 21514,
+    "health": 517826,
     "maxHealth": 1000000,
-    "percentage": 48.383399999999995,
+    "percentage": 48.2174,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,26 +48,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 238,
-    "name": "Tibit",
-    "faction": "Automatons",
-    "players": 8778,
-    "health": 997237,
-    "maxHealth": 1000000,
-    "percentage": 0.276299999999992,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "ethereal",
-      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 4627,
+    "players": 3011,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +67,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 9659,
+    "players": 6358,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +83,7 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 7604,
+    "players": 4466,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,6 +92,22 @@
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 238,
+    "name": "Tibit",
+    "faction": "Automatons",
+    "players": 5316,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
     "expireDateTime": null
   }
