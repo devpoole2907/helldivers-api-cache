@@ -1,44 +1,28 @@
 [
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 42628,
-    "health": 42152,
-    "maxHealth": 400000,
-    "percentage": 89.462,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": 1712080014.569
-  },
-  {
     "planetIndex": 241,
     "name": "Ubanea",
     "faction": "Automatons",
-    "players": 129391,
-    "health": 211883,
+    "players": 146895,
+    "health": 203219,
     "maxHealth": 350000,
-    "percentage": 39.461999999999996,
+    "percentage": 41.93742857142857,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1712130834.569
+    "expireDateTime": 1712130845.024
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 21689,
-    "health": 322671,
+    "players": 23734,
+    "health": 322883,
     "maxHealth": 1000000,
-    "percentage": 67.7329,
+    "percentage": 67.71170000000001,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,13 +32,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 41184,
+    "health": 501534,
+    "maxHealth": 1000000,
+    "percentage": 49.846599999999995,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 7047,
-    "health": 945031,
+    "players": 7602,
+    "health": 948272,
     "maxHealth": 1000000,
-    "percentage": 5.496899999999997,
+    "percentage": 5.172799999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,7 +67,7 @@
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 3493,
+    "players": 3667,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 7533,
+    "players": 8005,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 6269,
+    "players": 6649,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
