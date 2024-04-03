@@ -3,26 +3,26 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 25750,
-    "health": 355642,
+    "players": 26416,
+    "health": 332833,
     "maxHealth": 400000,
-    "percentage": 11.089500000000001,
+    "percentage": 16.791749999999993,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712216496.375
+    "expireDateTime": 1712216566.362
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 35811,
-    "health": 244641,
+    "players": 36778,
+    "health": 209394,
     "maxHealth": 1000000,
-    "percentage": 75.5359,
+    "percentage": 79.0606,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 28482,
-    "health": 483435,
+    "players": 29511,
+    "health": 455122,
     "maxHealth": 1000000,
-    "percentage": 51.6565,
+    "percentage": 54.4878,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 9917,
-    "health": 946511,
+    "players": 10008,
+    "health": 935562,
     "maxHealth": 1000000,
-    "percentage": 5.3489,
+    "percentage": 6.443799999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,18 +64,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 152,
-    "name": "Durgen",
+    "planetIndex": 195,
+    "name": "Maia",
     "faction": "Automatons",
-    "players": 4008,
-    "health": 1000000,
+    "players": 7232,
+    "health": 993276,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.6723999999999961,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
     "expireDateTime": null
   },
@@ -83,10 +83,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6947,
-    "health": 1000000,
+    "players": 7063,
+    "health": 993993,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.6006999999999891,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,18 +96,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 195,
-    "name": "Maia",
+    "planetIndex": 152,
+    "name": "Durgen",
     "faction": "Automatons",
-    "players": 6999,
-    "health": 1000000,
+    "players": 4184,
+    "health": 996790,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.32099999999999795,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
