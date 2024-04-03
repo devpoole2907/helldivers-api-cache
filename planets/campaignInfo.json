@@ -3,26 +3,26 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 4689,
-    "health": 399993,
+    "players": 16144,
+    "health": 398834,
     "maxHealth": 400000,
-    "percentage": 0.0017500000000012506,
+    "percentage": 0.2914999999999992,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712216488.656
+    "expireDateTime": 1712216481.436
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 23318,
-    "health": 281510,
+    "players": 21216,
+    "health": 277896,
     "maxHealth": 1000000,
-    "percentage": 71.849,
+    "percentage": 72.21039999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 19283,
-    "health": 505966,
+    "players": 17887,
+    "health": 503820,
     "maxHealth": 1000000,
-    "percentage": 49.4034,
+    "percentage": 49.617999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 25389,
-    "health": 937597,
+    "players": 18731,
+    "health": 935329,
     "maxHealth": 1000000,
-    "percentage": 6.240299999999991,
+    "percentage": 6.467100000000002,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,26 +64,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 195,
-    "name": "Maia",
-    "faction": "Automatons",
-    "players": 14944,
-    "health": 999994,
-    "maxHealth": 1000000,
-    "percentage": 0.0005999999999914962,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 7212,
+    "players": 5420,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 4840,
+    "players": 4548,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,6 +92,22 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 195,
+    "name": "Maia",
+    "faction": "Automatons",
+    "players": 11075,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
     "expireDateTime": null
   }
