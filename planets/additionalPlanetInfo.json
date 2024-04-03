@@ -19,7 +19,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -33,7 +33,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -208,7 +208,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -250,7 +250,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -272,7 +272,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -319,7 +319,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -430,7 +430,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -454,7 +454,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -541,7 +541,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -565,7 +565,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -579,7 +579,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -657,7 +657,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -679,7 +679,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -761,7 +761,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -794,7 +794,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -860,7 +860,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -874,7 +874,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -955,7 +955,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -991,7 +991,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1051,7 +1051,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1069,7 +1069,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1101,7 +1101,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1148,7 +1148,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1180,7 +1180,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1265,7 +1265,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1297,7 +1297,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1333,7 +1333,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1361,7 +1361,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -1397,7 +1397,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1447,7 +1447,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1489,7 +1489,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1562,7 +1562,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -1685,7 +1685,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1708,7 +1708,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1744,7 +1744,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -1916,7 +1916,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -1934,7 +1934,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2018,7 +2018,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2036,7 +2036,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2070,7 +2070,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2126,7 +2126,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2163,7 +2163,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2251,7 +2251,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2265,7 +2265,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2283,7 +2283,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2442,7 +2442,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2478,7 +2478,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2612,7 +2612,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2626,7 +2626,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2694,7 +2694,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2712,7 +2712,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2726,7 +2726,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -2784,7 +2784,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2802,7 +2802,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2884,7 +2884,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -2981,7 +2981,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3001,7 +3001,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3088,7 +3088,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3116,7 +3116,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3175,7 +3175,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3189,7 +3189,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3221,7 +3221,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3271,7 +3271,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3285,7 +3285,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3357,7 +3357,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3460,7 +3460,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3521,7 +3521,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3581,7 +3581,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3626,7 +3626,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3676,7 +3676,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3690,7 +3690,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3727,7 +3727,7 @@
       },
       {
         "name": "Blizzards",
-        "description": ""
+        "description": "Intense blizzard reduce mobility and moderately reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3768,7 +3768,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3827,7 +3827,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3841,7 +3841,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3881,7 +3881,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3895,7 +3895,7 @@
     "environmentals": [
       {
         "name": "Thick Fog",
-        "description": ""
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       },
       {
         "name": "Rainstorms",
@@ -3917,7 +3917,7 @@
       },
       {
         "name": "Sandstorms",
-        "description": ""
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
