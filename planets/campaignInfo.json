@@ -3,42 +3,42 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 67315,
-    "health": 226179,
+    "players": 69098,
+    "health": 222891,
     "maxHealth": 400000,
-    "percentage": 43.45525,
+    "percentage": 44.27725,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712216598.324
+    "expireDateTime": 1712216598.777
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 87507,
-    "health": 274827,
+    "players": 89779,
+    "health": 270305,
     "maxHealth": 400000,
-    "percentage": 31.29325,
+    "percentage": 32.42375,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1712234038.324
+    "expireDateTime": 1712234038.777
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 35038,
-    "health": 165315,
+    "players": 35486,
+    "health": 165397,
     "maxHealth": 1000000,
-    "percentage": 83.4685,
+    "percentage": 83.4603,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 28527,
-    "health": 435453,
+    "players": 28951,
+    "health": 435923,
     "maxHealth": 1000000,
-    "percentage": 56.454699999999995,
+    "percentage": 56.4077,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,26 +64,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 238,
-    "name": "Tibit",
-    "faction": "Automatons",
-    "players": 17642,
-    "health": 999065,
-    "maxHealth": 1000000,
-    "percentage": 0.0934999999999917,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "ethereal",
-      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 9285,
+    "players": 9439,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 10829,
+    "players": 11123,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +99,7 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 15324,
+    "players": 15547,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -124,6 +108,22 @@
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 238,
+    "name": "Tibit",
+    "faction": "Automatons",
+    "players": 17997,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
     "expireDateTime": null
   }
