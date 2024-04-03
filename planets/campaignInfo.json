@@ -3,10 +3,10 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 58331,
-    "health": 308632,
+    "players": 55606,
+    "health": 307309,
     "maxHealth": 1000000,
-    "percentage": 69.1368,
+    "percentage": 69.2691,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 44444,
-    "health": 515883,
+    "players": 42802,
+    "health": 515844,
     "maxHealth": 1000000,
-    "percentage": 48.411699999999996,
+    "percentage": 48.4156,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 95785,
-    "health": 973407,
+    "players": 90774,
+    "health": 970871,
     "maxHealth": 1000000,
-    "percentage": 2.6593000000000018,
+    "percentage": 2.9128999999999934,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,10 +48,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 195,
+    "name": "Maia",
+    "faction": "Automatons",
+    "players": 47886,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 26878,
+    "players": 25592,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 14175,
+    "players": 13567,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -76,22 +92,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 195,
-    "name": "Maia",
-    "faction": "Automatons",
-    "players": 50173,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
     "expireDateTime": null
   }
