@@ -3,26 +3,26 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 20595,
-    "health": 405243,
+    "players": 20761,
+    "health": 401833,
     "maxHealth": 450000,
-    "percentage": 9.945999999999998,
+    "percentage": 10.703777777777773,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1712303542.914
+    "expireDateTime": 1712303542.017
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 11310,
-    "health": 147873,
+    "players": 11445,
+    "health": 148311,
     "maxHealth": 1000000,
-    "percentage": 85.2127,
+    "percentage": 85.1689,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 9732,
-    "health": 459782,
+    "players": 9751,
+    "health": 460517,
     "maxHealth": 1000000,
-    "percentage": 54.0218,
+    "percentage": 53.948299999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 35390,
-    "health": 998673,
+    "players": 37245,
+    "health": 997080,
     "maxHealth": 1000000,
-    "percentage": 0.13269999999999982,
+    "percentage": 0.2920000000000016,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,10 +64,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 238,
+    "name": "Tibit",
+    "faction": "Automatons",
+    "players": 21359,
+    "health": 999940,
+    "maxHealth": 1000000,
+    "percentage": 0.006000000000000227,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 10487,
+    "players": 10930,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +99,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 3022,
+    "players": 3020,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -92,22 +108,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 238,
-    "name": "Tibit",
-    "faction": "Automatons",
-    "players": 21198,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "ethereal",
-      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
     "expireDateTime": null
   }
