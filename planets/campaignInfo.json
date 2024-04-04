@@ -1,44 +1,44 @@
 [
   {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 93869,
-    "health": 102305,
-    "maxHealth": 400000,
-    "percentage": 74.42375,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": 1712216628.848
-  },
-  {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 98579,
-    "health": 102373,
+    "players": 99527,
+    "health": 90334,
     "maxHealth": 400000,
-    "percentage": 74.40675,
+    "percentage": 77.4165,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1712234068.848
+    "expireDateTime": 1712234072.23
+  },
+  {
+    "planetIndex": 243,
+    "name": "Vandalon IV",
+    "faction": "Automatons",
+    "players": 93628,
+    "health": 92693,
+    "maxHealth": 400000,
+    "percentage": 76.82675,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": 1712216632.23
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 35793,
-    "health": 171123,
+    "players": 35292,
+    "health": 171388,
     "maxHealth": 1000000,
-    "percentage": 82.8877,
+    "percentage": 82.8612,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 28146,
-    "health": 457051,
+    "players": 28686,
+    "health": 458640,
     "maxHealth": 1000000,
-    "percentage": 54.2949,
+    "percentage": 54.135999999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,7 +67,7 @@
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 12264,
+    "players": 12414,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 12173,
+    "players": 12022,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 19556,
+    "players": 19427,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 22842,
+    "players": 22413,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
