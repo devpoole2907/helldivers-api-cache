@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 25795,
-    "health": 504874,
-    "maxHealth": 1000000,
-    "percentage": 49.5126,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 195,
     "name": "Maia",
     "faction": "Automatons",
-    "players": 65203,
-    "health": 506311,
+    "players": 67207,
+    "health": 498851,
     "maxHealth": 1000000,
-    "percentage": 49.3689,
+    "percentage": 50.1149,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,13 +16,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 26806,
+    "health": 504163,
+    "maxHealth": 1000000,
+    "percentage": 49.5837,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 15894,
-    "health": 567747,
+    "players": 16480,
+    "health": 567746,
     "maxHealth": 1000000,
-    "percentage": 43.2253,
+    "percentage": 43.2254,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 11916,
-    "health": 989114,
+    "players": 12236,
+    "health": 988523,
     "maxHealth": 1000000,
-    "percentage": 1.0885999999999996,
+    "percentage": 1.1477000000000004,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 8251,
-    "health": 999048,
+    "players": 8552,
+    "health": 998928,
     "maxHealth": 1000000,
-    "percentage": 0.09519999999999129,
+    "percentage": 0.10719999999999175,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 4401,
+    "players": 4600,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
