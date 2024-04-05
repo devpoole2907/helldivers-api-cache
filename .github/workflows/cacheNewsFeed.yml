@@ -25,6 +25,15 @@ jobs:
               import json
               import re
               import requests
+
+              # Fetch the current war ID
+              def fetch_war_id():
+                url = 'https://api.live.prod.thehelldiversgame.com/api/WarSeason/current/WarID'
+                response = requests.get(url)
+                return response.json()['id']
+
+              WAR_ID = fetch_war_id()
+              
               # purely wanting the defense time remaining from this
               # fetch current campaigns from helldiverstrainingmanual api, until more robust solution devd
               def fetch_campaigns():
@@ -40,7 +49,7 @@ jobs:
                   return planet_info
 
               def fetch_galaxy_stats():
-                  url = f'https://api.live.prod.thehelldiversgame.com/api/Stats/War/801/Summary'
+                  url = f'https://api.live.prod.thehelldiversgame.com/api/Stats/War/{WAR_ID}/Summary'
                   response = requests.get(url)
                   galaxy_stats = response.json()
                   return galaxy_stats
@@ -102,5 +111,5 @@ jobs:
               git config --local user.email "action@github.com"
               git config --local user.name "GitHub Action"
               git add feed/news.json planets/additionalPlanetInfo.json planets/galaxyStatistics.json planets/campaignInfo.json
-              git commit -m "Update news, additional planet info, and galaxy statistics data" -a || echo "No changes to commit"
+              git commit -m "Update news, additional planet info, and galaxy statistics data for WAR_ID ${{ env.WAR_ID }}" -a || echo "No changes to commit"
               git push
