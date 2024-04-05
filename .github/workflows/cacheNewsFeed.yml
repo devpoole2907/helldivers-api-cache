@@ -58,21 +58,34 @@ jobs:
               # Remove HTML-like tags from the message
                   return re.sub(r'<[^>]*>', '', message)
               
-              def fetch_news():
-                  url = f'https://api.live.prod.thehelldiversgame.com/api/NewsFeed/{WAR_ID}?maxEntries=1024'
+              def fetch_news(from_timestamp):
+                  url = f'https://helldiverstrainingmanual.com/api/v1/war/news?from={from_timestamp}'
                   response = requests.get(url)
                   news_items = response.json()
-                  print("Fetched news items:", json.dumps(news_items, indent=2))  # Debug print
-               #   for item in news_items:
-                #      if 'message' in item:
-                #          item['message'] = sanitize_message(item['message'])
+                  # Sanitize each news item's message
+                  for item in news_items:
+                    if 'message' in item:
+                      item['message'] = sanitize_message(item['message'])
                   return news_items
+              # Load existing feed data
+              feed_file = 'feed/news.json'
+              try:
+                  with open(feed_file, 'r') as file:
+                      news_data = json.load(file)
+                      last_published = news_data[-1]['published']
+              except (FileNotFoundError, IndexError):
+                  news_data = []
 
-
-              news_data = fetch_news()
-              
+              # Fetch new items
+              new_news = fetch_news(last_published + 1)
+              # Update the news data with only new unique ids and the last published number
+              if new_news:
+                for item in new_news:
+                  if not any(existing_item['id'] == item['id'] for existing_item in news_data):
+                    news_data.append(item)
+                last_published = new_news[-1]['published']
               # Save updated news data
-              with open('feed/news.json', 'w') as file:
+              with open(feed_file, 'w') as file:
                   json.dump(news_data, file, indent=2)
 
               # Fetch and save planet info
