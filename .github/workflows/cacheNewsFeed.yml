@@ -62,9 +62,9 @@ jobs:
                   url = f'https://api.live.prod.thehelldiversgame.com/api/NewsFeed/{WAR_ID}?maxEntries=1024'
                   response = requests.get(url)
                   news_items = response.json()    
-                  for item in news_items:
-                      if 'message' in item:
-                          item['message'] = sanitize_message(item['message'])
+               #   for item in news_items:
+                #      if 'message' in item:
+                #          item['message'] = sanitize_message(item['message'])
                   return news_items
 
 
