@@ -1,0 +1,9 @@
+{
+    "terminidRate": "-1%",
+    "automatonRate": "-0.5%",
+    "alert": "Created by James Poole",
+    "prominentAlert": "",
+    "season": "801",
+    "showIlluminate": false,
+    "apiAddress": "https://helldivers-2.fly.dev/api"
+}
