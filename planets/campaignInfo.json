@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 42041,
-    "health": 419459,
-    "maxHealth": 1000000,
-    "percentage": 58.0541,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 238,
     "name": "Tibit",
     "faction": "Automatons",
-    "players": 146868,
-    "health": 430007,
+    "players": 149196,
+    "health": 415172,
     "maxHealth": 1000000,
-    "percentage": 56.9993,
+    "percentage": 58.4828,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,13 +16,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 41211,
+    "health": 418821,
+    "maxHealth": 1000000,
+    "percentage": 58.1179,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 28185,
-    "health": 592612,
+    "players": 27567,
+    "health": 593478,
     "maxHealth": 1000000,
-    "percentage": 40.7388,
+    "percentage": 40.6522,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 46292,
-    "health": 850788,
+    "players": 45954,
+    "health": 847866,
     "maxHealth": 1000000,
-    "percentage": 14.921199999999999,
+    "percentage": 15.213399999999993,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,7 +67,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 8035,
+    "players": 7984,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
