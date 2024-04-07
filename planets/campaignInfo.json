@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 30848,
-    "health": 399081,
-    "maxHealth": 1000000,
-    "percentage": 60.091899999999995,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 152,
     "name": "Durgen",
     "faction": "Automatons",
-    "players": 115100,
-    "health": 412072,
+    "players": 118614,
+    "health": 393660,
     "maxHealth": 1000000,
-    "percentage": 58.7928,
+    "percentage": 60.634,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,13 +16,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 32068,
+    "health": 397165,
+    "maxHealth": 1000000,
+    "percentage": 60.2835,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 19336,
-    "health": 647695,
+    "players": 20054,
+    "health": 647752,
     "maxHealth": 1000000,
-    "percentage": 35.23049999999999,
+    "percentage": 35.2248,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,7 +51,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 5183,
+    "players": 5428,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
