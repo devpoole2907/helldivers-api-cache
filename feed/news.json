@@ -348,5 +348,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TIBIT LIBERATED\n\nThe factories on Tibit have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack."
+  },
+  {
+    "id": 2837,
+    "published": 4968666,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATION SWIFT DISASSEMBLY\u2014SUCCESSFUL\n\nThe Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more.\n\nThe supposed threat posed by the so-called \"Reclamation\" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence."
   }
 ]
