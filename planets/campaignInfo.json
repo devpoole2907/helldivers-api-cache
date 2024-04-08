@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 142616,
-    "health": 14897,
-    "maxHealth": 1000000,
-    "percentage": 98.5103,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 40943,
-    "health": 616772,
+    "players": 39485,
+    "health": 615620,
     "maxHealth": 1000000,
-    "percentage": 38.322799999999994,
+    "percentage": 38.437999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,10 +16,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 353,
+    "health": 908299,
+    "maxHealth": 1000000,
+    "percentage": 9.17009999999999,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 19724,
+    "players": 17551,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
