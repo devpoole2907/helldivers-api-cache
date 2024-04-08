@@ -55,6 +55,25 @@ jobs:
             cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
           fi
 
+      - name: Move newData files older than 12 hours to 24hourData
+        run: |
+          mkdir -p newData 24hourData
+          current_time=$(date -u +%s)
+          
+          # Loop through each file in the newData directory
+          for file in newData/*; do
+              filename=$(basename "$file")
+              timestamp="${filename:0:20}"  # Extracts 'YYYY-MM-DDTHH:MM:SS'
+              file_time=$(date -u -d "$timestamp" +%s)
+              diff=$(( (current_time - file_time) / 3600 ))
+
+              # Move files older than 12 hours to 24hourData
+              if [ "$diff" -gt 12 ]; then
+                  echo "Moving $file to 24hourData (older than 12 hours)"
+                  mv "$file" "24hourData/"
+              fi
+          done
+
 
       - name: Fetch planet statuses and save with timestamp
         run: |
@@ -72,6 +91,24 @@ jobs:
           else
             cp "$FILENAME" "data/currentPlanetStatus.json"
           fi
+
+      - name: Cleanup files older than 24 hours in 24hourData
+        run: |
+          current_time=$(date -u +%s)
+
+          # Loop through each file in the 24hourData directory
+          for file in 24hourData/*; do
+              filename=$(basename "$file")
+              timestamp="${filename:0:20}"  # Extracts 'YYYY-MM-DDTHH:MM:SS'
+              file_time=$(date -u -d "$timestamp" +%s)
+              diff=$(( (current_time - file_time) / 3600 ))
+
+              # Delete files older than 24 hours
+              if [ "$diff" -gt 24 ]; then
+                  echo "Deleting $file (older than 24 hours)"
+                  rm "$file"
+              fi
+          done
 
       - name: Cleanup old data files
         run: |
@@ -101,7 +138,7 @@ jobs:
         run: |
            git config --local user.email "action@github.com"
            git config --local user.name "GitHub Actions Bot"
-           git add data/ newData/
+           git add data/ newData/ 24hourData/
            git commit -m "Update data for war season $WAR_ID" -a || echo "No changes to commit"
            git remote set-url origin https://x-access-token:${{ secrets.ACTION_BOT_KEY }}@github.com/devpoole2907/helldivers-api-cache.git
            git push
