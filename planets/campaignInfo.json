@@ -1,33 +1,33 @@
 [
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 47985,
-    "health": 775427,
-    "maxHealth": 1000000,
-    "percentage": 22.45729999999999,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 136158,
-    "health": 776613,
+    "players": 139432,
+    "health": 756142,
     "maxHealth": 1000000,
-    "percentage": 22.338700000000003,
+    "percentage": 24.385800000000003,
     "defense": false,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 47024,
+    "health": 768298,
+    "maxHealth": 1000000,
+    "percentage": 23.170199999999994,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   }
