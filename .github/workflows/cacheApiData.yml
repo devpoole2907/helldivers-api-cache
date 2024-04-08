@@ -25,11 +25,11 @@ jobs:
         run: |
           mkdir -p newData
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          NEW_DATA_FILENAME="newData/${TIMESTAMP}_planets.json"
+          NEW_DATA_FILENAME="newData/${TIMESTAMP}_campaigns.json"
           RESPONSE=$(curl -s -o "$NEW_DATA_FILENAME" -w "%{http_code}" \
             -H "User-Agent: WarMonitoriOS/2.1" \
             -H "X-Application-Contact: james@pooledigital.com" \
-            "https://helldivers-2-dotnet.fly.dev/api/v1/planets")
+            "https://helldivers-2-dotnet.fly.dev/api/v1/campaigns")
           
           if [ "$RESPONSE" = "429" ]; then
             echo "Rate limit exceeded, not updating the file this time."
@@ -38,21 +38,21 @@ jobs:
             cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
           fi
 
-      - name: Move newData files older than 12 hours to 24hourData
+      - name: Move newData files older than 24 hours to 24hourData
         run: |
           mkdir -p newData 24hourData
           current_time=$(date -u +%s)
           
           # Loop through each file in the newData directory
-           for file in newData/*_planets.json; do
+           for file in newData/*_campaigns.json; do
               filename=$(basename "$file")
               timestamp="${filename:0:20}"  # Extracts 'YYYY-MM-DDTHH:MM:SS'
               file_time=$(date -u -d "$timestamp" +%s)
               diff=$(( (current_time - file_time) / 3600 ))
 
-              # Move files older than 12 hours to 24hourData
-              if [ "$diff" -gt 12 ]; then
-                  echo "Moving $file to 24hourData (older than 12 hours)"
+              # Move files older than 24 hours to 24hourData
+              if [ "$diff" -gt 24 ]; then
+                  echo "Moving $file to 24hourData (older than 24 hours)"
                   mv "$file" "24hourData/"
               fi
           done
@@ -75,20 +75,20 @@ jobs:
             cp "$FILENAME" "data/currentPlanetStatus.json"
           fi
 
-      - name: Cleanup files older than 24 hours in newData
+      - name: Cleanup files older than 24 hours in 24hourData
         run: |
           current_time=$(date -u +%s)
 
           # Loop through each file in the 24hourData directory
-          for file in data/*_planet_statuses.json; do
+          for file in 24hourData/*_campaigns.json; do
               filename=$(basename "$file")
               timestamp="${filename:0:20}"  # Extracts 'YYYY-MM-DDTHH:MM:SS'
               file_time=$(date -u -d "$timestamp" +%s)
               diff=$(( (current_time - file_time) / 3600 ))
 
-              # Delete files older than 24 hours
-              if [ "$diff" -gt 24 ]; then
-                  echo "Deleting $file (older than 24 hours)"
+              # Delete files older than 48 hours
+              if [ "$diff" -gt 48 ]; then
+                  echo "Deleting $file (older than 48 hours)"
                   rm "$file"
               fi
           done
