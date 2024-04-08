@@ -80,7 +80,7 @@ jobs:
           current_time=$(date -u +%s)
 
           # Loop through each file in the 24hourData directory
-           for file in 24hourData/*_planets.json; do
+          for file in data/*_planet_statuses.json; do
               filename=$(basename "$file")
               timestamp="${filename:0:20}"  # Extracts 'YYYY-MM-DDTHH:MM:SS'
               file_time=$(date -u -d "$timestamp" +%s)
