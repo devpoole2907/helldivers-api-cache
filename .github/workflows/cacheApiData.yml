@@ -75,7 +75,7 @@ jobs:
             cp "$FILENAME" "data/currentPlanetStatus.json"
           fi
 
-      - name: Cleanup files older than 24 hours in 24hourData
+      - name: Cleanup files older than 24 hours in newData
         run: |
           current_time=$(date -u +%s)
 
@@ -99,7 +99,7 @@ jobs:
           current_time=$(date -u +%s)
 
           # Loop through each file in the data directory
-          for file in newData/*_campaigns.json; do
+            for file in data/*_planet_statuses.json; do
               # Extract the timestamp from the filename
               filename=$(basename "$file")
               timestamp="${filename:0:20}"  # Extracts '2024-03-17T02:51:25'
