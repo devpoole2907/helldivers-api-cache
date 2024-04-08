@@ -29,7 +29,8 @@ jobs:
           RESPONSE=$(curl -s -o "$NEW_DATA_FILENAME" -w "%{http_code}" \
             -H "User-Agent: WarMonitoriOS/2.1" \
             -H "X-Application-Contact: james@pooledigital.com" \
-            "https://helldivers-2-dotnet.fly.dev/api/v1/campaigns")
+            "https://helldivers-2-dotnet.fly.dev/api/v1/planets")
+          #the above should be changed to campaigns...
           
           if [ "$RESPONSE" = "429" ]; then
             echo "Rate limit exceeded, not updating the file this time."
