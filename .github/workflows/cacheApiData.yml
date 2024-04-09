@@ -112,7 +112,7 @@ jobs:
               diff=$(( (current_time - file_time) / 3600 ))
 
               # Check if the difference is greater than 12 hours
-              if [ "$diff" -gt 0 ]; then
+              if [ "$diff" -gt 12 ]; then
                   echo "Deleting $file (older than 12 hours)"
                     rm "$file"
               fi
