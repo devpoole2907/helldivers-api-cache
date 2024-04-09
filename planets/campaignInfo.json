@@ -1,60 +1,60 @@
 [
   {
-    "planetIndex": 160,
-    "name": "Chort Bay",
-    "faction": "Automatons",
-    "players": 769,
-    "health": 649994,
-    "maxHealth": 650000,
-    "percentage": 0.0009230769230725855,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "rainforest",
-      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-    },
-    "expireDateTime": 1712749493.216
-  },
-  {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 372,
-    "health": 600000,
-    "maxHealth": 600000,
-    "percentage": 0,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": 1712749513.216
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1521,
-    "health": 600000,
+    "players": 34083,
+    "health": 598816,
     "maxHealth": 600000,
-    "percentage": 0,
+    "percentage": 0.19733333333333292,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712749503.216
+    "expireDateTime": 1712749503.517
+  },
+  {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 10727,
+    "health": 599716,
+    "maxHealth": 600000,
+    "percentage": 0.04733333333334144,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": 1712749513.517
+  },
+  {
+    "planetIndex": 160,
+    "name": "Chort Bay",
+    "faction": "Automatons",
+    "players": 11308,
+    "health": 649707,
+    "maxHealth": 650000,
+    "percentage": 0.045076923076919684,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": 1712749493.517
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 76143,
-    "health": 297603,
+    "players": 54077,
+    "health": 284942,
     "maxHealth": 1000000,
-    "percentage": 70.2397,
+    "percentage": 71.5058,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,26 +67,10 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 35925,
-    "health": 846478,
+    "players": 24769,
+    "health": 842563,
     "maxHealth": 1000000,
-    "percentage": 15.352199999999996,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 1036,
-    "health": 999999,
-    "maxHealth": 1000000,
-    "percentage": 9.99999999891088e-05,
+    "percentage": 15.74369999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,7 +83,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 354,
+    "players": 1188,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,6 +92,22 @@
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 2506,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }

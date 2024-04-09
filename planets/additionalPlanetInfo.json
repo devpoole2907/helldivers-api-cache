@@ -126,7 +126,10 @@
   "8": {
     "name": "Darrowsport",
     "sector": "Barnard",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -279,7 +282,10 @@
   "18": {
     "name": "Wraith",
     "sector": "Idun",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -768,7 +774,10 @@
   "52": {
     "name": "Slif",
     "sector": "Celeste",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1108,7 +1117,10 @@
   "75": {
     "name": "Esker",
     "sector": "Falstaff",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1239,7 +1251,10 @@
   "84": {
     "name": "Skaash",
     "sector": "Ursa",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1663,7 +1678,10 @@
   "112": {
     "name": "Vernen Wells",
     "sector": "Hydra",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1787,7 +1805,10 @@
   "120": {
     "name": "Wilford Station",
     "sector": "Arturion",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -1894,7 +1915,10 @@
   "128": {
     "name": "Darius II",
     "sector": "Borgus",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2137,7 +2161,10 @@
   "145": {
     "name": "Botein",
     "sector": "Guang",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2304,7 +2331,10 @@
   "156": {
     "name": "Charbal-VII",
     "sector": "Andromeda",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -2363,13 +2393,17 @@
     "name": "Chort Bay",
     "sector": "Lacaille",
     "biome": {
-      "slug": "rainforest",
-      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
     "environmentals": [
       {
-        "name": "Ion Storms",
-        "description": "Ion storms intermittently disable Stratagems"
+        "name": "Intense Heat",
+        "description": "High temperatures increase stamina drain and speed up heat buildup in weapons"
+      },
+      {
+        "name": "Acid Storms",
+        "description": "Violent acid storms reduce visibility"
       }
     ]
   },
@@ -2891,7 +2925,10 @@
   "193": {
     "name": "Leng Secundus",
     "sector": "Quintus",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3062,7 +3099,10 @@
   "204": {
     "name": "Merak",
     "sector": "Valdis",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3406,7 +3446,10 @@
   "226": {
     "name": "Rirga Bay",
     "sector": "Rigel",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3467,7 +3510,10 @@
   "230": {
     "name": "Shete",
     "sector": "Xi Tauri",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
@@ -3701,7 +3747,10 @@
   "245": {
     "name": "Wasat",
     "sector": "Ymir",
-    "biome": null,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
     "environmentals": [
       {
         "name": "Intense Heat",
