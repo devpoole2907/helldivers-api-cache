@@ -2,7 +2,7 @@
     "terminidRate": "-0%",
     "automatonRate": "-0.0%",
     "alert": "Created by James Poole",
-    "prominentAlert": "An issue has occurred leading to missing liberation history for active planets! Stand by while Super Earth scientists repair the issue.",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2.fly.dev/api"
