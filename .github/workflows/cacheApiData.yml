@@ -36,7 +36,7 @@ jobs:
             echo "Rate limit exceeded, not updating the file this time."
             rm "$NEW_DATA_FILENAME"
           else
-            cp "$NEW_DATA_FILENAME" "newData/currentCampaigns.json"
+            cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
           fi
 
       - name: Move newData files older than 24 hours to 24hourData
