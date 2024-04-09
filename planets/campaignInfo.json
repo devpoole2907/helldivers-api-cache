@@ -3,58 +3,58 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 118103,
-    "health": 444339,
+    "players": 120038,
+    "health": 437519,
     "maxHealth": 600000,
-    "percentage": 25.9435,
+    "percentage": 27.08016666666667,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712749556.385
+    "expireDateTime": 1712749557.846
   },
   {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 39295,
-    "health": 538933,
+    "players": 39800,
+    "health": 536577,
     "maxHealth": 600000,
-    "percentage": 10.17783333333334,
+    "percentage": 10.57050000000001,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1712749566.385
+    "expireDateTime": 1712749567.846
   },
   {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 24854,
-    "health": 613397,
+    "players": 25443,
+    "health": 612179,
     "maxHealth": 650000,
-    "percentage": 5.631230769230768,
+    "percentage": 5.818615384615384,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1712749546.385
+    "expireDateTime": 1712749547.846
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 39331,
-    "health": 246937,
+    "players": 39903,
+    "health": 246596,
     "maxHealth": 1000000,
-    "percentage": 75.3063,
+    "percentage": 75.3404,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 17558,
-    "health": 865764,
+    "players": 17767,
+    "health": 867095,
     "maxHealth": 1000000,
-    "percentage": 13.423599999999993,
+    "percentage": 13.290499999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,7 +83,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 3407,
+    "players": 3511,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 6644,
+    "players": 6759,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
