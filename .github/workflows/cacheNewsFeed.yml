@@ -3,7 +3,7 @@ name: Poll Helldivers API and Cache News Feed
 on:
   schedule:
     # Runs at every 10th minute
-    - cron: '*/10 * * * *'
+    - cron: '*/12 * * * *'
 jobs:
       fetch_news:
         runs-on: ubuntu-latest
