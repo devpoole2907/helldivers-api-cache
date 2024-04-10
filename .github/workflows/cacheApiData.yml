@@ -41,31 +41,32 @@ jobs:
           mkdir -p newData
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           NEW_DATA_FILENAME="newData/${TIMESTAMP}_campaigns.json"
-          RESPONSE=$(curl -s -o "$NEW_DATA_FILENAME" -w "%{http_code}" \
-            -H "User-Agent: WarMonitoriOS/2.1" \
-            -H "X-Application-Contact: james@pooledigital.com" \
-            "https://helldivers-2-dotnet.fly.dev/api/v1/planets")
-          #the above should be changed to planets...
-          # as shoould the below... this is fetching planets
-          if [ "$RESPONSE" = "429" ]; then
+          RETRY_COUNT=0
+          MAX_RETRIES=5
 
-            echo "Rate limit exceeded, will retry after 20s."
-            sleep 20
-             # Retry the request
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
             RESPONSE=$(curl -s -o "$NEW_DATA_FILENAME" -w "%{http_code}" \
               -H "User-Agent: WarMonitoriOS/2.1" \
               -H "X-Application-Contact: james@pooledigital.com" \
               "https://helldivers-2-dotnet.fly.dev/api/v1/planets")
 
             if [ "$RESPONSE" = "429" ]; then
-              echo "Rate limit exceeded again, not updating the file this time."
-              rm "$NEW_DATA_FILENAME"
+              echo "Rate limit exceeded, will retry after 20s."
+              sleep 20
+              RETRY_COUNT=$((RETRY_COUNT+1))
             else
-              cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
+                if [ "$RESPONSE" -eq 200 ]; then
+                  cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
             fi
-          elif [ "$RESPONSE" -eq 200 ]; then
-            cp "$NEW_DATA_FILENAME" "newData/currentPlanets.json"
+              break
+            fi
+          done
+
+          if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+            echo "Reached maximum retry limit, not updating the file."
+            rm "$NEW_DATA_FILENAME"
           fi
+
 
       - name: Move newData files older than 24 hours to 24hourData
         run: |
