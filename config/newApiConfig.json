@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Hold back the Automatons! Their surprise attack has broken the Galaxy Map, rest assured Super Earth scientists have deployed a fix available later today.",
+    "prominentAlert": "Hold back the Automatons surprise attack! Super Earth scientists are pleased to announce several bug fixes for the Galaxy Map, check your War Monitor is up to date!",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/api/v1/",
