@@ -1679,17 +1679,13 @@
     "name": "Vernen Wells",
     "sector": "Hydra",
     "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "environmentals": [
       {
-        "name": "Intense Heat",
-        "description": "High temperatures increase stamina drain and speed up heat buildup in weapons"
-      },
-      {
-        "name": "Acid Storms",
-        "description": "Violent acid storms reduce visibility"
+        "name": "Tremors",
+        "description": "Frequent earthquakes stun players and enemies alike."
       }
     ]
   },
@@ -2375,8 +2371,8 @@
     "name": "Choohe",
     "sector": "Lacaille",
     "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "environmentals": [
       {
@@ -2384,8 +2380,8 @@
         "description": "High temperatures increase stamina drain and speed up heat buildup in weapons"
       },
       {
-        "name": "Tremors",
-        "description": "Frequent earthquakes stun players and enemies alike."
+        "name": "Sandstorms",
+        "description": "Dense sandstorms reduce mobility and greatly reduce visibility for both enemy and friendly units."
       }
     ]
   },
@@ -3036,10 +3032,6 @@
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "environmentals": [
-      {
-        "name": "Thick Fog",
-        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
-      },
       {
         "name": "Rainstorms",
         "description": "Torrential rainstorms reduce visibility"

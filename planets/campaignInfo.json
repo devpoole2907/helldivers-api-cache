@@ -3,58 +3,58 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 90419,
-    "health": 237799,
+    "players": 91561,
+    "health": 226502,
     "maxHealth": 480000,
-    "percentage": 50.45854166666666,
+    "percentage": 52.812083333333334,
     "defense": true,
     "majorOrder": false,
     "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1712836312.827
+    "expireDateTime": 1712836321.501
   },
   {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 31023,
-    "health": 536266,
+    "players": 31236,
+    "health": 532228,
     "maxHealth": 650000,
-    "percentage": 17.497538461538454,
+    "percentage": 18.11876923076923,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1712836282.827
+    "expireDateTime": 1712836291.501
   },
   {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 22509,
-    "health": 502230,
+    "players": 22987,
+    "health": 500374,
     "maxHealth": 550000,
-    "percentage": 8.685454545454547,
+    "percentage": 9.022909090909096,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712836302.827
+    "expireDateTime": 1712836311.501
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 31681,
-    "health": 228357,
+    "players": 31300,
+    "health": 228201,
     "maxHealth": 1000000,
-    "percentage": 77.1643,
+    "percentage": 77.1799,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 14945,
-    "health": 584767,
+    "players": 14521,
+    "health": 588070,
     "maxHealth": 1000000,
-    "percentage": 41.5233,
+    "percentage": 41.193,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 6438,
-    "health": 638777,
+    "players": 6468,
+    "health": 643286,
     "maxHealth": 1000000,
-    "percentage": 36.122299999999996,
+    "percentage": 35.67139999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,15 +99,15 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 2561,
+    "players": 2568,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   },
@@ -115,7 +115,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 12971,
+    "players": 12843,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +131,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 4383,
+    "players": 4358,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
