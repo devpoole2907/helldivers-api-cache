@@ -24,17 +24,35 @@ jobs:
       - name: Fetch Current Campaigns
         run: |
           mkdir -p newData
+          RETRY_COUNT=0
+          MAX_RETRIES=5
           TEMP_FILE=$(mktemp)
-          RESPONSE=$(curl -s -o "$TEMP_FILE" -w "%{http_code}" \
-            -H "User-Agent: WarMonitoriOS/2.1" \
-            -H "X-Application-Contact: james@pooledigital.com" \
-            "https://helldivers-2-dotnet.fly.dev/api/v1/campaigns")
-          if [ "$RESPONSE" -ne 429 ]; then
-            mv "$TEMP_FILE" newData/currentCampaigns.json
-          else
-            echo "Rate limit exceeded, not updating the file this time."
+
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            RESPONSE=$(curl -s -o "$TEMP_FILE" -w "%{http_code}" \
+              -H "User-Agent: WarMonitoriOS/2.1" \
+              -H "X-Application-Contact: james@pooledigital.com" \
+              "https://helldivers-2-dotnet.fly.dev/api/v1/campaigns")
+
+            if [ "$RESPONSE" = "429" ]; then
+              echo "Rate limit exceeded, will retry after 20s."
+              sleep 20
+              RETRY_COUNT=$((RETRY_COUNT+1))
+            else
+              if [ "$RESPONSE" -eq 200 ]; then
+                mv "$TEMP_FILE" newData/currentCampaigns.json
+              else
+                rm "$TEMP_FILE"
+              fi
+              break
+            fi
+          done
+
+          if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+            echo "Reached maximum retry limit, not updating the file."
             rm "$TEMP_FILE"
           fi
+
 
       - name: Fetch planets from new api
         run: |
