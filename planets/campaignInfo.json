@@ -3,58 +3,58 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 29639,
-    "health": 473560,
+    "players": 33945,
+    "health": 470950,
     "maxHealth": 480000,
-    "percentage": 1.3416666666666544,
+    "percentage": 1.8854166666666572,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1712836232.786
+    "expireDateTime": 1712836239.097
   },
   {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 27741,
-    "health": 642856,
+    "players": 28453,
+    "health": 640159,
     "maxHealth": 650000,
-    "percentage": 1.0990769230769217,
+    "percentage": 1.5139999999999958,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1712836202.786
+    "expireDateTime": 1712836209.097
   },
   {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 15773,
-    "health": 547133,
+    "players": 16791,
+    "health": 546150,
     "maxHealth": 550000,
-    "percentage": 0.5212727272727307,
+    "percentage": 0.7000000000000028,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712836222.786
+    "expireDateTime": 1712836229.097
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 28543,
-    "health": 244327,
+    "players": 29817,
+    "health": 243421,
     "maxHealth": 1000000,
-    "percentage": 75.5673,
+    "percentage": 75.6579,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 28772,
-    "health": 514952,
+    "players": 27158,
+    "health": 515551,
     "maxHealth": 1000000,
-    "percentage": 48.504799999999996,
+    "percentage": 48.4449,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 8141,
-    "health": 519601,
+    "players": 7927,
+    "health": 522290,
     "maxHealth": 1000000,
-    "percentage": 48.039899999999996,
+    "percentage": 47.771,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,10 +96,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 12946,
+    "health": 999996,
+    "maxHealth": 1000000,
+    "percentage": 0.00039999999999906777,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 2049,
+    "players": 2114,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -112,26 +128,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 12304,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3642,
+    "players": 3469,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
