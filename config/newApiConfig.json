@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Hold back the Automatons surprise attack! Super Earth scientists are pleased to announce several bug fixes for the Galaxy Map, check your War Monitor is up to date!",
+    "prominentAlert": "The server is experiencing heavy load! Please stand by until the issue is resolved.",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/api/v1/",
