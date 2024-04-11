@@ -1,44 +1,57 @@
 [
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
+    "planetIndex": 198,
+    "name": "Marfark",
     "faction": "Automatons",
-    "players": 47125,
-    "health": 360151,
-    "maxHealth": 650000,
-    "percentage": 44.59215384615384,
+    "players": 17,
+    "health": 450000,
+    "maxHealth": 450000,
+    "percentage": 0,
     "defense": true,
     "majorOrder": false,
     "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712836382.99
+    "expireDateTime": 1712922782.308
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
+    "planetIndex": 199,
+    "name": "Martale",
     "faction": "Automatons",
-    "players": 28260,
-    "health": 403505,
-    "maxHealth": 550000,
-    "percentage": 26.63545454545455,
+    "players": 34,
+    "health": 450000,
+    "maxHealth": 450000,
+    "percentage": 0,
+    "defense": true,
+    "majorOrder": false,
+    "biome": null,
+    "expireDateTime": 1712922782.308
+  },
+  {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 3383,
+    "health": 450000,
+    "maxHealth": 450000,
+    "percentage": 0,
     "defense": true,
     "majorOrder": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1712836402.99
+    "expireDateTime": 1712922792.308
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 45830,
-    "health": 203900,
+    "players": 48246,
+    "health": 201268,
     "maxHealth": 1000000,
-    "percentage": 79.61,
+    "percentage": 79.8732,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,13 +61,45 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 28794,
+    "health": 500205,
+    "maxHealth": 1000000,
+    "percentage": 49.979499999999994,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 47318,
+    "health": 500287,
+    "maxHealth": 1000000,
+    "percentage": 49.9713,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 15970,
-    "health": 701753,
+    "players": 16724,
+    "health": 702759,
     "maxHealth": 1000000,
-    "percentage": 29.824699999999993,
+    "percentage": 29.724099999999993,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +112,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 3908,
-    "health": 804846,
+    "players": 4043,
+    "health": 807451,
     "maxHealth": 1000000,
-    "percentage": 19.5154,
+    "percentage": 19.254899999999992,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,7 +128,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 2199,
+    "players": 2333,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +144,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 16670,
+    "players": 17530,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +160,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3034,
+    "players": 3200,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
