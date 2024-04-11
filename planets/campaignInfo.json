@@ -3,42 +3,42 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 45592,
-    "health": 370583,
+    "players": 46774,
+    "health": 364547,
     "maxHealth": 650000,
-    "percentage": 42.98723076923077,
+    "percentage": 43.915846153846154,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1712836372.846
+    "expireDateTime": 1712836383.661
   },
   {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 26932,
-    "health": 409950,
+    "players": 27668,
+    "health": 406147,
     "maxHealth": 550000,
-    "percentage": 25.46363636363637,
+    "percentage": 26.155090909090916,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712836392.846
+    "expireDateTime": 1712836403.661
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 40847,
-    "health": 210033,
+    "players": 43628,
+    "health": 206480,
     "maxHealth": 1000000,
-    "percentage": 78.9967,
+    "percentage": 79.352,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 14916,
-    "health": 699093,
+    "players": 15413,
+    "health": 700708,
     "maxHealth": 1000000,
-    "percentage": 30.0907,
+    "percentage": 29.929199999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 3626,
-    "health": 798779,
+    "players": 3824,
+    "health": 802248,
     "maxHealth": 1000000,
-    "percentage": 20.122100000000003,
+    "percentage": 19.775199999999998,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,26 +80,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 14739,
-    "health": 999981,
-    "maxHealth": 1000000,
-    "percentage": 0.0018999999999920192,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 2071,
+    "players": 2170,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -112,10 +96,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 15783,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2818,
+    "players": 2906,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
