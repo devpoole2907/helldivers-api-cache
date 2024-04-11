@@ -1,60 +1,44 @@
 [
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 63098,
-    "health": 9019,
-    "maxHealth": 480000,
-    "percentage": 98.12104166666667,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": 1712836367.737
-  },
-  {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 17522,
-    "health": 466339,
+    "players": 18138,
+    "health": 462885,
     "maxHealth": 650000,
-    "percentage": 28.255538461538464,
+    "percentage": 28.786923076923074,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1712836337.737
+    "expireDateTime": 1712836343.094
   },
   {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 11444,
-    "health": 467988,
+    "players": 13413,
+    "health": 466115,
     "maxHealth": 550000,
-    "percentage": 14.911272727272731,
+    "percentage": 15.25181818181818,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1712836357.737
+    "expireDateTime": 1712836363.094
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 23265,
-    "health": 234220,
+    "players": 21576,
+    "health": 234135,
     "maxHealth": 1000000,
-    "percentage": 76.578,
+    "percentage": 76.5865,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +51,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 7659,
-    "health": 655459,
+    "players": 7350,
+    "health": 659831,
     "maxHealth": 1000000,
-    "percentage": 34.4541,
+    "percentage": 34.01689999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +67,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 3181,
-    "health": 730083,
+    "players": 2855,
+    "health": 735513,
     "maxHealth": 1000000,
-    "percentage": 26.991699999999994,
+    "percentage": 26.448700000000002,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,7 +83,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1709,
+    "players": 1562,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +99,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 10027,
+    "players": 9039,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +115,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2469,
+    "players": 2194,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
