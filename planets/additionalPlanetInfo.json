@@ -3021,7 +3021,10 @@
   "199": {
     "name": "Martale",
     "sector": "Andromeda",
-    "biome": null,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
     "environmentals": []
   },
   "200": {
