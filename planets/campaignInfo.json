@@ -1,57 +1,57 @@
 [
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 17,
-    "health": 450000,
-    "maxHealth": 450000,
-    "percentage": 0,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": 1712922782.308
-  },
-  {
-    "planetIndex": 199,
-    "name": "Martale",
-    "faction": "Automatons",
-    "players": 34,
-    "health": 450000,
-    "maxHealth": 450000,
-    "percentage": 0,
-    "defense": true,
-    "majorOrder": false,
-    "biome": null,
-    "expireDateTime": 1712922782.308
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 3383,
-    "health": 450000,
+    "players": 24098,
+    "health": 448273,
     "maxHealth": 450000,
-    "percentage": 0,
+    "percentage": 0.383777777777766,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1712922792.308
+    "expireDateTime": 1712922795.542
+  },
+  {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 14678,
+    "health": 448879,
+    "maxHealth": 450000,
+    "percentage": 0.2491111111111053,
+    "defense": true,
+    "majorOrder": false,
+    "biome": null,
+    "expireDateTime": 1712922785.542
+  },
+  {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 9683,
+    "health": 449243,
+    "maxHealth": 450000,
+    "percentage": 0.16822222222221228,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": 1712922785.542
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 48246,
-    "health": 201268,
+    "players": 52027,
+    "health": 193509,
     "maxHealth": 1000000,
-    "percentage": 79.8732,
+    "percentage": 80.6491,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,10 +64,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 28794,
-    "health": 500205,
+    "players": 18910,
+    "health": 507392,
     "maxHealth": 1000000,
-    "percentage": 49.979499999999994,
+    "percentage": 49.260799999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,10 +80,10 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 47318,
-    "health": 500287,
+    "players": 30776,
+    "health": 507440,
     "maxHealth": 1000000,
-    "percentage": 49.9713,
+    "percentage": 49.256,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,10 +96,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 16724,
-    "health": 702759,
+    "players": 14492,
+    "health": 705628,
     "maxHealth": 1000000,
-    "percentage": 29.724099999999993,
+    "percentage": 29.43719999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -109,58 +109,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 160,
-    "name": "Chort Bay",
-    "faction": "Automatons",
-    "players": 4043,
-    "health": 807451,
-    "maxHealth": 1000000,
-    "percentage": 19.254899999999992,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 2333,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 17530,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 3200,
+    "players": 19561,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
