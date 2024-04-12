@@ -3,74 +3,74 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 18512,
-    "health": 322828,
+    "players": 21826,
+    "health": 319996,
     "maxHealth": 450000,
-    "percentage": 28.260444444444445,
+    "percentage": 28.88977777777778,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": 1712922971.352
+    "expireDateTime": 1712922973.614
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 21895,
-    "health": 341822,
+    "players": 28048,
+    "health": 338656,
     "maxHealth": 450000,
-    "percentage": 24.039555555555552,
+    "percentage": 24.743111111111105,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712922971.352
+    "expireDateTime": 1712922973.614
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 6257,
-    "health": 299718,
+    "players": 9933,
+    "health": 298944,
     "maxHealth": 300000,
-    "percentage": 0.0940000000000083,
+    "percentage": 0.35200000000000387,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1713004401.352
+    "expireDateTime": 1713004403.614
   },
   {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1480,
-    "health": 299923,
+    "players": 2623,
+    "health": 299621,
     "maxHealth": 300000,
-    "percentage": 0.02566666666666606,
+    "percentage": 0.12633333333333496,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1713004541.352
+    "expireDateTime": 1713004543.614
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 24608,
-    "health": 68480,
+    "players": 23231,
+    "health": 66587,
     "maxHealth": 1000000,
-    "percentage": 93.152,
+    "percentage": 93.3413,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 5614,
-    "health": 765170,
+    "players": 6529,
+    "health": 767395,
     "maxHealth": 1000000,
-    "percentage": 23.48299999999999,
+    "percentage": 23.260499999999993,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 11333,
-    "health": 777598,
+    "players": 13681,
+    "health": 778924,
     "maxHealth": 1000000,
-    "percentage": 22.2402,
+    "percentage": 22.10759999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,10 +115,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 5040,
-    "health": 961352,
+    "players": 5637,
+    "health": 963445,
     "maxHealth": 1000000,
-    "percentage": 3.8648000000000025,
+    "percentage": 3.6554999999999893,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -131,7 +131,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 7646,
+    "players": 6899,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
