@@ -3,42 +3,74 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 11527,
-    "health": 325455,
+    "players": 15962,
+    "health": 324305,
     "maxHealth": 450000,
-    "percentage": 27.676666666666662,
+    "percentage": 27.932222222222222,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": 1712922968.692
+    "expireDateTime": 1712922968.005
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 11412,
-    "health": 344426,
+    "players": 17404,
+    "health": 343252,
     "maxHealth": 450000,
-    "percentage": 23.46088888888889,
+    "percentage": 23.721777777777774,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712922968.692
+    "expireDateTime": 1712922968.005
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 2964,
+    "health": 299972,
+    "maxHealth": 300000,
+    "percentage": 0.009333333333330529,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": 1713004398.005
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 667,
+    "health": 299993,
+    "maxHealth": 300000,
+    "percentage": 0.0023333333333397377,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": 1713004538.005
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 26660,
-    "health": 71065,
+    "players": 25927,
+    "health": 69623,
     "maxHealth": 1000000,
-    "percentage": 92.8935,
+    "percentage": 93.0377,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +83,10 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 4473,
-    "health": 762205,
+    "players": 5159,
+    "health": 763946,
     "maxHealth": 1000000,
-    "percentage": 23.7795,
+    "percentage": 23.605400000000003,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +99,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 6779,
-    "health": 775069,
+    "players": 9653,
+    "health": 776670,
     "maxHealth": 1000000,
-    "percentage": 22.4931,
+    "percentage": 22.333,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +115,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 4348,
-    "health": 958501,
+    "players": 4742,
+    "health": 960195,
     "maxHealth": 1000000,
-    "percentage": 4.149900000000002,
+    "percentage": 3.980499999999992,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,7 +131,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 8743,
+    "players": 8330,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
