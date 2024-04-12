@@ -397,5 +397,19 @@
     "type": 0,
     "tagIds": [],
     "message": "SUPER DESTROYER FLEET UPGRADE\nIn response to increased enemy threat, Helldivers are now authorized to requisition Level 4 Modules for all Super Destroyer systems.\nLike previous upgrades, the Level 4 Suite significantly upgrades the Super Destroyer with cutting-edge technology, provided by defense contractors who are galactic leaders in quality and safety.\nThese critical upgrades will be installed without delay upon submission of the requisite number of samples, proof of commitment to furthering the cause of Liberty."
+  },
+  {
+    "id": 2844,
+    "published": 5372609,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER LOST\n\nThe Automatons have seized control of many innocent and once-beautiful worlds. The valiant and tireless defense raised by the Helldivers was commendable, but it was not enough to stop such a large and cowardly assault. Any colonists not driven from their homes were likely slaughtered, their votes forever lost."
+  },
+  {
+    "id": 2845,
+    "published": 5372682,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWe must halt the Automaton advance. \n\nHelldivers are ordered to establish and hold the Menkent Line, consisting of the planets Menkent and Lesath. Establishing this defensive line will allow SEAF Engineers to begin construction of orbital defenses on those planets, deterring the advance of the Automaton Fleet and allowing counteroffensive preparations to begin."
   }
 ]
