@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "",
+    "prominentAlert": "Due to a change in the API, planets are missing their images! Stand by, an update to the app is on the way.",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/api/v1/",
