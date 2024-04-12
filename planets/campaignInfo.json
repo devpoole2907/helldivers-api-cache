@@ -1,60 +1,44 @@
 [
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 49932,
-    "health": 2794,
-    "maxHealth": 450000,
-    "percentage": 99.37911111111111,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": 1712922974.564
-  },
-  {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 8006,
-    "health": 326691,
+    "players": 11527,
+    "health": 325455,
     "maxHealth": 450000,
-    "percentage": 27.402,
+    "percentage": 27.676666666666662,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": 1712922964.564
+    "expireDateTime": 1712922968.692
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 7746,
-    "health": 345627,
+    "players": 11412,
+    "health": 344426,
     "maxHealth": 450000,
-    "percentage": 23.194000000000003,
+    "percentage": 23.46088888888889,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1712922964.564
+    "expireDateTime": 1712922968.692
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 25880,
-    "health": 72862,
+    "players": 26660,
+    "health": 71065,
     "maxHealth": 1000000,
-    "percentage": 92.7138,
+    "percentage": 92.8935,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +51,10 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3935,
-    "health": 758964,
+    "players": 4473,
+    "health": 762205,
     "maxHealth": 1000000,
-    "percentage": 24.1036,
+    "percentage": 23.7795,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +67,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 4164,
-    "health": 771836,
+    "players": 6779,
+    "health": 775069,
     "maxHealth": 1000000,
-    "percentage": 22.8164,
+    "percentage": 22.4931,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +83,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 3786,
-    "health": 955343,
+    "players": 4348,
+    "health": 958501,
     "maxHealth": 1000000,
-    "percentage": 4.465699999999998,
+    "percentage": 4.149900000000002,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,7 +99,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 8671,
+    "players": 8743,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
