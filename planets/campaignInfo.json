@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 62595,
-    "health": 465703,
+    "players": 56578,
+    "health": 443896,
     "maxHealth": 1000000,
-    "percentage": 53.4297,
+    "percentage": 55.6104,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 74158,
-    "health": 571587,
+    "players": 74268,
+    "health": 520005,
     "maxHealth": 1000000,
-    "percentage": 42.8413,
+    "percentage": 47.9995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 7449,
-    "health": 622699,
+    "players": 6025,
+    "health": 619172,
     "maxHealth": 1000000,
-    "percentage": 37.7301,
+    "percentage": 38.0828,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,29 +48,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 10901,
-    "health": 632273,
-    "maxHealth": 1000000,
-    "percentage": 36.7727,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6001,
-    "health": 640189,
+    "players": 4451,
+    "health": 637094,
     "maxHealth": 1000000,
-    "percentage": 35.9811,
+    "percentage": 36.2906,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,18 +64,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 899,
-    "health": 999985,
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 8145,
+    "health": 646555,
     "maxHealth": 1000000,
-    "percentage": 0.0014999999999929514,
+    "percentage": 35.3445,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   },
@@ -99,10 +83,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1676,
-    "health": 1000000,
+    "players": 1731,
+    "health": 999195,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.08050000000000068,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,13 +96,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 1109,
+    "health": 999498,
+    "maxHealth": 1000000,
+    "percentage": 0.050199999999989586,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 15629,
-    "health": 1000000,
+    "players": 19269,
+    "health": 999991,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.0009000000000014552,
     "defense": false,
     "majorOrder": false,
     "biome": {
