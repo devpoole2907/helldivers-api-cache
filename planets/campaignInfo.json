@@ -3,10 +3,10 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 71342,
-    "health": 37083,
+    "players": 79756,
+    "health": 20749,
     "maxHealth": 1000000,
-    "percentage": 96.2917,
+    "percentage": 97.9251,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 93391,
-    "health": 89840,
+    "players": 104681,
+    "health": 52657,
     "maxHealth": 1000000,
-    "percentage": 91.016,
+    "percentage": 94.7343,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 38429,
-    "health": 470375,
+    "players": 42906,
+    "health": 469450,
     "maxHealth": 1000000,
-    "percentage": 52.9625,
+    "percentage": 53.055,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,29 +48,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 13593,
-    "health": 603551,
-    "maxHealth": 1000000,
-    "percentage": 39.6449,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 44928,
-    "health": 626164,
+    "players": 49286,
+    "health": 606040,
     "maxHealth": 1000000,
-    "percentage": 37.383599999999994,
+    "percentage": 39.395999999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +64,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 15016,
+    "health": 614487,
+    "maxHealth": 1000000,
+    "percentage": 38.5513,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 7037,
-    "health": 628891,
+    "players": 7580,
+    "health": 626605,
     "maxHealth": 1000000,
-    "percentage": 37.110899999999994,
+    "percentage": 37.339499999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5498,
-    "health": 645369,
+    "players": 5902,
+    "health": 643427,
     "maxHealth": 1000000,
-    "percentage": 35.4631,
+    "percentage": 35.65729999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
