@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Not seeing images for planets? Check the App Store and download the latest update!",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/api/v1/",
