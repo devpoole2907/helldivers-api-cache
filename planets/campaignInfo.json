@@ -1,1 +1,146 @@
-[{"planetIndex":203,"name":"Menkent","faction":"Automatons","players":68130,"health":242904,"maxHealth":250000,"percentage":2.838399999999993,"defense":true,"majorOrder":false,"biome":{"slug":"desolate","description":"Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."},"expireDateTime":1713201764.633},{"planetIndex":194,"name":"Lesath","faction":"Automatons","players":139361,"health":72190,"maxHealth":1000000,"percentage":92.781,"defense":false,"majorOrder":false,"biome":{"slug":"icemoss","description":"Ice and moss-covered rock can be found across most of the surface of this planet."},"expireDateTime":null},{"planetIndex":78,"name":"Crimsica","faction":"Terminids","players":70657,"health":308117,"maxHealth":1000000,"percentage":69.1883,"defense":false,"majorOrder":false,"biome":{"slug":"crimsonmoor","description":"A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."},"expireDateTime":null},{"planetIndex":199,"name":"Martale","faction":"Automatons","players":7694,"health":593648,"maxHealth":1000000,"percentage":40.6352,"defense":false,"majorOrder":false,"biome":{"slug":"tundra","description":"A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."},"expireDateTime":null},{"planetIndex":198,"name":"Marfark","faction":"Automatons","players":5658,"health":618790,"maxHealth":1000000,"percentage":38.120999999999995,"defense":false,"majorOrder":false,"biome":{"slug":"winter","description":"Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."},"expireDateTime":null},{"planetIndex":34,"name":"Hellmire","faction":"Terminids","players":10400,"health":727934,"maxHealth":1000000,"percentage":27.206599999999995,"defense":false,"majorOrder":false,"biome":{"slug":"desolate","description":"Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."},"expireDateTime":null},{"planetIndex":160,"name":"Chort Bay","faction":"Automatons","players":2546,"health":992924,"maxHealth":1000000,"percentage":0.7075999999999993,"defense":false,"majorOrder":false,"biome":{"slug":"toxic","description":"Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."},"expireDateTime":null},{"planetIndex":159,"name":"Choohe","faction":"Automatons","players":1577,"health":994783,"maxHealth":1000000,"percentage":0.5216999999999956,"defense":false,"majorOrder":false,"biome":{"slug":"mesa","description":"A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."},"expireDateTime":null},{"planetIndex":212,"name":"Oshaune","faction":"Terminids","players":25716,"health":1000000,"maxHealth":1000000,"percentage":0,"defense":false,"majorOrder":false,"biome":{"slug":"highlands","description":"Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."},"expireDateTime":null}]
+[
+  {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 129562,
+    "health": 213082,
+    "maxHealth": 250000,
+    "percentage": 14.767200000000003,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": 1713201773.538
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 55709,
+    "health": 289020,
+    "maxHealth": 1000000,
+    "percentage": 71.098,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 7708,
+    "health": 589315,
+    "maxHealth": 1000000,
+    "percentage": 41.0685,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 6005,
+    "health": 615449,
+    "maxHealth": 1000000,
+    "percentage": 38.455099999999995,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 8231,
+    "health": 751670,
+    "maxHealth": 1000000,
+    "percentage": 24.833,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 160,
+    "name": "Chort Bay",
+    "faction": "Automatons",
+    "players": 2316,
+    "health": 991710,
+    "maxHealth": 1000000,
+    "percentage": 0.8289999999999935,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 1612,
+    "health": 993993,
+    "maxHealth": 1000000,
+    "percentage": 0.6006999999999891,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 3644,
+    "health": 999939,
+    "maxHealth": 1000000,
+    "percentage": 0.006099999999989336,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 21291,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  }
+]
