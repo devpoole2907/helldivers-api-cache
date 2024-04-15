@@ -52,30 +52,6 @@ jobs:
               fi
           done
 
-      - name: Cleanup old data files
-        run: |
-          # Define the current date and time
-          current_time=$(date -u +%s)
-
-          # Loop through each file in the data directory
-            for file in data/*_planet_statuses.json; do
-              # Extract the timestamp from the filename
-              filename=$(basename "$file")
-              timestamp="${filename:0:20}"  # Extracts '2024-03-17T02:51:25'
-
-                # Convert timestamp to seconds since the Unix epoch
-                file_time=$(date -u -d "$timestamp" +%s)
-
-              # Calculate the difference in hours
-              diff=$(( (current_time - file_time) / 3600 ))
-
-              # Check if the difference is greater than 12 hours
-              if [ "$diff" -gt 12 ]; then
-                  echo "Deleting $file (older than 12 hours)"
-                    rm "$file"
-              fi
-          done
-
       - name: Commit and push if there are changes
         run: |
            git config --local user.email "action@github.com"
