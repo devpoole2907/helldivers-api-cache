@@ -3,10 +3,10 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 28772,
-    "health": 467982,
+    "players": 29388,
+    "health": 463471,
     "maxHealth": 1000000,
-    "percentage": 53.2018,
+    "percentage": 53.652899999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 16331,
-    "health": 535718,
+    "players": 16658,
+    "health": 533156,
     "maxHealth": 1000000,
-    "percentage": 46.4282,
+    "percentage": 46.6844,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 27033,
-    "health": 859895,
+    "players": 27068,
+    "health": 859004,
     "maxHealth": 1000000,
-    "percentage": 14.010499999999993,
+    "percentage": 14.099599999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 9733,
-    "health": 950564,
+    "players": 9957,
+    "health": 949008,
     "maxHealth": 1000000,
-    "percentage": 4.943599999999989,
+    "percentage": 5.099199999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,13 +64,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 74956,
+    "health": 969953,
+    "maxHealth": 1000000,
+    "percentage": 3.0046999999999997,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 3129,
-    "health": 975294,
+    "players": 3234,
+    "health": 974859,
     "maxHealth": 1000000,
-    "percentage": 2.4705999999999904,
+    "percentage": 2.514099999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,31 +99,15 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 3077,
-    "health": 977525,
+    "players": 3154,
+    "health": 976957,
     "maxHealth": 1000000,
-    "percentage": 2.2475000000000023,
+    "percentage": 2.304299999999998,
     "defense": false,
     "majorOrder": false,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 74009,
-    "health": 979036,
-    "maxHealth": 1000000,
-    "percentage": 2.0963999999999885,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   }
