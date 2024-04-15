@@ -1,8 +1,8 @@
 {
-    "terminidRate": "-1.5%",
-    "automatonRate": "-1.5%",
+    "terminidRate": "0%",
+    "automatonRate": "0%",
     "alert": "Created by James Poole",
-    "prominentAlert": "The Galaxy Map is now available! Update War Monitor in the App Store.",
+    "prominentAlert": "This version of War Monitor is no longer supported, please update to the latest version in the App Store.",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2.fly.dev/api"
