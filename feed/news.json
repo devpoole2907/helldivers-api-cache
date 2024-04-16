@@ -425,5 +425,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nWith the Menkent Line established, the Automaton Fleet has been forced to divert their plans. Now, they are attempting a concerted effort to punch through at a single planet.\n\nThe Automatons are likely to muster the entirety of their strength for this endeavor. You must outlast the enemy. \n\nHold the planet, no matter the cost."
+  },
+  {
+    "id": 2848,
+    "published": 5732736,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTELLIGENCE BRIEF\n\nThe Automatons have deployed a new heavy unit: the Factory Strider. Previously deployed in very limited quantities, likely prototypes, this massive abomination is a walking Automaton fabricator. It is heavily armed and armored, and should be engaged with coordinated firepower and unhesitating aggression."
   }
 ]
