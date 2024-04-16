@@ -3,26 +3,26 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 38616,
-    "health": 226717,
+    "players": 36886,
+    "health": 223740,
     "maxHealth": 450000,
-    "percentage": 49.61844444444444,
+    "percentage": 50.28,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713340823.308
+    "expireDateTime": 1713340824.115
   },
   {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 19537,
-    "health": 157099,
+    "players": 18723,
+    "health": 160933,
     "maxHealth": 1000000,
-    "percentage": 84.2901,
+    "percentage": 83.9067,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 114910,
-    "health": 269208,
+    "players": 111767,
+    "health": 264160,
     "maxHealth": 1000000,
-    "percentage": 73.0792,
+    "percentage": 73.584,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 27497,
-    "health": 404861,
+    "players": 26750,
+    "health": 404669,
     "maxHealth": 1000000,
-    "percentage": 59.5139,
+    "percentage": 59.5331,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,29 +64,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 5112,
-    "health": 937583,
-    "maxHealth": 1000000,
-    "percentage": 6.2416999999999945,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 7743,
-    "health": 938996,
+    "players": 7535,
+    "health": 941011,
     "maxHealth": 1000000,
-    "percentage": 6.100399999999993,
+    "percentage": 5.898899999999998,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,10 +80,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 5023,
+    "health": 942618,
+    "maxHealth": 1000000,
+    "percentage": 5.738199999999992,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1948,
+    "players": 1970,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1940,
+    "players": 1918,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
