@@ -3,10 +3,10 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 28434,
-    "health": 249711,
+    "players": 26981,
+    "health": 246484,
     "maxHealth": 1000000,
-    "percentage": 75.0289,
+    "percentage": 75.35159999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 13771,
-    "health": 415836,
+    "players": 12764,
+    "health": 413997,
     "maxHealth": 1000000,
-    "percentage": 58.416399999999996,
+    "percentage": 58.6003,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 59417,
-    "health": 607741,
+    "players": 56181,
+    "health": 602597,
     "maxHealth": 1000000,
-    "percentage": 39.225899999999996,
+    "percentage": 39.7403,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,29 +48,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 14656,
-    "health": 874474,
-    "maxHealth": 1000000,
-    "percentage": 12.552599999999998,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 7925,
-    "health": 874630,
+    "players": 7357,
+    "health": 873562,
     "maxHealth": 1000000,
-    "percentage": 12.536999999999992,
+    "percentage": 12.643799999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +64,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 13865,
+    "health": 874756,
+    "maxHealth": 1000000,
+    "percentage": 12.5244,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 2798,
-    "health": 954251,
+    "players": 2649,
+    "health": 954003,
     "maxHealth": 1000000,
-    "percentage": 4.5748999999999995,
+    "percentage": 4.599699999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 2745,
-    "health": 956097,
+    "players": 2729,
+    "health": 955781,
     "maxHealth": 1000000,
-    "percentage": 4.390299999999996,
+    "percentage": 4.421899999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
