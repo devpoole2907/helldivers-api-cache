@@ -3,26 +3,26 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 36904,
-    "health": 258868,
+    "players": 37938,
+    "health": 256505,
     "maxHealth": 450000,
-    "percentage": 42.47377777777778,
+    "percentage": 42.998888888888885,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713340804.152
+    "expireDateTime": 1713340813.207
   },
   {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 21204,
-    "health": 119482,
+    "players": 21387,
+    "health": 121829,
     "maxHealth": 1000000,
-    "percentage": 88.0518,
+    "percentage": 87.8171,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 109442,
-    "health": 328114,
+    "players": 112767,
+    "health": 324032,
     "maxHealth": 1000000,
-    "percentage": 67.18860000000001,
+    "percentage": 67.5968,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 29722,
-    "health": 411240,
+    "players": 30307,
+    "health": 410497,
     "maxHealth": 1000000,
-    "percentage": 58.876,
+    "percentage": 58.9503,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 5169,
-    "health": 884321,
+    "players": 5224,
+    "health": 888137,
     "maxHealth": 1000000,
-    "percentage": 11.567899999999995,
+    "percentage": 11.186300000000003,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 8338,
-    "health": 918388,
+    "players": 8398,
+    "health": 919692,
     "maxHealth": 1000000,
-    "percentage": 8.161199999999994,
+    "percentage": 8.0308,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,34 +96,34 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 160,
-    "name": "Chort Bay",
-    "faction": "Automatons",
-    "players": 1816,
-    "health": 998224,
-    "maxHealth": 1000000,
-    "percentage": 0.1775999999999982,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1785,
-    "health": 998371,
+    "players": 1874,
+    "health": 1000000,
     "maxHealth": 1000000,
-    "percentage": 0.16289999999999338,
+    "percentage": 0,
     "defense": false,
     "majorOrder": false,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 160,
+    "name": "Chort Bay",
+    "faction": "Automatons",
+    "players": 1875,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
     "expireDateTime": null
   }
