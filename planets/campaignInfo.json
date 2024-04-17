@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 199,
-    "name": "Martale",
-    "faction": "Automatons",
-    "players": 67944,
-    "health": 260618,
-    "maxHealth": 1000000,
-    "percentage": 73.9382,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 75511,
-    "health": 261576,
+    "players": 73653,
+    "health": 256624,
     "maxHealth": 1000000,
-    "percentage": 73.8424,
+    "percentage": 74.3376,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,10 +16,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 66579,
+    "health": 258674,
+    "maxHealth": 1000000,
+    "percentage": 74.1326,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 3100,
+    "players": 3041,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -51,7 +51,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 3148,
+    "players": 3106,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +67,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 14937,
+    "players": 14524,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +83,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 13748,
+    "players": 13340,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 7752,
+    "players": 7405,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
