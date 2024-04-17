@@ -3,42 +3,26 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 30881,
-    "health": 196873,
+    "players": 37364,
+    "health": 184580,
     "maxHealth": 450000,
-    "percentage": 56.25044444444444,
+    "percentage": 58.98222222222222,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713340835.72
-  },
-  {
-    "planetIndex": 199,
-    "name": "Martale",
-    "faction": "Automatons",
-    "players": 16951,
-    "health": 191073,
-    "maxHealth": 1000000,
-    "percentage": 80.89269999999999,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
+    "expireDateTime": 1713340840.863
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 111092,
-    "health": 212029,
+    "players": 134108,
+    "health": 182154,
     "maxHealth": 1000000,
-    "percentage": 78.7971,
+    "percentage": 81.7846,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,13 +32,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 18969,
+    "health": 206549,
+    "maxHealth": 1000000,
+    "percentage": 79.3451,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 24729,
-    "health": 396471,
+    "players": 28052,
+    "health": 394022,
     "maxHealth": 1000000,
-    "percentage": 60.3529,
+    "percentage": 60.5978,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6814,
-    "health": 957108,
+    "players": 7902,
+    "health": 965151,
     "maxHealth": 1000000,
-    "percentage": 4.289199999999994,
+    "percentage": 3.484899999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,26 +80,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 4829,
-    "health": 984988,
-    "maxHealth": 1000000,
-    "percentage": 1.5011999999999972,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1928,
+    "players": 2289,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +99,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1937,
+    "players": 2224,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -124,6 +108,22 @@
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 5540,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
