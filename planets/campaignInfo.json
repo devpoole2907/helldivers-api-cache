@@ -3,42 +3,26 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 19520,
-    "health": 494419,
+    "players": 24914,
+    "health": 489183,
     "maxHealth": 500000,
-    "percentage": 1.116199999999992,
+    "percentage": 2.1633999999999958,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713512224.124
-  },
-  {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 22986,
-    "health": 691,
-    "maxHealth": 1000000,
-    "percentage": 99.9309,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
+    "expireDateTime": 1713512228.658
   },
   {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 19048,
-    "health": 160454,
+    "players": 19760,
+    "health": 156868,
     "maxHealth": 1000000,
-    "percentage": 83.9546,
+    "percentage": 84.3132,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,10 +32,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 2628,
+    "health": 606042,
+    "maxHealth": 1000000,
+    "percentage": 39.395799999999994,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1011,
+    "players": 959,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +67,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 903,
+    "players": 928,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +83,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 4276,
+    "players": 4081,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3284,
+    "players": 3332,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2349,
+    "players": 2281,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
