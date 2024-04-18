@@ -1,12 +1,28 @@
 [
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 1601,
+    "health": 500000,
+    "maxHealth": 500000,
+    "percentage": 0,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": 1713512219.527
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 39741,
-    "health": 35831,
+    "players": 37905,
+    "health": 30511,
     "maxHealth": 1000000,
-    "percentage": 96.4169,
+    "percentage": 96.9489,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +35,10 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 24001,
-    "health": 175896,
+    "players": 23103,
+    "health": 174084,
     "maxHealth": 1000000,
-    "percentage": 82.4104,
+    "percentage": 82.5916,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,10 +48,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 4216,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1258,
+    "players": 1162,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +99,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6964,
+    "players": 6688,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -80,26 +112,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 4453,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3023,
+    "players": 2895,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
