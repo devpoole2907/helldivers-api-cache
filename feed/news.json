@@ -439,5 +439,12 @@
     "type": 0,
     "tagIds": [],
     "message": " MAJOR ORDER WON\n\nThe Automaton Invasion Fleet has been repelled.\n\nThe bots committed much of their reserves to this attack. Even the large-scale deployment of the Factory Strider could not break the resolve of the Helldivers.\n\nThe situation remains dire. The Automatons still illegally occupy vast swaths of our territory. But with this victory, the Helldivers have won the opportunity to turn back the tide."
+  },
+  {
+    "id": 2850,
+    "published": 5885040,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThanks to the valiant and unceasing defense of the Helldivers, a robust defensive line has been established. This is likely only a temporary respite, while the bots refit in preparation to break through our defenses once more. \n\nWe now have the opportunity to refuel our war effort. The defense effort depleted our E-710 reserves. In order to allow for a counter-offensive, the Helldivers are ordered to manually produce Terminid corpses for conversion into E-710."
   }
 ]
