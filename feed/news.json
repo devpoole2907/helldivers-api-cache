@@ -446,5 +446,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThanks to the valiant and unceasing defense of the Helldivers, a robust defensive line has been established. This is likely only a temporary respite, while the bots refit in preparation to break through our defenses once more. \n\nWe now have the opportunity to refuel our war effort. The defense effort depleted our E-710 reserves. In order to allow for a counter-offensive, the Helldivers are ordered to manually produce Terminid corpses for conversion into E-710."
+  },
+  {
+    "id": 2851,
+    "published": 5970890,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nValiant work, Helldivers. Thanks to your noble efforts, millions of tons of Terminid biomass has been rendered safe for collection, and is being processed into Element 710 as we speak. This surplus of fuel will enable the transport of weapons, equipment, and personnel to the frontlines of the Automaton fight. \n\nWe now have the logistical means to enable and sustain an effective counter-offensive against the Automatons. Soon, we will take back lands they stole."
+  },
+  {
+    "id": 2852,
+    "published": 5970916,
+    "type": 0,
+    "tagIds": [],
+    "message": "In further proof of their elite training and irreplaceable value, the Helldivers reached the target set for Terminid biomass production far faster than anticipated. While additional destruction of Liberty's enemies is always beneficial, E-710 refinement pipelines are full at the present time. However, there will be ample opportunities for additional biomass production in the future.\n\nSuper Earth High Command commends the Helldivers for their boundless enthusiasm to destroy the enemies of Freedom."
   }
 ]
