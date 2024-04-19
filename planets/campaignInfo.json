@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 62731,
-    "health": 8292,
-    "maxHealth": 1000000,
-    "percentage": 99.1708,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 23123,
-    "health": 128577,
+    "players": 28814,
+    "health": 124674,
     "maxHealth": 1000000,
-    "percentage": 87.1423,
+    "percentage": 87.5326,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +19,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 12076,
-    "health": 999990,
+    "players": 27936,
+    "health": 999830,
     "maxHealth": 1000000,
-    "percentage": 0.000999999999990564,
+    "percentage": 0.016999999999995907,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,7 +35,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1196,
+    "players": 1451,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +51,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1232,
+    "players": 1327,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +67,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3264,
+    "players": 4011,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -96,10 +80,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 259,
+    "name": "Omicron",
+    "faction": "Terminids",
+    "players": 9356,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3157,
+    "players": 3665,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
