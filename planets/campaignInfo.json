@@ -3,10 +3,10 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 60211,
-    "health": 15561,
+    "players": 62731,
+    "health": 8292,
     "maxHealth": 1000000,
-    "percentage": 98.4439,
+    "percentage": 99.1708,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -19,10 +19,10 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 22572,
-    "health": 129972,
+    "players": 23123,
+    "health": 128577,
     "maxHealth": 1000000,
-    "percentage": 87.0028,
+    "percentage": 87.1423,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,10 +32,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 12076,
+    "health": 999990,
+    "maxHealth": 1000000,
+    "percentage": 0.000999999999990564,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1214,
+    "players": 1196,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -51,7 +67,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1125,
+    "players": 1232,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -64,26 +80,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 11474,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3186,
+    "players": 3264,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2953,
+    "players": 3157,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
