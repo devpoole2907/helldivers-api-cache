@@ -2345,11 +2345,14 @@
   "157": {
     "name": "Charon Prime",
     "sector": "Andromeda",
-    "biome": null,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
     "environmentals": [
       {
-        "name": "Intense Heat",
-        "description": "High temperatures increase stamina drain and speed up heat buildup in weapons"
+        "name": "Ion Storms",
+        "description": "Ion storms intermittently disable Stratagems"
       }
     ]
   },
