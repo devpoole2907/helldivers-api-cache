@@ -3,74 +3,74 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 59875,
-    "health": 389866,
+    "players": 62048,
+    "health": 386530,
     "maxHealth": 400000,
-    "percentage": 2.5335000000000036,
+    "percentage": 3.3674999999999926,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713712292.994
+    "expireDateTime": 1713712292.803
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 33474,
-    "health": 294419,
+    "players": 34562,
+    "health": 292821,
     "maxHealth": 300000,
-    "percentage": 1.8603333333333296,
+    "percentage": 2.3930000000000007,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713712352.994
+    "expireDateTime": 1713712352.803
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 27558,
-    "health": 393388,
+    "players": 27781,
+    "health": 391719,
     "maxHealth": 400000,
-    "percentage": 1.6529999999999916,
+    "percentage": 2.0702500000000015,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713712212.994
+    "expireDateTime": 1713712212.803
   },
   {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 12813,
-    "health": 297944,
+    "players": 13011,
+    "health": 297298,
     "maxHealth": 300000,
-    "percentage": 0.6853333333333325,
+    "percentage": 0.9006666666666661,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1713712412.994
+    "expireDateTime": 1713712412.803
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 13058,
-    "health": 505200,
+    "players": 12718,
+    "health": 505395,
     "maxHealth": 1000000,
-    "percentage": 49.48,
+    "percentage": 49.460499999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +80,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 44859,
+    "health": 505574,
+    "maxHealth": 1000000,
+    "percentage": 49.4426,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 6240,
-    "health": 505824,
+    "players": 6148,
+    "health": 506350,
     "maxHealth": 1000000,
-    "percentage": 49.4176,
+    "percentage": 49.364999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +115,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 6991,
-    "health": 506040,
+    "players": 6696,
+    "health": 506537,
     "maxHealth": 1000000,
-    "percentage": 49.396,
+    "percentage": 49.3463,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,26 +128,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 47580,
-    "health": 506286,
-    "maxHealth": 1000000,
-    "percentage": 49.371399999999994,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1033,
+    "players": 1020,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +147,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1107,
+    "players": 1097,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +163,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 9673,
+    "players": 9299,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -179,7 +179,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3232,
+    "players": 3203,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
