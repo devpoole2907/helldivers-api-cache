@@ -3,90 +3,90 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 86401,
-    "health": 84457,
+    "players": 83967,
+    "health": 79363,
     "maxHealth": 400000,
-    "percentage": 78.88575,
+    "percentage": 80.15925,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713625703.779
+    "expireDateTime": 1713625703.718
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 51661,
-    "health": 323190,
+    "players": 49765,
+    "health": 320631,
     "maxHealth": 500000,
-    "percentage": 35.361999999999995,
+    "percentage": 35.8738,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1713625673.779
+    "expireDateTime": 1713625673.718
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 22608,
-    "health": 332231,
+    "players": 21982,
+    "health": 331232,
     "maxHealth": 400000,
-    "percentage": 16.94225,
+    "percentage": 17.191999999999993,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1713625853.779
+    "expireDateTime": 1713625853.718
   },
   {
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 11502,
-    "health": 309805,
+    "players": 10925,
+    "health": 309305,
     "maxHealth": 350000,
-    "percentage": 11.484285714285704,
+    "percentage": 11.627142857142857,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1713625813.779
+    "expireDateTime": 1713625813.718
   },
   {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 14425,
-    "health": 405285,
+    "players": 13951,
+    "health": 404698,
     "maxHealth": 450000,
-    "percentage": 9.936666666666667,
+    "percentage": 10.067111111111103,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713625753.779
+    "expireDateTime": 1713625753.718
   },
   {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 25810,
-    "health": 88393,
+    "players": 25073,
+    "health": 88748,
     "maxHealth": 1000000,
-    "percentage": 91.1607,
+    "percentage": 91.1252,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,7 +99,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1511,
+    "players": 1467,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 1382,
+    "players": 1329,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +131,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 10145,
+    "players": 9904,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +147,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 3181,
+    "players": 3068,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +163,7 @@
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 9625,
+    "players": 9518,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -179,7 +179,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3040,
+    "players": 2966,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
