@@ -13,7 +13,7 @@
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713807454.093
+    "expireDateTime": 1713808691.078
   },
   {
     "planetIndex": 112,
@@ -29,7 +29,7 @@
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713807514.093
+    "expireDateTime": 1713808751.078
   },
   {
     "planetIndex": 170,
@@ -45,7 +45,7 @@
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1713807374.093
+    "expireDateTime": 1713808611.078
   },
   {
     "planetIndex": 201,
@@ -61,7 +61,7 @@
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1713807574.093
+    "expireDateTime": 1713808811.078
   },
   {
     "planetIndex": 212,
