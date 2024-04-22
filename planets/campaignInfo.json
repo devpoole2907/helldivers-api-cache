@@ -1,60 +1,76 @@
 [
   {
-    "planetIndex": 201,
-    "name": "Meissa",
-    "faction": "Automatons",
-    "players": 6584,
-    "health": 240760,
-    "maxHealth": 300000,
-    "percentage": 19.74666666666667,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": 1713817822.16
-  },
-  {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 33176,
-    "health": 299220,
+    "players": 47270,
+    "health": 297903,
     "maxHealth": 300000,
-    "percentage": 0.2600000000000051,
+    "percentage": 0.6989999999999981,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713902832.16
+    "expireDateTime": 1713902832.75
   },
   {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 2893,
-    "health": 199951,
+    "players": 6527,
+    "health": 199823,
     "maxHealth": 200000,
-    "percentage": 0.024500000000003297,
+    "percentage": 0.08849999999999625,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1713902992.16
+    "expireDateTime": 1713902992.75
+  },
+  {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 0,
+    "health": 200000,
+    "maxHealth": 200000,
+    "percentage": 0,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": 1713904882.75
+  },
+  {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 651,
+    "health": 300000,
+    "maxHealth": 300000,
+    "percentage": 0,
+    "defense": true,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": 1713904762.75
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 67298,
-    "health": 453512,
+    "players": 59099,
+    "health": 448131,
     "maxHealth": 1000000,
-    "percentage": 54.6488,
+    "percentage": 55.1869,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,13 +80,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 201,
+    "name": "Meissa",
+    "faction": "Automatons",
+    "players": 6154,
+    "health": 500933,
+    "maxHealth": 1000000,
+    "percentage": 49.9067,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 55715,
-    "health": 500078,
+    "players": 45931,
+    "health": 500983,
     "maxHealth": 1000000,
-    "percentage": 49.9922,
+    "percentage": 49.9017,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +115,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5366,
-    "health": 552373,
+    "players": 5188,
+    "health": 552846,
     "maxHealth": 1000000,
-    "percentage": 44.762699999999995,
+    "percentage": 44.715399999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +131,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 3764,
-    "health": 576607,
+    "players": 3647,
+    "health": 577241,
     "maxHealth": 1000000,
-    "percentage": 42.339299999999994,
+    "percentage": 42.2759,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,10 +147,10 @@
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 2374,
-    "health": 582298,
+    "players": 2421,
+    "health": 583002,
     "maxHealth": 1000000,
-    "percentage": 41.770199999999996,
+    "percentage": 41.699799999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -131,7 +163,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 785,
+    "players": 781,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +179,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 879,
+    "players": 824,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +195,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 12791,
+    "players": 11073,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -172,22 +204,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 2336,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   }
