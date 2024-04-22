@@ -1,76 +1,60 @@
 [
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 62173,
-    "health": 31467,
-    "maxHealth": 300000,
-    "percentage": 89.511,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": 1713817761.996
-  },
-  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 7422,
-    "health": 241368,
+    "players": 6584,
+    "health": 240760,
     "maxHealth": 300000,
-    "percentage": 19.543999999999997,
+    "percentage": 19.74666666666667,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1713817821.996
+    "expireDateTime": 1713817822.16
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 12645,
-    "health": 299988,
+    "players": 33176,
+    "health": 299220,
     "maxHealth": 300000,
-    "percentage": 0.0040000000000048885,
+    "percentage": 0.2600000000000051,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713902831.996
+    "expireDateTime": 1713902832.16
   },
   {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 650,
-    "health": 200000,
+    "players": 2893,
+    "health": 199951,
     "maxHealth": 200000,
-    "percentage": 0,
+    "percentage": 0.024500000000003297,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1713902991.996
+    "expireDateTime": 1713902992.16
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 78699,
-    "health": 460269,
+    "players": 67298,
+    "health": 453512,
     "maxHealth": 1000000,
-    "percentage": 53.973099999999995,
+    "percentage": 54.6488,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +64,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 55715,
+    "health": 500078,
+    "maxHealth": 1000000,
+    "percentage": 49.9922,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5788,
-    "health": 551847,
+    "players": 5366,
+    "health": 552373,
     "maxHealth": 1000000,
-    "percentage": 44.8153,
+    "percentage": 44.762699999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 3741,
-    "health": 575931,
+    "players": 3764,
+    "health": 576607,
     "maxHealth": 1000000,
-    "percentage": 42.4069,
+    "percentage": 42.339299999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,10 +115,10 @@
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 2610,
-    "health": 581435,
+    "players": 2374,
+    "health": 582298,
     "maxHealth": 1000000,
-    "percentage": 41.8565,
+    "percentage": 41.770199999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -131,7 +131,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 851,
+    "players": 785,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +147,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 934,
+    "players": 879,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +163,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 15448,
+    "players": 12791,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -179,7 +179,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 2509,
+    "players": 2336,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
