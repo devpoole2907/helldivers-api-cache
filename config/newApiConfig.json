@@ -3,7 +3,7 @@
     "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
-    "apiAddress": "https://helldivers-2-dotnet.fly.dev/api/v1/",
+    "apiAddress": "https://api.helldivers2.dev/api/v1/",
     "startedAt": "2024-02-10T07:20:30.089979Z"
     
 }
