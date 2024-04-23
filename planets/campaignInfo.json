@@ -1,44 +1,28 @@
 [
   {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 31615,
-    "health": 108660,
-    "maxHealth": 300000,
-    "percentage": 63.78,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": 1713904875.661
-  },
-  {
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 17657,
-    "health": 88781,
+    "players": 17629,
+    "health": 87306,
     "maxHealth": 200000,
-    "percentage": 55.6095,
+    "percentage": 56.347,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713904995.661
+    "expireDateTime": 1713904999.464
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 62666,
-    "health": 67968,
+    "players": 61747,
+    "health": 63093,
     "maxHealth": 1000000,
-    "percentage": 93.2032,
+    "percentage": 93.69069999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +35,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 26160,
-    "health": 326404,
+    "players": 25787,
+    "health": 323765,
     "maxHealth": 1000000,
-    "percentage": 67.3596,
+    "percentage": 67.6235,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +51,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 6009,
-    "health": 449207,
+    "players": 6021,
+    "health": 448605,
     "maxHealth": 1000000,
-    "percentage": 55.079299999999996,
+    "percentage": 55.1395,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +67,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 4606,
-    "health": 499985,
+    "players": 3729,
+    "health": 499950,
     "maxHealth": 1000000,
-    "percentage": 50.0015,
+    "percentage": 50.004999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +83,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6381,
-    "health": 501876,
+    "players": 6209,
+    "health": 501323,
     "maxHealth": 1000000,
-    "percentage": 49.8124,
+    "percentage": 49.8677,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,29 +96,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 3831,
-    "health": 545242,
-    "maxHealth": 1000000,
-    "percentage": 45.4758,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 3447,
-    "health": 549607,
+    "players": 3546,
+    "health": 549202,
     "maxHealth": 1000000,
-    "percentage": 45.0393,
+    "percentage": 45.0798,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -144,42 +112,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 784,
-    "health": 990841,
-    "maxHealth": 1000000,
-    "percentage": 0.9158999999999935,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 160,
-    "name": "Chort Bay",
-    "faction": "Automatons",
-    "players": 831,
-    "health": 992118,
-    "maxHealth": 1000000,
-    "percentage": 0.7881999999999891,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 11023,
+    "players": 10877,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
