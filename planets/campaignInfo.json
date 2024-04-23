@@ -3,42 +3,42 @@
     "planetIndex": 154,
     "name": "Mort",
     "faction": "Automatons",
-    "players": 24182,
-    "health": 197036,
+    "players": 14243,
+    "health": 194995,
     "maxHealth": 200000,
-    "percentage": 1.4819999999999993,
+    "percentage": 2.5024999999999977,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1713991503.731
+    "expireDateTime": 1713991503.864
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 35257,
-    "health": 345536,
+    "players": 22767,
+    "health": 342486,
     "maxHealth": 350000,
-    "percentage": 1.275428571428563,
+    "percentage": 2.1468571428571295,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713991443.731
+    "expireDateTime": 1713991443.864
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 33496,
-    "health": 38430,
+    "players": 18866,
+    "health": 35441,
     "maxHealth": 1000000,
-    "percentage": 96.157,
+    "percentage": 96.4559,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 28058,
-    "health": 308135,
+    "players": 14744,
+    "health": 304262,
     "maxHealth": 1000000,
-    "percentage": 69.1865,
+    "percentage": 69.5738,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 5063,
-    "health": 445098,
+    "players": 2969,
+    "health": 444386,
     "maxHealth": 1000000,
-    "percentage": 55.490199999999994,
+    "percentage": 55.5614,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6748,
-    "health": 497445,
+    "players": 3878,
+    "health": 496461,
     "maxHealth": 1000000,
-    "percentage": 50.2555,
+    "percentage": 50.353899999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,29 +96,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 156,
-    "name": "Charbal-VII",
-    "faction": "Automatons",
-    "players": 2189,
-    "health": 499461,
-    "maxHealth": 1000000,
-    "percentage": 50.0539,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 6348,
-    "health": 499468,
+    "players": 3035,
+    "health": 499055,
     "maxHealth": 1000000,
-    "percentage": 50.0532,
+    "percentage": 50.0945,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -128,10 +112,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 156,
+    "name": "Charbal-VII",
+    "faction": "Automatons",
+    "players": 1243,
+    "health": 499210,
+    "maxHealth": 1000000,
+    "percentage": 50.079,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 5658,
+    "players": 3330,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
