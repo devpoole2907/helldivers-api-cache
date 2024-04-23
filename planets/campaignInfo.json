@@ -3,42 +3,42 @@
     "planetIndex": 154,
     "name": "Mort",
     "faction": "Automatons",
-    "players": 4698,
-    "health": 199988,
+    "players": 14660,
+    "health": 199604,
     "maxHealth": 200000,
-    "percentage": 0.006000000000000227,
+    "percentage": 0.1979999999999933,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1713991493.899
+    "expireDateTime": 1713991502.024
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 10306,
-    "health": 349990,
+    "players": 23999,
+    "health": 349348,
     "maxHealth": 350000,
-    "percentage": 0.0028571428571382285,
+    "percentage": 0.1862857142857024,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1713991433.899
+    "expireDateTime": 1713991442.024
   },
   {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 57388,
-    "health": 58728,
+    "players": 47619,
+    "health": 51606,
     "maxHealth": 1000000,
-    "percentage": 94.1272,
+    "percentage": 94.8394,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 28325,
-    "health": 321312,
+    "players": 29301,
+    "health": 317386,
     "maxHealth": 1000000,
-    "percentage": 67.8688,
+    "percentage": 68.2614,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 6042,
-    "health": 447979,
+    "players": 5777,
+    "health": 447103,
     "maxHealth": 1000000,
-    "percentage": 55.202099999999994,
+    "percentage": 55.289699999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +80,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 7019,
+    "health": 499656,
+    "maxHealth": 1000000,
+    "percentage": 50.0344,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 3336,
-    "health": 499914,
+    "players": 2809,
+    "health": 499834,
     "maxHealth": 1000000,
-    "percentage": 50.008599999999994,
+    "percentage": 50.0166,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +115,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 15802,
-    "health": 499994,
+    "players": 11230,
+    "health": 499932,
     "maxHealth": 1000000,
-    "percentage": 50.0006,
+    "percentage": 50.0068,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,26 +128,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 6836,
-    "health": 500665,
-    "maxHealth": 1000000,
-    "percentage": 49.933499999999995,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 10135,
+    "players": 8181,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
