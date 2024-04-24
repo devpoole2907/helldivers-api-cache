@@ -3,42 +3,42 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 67559,
-    "health": 209797,
+    "players": 67745,
+    "health": 195550,
     "maxHealth": 300000,
-    "percentage": 30.067666666666668,
+    "percentage": 34.81666666666666,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1714044635.314
+    "expireDateTime": 1714044640.586
   },
   {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 10207,
-    "health": 185582,
+    "players": 10528,
+    "health": 183663,
     "maxHealth": 200000,
-    "percentage": 7.209000000000003,
+    "percentage": 8.168499999999995,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1714044475.314
+    "expireDateTime": 1714044480.586
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 17981,
-    "health": 104937,
+    "players": 18059,
+    "health": 100765,
     "maxHealth": 1000000,
-    "percentage": 89.5063,
+    "percentage": 89.9235,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 2777,
-    "health": 408342,
+    "players": 2927,
+    "health": 407739,
     "maxHealth": 1000000,
-    "percentage": 59.1658,
+    "percentage": 59.226099999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 3901,
-    "health": 439318,
+    "players": 3814,
+    "health": 438240,
     "maxHealth": 1000000,
-    "percentage": 56.0682,
+    "percentage": 56.175999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2249,
-    "health": 471269,
+    "players": 2181,
+    "health": 470783,
     "maxHealth": 1000000,
-    "percentage": 52.8731,
+    "percentage": 52.9217,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 975,
-    "health": 485902,
+    "players": 1067,
+    "health": 485694,
     "maxHealth": 1000000,
-    "percentage": 51.4098,
+    "percentage": 51.4306,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,26 +112,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 259,
-    "name": "Omicron",
-    "faction": "Terminids",
-    "players": 10954,
-    "health": 999997,
-    "maxHealth": 1000000,
-    "percentage": 0.0002999999999957481,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 8191,
+    "players": 7889,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -140,6 +124,22 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 259,
+    "name": "Omicron",
+    "faction": "Terminids",
+    "players": 10707,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   }
