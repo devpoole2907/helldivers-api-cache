@@ -3,42 +3,42 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 27801,
-    "health": 141347,
+    "players": 28338,
+    "health": 138178,
     "maxHealth": 200000,
-    "percentage": 29.326499999999996,
+    "percentage": 30.911,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1714044510.348
+    "expireDateTime": 1714044506.683
   },
   {
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 7957,
-    "health": 198265,
+    "players": 7520,
+    "health": 197512,
     "maxHealth": 200000,
-    "percentage": 0.8674999999999926,
+    "percentage": 1.2439999999999998,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1714079190.348
+    "expireDateTime": 1714079186.683
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 31270,
-    "health": 12676,
+    "players": 30853,
+    "health": 7522,
     "maxHealth": 1000000,
-    "percentage": 98.7324,
+    "percentage": 99.2478,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 3537,
-    "health": 395441,
+    "players": 3377,
+    "health": 394915,
     "maxHealth": 1000000,
-    "percentage": 60.4559,
+    "percentage": 60.5085,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5019,
-    "health": 421699,
+    "players": 5075,
+    "health": 420903,
     "maxHealth": 1000000,
-    "percentage": 57.830099999999995,
+    "percentage": 57.9097,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +83,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2001,
-    "health": 463211,
+    "players": 1908,
+    "health": 462896,
     "maxHealth": 1000000,
-    "percentage": 53.6789,
+    "percentage": 53.7104,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +99,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1441,
-    "health": 481681,
+    "players": 1367,
+    "health": 481488,
     "maxHealth": 1000000,
-    "percentage": 51.8319,
+    "percentage": 51.8512,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,34 +112,34 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 28697,
-    "health": 999498,
-    "maxHealth": 1000000,
-    "percentage": 0.050199999999989586,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 26790,
-    "health": 999556,
+    "players": 27268,
+    "health": 998181,
     "maxHealth": 1000000,
-    "percentage": 0.044399999999996,
+    "percentage": 0.18189999999999884,
     "defense": false,
     "majorOrder": false,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 28828,
+    "health": 998375,
+    "maxHealth": 1000000,
+    "percentage": 0.16249999999999432,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
