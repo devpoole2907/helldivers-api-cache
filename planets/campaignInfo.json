@@ -3,58 +3,42 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 28812,
-    "health": 133016,
+    "players": 32598,
+    "health": 127700,
     "maxHealth": 200000,
-    "percentage": 33.492000000000004,
+    "percentage": 36.15,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1714044507.055
+    "expireDateTime": 1714044506.976
   },
   {
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 7284,
-    "health": 196159,
+    "players": 7381,
+    "health": 194733,
     "maxHealth": 200000,
-    "percentage": 1.920500000000004,
+    "percentage": 2.633499999999998,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1714079187.055
-  },
-  {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 30109,
-    "health": 559,
-    "maxHealth": 1000000,
-    "percentage": 99.9441,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
+    "expireDateTime": 1714079186.976
   },
   {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 3390,
-    "health": 394205,
+    "players": 3689,
+    "health": 393489,
     "maxHealth": 1000000,
-    "percentage": 60.579499999999996,
+    "percentage": 60.6511,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +51,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5148,
-    "health": 419818,
+    "players": 6098,
+    "health": 418811,
     "maxHealth": 1000000,
-    "percentage": 58.0182,
+    "percentage": 58.1189,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +67,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2054,
-    "health": 462466,
+    "players": 2156,
+    "health": 462037,
     "maxHealth": 1000000,
-    "percentage": 53.7534,
+    "percentage": 53.796299999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +83,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1370,
-    "health": 481186,
+    "players": 1507,
+    "health": 480969,
     "maxHealth": 1000000,
-    "percentage": 51.8814,
+    "percentage": 51.903099999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -112,13 +96,45 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 4890,
+    "health": 697915,
+    "maxHealth": 1000000,
+    "percentage": 30.2085,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 1130,
+    "health": 742772,
+    "maxHealth": 1000000,
+    "percentage": 25.722799999999992,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 27364,
-    "health": 995546,
+    "players": 28296,
+    "health": 992866,
     "maxHealth": 1000000,
-    "percentage": 0.44539999999999225,
+    "percentage": 0.7133999999999929,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -131,10 +147,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 28630,
-    "health": 996010,
+    "players": 29449,
+    "health": 993789,
     "maxHealth": 1000000,
-    "percentage": 0.3990000000000009,
+    "percentage": 0.6210999999999984,
     "defense": false,
     "majorOrder": false,
     "biome": {
