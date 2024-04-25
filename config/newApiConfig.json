@@ -1,8 +1,8 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "",
+    "prominentAlert": "Recent reports of Illuminate statistics appearing in the app have been investigated. The Ministry of Truth denies these claims. Those responsible for spreading these rumors have been tried and executed in the name of democracy. Remain vigilant, soldiers.",
     "season": "801",
-    "showIlluminate": true,
+    "showIlluminate": false,
     "apiAddress": "https://api.helldivers2.dev/api/v1/",
     "startedAt": "2024-02-10T07:20:30.089979Z"
     
