@@ -3,10 +3,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 3780,
-    "health": 374053,
+    "players": 3823,
+    "health": 373693,
     "maxHealth": 1000000,
-    "percentage": 62.594699999999996,
+    "percentage": 62.6307,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -20,9 +20,9 @@
     "name": "Meissa",
     "faction": "Automatons",
     "players": 2756,
-    "health": 431369,
+    "health": 431162,
     "maxHealth": 1000000,
-    "percentage": 56.863099999999996,
+    "percentage": 56.8838,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2379,
-    "health": 471488,
+    "players": 2353,
+    "health": 471199,
     "maxHealth": 1000000,
-    "percentage": 52.8512,
+    "percentage": 52.8801,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 8380,
-    "health": 596644,
+    "players": 8494,
+    "health": 595654,
     "maxHealth": 1000000,
-    "percentage": 40.3356,
+    "percentage": 40.434599999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -64,29 +64,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 156,
-    "name": "Charbal-VII",
-    "faction": "Automatons",
-    "players": 794,
-    "health": 604276,
-    "maxHealth": 1000000,
-    "percentage": 39.572399999999995,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 33561,
-    "health": 605164,
+    "players": 33203,
+    "health": 604108,
     "maxHealth": 1000000,
-    "percentage": 39.483599999999996,
+    "percentage": 39.5892,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -96,13 +80,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 156,
+    "name": "Charbal-VII",
+    "faction": "Automatons",
+    "players": 805,
+    "health": 604202,
+    "maxHealth": 1000000,
+    "percentage": 39.5798,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 66656,
-    "health": 680905,
+    "players": 67158,
+    "health": 674006,
     "maxHealth": 1000000,
-    "percentage": 31.909499999999994,
+    "percentage": 32.5994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,10 +115,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 21481,
-    "health": 845375,
+    "players": 21401,
+    "health": 846054,
     "maxHealth": 1000000,
-    "percentage": 15.462499999999991,
+    "percentage": 15.394599999999997,
     "defense": false,
     "majorOrder": false,
     "biome": {
