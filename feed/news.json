@@ -474,5 +474,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nFreedom has overcome oppression once more. Even the combined might of the Terminids and Automatons was no match for the fierce and obedient resistance of the Helldivers. \n\nThough some ground was lost, our enemies are exhausted, their assault broken upon the immovable shield wall of the Helldivers. The fight is far from over, but the light of Liberty shines bright over the worlds of the Federation today."
+  },
+  {
+    "id": 2855,
+    "published": 6471730,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW OPERATION ORDER: \"LEGITIMATE UNDERTAKING\"\n \nPhase I: Citizen Rescue. Intel has identified surviving citizens on two planets:\n \nOn Choohe, citizens who have proved their loyalty through testing of a new Fortification Stratagem are trapped.\n \nOn Penta, citizens who have synthesized tons of caustic chemicals for a new Support Weapon Stratagem are awaiting rescue.\n \nLikely, only the citizens and weaponry of the first planet liberated will be saved."
   }
 ]
