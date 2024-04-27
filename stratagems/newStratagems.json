@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": "uuid",
+        "name": "Test stratagem",
+        "sequence": ["up", "down", "left", "right"],
+        "type": "orbital",
+        "imageUrl": "https://github.com/user/repo/images/stratagem_name.png"
+    }
+]
