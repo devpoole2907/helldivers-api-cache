@@ -1,9 +1,2 @@
 [
-    {
-        "id": "123e4567-e89b-12d3-a456-426614174000",
-        "name": "Test stratagem",
-        "sequence": ["up", "down", "left", "right"],
-        "type": "orbital",
-        "imageUrl": "https://github.com/devpoole2907/helldivers-api-cache/blob/main/stratagems/Test%20Stratagem.png?raw=true"
-    }
 ]
