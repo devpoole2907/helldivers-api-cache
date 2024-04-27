@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Super Earth High Command are aware of issues fetching data in the app. Stand by while the issue is resolved!",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://api.helldivers2.dev/api/v1/",
