@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 48987,
-    "health": 2342,
-    "maxHealth": 1000000,
-    "percentage": 99.7658,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1656,
-    "health": 345432,
+    "players": 1700,
+    "health": 345128,
     "maxHealth": 1000000,
-    "percentage": 65.4568,
+    "percentage": 65.4872,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +19,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 1201,
-    "health": 411609,
+    "players": 1251,
+    "health": 411440,
     "maxHealth": 1000000,
-    "percentage": 58.839099999999995,
+    "percentage": 58.855999999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,10 +35,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 976,
-    "health": 454907,
+    "players": 1001,
+    "health": 454761,
     "maxHealth": 1000000,
-    "percentage": 54.509299999999996,
+    "percentage": 54.5239,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +51,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 3543,
-    "health": 532581,
+    "players": 3646,
+    "health": 532099,
     "maxHealth": 1000000,
-    "percentage": 46.741899999999994,
+    "percentage": 46.790099999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -83,10 +67,10 @@
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 23382,
-    "health": 547691,
+    "players": 22966,
+    "health": 546777,
     "maxHealth": 1000000,
-    "percentage": 45.2309,
+    "percentage": 45.3223,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +83,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 380,
-    "health": 598071,
+    "players": 391,
+    "health": 598046,
     "maxHealth": 1000000,
-    "percentage": 40.192899999999995,
+    "percentage": 40.1954,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,15 +99,47 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 13297,
-    "health": 910663,
+    "players": 13338,
+    "health": 911598,
     "maxHealth": 1000000,
-    "percentage": 8.933700000000002,
+    "percentage": 8.840199999999996,
     "defense": false,
     "majorOrder": false,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 7108,
+    "health": 999982,
+    "maxHealth": 1000000,
+    "percentage": 0.0017999999999886995,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 160,
+    "name": "Chort Bay",
+    "faction": "Automatons",
+    "players": 530,
+    "health": 999990,
+    "maxHealth": 1000000,
+    "percentage": 0.000999999999990564,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
     "expireDateTime": null
   }
