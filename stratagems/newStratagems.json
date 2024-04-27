@@ -4,6 +4,6 @@
         "name": "Test stratagem",
         "sequence": ["up", "down", "left", "right"],
         "type": "orbital",
-        "imageUrl": "https://github.com/user/repo/images/stratagem_name.png"
+        "imageUrl": "https://raw.githubusercontent.com/devpoole2907/helldivers-api-cache/main/stratagems/Test%20Stratagem.svg"
     }
 ]
