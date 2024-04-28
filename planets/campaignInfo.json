@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 88580,
-    "health": 12570,
-    "maxHealth": 450000,
-    "percentage": 97.20666666666666,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": 1714333950.413
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5505,
-    "health": 292442,
+    "players": 5919,
+    "health": 291538,
     "maxHealth": 1000000,
-    "percentage": 70.7558,
+    "percentage": 70.8462,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +19,10 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 2399,
-    "health": 382583,
+    "players": 2487,
+    "health": 382158,
     "maxHealth": 1000000,
-    "percentage": 61.7417,
+    "percentage": 61.7842,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,29 +32,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
-    "faction": "Automatons",
-    "players": 2406,
-    "health": 424971,
-    "maxHealth": 1000000,
-    "percentage": 57.5029,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 10108,
-    "health": 425258,
+    "players": 10863,
+    "health": 423371,
     "maxHealth": 1000000,
-    "percentage": 57.474199999999996,
+    "percentage": 57.6629,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,13 +48,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 2531,
+    "health": 424482,
+    "maxHealth": 1000000,
+    "percentage": 57.5518,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 26164,
-    "health": 522140,
+    "players": 28267,
+    "health": 522840,
     "maxHealth": 1000000,
-    "percentage": 47.785999999999994,
+    "percentage": 47.715999999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -99,10 +83,10 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 577,
-    "health": 590245,
+    "players": 615,
+    "health": 590182,
     "maxHealth": 1000000,
-    "percentage": 40.9755,
+    "percentage": 40.9818,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -115,10 +99,10 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 47920,
-    "health": 793375,
+    "players": 50651,
+    "health": 785281,
     "maxHealth": 1000000,
-    "percentage": 20.662499999999994,
+    "percentage": 21.47189999999999,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -131,10 +115,10 @@
     "planetIndex": 204,
     "name": "Merak",
     "faction": "Automatons",
-    "players": 2132,
-    "health": 993733,
+    "players": 2303,
+    "health": 993379,
     "maxHealth": 1000000,
-    "percentage": 0.6266999999999996,
+    "percentage": 0.6620999999999952,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -147,7 +131,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 12455,
+    "players": 14099,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
