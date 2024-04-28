@@ -481,5 +481,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW OPERATION ORDER: \"LEGITIMATE UNDERTAKING\"\n \nPhase I: Citizen Rescue. Intel has identified surviving citizens on two planets:\n \nOn Choohe, citizens who have proved their loyalty through testing of a new Fortification Stratagem are trapped.\n \nOn Penta, citizens who have synthesized tons of caustic chemicals for a new Support Weapon Stratagem are awaiting rescue.\n \nLikely, only the citizens and weaponry of the first planet liberated will be saved."
+  },
+  {
+    "id": 2856,
+    "published": 6636596,
+    "type": 0,
+    "tagIds": [],
+    "message": "PENTA LIBERATED\n \n90% of Penta's chemical factories have been secured. Fleetwide distribution of Airburst Rocket Launchers can now commence.\n \nMost of the chemical technicians who had been trapped on the planet were rescued. Tragically though, some had already perished by the time we reached them, having succumbed to toxic fume poisoning. The Automatons show no hesitation in the use of chemical warfare against civilians. The sacrifice of these heroes will never be forgotten."
   }
 ]
