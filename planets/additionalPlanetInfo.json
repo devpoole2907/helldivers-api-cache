@@ -936,8 +936,8 @@
     "name": "Meridia",
     "sector": "Umlaut",
     "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+      "slug": "buginfested",
+      "description": "Entirely unforeseeable mutations from the Termicide led to hyper-accelerated bug growth on this planet, turning it into a Supercolony. It is corrupted beyond saving. The bugs infest every inch of it, down to the mantle, spawning trillions of spores every day."
     },
     "environmentals": [
       {
