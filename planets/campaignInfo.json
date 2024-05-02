@@ -3,42 +3,42 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 3583,
-    "health": 475716,
+    "players": 3051,
+    "health": 474742,
     "maxHealth": 500000,
-    "percentage": 4.856799999999993,
+    "percentage": 5.051599999999993,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1714675746.503
+    "expireDateTime": 1714675756.077
   },
   {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2297,
-    "health": 299752,
+    "players": 1925,
+    "health": 299440,
     "maxHealth": 300000,
-    "percentage": 0.08266666666666822,
+    "percentage": 0.18666666666666742,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1714723076.503
+    "expireDateTime": 1714723086.077
   },
   {
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 33877,
-    "health": 679998,
+    "players": 28684,
+    "health": 672436,
     "maxHealth": 1000000,
-    "percentage": 32.00019999999999,
+    "percentage": 32.7564,
     "defense": false,
     "majorOrder": true,
     "biome": {
@@ -51,10 +51,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1807,
-    "health": 811929,
+    "players": 1532,
+    "health": 814912,
     "maxHealth": 1000000,
-    "percentage": 18.80709999999999,
+    "percentage": 18.508799999999994,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -67,10 +67,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1887,
-    "health": 907841,
+    "players": 1644,
+    "health": 910822,
     "maxHealth": 1000000,
-    "percentage": 9.21589999999999,
+    "percentage": 8.9178,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -80,42 +80,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 201,
-    "name": "Meissa",
-    "faction": "Automatons",
-    "players": 366,
-    "health": 997650,
-    "maxHealth": 1000000,
-    "percentage": 0.23499999999999943,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 2477,
-    "health": 999097,
-    "maxHealth": 1000000,
-    "percentage": 0.09029999999999916,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 138,
+    "players": 109,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +99,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 565,
+    "players": 501,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +115,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 261,
+    "players": 218,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +131,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1845,
+    "players": 1607,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -179,7 +147,7 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 7113,
+    "players": 5949,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -192,10 +160,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 2308,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 807,
+    "players": 727,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -208,10 +192,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 201,
+    "name": "Meissa",
+    "faction": "Automatons",
+    "players": 350,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 204,
     "name": "Merak",
     "faction": "Automatons",
-    "players": 366,
+    "players": 293,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -227,7 +227,7 @@
     "planetIndex": 259,
     "name": "Omicron",
     "faction": "Terminids",
-    "players": 1450,
+    "players": 1355,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
