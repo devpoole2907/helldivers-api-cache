@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Trooper",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Commissar",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Scout Strider",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Berserker",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Devastator",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Hulk",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Tank",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Factory Strider",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Gunship",
+        "description": "",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Dropship",
+        "description": "",
+        "recommendedStratagems": []
+    }
+]
