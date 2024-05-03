@@ -1,0 +1,82 @@
+{
+    "Automaton": {
+        "Trooper": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Commissar": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Scout Strider": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Berserker": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Devastator": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Hulk": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Tank": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Factory Strider": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Gunship": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Dropship": {
+            "description": "",
+            "recommendedStratagems": []
+        }
+    },
+    "Terminids": {
+        "Scavenger": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Warrior": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Hunter": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Stalker": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Bile Spewer": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Charger": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Brood Commander": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Bile Titan": {
+            "description": "",
+            "recommendedStratagems": []
+        },
+        "Shrieker": {
+            "description": "",
+            "recommendedStratagems": []
+        }
+    }
+}
