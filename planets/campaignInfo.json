@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 2229,
-    "health": 281790,
-    "maxHealth": 300000,
-    "percentage": 6.070000000000007,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": 1714723170.219
-  },
-  {
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 38787,
-    "health": 82453,
+    "players": 38052,
+    "health": 72859,
     "maxHealth": 1000000,
-    "percentage": 91.7547,
+    "percentage": 92.7141,
     "defense": false,
     "majorOrder": true,
     "biome": {
@@ -32,13 +16,29 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 1949,
+    "health": 503043,
+    "maxHealth": 1000000,
+    "percentage": 49.695699999999995,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 2704,
-    "health": 806376,
+    "players": 2660,
+    "health": 815533,
     "maxHealth": 1000000,
-    "percentage": 19.362399999999994,
+    "percentage": 18.446699999999993,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -51,7 +51,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 162,
+    "players": 134,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +67,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 658,
+    "players": 629,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +99,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2731,
+    "players": 2694,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +115,7 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 6888,
+    "players": 6572,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +131,7 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 3495,
+    "players": 3446,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,7 +147,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1022,
+    "players": 994,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -163,7 +163,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1944,
+    "players": 1919,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -179,7 +179,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 443,
+    "players": 507,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +195,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 2031,
+    "players": 2011,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -204,22 +204,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 204,
-    "name": "Merak",
-    "faction": "Automatons",
-    "players": 420,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
     "expireDateTime": null
   }
