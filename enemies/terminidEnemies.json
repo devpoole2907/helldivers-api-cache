@@ -12,7 +12,7 @@
     {
         "name": "Hunter",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"]
     },
     {
         "name": "Stalker",
