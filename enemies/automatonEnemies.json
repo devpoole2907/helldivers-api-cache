@@ -47,6 +47,6 @@
     {
         "name": "Dropship",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Quasar Cannon", "Recoilless Rifle", "Expendable Anti-Tank"]
     }
 ]
