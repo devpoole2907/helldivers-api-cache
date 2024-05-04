@@ -11,7 +11,7 @@
     },
     {
         "name": "Scout Strider",
-        "description": "",
+        "description": "The Scout Strider, a machine operated by another machine, functions as a mobile turret under the limited control of an Automaton Trooper. This setup represents yet another futile endeavor to mimic true intelligence by commanding a device even more basic than the operator itself.",
         "recommendedStratagems": ["Recoilless Rifle", "Autocannon", "Railgun", "Expendable Anti-Tank"]
     },
     {
