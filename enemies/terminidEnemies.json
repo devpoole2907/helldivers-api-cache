@@ -27,7 +27,7 @@
     {
         "name": "Charger",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"]
     },
     {
         "name": "Brood Commander",
@@ -37,7 +37,7 @@
     {
         "name": "Bile Titan",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Autocannon", "Orbital Precision Strike", "Eagle 500KG Bomb", "Eagle 110mm Rocket Pods", "Railgun", "Expendable Anti-Tank", "Orbital Railcannon Strike", "Jump Pack"]
     },
     {
         "name": "Shrieker",
