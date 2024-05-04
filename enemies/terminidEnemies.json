@@ -32,7 +32,7 @@
     {
         "name": "Brood Commander",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Anti-Materiel Rifle", "Railgun", "Laser Cannon", "Mortar Sentry", "Autocannon"]
     },
     {
         "name": "Bile Titan",
