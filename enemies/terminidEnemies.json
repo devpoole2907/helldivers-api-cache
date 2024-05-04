@@ -6,7 +6,7 @@
     },
     {
         "name": "Warrior",
-        "description": "",
+        "description": "The Warrior represents the evolutionary advancement from the Scavenger and precedes the transformation into a Brood Commander, appearing at any difficulty level.\nThese entities move at a moderate pace and attack exclusively with their razor-sharp claws.",
         "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"]
     },
     {
