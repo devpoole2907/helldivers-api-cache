@@ -17,7 +17,7 @@
     {
         "name": "Stalker",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"]
     },
     {
         "name": "Bile Spewer",
