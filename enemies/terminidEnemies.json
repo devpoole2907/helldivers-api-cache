@@ -16,7 +16,7 @@
     },
     {
         "name": "Stalker",
-        "description": "",
+        "description": "The Stalker is a large-sized Terminid that originates from a Stalker Lair. It appears to be a mutated version of the Hunter, equipped with camouflage capabilities and enhanced strength. There are historical reports suggesting that this strain of Terminid was present during the First Galactic War, although there is no documented evidence of their camouflage abilities from that time.",
         "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"]
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name": "Brood Commander",
-        "description": "",
+        "description": "Named after the strain of Terminids from the First Galactic War, the Brood Commander is a heavily-armored and formidable variant of the Warrior. It belongs to the nearly-extinct Terminid Leadership Caste, marking it as a particularly dangerous adversary.",
         "recommendedStratagems": ["Anti-Materiel Rifle", "Railgun", "Laser Cannon", "Mortar Sentry", "Autocannon"]
     },
     {
