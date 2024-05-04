@@ -22,7 +22,7 @@
     {
         "name": "Bile Spewer",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Eagle 110mm Rocket Pods", "Jump Pack", "Shield Generator Pack", "Autocannon", "Anti-Materiel Rifle", "Grenade Launcher"]
     },
     {
         "name": "Charger",
