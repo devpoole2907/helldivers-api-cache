@@ -6,7 +6,7 @@
     },
     {
         "name": "Commissar",
-        "description": "",
+        "description": "The Commissar is a unique Automaton unit, acting as a simulated military leader. Enhanced with advanced processing and basic command algorithms, it orchestrates troop movements while avoiding direct combat. Despite its non-sentient nature, the Commissar is essential for coordinating Automaton infantry squads.",
         "recommendedStratagems": ["Anti-Materiel Rifle"]
     },
     {
