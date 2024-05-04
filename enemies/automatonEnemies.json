@@ -31,7 +31,7 @@
     },
     {
         "name": "Tank",
-        "description": "",
+        "description": "The Automaton Tank, a blatant imitation of Super Earth's tank designs, falls short in numerous areas, including slow turret rotation and movement speed— a rip-off of a 20th-century classic. This highlights the Automatons' nature as nothing more than copycats and thieves. In contrast, a single skilled Helldiver can dismantle these tanks, while Super Earth's versions can decimate entire platoons.",
         "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"]
     },
     {
