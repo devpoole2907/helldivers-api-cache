@@ -41,7 +41,7 @@
     },
     {
         "name": "Gunship",
-        "description": "",
+        "description": "Gunships, large aerial vehicles, patrol the vicinity of Automaton Gunship Facilities, monitoring nearby activities. Upon detecting Helldiver movements, they swiftly mobilize to scan and assess the area. Equipped with an underside turret and capable of launching a barrage of rockets, these Gunships engage upon sighting their targets. They bear a resemblance to smaller, less robust versions of Automaton Dropships, notably lacking the 'arms' used to deploy Automaton troops.",
         "recommendedStratagems": []
     },
     {
