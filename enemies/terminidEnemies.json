@@ -11,7 +11,7 @@
     },
     {
         "name": "Hunter",
-        "description": "",
+        "description": "The Hunter, a medium-sized Terminid like the Warrior, emerges on Medium difficulty and higher.\nEmploying tactics from its adolescent stage, the Pouncer, Hunters use their wings to leap great distances, stunning Helldivers and executing flank maneuvers to gain the upper hand.",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"]
     },
     {
