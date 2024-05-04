@@ -32,7 +32,7 @@
     {
         "name": "Tank",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"]
     },
     {
         "name": "Factory Strider",
