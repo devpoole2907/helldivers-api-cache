@@ -21,7 +21,7 @@
     },
     {
         "name": "Bile Spewer",
-        "description": "",
+        "description": "The Bile Spewer, a Terminid with moderate armor and size, appears on Medium difficulty and higher. It represents the adult form and third stage in a four-stage evolutionary sequence, following the Bile Spitter and Nursing Spewer and preceding the Bile Titan.\nBile Spewers discharge streams of highly corrosive acid known as 'Bile', which can impede Helldivers' movements and prove extremely lethal upon prolonged exposure. On Extreme difficulty and higher, Bile Spewers gain the capability to launch a mortar-like volley of bile into the air, significantly enhancing their range and lethality.",
         "recommendedStratagems": ["Eagle 110mm Rocket Pods", "Jump Pack", "Shield Generator Pack", "Autocannon", "Anti-Materiel Rifle", "Grenade Launcher"]
     },
     {
