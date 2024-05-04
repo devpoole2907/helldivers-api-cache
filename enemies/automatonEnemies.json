@@ -7,7 +7,7 @@
     {
         "name": "Commissar",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Anti-Materiel Rifle"]
     },
     {
         "name": "Scout Strider",
