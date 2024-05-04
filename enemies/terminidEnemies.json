@@ -7,7 +7,7 @@
     {
         "name": "Warrior",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"]
     },
     {
         "name": "Hunter",
