@@ -26,7 +26,7 @@
     },
     {
         "name": "Charger",
-        "description": "",
+        "description": "The Charger is a large, heavily armored Terminid that first appears on Medium difficulty, either as an Elimination Target or occasionally guarding the Shuttle Bay during Emergency Evacuation missions. It begins to spawn naturally and more frequently as the difficulty level increases. True to their name, Chargers aggressively charge at Helldivers, aiming to bash or trample them, which can deal substantial damage, concuss, and potentially launch their targets into the air. At close range, Chargers also deploy their claws for combat.",
         "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"]
     },
     {
