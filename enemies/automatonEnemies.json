@@ -16,7 +16,7 @@
     },
     {
         "name": "Berserker",
-        "description": "",
+        "description": "The Berserker embodies raw savagery, equipped with chainsaws each powered by a CPU dedicated to a single task: minimizing the distance between the saw and its target as swiftly as possible.",
         "recommendedStratagems": ["Autocannon", "Jump Pack", "Autocannon Sentry", "Anti-Materiel Rifle"]
     },
     {
