@@ -12,7 +12,7 @@
     {
         "name": "Scout Strider",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Recoilless Rifle", "Autocannon", "Railgun", "Expendable Anti-Tank"]
     },
     {
         "name": "Berserker",
