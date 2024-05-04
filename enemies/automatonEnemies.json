@@ -22,12 +22,12 @@
     {
         "name": "Devastator",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"]
     },
     {
         "name": "Hulk",
         "description": "",
-        "recommendedStratagems": []
+        "recommendedStratagems": ["Eagle 500KG Bomb", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Quasar Cannon", "Recoilless Rifle", "Railgun", "Anti-Materiel Rifle", "Autocannon"]
     },
     {
         "name": "Tank",
