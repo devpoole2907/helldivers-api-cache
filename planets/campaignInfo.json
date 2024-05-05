@@ -3,26 +3,26 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 32073,
-    "health": 241109,
+    "players": 32468,
+    "health": 238121,
     "maxHealth": 350000,
-    "percentage": 31.111714285714285,
+    "percentage": 31.96542857142856,
     "defense": true,
     "majorOrder": false,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1714983164.786
+    "expireDateTime": 1714983164.306
   },
   {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 73298,
-    "health": 783922,
+    "players": 74320,
+    "health": 779985,
     "maxHealth": 1000000,
-    "percentage": 21.607799999999997,
+    "percentage": 22.001499999999993,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -35,10 +35,10 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 3572,
-    "health": 979370,
+    "players": 3716,
+    "health": 980838,
     "maxHealth": 1000000,
-    "percentage": 2.0630000000000024,
+    "percentage": 1.9161999999999892,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -48,10 +48,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 9999,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 693,
+    "players": 735,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +83,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 3228,
+    "players": 3307,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +99,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 899,
+    "players": 895,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -99,7 +115,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6163,
+    "players": 6269,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +131,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 3117,
+    "players": 3123,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -124,22 +140,6 @@
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 9731,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
