@@ -502,5 +502,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EMERGENCY BROADCAST\n \nTerminid outbreaks have erupted on all Barrier Planets. The bugs appear to be showing resistance to Termicide.\n \nOn Meridia, Terminid reproduction rates have exploded overnight. While the mechanism for this adaptation is unclear, it appears to be linked to continued Termicide exposure. It cannot be allowed to spread.\n \nThe Helldivers are ordered to deactivate the Terminid Control System on the remaining Barrier Planets immediately."
+  },
+  {
+    "id": 2859,
+    "published": 7235649,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nFurther calamity has been averted, thanks to the swift and disciplined response of the Helldivers to deactivate the remaining Terminid Control System nodes. With further Termicide dispersement arrested, the remaining Barrier Planets are safe from suffering Meridia's fate. Meridia has been classified as a \"Supercolony.\"\n\nWhile the worst has been avoided, with the TCS inoperable and this new Supercolony active, the Terminids are now a greater threat than ever before."
   }
 ]
