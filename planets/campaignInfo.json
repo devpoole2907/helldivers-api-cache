@@ -3,10 +3,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 39755,
-    "health": 442847,
+    "players": 41275,
+    "health": 434126,
     "maxHealth": 1000000,
-    "percentage": 55.7153,
+    "percentage": 56.587399999999995,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -16,34 +16,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
+    "planetIndex": 115,
+    "name": "Penta",
     "faction": "Automatons",
-    "players": 4655,
-    "health": 999985,
+    "players": 4643,
+    "health": 999986,
     "maxHealth": 1000000,
-    "percentage": 0.0014999999999929514,
+    "percentage": 0.0013999999999896318,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 4621,
-    "health": 999996,
-    "maxHealth": 1000000,
-    "percentage": 0.00039999999999906777,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
@@ -51,7 +35,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 306,
+    "players": 333,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +51,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2303,
+    "players": 2265,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,7 +67,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 755,
+    "players": 761,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -96,10 +80,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 4789,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 1674,
+    "players": 1742,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -112,18 +112,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 115,
-    "name": "Penta",
+    "planetIndex": 203,
+    "name": "Menkent",
     "faction": "Automatons",
-    "players": 4551,
+    "players": 4751,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "majorOrder": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
