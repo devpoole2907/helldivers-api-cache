@@ -509,5 +509,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nFurther calamity has been averted, thanks to the swift and disciplined response of the Helldivers to deactivate the remaining Terminid Control System nodes. With further Termicide dispersement arrested, the remaining Barrier Planets are safe from suffering Meridia's fate. Meridia has been classified as a \"Supercolony.\"\n\nWhile the worst has been avoided, with the TCS inoperable and this new Supercolony active, the Terminids are now a greater threat than ever before."
+  },
+  {
+    "id": 2860,
+    "published": 7341009,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSudden, massive outbreaks, traced back to the Meridian Supercolony, have erupted on multiple planets. The Supercolony appears to be producing far more Terminid spores than other infested planets, leading to unpredictable outbreaks within its vicinity.\n\nThe Helldivers must contain these outbreaks immediately, before they spread out of control."
   }
 ]
