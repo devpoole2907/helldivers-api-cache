@@ -1,28 +1,12 @@
 [
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 17102,
-    "health": 2828,
-    "maxHealth": 350000,
-    "percentage": 99.192,
-    "defense": true,
-    "majorOrder": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": 1714983229.55
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 29914,
-    "health": 523834,
+    "players": 30166,
+    "health": 520168,
     "maxHealth": 1000000,
-    "percentage": 47.6166,
+    "percentage": 47.9832,
     "defense": false,
     "majorOrder": false,
     "biome": {
@@ -32,10 +16,26 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 2339,
+    "health": 999999,
+    "maxHealth": 1000000,
+    "percentage": 9.99999999891088e-05,
+    "defense": false,
+    "majorOrder": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 251,
+    "players": 234,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -51,7 +51,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1144,
+    "players": 1196,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -67,7 +67,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 378,
+    "players": 386,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -80,26 +80,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 2195,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "majorOrder": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 1004,
+    "players": 1022,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -115,7 +99,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 2968,
+    "players": 2942,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,7 +115,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 1225,
+    "players": 1283,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
