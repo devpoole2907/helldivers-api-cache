@@ -1,42 +1,27 @@
 [
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 8689,
-    "health": 179740,
-    "maxHealth": 300000,
-    "percentage": 40.086666666666666,
-    "defense": true,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": 1715367598.459
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 58015,
-    "health": 349337,
+    "players": 57148,
+    "health": 341384,
     "maxHealth": 400000,
-    "percentage": 12.665750000000003,
+    "percentage": 14.653999999999996,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1715441498.459
+    "expireDateTime": 1715441520.965
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 12080,
-    "health": 286635,
+    "players": 12477,
+    "health": 283704,
     "maxHealth": 1000000,
-    "percentage": 71.3365,
+    "percentage": 71.6296,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,10 +33,10 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 20018,
-    "health": 340146,
+    "players": 20277,
+    "health": 335934,
     "maxHealth": 1000000,
-    "percentage": 65.9854,
+    "percentage": 66.4066,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -60,13 +45,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 7382,
+    "health": 506405,
+    "maxHealth": 1000000,
+    "percentage": 49.3595,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 11418,
-    "health": 673696,
+    "players": 10951,
+    "health": 674294,
     "maxHealth": 1000000,
-    "percentage": 32.630399999999995,
+    "percentage": 32.5706,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -78,7 +78,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 914,
+    "players": 872,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 3029,
+    "players": 3000,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2231,
+    "players": 2244,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6576,
+    "players": 6280,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 2890,
+    "players": 2852,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 5442,
+    "players": 5277,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -161,21 +161,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 2638,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
