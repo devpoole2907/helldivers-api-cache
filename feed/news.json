@@ -523,5 +523,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nWe have failed to contain all of the outbreaks from the Meridian Supercolony. Terminids now infest more of our planets, spawning yet more agents of tyranny."
+  },
+  {
+    "id": 2862,
+    "published": 7687950,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to conduct a forceful, large-scale decommissioning of Automaton forces. The recovered scrap of dismantled bots will then be put towards construction of MD-17 Anti-Tank Mines."
+  },
+  {
+    "id": 2863,
+    "published": 7688226,
+    "type": 0,
+    "tagIds": [],
+    "message": "CONTRACTOR MESSAGE\n\nThe following is a message from Battlefield Systems, a contracted defense service:\n\n\"\"Battlefield Systems regrets to inform all Helldivers that a software issue has resulted in duplicate reporting of enemies killed during a previous Major Order. The issue has since been resolved. Users should anticipate longer times to reach target numbers of enemies to kill or dismantle.\n\nWith this issue resolved, rest assured that battlefield tracking will now return to perfect functioning.\""
   }
 ]
