@@ -3,40 +3,40 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 8465,
-    "health": 185929,
+    "players": 8466,
+    "health": 184890,
     "maxHealth": 300000,
-    "percentage": 38.02366666666667,
+    "percentage": 38.370000000000005,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1715367600.577
+    "expireDateTime": 1715367600.572
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 48772,
-    "health": 379107,
+    "players": 49679,
+    "health": 374561,
     "maxHealth": 400000,
-    "percentage": 5.223249999999993,
+    "percentage": 6.359749999999991,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1715441500.577
+    "expireDateTime": 1715441500.572
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 12009,
-    "health": 299478,
+    "players": 12024,
+    "health": 297413,
     "maxHealth": 1000000,
-    "percentage": 70.0522,
+    "percentage": 70.2587,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,10 +48,10 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 17612,
-    "health": 356574,
+    "players": 17842,
+    "health": 354083,
     "maxHealth": 1000000,
-    "percentage": 64.3426,
+    "percentage": 64.5917,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -63,10 +63,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 11223,
-    "health": 672684,
+    "players": 11055,
+    "health": 672717,
     "maxHealth": 1000000,
-    "percentage": 32.7316,
+    "percentage": 32.72829999999999,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 4958,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 766,
+    "players": 753,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2745,
+    "players": 2806,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1882,
+    "players": 1886,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 6197,
+    "players": 6193,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +153,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 2374,
+    "players": 2369,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,25 +165,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 5043,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2427,
+    "players": 2398,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
