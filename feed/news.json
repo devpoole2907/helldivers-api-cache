@@ -516,5 +516,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nSudden, massive outbreaks, traced back to the Meridian Supercolony, have erupted on multiple planets. The Supercolony appears to be producing far more Terminid spores than other infested planets, leading to unpredictable outbreaks within its vicinity.\n\nThe Helldivers must contain these outbreaks immediately, before they spread out of control."
+  },
+  {
+    "id": 2861,
+    "published": 7687819,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nWe have failed to contain all of the outbreaks from the Meridian Supercolony. Terminids now infest more of our planets, spawning yet more agents of tyranny."
   }
 ]
