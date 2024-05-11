@@ -3,40 +3,40 @@
     "planetIndex": 127,
     "name": "Angel's Venture",
     "faction": "Terminids",
-    "players": 22951,
-    "health": 397513,
+    "players": 27672,
+    "health": 394793,
     "maxHealth": 400000,
-    "percentage": 0.6217499999999916,
+    "percentage": 1.3017499999999984,
     "defense": true,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": 1715540507.075
+    "expireDateTime": 1715540510.683
   },
   {
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 6437,
-    "health": 349422,
+    "players": 6706,
+    "health": 348903,
     "maxHealth": 350000,
-    "percentage": 0.16514285714285393,
+    "percentage": 0.3134285714285596,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1715540467.075
+    "expireDateTime": 1715540470.683
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 24551,
-    "health": 10402,
+    "players": 22169,
+    "health": 3950,
     "maxHealth": 1000000,
-    "percentage": 98.9598,
+    "percentage": 99.605,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,10 +48,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 44805,
-    "health": 552579,
+    "players": 44826,
+    "health": 546559,
     "maxHealth": 1000000,
-    "percentage": 44.7421,
+    "percentage": 45.3441,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -63,10 +63,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 24534,
-    "health": 964478,
+    "players": 24907,
+    "health": 963431,
     "maxHealth": 1000000,
-    "percentage": 3.552199999999999,
+    "percentage": 3.656899999999993,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 11880,
+    "health": 999989,
+    "maxHealth": 1000000,
+    "percentage": 0.0010999999999938836,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1562,
+    "players": 1585,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4244,
+    "players": 4302,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 4207,
+    "players": 3904,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 11939,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 4057,
+    "players": 4109,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 5333,
+    "players": 4993,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
