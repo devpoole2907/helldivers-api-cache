@@ -3,10 +3,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 31187,
-    "health": 93554,
+    "players": 32547,
+    "health": 86441,
     "maxHealth": 1000000,
-    "percentage": 90.6446,
+    "percentage": 91.3559,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -18,10 +18,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 40498,
-    "health": 620081,
+    "players": 40700,
+    "health": 613607,
     "maxHealth": 1000000,
-    "percentage": 37.991899999999994,
+    "percentage": 38.6393,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -30,28 +30,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 6834,
-    "health": 974496,
-    "maxHealth": 1000000,
-    "percentage": 2.5503999999999962,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 22717,
-    "health": 975591,
+    "players": 22553,
+    "health": 974601,
     "maxHealth": 1000000,
-    "percentage": 2.440899999999999,
+    "percentage": 2.5398999999999887,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -60,17 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 11105,
-    "health": 999995,
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 6819,
+    "health": 983023,
     "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
+    "percentage": 1.6976999999999975,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   },
@@ -78,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1572,
+    "players": 1589,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4232,
+    "players": 4238,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6238,
+    "players": 6475,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,10 +105,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 10964,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 4085,
+    "players": 4054,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
