@@ -3,10 +3,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 32972,
-    "health": 73229,
+    "players": 32654,
+    "health": 66540,
     "maxHealth": 1000000,
-    "percentage": 92.6771,
+    "percentage": 93.346,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -18,10 +18,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 40718,
-    "health": 603222,
+    "players": 40599,
+    "health": 598237,
     "maxHealth": 1000000,
-    "percentage": 39.6778,
+    "percentage": 40.1763,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -33,10 +33,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 22389,
-    "health": 972885,
+    "players": 22641,
+    "health": 972169,
     "maxHealth": 1000000,
-    "percentage": 2.711500000000001,
+    "percentage": 2.7830999999999904,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 7007,
-    "health": 996026,
-    "maxHealth": 1000000,
-    "percentage": 0.3973999999999904,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1625,
+    "players": 1583,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4058,
+    "players": 4195,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6385,
+    "players": 6283,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 11087,
+    "players": 11125,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 4210,
+    "players": 4381,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,6 +116,21 @@
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 6916,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
