@@ -3,10 +3,10 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 44223,
-    "health": 117052,
+    "players": 42081,
+    "health": 107232,
     "maxHealth": 1000000,
-    "percentage": 88.2948,
+    "percentage": 89.2768,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -18,10 +18,10 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 2334,
-    "health": 528008,
+    "players": 2249,
+    "health": 532160,
     "maxHealth": 1000000,
-    "percentage": 47.1992,
+    "percentage": 46.784,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -33,10 +33,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 16977,
-    "health": 946324,
+    "players": 15923,
+    "health": 946434,
     "maxHealth": 1000000,
-    "percentage": 5.367599999999996,
+    "percentage": 5.3566,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -45,40 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 27352,
-    "health": 999990,
-    "maxHealth": 1000000,
-    "percentage": 0.000999999999990564,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 9691,
-    "health": 999999,
-    "maxHealth": 1000000,
-    "percentage": 9.99999999891088e-05,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1542,
+    "players": 1410,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4396,
+    "players": 4116,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +78,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 7200,
+    "players": 6855,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,10 +90,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 9011,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 25687,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 9924,
+    "players": 9234,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
