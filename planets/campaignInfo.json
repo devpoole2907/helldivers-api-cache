@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 43781,
-    "health": 1407,
-    "maxHealth": 1000000,
-    "percentage": 99.8593,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 2063,
-    "health": 573589,
+    "players": 2105,
+    "health": 575055,
     "maxHealth": 1000000,
-    "percentage": 42.641099999999994,
+    "percentage": 42.494499999999995,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -33,10 +18,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 16089,
-    "health": 946656,
+    "players": 16627,
+    "health": 946623,
     "maxHealth": 1000000,
-    "percentage": 5.334400000000002,
+    "percentage": 5.337699999999998,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -45,10 +30,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 25106,
+    "health": 999988,
+    "maxHealth": 1000000,
+    "percentage": 0.0011999999999972033,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1581,
+    "players": 1450,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4271,
+    "players": 4373,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 160,
+    "name": "Chort Bay",
+    "faction": "Automatons",
+    "players": 248,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 6084,
+    "players": 5992,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 9826,
+    "players": 10059,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,10 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 25556,
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 1183,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 8666,
+    "players": 8684,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
