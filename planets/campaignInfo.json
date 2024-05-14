@@ -3,10 +3,10 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 540,
-    "health": 836281,
+    "players": 591,
+    "health": 839688,
     "maxHealth": 1000000,
-    "percentage": 16.371899999999997,
+    "percentage": 16.0312,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -18,10 +18,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 12564,
-    "health": 898768,
+    "players": 13298,
+    "health": 893696,
     "maxHealth": 1000000,
-    "percentage": 10.123199999999997,
+    "percentage": 10.630399999999995,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -33,10 +33,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5358,
-    "health": 994166,
+    "players": 5696,
+    "health": 993637,
     "maxHealth": 1000000,
-    "percentage": 0.5833999999999975,
+    "percentage": 0.6362999999999914,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -45,13 +45,43 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 115,
+    "name": "Penta",
+    "faction": "Automatons",
+    "players": 3370,
+    "health": 999930,
+    "maxHealth": 1000000,
+    "percentage": 0.006999999999990791,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 9981,
+    "health": 999967,
+    "maxHealth": 1000000,
+    "percentage": 0.003299999999995862,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2362,
-    "health": 999993,
+    "players": 2432,
+    "health": 999991,
     "maxHealth": 1000000,
-    "percentage": 0.0006999999999948159,
+    "percentage": 0.0009000000000014552,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -63,7 +93,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 406,
+    "players": 437,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +108,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 529,
+    "players": 536,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2107,
+    "players": 2182,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,40 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 9431,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 2998,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3353,
+    "players": 3506,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
