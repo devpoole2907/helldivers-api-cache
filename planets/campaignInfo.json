@@ -3,10 +3,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 11563,
-    "health": 812416,
+    "players": 11475,
+    "health": 810716,
     "maxHealth": 1000000,
-    "percentage": 18.758399999999995,
+    "percentage": 18.928399999999996,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -18,10 +18,10 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 4963,
-    "health": 999301,
+    "players": 4671,
+    "health": 999489,
     "maxHealth": 1000000,
-    "percentage": 0.06989999999998986,
+    "percentage": 0.05109999999999104,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,17 +30,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 5259,
-    "health": 999778,
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 10423,
+    "health": 999979,
     "maxHealth": 1000000,
-    "percentage": 0.022199999999998,
+    "percentage": 0.0020999999999986585,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 2669,
+    "health": 999995,
+    "maxHealth": 1000000,
+    "percentage": 0.0004999999999881766,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
     "expireDateTime": null
   },
@@ -48,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 404,
+    "players": 423,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
-    "faction": "Automatons",
-    "players": 2723,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 936,
+    "players": 871,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2240,
+    "players": 2197,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,17 +105,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 10686,
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 5105,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   },
@@ -123,7 +123,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3546,
+    "players": 3522,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 387,
+    "players": 363,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
