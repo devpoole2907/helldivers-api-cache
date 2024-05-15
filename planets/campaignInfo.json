@@ -3,40 +3,40 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 17687,
-    "health": 398682,
+    "players": 21555,
+    "health": 395177,
     "maxHealth": 400000,
-    "percentage": 0.3294999999999959,
+    "percentage": 1.2057499999999948,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1715872292.324
+    "expireDateTime": 1715872289.133
   },
   {
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 2675,
-    "health": 449827,
+    "players": 3032,
+    "health": 449343,
     "maxHealth": 450000,
-    "percentage": 0.038444444444436954,
+    "percentage": 0.1460000000000008,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1715872422.324
+    "expireDateTime": 1715872419.133
   },
   {
     "planetIndex": 127,
     "name": "Angel's Venture",
     "faction": "Terminids",
-    "players": 25906,
-    "health": 285506,
+    "players": 33863,
+    "health": 290759,
     "maxHealth": 1000000,
-    "percentage": 71.4494,
+    "percentage": 70.9241,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 6287,
-    "health": 725586,
+    "players": 4225,
+    "health": 725355,
     "maxHealth": 1000000,
-    "percentage": 27.4414,
+    "percentage": 27.4645,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 11638,
-    "health": 999036,
-    "maxHealth": 1000000,
-    "percentage": 0.0963999999999885,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 224,
+    "players": 186,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1738,
+    "players": 1268,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 408,
+    "players": 337,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2395,
+    "players": 1870,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 3171,
+    "players": 2205,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,10 +135,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 7952,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 2229,
+    "players": 1520,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 4267,
+    "players": 3155,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 306,
+    "players": 247,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
