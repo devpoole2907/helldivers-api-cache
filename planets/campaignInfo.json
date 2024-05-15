@@ -1,42 +1,42 @@
 [
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 48,
-    "health": 450000,
-    "maxHealth": 450000,
-    "percentage": 0,
-    "defense": true,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": 1715872411.081
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1241,
-    "health": 400000,
+    "players": 9491,
+    "health": 399903,
     "maxHealth": 400000,
-    "percentage": 0,
+    "percentage": 0.024249999999994998,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1715872281.081
+    "expireDateTime": 1715872291.118
+  },
+  {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 1506,
+    "health": 449985,
+    "maxHealth": 450000,
+    "percentage": 0.0033333333333303017,
+    "defense": true,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": 1715872421.118
   },
   {
     "planetIndex": 127,
     "name": "Angel's Venture",
     "faction": "Terminids",
-    "players": 849,
-    "health": 271035,
+    "players": 12501,
+    "health": 277005,
     "maxHealth": 1000000,
-    "percentage": 72.8965,
+    "percentage": 72.2995,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 16682,
-    "health": 728773,
+    "players": 11378,
+    "health": 727000,
     "maxHealth": 1000000,
-    "percentage": 27.122699999999995,
+    "percentage": 27.299999999999997,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -63,10 +63,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 24257,
-    "health": 998147,
+    "players": 18594,
+    "health": 997975,
     "maxHealth": 1000000,
-    "percentage": 0.18529999999999802,
+    "percentage": 0.20250000000000057,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -75,17 +75,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
+    "planetIndex": 115,
+    "name": "Penta",
     "faction": "Automatons",
-    "players": 3527,
-    "health": 999987,
+    "players": 3768,
+    "health": 999992,
     "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
+    "percentage": 0.0007999999999981355,
     "defense": false,
     "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 4925,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   },
@@ -93,7 +108,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 606,
+    "players": 436,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 2567,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 993,
+    "players": 677,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +153,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 4470,
+    "players": 3507,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,40 +165,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 6973,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 5549,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 8116,
+    "players": 6273,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 565,
+    "players": 458,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
