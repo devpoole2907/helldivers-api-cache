@@ -537,5 +537,19 @@
     "type": 0,
     "tagIds": [],
     "message": "CONTRACTOR MESSAGE\n\nThe following is a message from Battlefield Systems, a contracted defense service:\n\n\"\"Battlefield Systems regrets to inform all Helldivers that a software issue has resulted in duplicate reporting of enemies killed during a previous Major Order. The issue has since been resolved. Users should anticipate longer times to reach target numbers of enemies to kill or dismantle.\n\nWith this issue resolved, rest assured that battlefield tracking will now return to perfect functioning.\""
+  },
+  {
+    "id": 2864,
+    "published": 8120380,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nDespite the best efforts of the Helldivers to decommission as many Automatons as possible, our scrap recollection efforts ultimately fell short. Construction of MD-17 Anti-Tank Mines will be, once again, delayed."
+  },
+  {
+    "id": 2865,
+    "published": 8120759,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWar has been declared. Mobilization across all sectors of the industry and economy has begun. Billions of able-bodied citizens from across the Federation have already volunteered for conscription.\n\nTo train these new recruits, massive new facilities are being erected on a small number of lightly-populated planets. The Helldivers must hold the planets construction is completed."
   }
 ]
