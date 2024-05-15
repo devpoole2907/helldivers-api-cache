@@ -3,10 +3,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 13211,
-    "health": 770089,
+    "players": 13769,
+    "health": 764041,
     "maxHealth": 1000000,
-    "percentage": 22.991100000000003,
+    "percentage": 23.5959,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -18,10 +18,10 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5199,
-    "health": 999400,
+    "players": 5491,
+    "health": 999259,
     "maxHealth": 1000000,
-    "percentage": 0.060000000000002274,
+    "percentage": 0.07410000000000139,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -33,10 +33,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 11757,
-    "health": 999977,
+    "players": 13205,
+    "health": 999954,
     "maxHealth": 1000000,
-    "percentage": 0.002299999999991087,
+    "percentage": 0.004599999999996385,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -45,17 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
+    "planetIndex": 115,
+    "name": "Penta",
     "faction": "Automatons",
-    "players": 2500,
-    "health": 999993,
+    "players": 4127,
+    "health": 999986,
     "maxHealth": 1000000,
-    "percentage": 0.0006999999999948159,
+    "percentage": 0.0013999999999896318,
     "defense": false,
     "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
@@ -63,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 419,
+    "players": 413,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 2672,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 675,
+    "players": 694,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2453,
+    "players": 2724,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 115,
-    "name": "Penta",
-    "faction": "Automatons",
-    "players": 3797,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 4129,
+    "players": 4437,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 393,
+    "players": 400,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
