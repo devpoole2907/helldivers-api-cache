@@ -1,42 +1,27 @@
 [
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 8713,
-    "health": 363197,
-    "maxHealth": 450000,
-    "percentage": 19.289555555555552,
-    "defense": true,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": 1715872871.063
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 33558,
-    "health": 693038,
+    "players": 38882,
+    "health": 682249,
     "maxHealth": 700000,
-    "percentage": 0.9945714285714189,
+    "percentage": 2.5358571428571395,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1716040871.063
+    "expireDateTime": 1716040870.276
   },
   {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 15845,
-    "health": 22107,
+    "players": 15244,
+    "health": 11915,
     "maxHealth": 1000000,
-    "percentage": 97.7893,
+    "percentage": 98.8085,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -45,13 +30,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 6550,
+    "health": 499895,
+    "maxHealth": 1000000,
+    "percentage": 50.0105,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 2698,
-    "health": 879030,
+    "players": 2148,
+    "health": 881567,
     "maxHealth": 1000000,
-    "percentage": 12.096999999999994,
+    "percentage": 11.8433,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -63,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 158,
+    "players": 157,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 948,
+    "players": 817,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 240,
+    "players": 196,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 1253,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1780,
+    "players": 1462,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 4585,
+    "players": 4567,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 875,
+    "players": 709,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1933,
+    "players": 1989,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +168,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 187,
+    "players": 178,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
