@@ -3,40 +3,40 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 17206,
-    "health": 126261,
+    "players": 16163,
+    "health": 122480,
     "maxHealth": 400000,
-    "percentage": 68.43475000000001,
+    "percentage": 69.38,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1715872510.191
+    "expireDateTime": 1715872510.235
   },
   {
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 2207,
-    "health": 419560,
+    "players": 2054,
+    "health": 419109,
     "maxHealth": 450000,
-    "percentage": 6.764444444444436,
+    "percentage": 6.864666666666665,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1715872640.191
+    "expireDateTime": 1715872640.235
   },
   {
     "planetIndex": 127,
     "name": "Angel's Venture",
     "faction": "Terminids",
-    "players": 27849,
-    "health": 74983,
+    "players": 26413,
+    "health": 71618,
     "maxHealth": 1000000,
-    "percentage": 92.5017,
+    "percentage": 92.8382,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1315,
-    "health": 825230,
+    "players": 1300,
+    "health": 826938,
     "maxHealth": 1000000,
-    "percentage": 17.47699999999999,
+    "percentage": 17.30619999999999,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 1011,
+    "health": 999999,
+    "maxHealth": 1000000,
+    "percentage": 9.99999999891088e-05,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 123,
+    "players": 125,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 550,
+    "players": 533,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 157,
+    "players": 152,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 829,
+    "players": 735,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 1050,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2226,
+    "players": 2062,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 641,
+    "players": 581,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1055,
+    "players": 989,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 118,
+    "players": 102,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
