@@ -3,25 +3,55 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 8950,
-    "health": 270039,
+    "players": 8531,
+    "health": 265198,
     "maxHealth": 450000,
-    "percentage": 39.99133333333333,
+    "percentage": 41.06711111111111,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1716120213.726
+    "expireDateTime": 1716120212.839
+  },
+  {
+    "planetIndex": 127,
+    "name": "Angel's Venture",
+    "faction": "Terminids",
+    "players": 7959,
+    "health": 399624,
+    "maxHealth": 400000,
+    "percentage": 0.09399999999999409,
+    "defense": true,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": 1716204022.839
+  },
+  {
+    "planetIndex": 125,
+    "name": "Fenrir III",
+    "faction": "Terminids",
+    "players": 3754,
+    "health": 449844,
+    "maxHealth": 450000,
+    "percentage": 0.0346666666666664,
+    "defense": true,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": 1716203992.839
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 32081,
-    "health": 849587,
+    "players": 27521,
+    "health": 835531,
     "maxHealth": 1000000,
-    "percentage": 15.041299999999993,
+    "percentage": 16.4469,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 2322,
+    "health": 999989,
+    "maxHealth": 1000000,
+    "percentage": 0.0010999999999938836,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 203,
+    "players": 210,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1178,
+    "players": 1101,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +108,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 282,
+    "players": 257,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 5304,
+    "players": 4298,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 2329,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 3514,
+    "players": 3305,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +153,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 1043,
+    "players": 1143,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +168,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 7204,
+    "players": 6128,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +183,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 232,
+    "players": 231,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
