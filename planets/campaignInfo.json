@@ -3,40 +3,40 @@
     "planetIndex": 127,
     "name": "Angel's Venture",
     "faction": "Terminids",
-    "players": 68127,
-    "health": 91652,
+    "players": 68946,
+    "health": 64092,
     "maxHealth": 400000,
-    "percentage": 77.087,
+    "percentage": 83.977,
     "defense": true,
     "biome": {
       "slug": "tundra",
       "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
-    "expireDateTime": 1716204060.516
+    "expireDateTime": 1716204067
   },
   {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 18662,
-    "health": 367653,
+    "players": 19268,
+    "health": 360342,
     "maxHealth": 450000,
-    "percentage": 18.299333333333323,
+    "percentage": 19.923999999999992,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1716204030.516
+    "expireDateTime": 1716204037
   },
   {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 14200,
-    "health": 517882,
+    "players": 14410,
+    "health": 517858,
     "maxHealth": 1000000,
-    "percentage": 48.2118,
+    "percentage": 48.2142,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -48,10 +48,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 13795,
-    "health": 872282,
+    "players": 13558,
+    "health": 879937,
     "maxHealth": 1000000,
-    "percentage": 12.771799999999999,
+    "percentage": 12.006299999999996,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 7608,
-    "health": 999987,
-    "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 764,
+    "players": 823,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 2399,
+    "players": 2397,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 3245,
+    "players": 3321,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5072,
+    "players": 5056,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 7543,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 4443,
+    "players": 4548,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 695,
+    "players": 735,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
