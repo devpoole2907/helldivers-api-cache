@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Super Earth High Command is aware of an issue with the SUPERSTORE only displaying helmets. Stand by for an update.",
+    "prominentAlert": "The SUPERSTORE is currently experiencing issues. Please stand by.",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
