@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 125,
-    "name": "Fenrir III",
-    "faction": "Terminids",
-    "players": 31340,
-    "health": 1611,
-    "maxHealth": 450000,
-    "percentage": 99.642,
-    "defense": true,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-    },
-    "expireDateTime": 1716204083.377
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 6354,
-    "health": 508642,
+    "players": 6171,
+    "health": 508007,
     "maxHealth": 1000000,
-    "percentage": 49.135799999999996,
+    "percentage": 49.1993,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -33,10 +18,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 7685,
-    "health": 984332,
+    "players": 16833,
+    "health": 990326,
     "maxHealth": 1000000,
-    "percentage": 1.5668000000000006,
+    "percentage": 0.9673999999999978,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -45,10 +30,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 2396,
+    "health": 999976,
+    "maxHealth": 1000000,
+    "percentage": 0.0023999999999944066,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 348,
+    "players": 327,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1146,
+    "players": 1148,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1917,
+    "players": 3962,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 2409,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 3286,
+    "players": 3196,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 2725,
+    "players": 4392,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 310,
+    "players": 312,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
