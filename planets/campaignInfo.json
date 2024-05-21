@@ -1,12 +1,27 @@
 [
   {
+    "planetIndex": 126,
+    "name": "Turing",
+    "faction": "Terminids",
+    "players": 1852,
+    "health": 499976,
+    "maxHealth": 500000,
+    "percentage": 0.004799999999988813,
+    "defense": true,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+    },
+    "expireDateTime": 1716369620.599
+  },
+  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 5184,
-    "health": 505052,
+    "players": 5226,
+    "health": 504631,
     "maxHealth": 1000000,
-    "percentage": 49.4948,
+    "percentage": 49.536899999999996,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -18,10 +33,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 1086,
-    "health": 505280,
+    "players": 961,
+    "health": 507214,
     "maxHealth": 1000000,
-    "percentage": 49.471999999999994,
+    "percentage": 49.2786,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -33,10 +48,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 15301,
-    "health": 601168,
+    "players": 14551,
+    "health": 595399,
     "maxHealth": 1000000,
-    "percentage": 39.883199999999995,
+    "percentage": 40.4601,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -45,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
-    "faction": "Automatons",
-    "players": 384,
-    "health": 999995,
-    "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 111,
+    "players": 106,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 361,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2551,
+    "players": 2392,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 944,
+    "players": 966,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3305,
+    "players": 3161,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 99,
+    "players": 109,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
