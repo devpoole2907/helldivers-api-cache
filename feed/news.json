@@ -572,5 +572,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nWe have acquired imagery of a massive new Automaton factory nearing completion on the planet Varylia 5. This factory, if liberated, could be retrofitted to allow the construction of a dual-autocannon Exosuit variant: the EXO-49 EMANCIPATOR EXOSUIT.\n\nThe Helldivers are ordered to liberate Varylia 5. Consult the Galactic Map on your Super Destroyer for a complete briefing."
+  },
+  {
+    "id": 2869,
+    "published": 8839417,
+    "type": 0,
+    "tagIds": [],
+    "message": "BATTLEFRONT UPDATE\n\nFresh intel warns of an increased level of Automaton resistance, likely a last-ditch effort to forestall their inevitable defeat. Press even harder!"
   }
 ]
