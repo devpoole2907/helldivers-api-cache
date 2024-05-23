@@ -3,10 +3,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 6717,
-    "health": 174256,
+    "players": 6966,
+    "health": 170720,
     "maxHealth": 1000000,
-    "percentage": 82.5744,
+    "percentage": 82.928,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -18,10 +18,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 15879,
-    "health": 763220,
+    "players": 16198,
+    "health": 755953,
     "maxHealth": 1000000,
-    "percentage": 23.677999999999997,
+    "percentage": 24.40469999999999,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -33,10 +33,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 699,
-    "health": 946102,
+    "players": 701,
+    "health": 955151,
     "maxHealth": 1000000,
-    "percentage": 5.389799999999994,
+    "percentage": 4.484899999999996,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -45,17 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 1266,
-    "health": 999991,
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 3041,
+    "health": 999999,
     "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
+    "percentage": 9.99999999891088e-05,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   },
@@ -63,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 145,
+    "players": 141,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 519,
+    "players": 535,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,17 +90,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 2941,
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 1265,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   },
@@ -108,7 +108,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 141,
+    "players": 137,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
