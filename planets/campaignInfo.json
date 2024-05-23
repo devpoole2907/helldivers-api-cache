@@ -3,10 +3,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 6165,
-    "health": 181716,
+    "players": 6477,
+    "health": 179674,
     "maxHealth": 1000000,
-    "percentage": 81.8284,
+    "percentage": 82.0326,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -18,10 +18,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 15239,
-    "health": 778267,
+    "players": 15315,
+    "health": 773137,
     "maxHealth": 1000000,
-    "percentage": 22.173299999999998,
+    "percentage": 22.686300000000003,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -33,10 +33,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 638,
-    "health": 926712,
+    "players": 647,
+    "health": 933155,
     "maxHealth": 1000000,
-    "percentage": 7.328800000000001,
+    "percentage": 6.6845,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 1268,
+    "health": 999931,
+    "maxHealth": 1000000,
+    "percentage": 0.0069000000000016826,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 153,
+    "players": 169,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 503,
+    "players": 483,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2935,
+    "players": 2985,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 1191,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 148,
+    "players": 137,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
