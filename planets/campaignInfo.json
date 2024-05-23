@@ -3,40 +3,40 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 6267,
-    "health": 448437,
+    "players": 9397,
+    "health": 443095,
     "maxHealth": 450000,
-    "percentage": 0.3473333333333244,
+    "percentage": 1.5344444444444463,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1716549352.096
+    "expireDateTime": 1716549352.19
   },
   {
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 643,
-    "health": 399885,
+    "players": 729,
+    "health": 399612,
     "maxHealth": 400000,
-    "percentage": 0.028750000000002274,
+    "percentage": 0.0969999999999942,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1716549402.096
+    "expireDateTime": 1716549402.19
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 7424,
-    "health": 154458,
+    "players": 7792,
+    "health": 146975,
     "maxHealth": 1000000,
-    "percentage": 84.5542,
+    "percentage": 85.3025,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,10 +48,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 15152,
-    "health": 722708,
+    "players": 15291,
+    "health": 709591,
     "maxHealth": 1000000,
-    "percentage": 27.72919999999999,
+    "percentage": 29.040899999999993,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 244,
-    "name": "Varylia 5",
-    "faction": "Automatons",
-    "players": 701,
-    "health": 998640,
-    "maxHealth": 1000000,
-    "percentage": 0.13599999999999568,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 138,
+    "players": 185,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 564,
+    "players": 630,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2422,
+    "players": 2317,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1389,
+    "players": 1502,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 244,
+    "name": "Varylia 5",
+    "faction": "Automatons",
+    "players": 708,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 146,
+    "players": 128,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
