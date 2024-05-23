@@ -558,5 +558,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nAcross the Federation, patriotic citizens are doing their part for the war effort. The fervent faith of Super Earth citizens for the war effort deserves to be rewarded\u2014viscerally.\n\nTo that end, the Helldivers are ordered to demonstrate the unassailable might of a united citizenry by destroying greater numbers of our enemies than ever before. "
+  },
+  {
+    "id": 2867,
+    "published": 8812651,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nHuge quantities of Terminids and Automatons have been righteously terminated by the valiant Helldivers, but not in high enough quantities to further inspire the already unquestionably patriotic citizens of Super Earth. They will continue to support the war effort with unquestionable unity and grim determination, yearning for a more hopeful future."
+  },
+  {
+    "id": 2868,
+    "published": 8812915,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWe have acquired imagery of a massive new Automaton factory nearing completion on the planet Varylia 5. This factory, if liberated, could be retrofitted to allow the construction of a dual-autocannon Exosuit variant: the EXO-49 EMANCIPATOR EXOSUIT.\n\nThe Helldivers are ordered to liberate Varylia 5. Consult the Galactic Map on your Super Destroyer for a complete briefing."
   }
 ]
