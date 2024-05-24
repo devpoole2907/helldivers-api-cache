@@ -3,40 +3,40 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 4645,
-    "health": 209630,
+    "players": 4301,
+    "health": 205030,
     "maxHealth": 450000,
-    "percentage": 53.41555555555556,
+    "percentage": 54.437777777777775,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1716549481.441
+    "expireDateTime": 1716549488.14
   },
   {
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 436,
-    "health": 387210,
+    "players": 387,
+    "health": 386948,
     "maxHealth": 400000,
-    "percentage": 3.197499999999991,
+    "percentage": 3.262999999999991,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1716549531.441
+    "expireDateTime": 1716549538.14
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 994,
-    "health": 188796,
+    "players": 950,
+    "health": 191425,
     "maxHealth": 1000000,
-    "percentage": 81.1204,
+    "percentage": 80.8575,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,10 +48,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 21088,
-    "health": 702467,
+    "players": 20101,
+    "health": 697879,
     "maxHealth": 1000000,
-    "percentage": 29.753299999999996,
+    "percentage": 30.212099999999992,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -63,10 +63,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3272,
-    "health": 900569,
+    "players": 3068,
+    "health": 907180,
     "maxHealth": 1000000,
-    "percentage": 9.943100000000001,
+    "percentage": 9.281999999999996,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 642,
+    "health": 999995,
+    "maxHealth": 1000000,
+    "percentage": 0.0004999999999881766,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 51,
+    "players": 54,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
-    "faction": "Automatons",
-    "players": 694,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 922,
+    "players": 825,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 242,
+    "players": 219,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 42,
+    "players": 39,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
