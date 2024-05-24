@@ -1,42 +1,12 @@
 [
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 5396,
-    "health": 172635,
-    "maxHealth": 450000,
-    "percentage": 61.63666666666666,
-    "defense": true,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": 1716549514.847
-  },
-  {
-    "planetIndex": 247,
-    "name": "Wezen",
-    "faction": "Automatons",
-    "players": 408,
-    "health": 385189,
-    "maxHealth": 400000,
-    "percentage": 3.7027499999999947,
-    "defense": true,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": 1716549564.847
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1035,
-    "health": 211259,
+    "players": 1120,
+    "health": 214223,
     "maxHealth": 1000000,
-    "percentage": 78.8741,
+    "percentage": 78.5777,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -45,13 +15,43 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 5475,
+    "health": 503573,
+    "maxHealth": 1000000,
+    "percentage": 49.6427,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 247,
+    "name": "Wezen",
+    "faction": "Automatons",
+    "players": 242,
+    "health": 503692,
+    "maxHealth": 1000000,
+    "percentage": 49.6308,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 24236,
-    "health": 654155,
+    "players": 26137,
+    "health": 645658,
     "maxHealth": 1000000,
-    "percentage": 34.58449999999999,
+    "percentage": 35.43419999999999,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -63,10 +63,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3672,
-    "health": 951524,
+    "players": 3972,
+    "health": 957835,
     "maxHealth": 1000000,
-    "percentage": 4.8476,
+    "percentage": 4.216499999999996,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -78,7 +78,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 31,
+    "players": 49,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 810,
+    "players": 921,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 953,
+    "players": 1131,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 290,
+    "players": 285,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 37,
+    "players": 45,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
