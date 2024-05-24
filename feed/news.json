@@ -579,5 +579,19 @@
     "type": 0,
     "tagIds": [],
     "message": "BATTLEFRONT UPDATE\n\nFresh intel warns of an increased level of Automaton resistance, likely a last-ditch effort to forestall their inevitable defeat. Press even harder!"
+  },
+  {
+    "id": 2870,
+    "published": 8911977,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL BRIEF\n\nSpore activity on the Meridian Supercolony has sharply increased. Sudden Terminid outbreaks on previously-safe planets may increase in frequency as a result."
+  },
+  {
+    "id": 2871,
+    "published": 8912452,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC GUIDANCE\n\nThe Terminids are attacking Angel's Venture. If they succeed, the valuable, newly-constructed SEAF Training Facility on the planet will be destroyed, which will significantly decrease the capability of the SEAF to aid in galactic defense.\n\nSuper Earth High Command recommends prioritizing the defense of Angel's Venture."
   }
 ]
