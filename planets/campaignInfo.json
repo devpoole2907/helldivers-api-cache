@@ -3,25 +3,25 @@
     "planetIndex": 79,
     "name": "Heeth",
     "faction": "Terminids",
-    "players": 37695,
-    "health": 332665,
+    "players": 36784,
+    "health": 317768,
     "maxHealth": 600000,
-    "percentage": 44.55583333333333,
+    "percentage": 47.03866666666667,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1716822245.895
+    "expireDateTime": 1716822244.776
   },
   {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6408,
-    "health": 480026,
+    "players": 5941,
+    "health": 477647,
     "maxHealth": 1000000,
-    "percentage": 51.9974,
+    "percentage": 52.235299999999995,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -33,10 +33,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 16931,
-    "health": 599000,
+    "players": 16467,
+    "health": 596167,
     "maxHealth": 1000000,
-    "percentage": 40.099999999999994,
+    "percentage": 40.3833,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,10 +48,10 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 1722,
-    "health": 862292,
+    "players": 1625,
+    "health": 865148,
     "maxHealth": 1000000,
-    "percentage": 13.770799999999994,
+    "percentage": 13.485199999999992,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -60,10 +60,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 3417,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 158,
+    "name": "Choepessa IV",
+    "faction": "Automatons",
+    "players": 5619,
+    "health": 999995,
+    "maxHealth": 1000000,
+    "percentage": 0.0004999999999881766,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 680,
+    "players": 690,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,40 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 158,
-    "name": "Choepessa IV",
-    "faction": "Automatons",
-    "players": 5789,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 3484,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 2536,
+    "players": 2511,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 3652,
+    "players": 3503,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 530,
+    "players": 494,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 267,
+    "players": 255,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
