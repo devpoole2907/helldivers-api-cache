@@ -607,5 +607,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nAutomaton resistance has faltered, no doubt due to the stalwart and unrelenting pressure applied by the valiant Helldivers. Maintain the offensive; liberate the Petafactory on Varylia 5."
+  },
+  {
+    "id": 2874,
+    "published": 9066669,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Automaton Petafactory on Varylia 5 has been liberated by the Helldivers, thwarting their expansion and allowing production to begin on the EXO-49 EMANCIPATOR EXOSUIT. Consult the Galactic Map on your Super Destroyer for a full briefing."
   }
 ]
