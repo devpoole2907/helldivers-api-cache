@@ -614,5 +614,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Automaton Petafactory on Varylia 5 has been liberated by the Helldivers, thwarting their expansion and allowing production to begin on the EXO-49 EMANCIPATOR EXOSUIT. Consult the Galactic Map on your Super Destroyer for a full briefing."
+  },
+  {
+    "id": 2875,
+    "published": 9068334,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL BRIEF\n\nSpore production on the Meridian Supercolony has doubled overnight, indicating continued evolution of the Terminid threat. Increased Terminid outbreaks on nearby planets is highly likely. Helldivers are advised to exercise extreme vigilance in stamping out these outbreaks, lest they spread out of control."
+  },
+  {
+    "id": 2876,
+    "published": 9068598,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC GUIDANCE\n\nThe Terminids are attacking Heeth, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted.\n\nTherefore, Super Earth High Command recommends prioritizing the defense of Heeth."
   }
 ]
