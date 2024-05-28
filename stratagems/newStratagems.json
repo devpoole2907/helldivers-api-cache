@@ -1,9 +1,9 @@
 [
     {
-        "id": "456e4587-e89b-12d3-a456-426614224000",
-        "name": "Airburst Rocket Launcher",
-        "sequence": ["down", "up", "up", "left", "right"],
-        "type": "admin",
-        "imageUrl": "https://github.com/devpoole2907/helldivers-api-cache/blob/main/stratagems/Airburst%20Rocket%20Launcher.png?raw=true"
+        "id": "456e4587-e89b-12d3-a496-426674124584",
+        "name": "Emancipator Exosuit",
+        "sequence": ["left", "down", "right", "up", "left", "down", "up"],
+        "type": "workshop",
+        "imageUrl": "https://github.com/devpoole2907/helldivers-api-cache/blob/main/stratagems/Emancipator%20Exosuit.png?raw=true"
     }
 ]
