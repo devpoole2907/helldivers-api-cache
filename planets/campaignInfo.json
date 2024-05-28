@@ -3,55 +3,55 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 3350,
-    "health": 419097,
+    "players": 3457,
+    "health": 418171,
     "maxHealth": 600000,
-    "percentage": 30.150500000000008,
+    "percentage": 30.304833333333335,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1716912048.125
+    "expireDateTime": 1716912047.25
   },
   {
     "planetIndex": 80,
     "name": "Veld",
     "faction": "Terminids",
-    "players": 2874,
-    "health": 481985,
+    "players": 2924,
+    "health": 481245,
     "maxHealth": 500000,
-    "percentage": 3.6029999999999944,
+    "percentage": 3.7509999999999906,
     "defense": true,
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
     },
-    "expireDateTime": 1716976698.125
+    "expireDateTime": 1716976697.25
   },
   {
     "planetIndex": 77,
     "name": "Cirrus",
     "faction": "Terminids",
-    "players": 3527,
-    "health": 482326,
+    "players": 3601,
+    "health": 481299,
     "maxHealth": 500000,
-    "percentage": 3.53479999999999,
+    "percentage": 3.7402000000000015,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1716976798.125
+    "expireDateTime": 1716976797.25
   },
   {
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 35550,
-    "health": 233849,
+    "players": 35948,
+    "health": 224566,
     "maxHealth": 1000000,
-    "percentage": 76.6151,
+    "percentage": 77.54339999999999,
     "defense": false,
     "biome": {
       "slug": "ethereal",
@@ -63,10 +63,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 2829,
-    "health": 542490,
+    "players": 2893,
+    "health": 543538,
     "maxHealth": 1000000,
-    "percentage": 45.751,
+    "percentage": 45.6462,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 198,
+    "name": "Marfark",
+    "faction": "Automatons",
+    "players": 941,
+    "health": 999995,
+    "maxHealth": 1000000,
+    "percentage": 0.0004999999999881766,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 116,
+    "players": 112,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1096,
+    "players": 1118,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 1102,
+    "players": 1142,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 450,
+    "players": 482,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,25 +150,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 198,
-    "name": "Marfark",
-    "faction": "Automatons",
-    "players": 903,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1080,
+    "players": 1046,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 107,
+    "players": 103,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 40,
+    "players": 51,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
