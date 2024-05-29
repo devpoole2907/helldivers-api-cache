@@ -1,42 +1,27 @@
 [
   {
-    "planetIndex": 80,
-    "name": "Veld",
-    "faction": "Terminids",
-    "players": 18525,
-    "health": 9293,
-    "maxHealth": 500000,
-    "percentage": 98.1414,
-    "defense": true,
-    "biome": {
-      "slug": "rainforest",
-      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-    },
-    "expireDateTime": 1716976794.387
-  },
-  {
     "planetIndex": 77,
     "name": "Cirrus",
     "faction": "Terminids",
-    "players": 5795,
-    "health": 293710,
+    "players": 5938,
+    "health": 289893,
     "maxHealth": 500000,
-    "percentage": 41.257999999999996,
+    "percentage": 42.0214,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1716976894.387
+    "expireDateTime": 1716976899.828
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 2306,
-    "health": 422807,
+    "players": 2162,
+    "health": 421227,
     "maxHealth": 1000000,
-    "percentage": 57.7193,
+    "percentage": 57.8773,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,10 +33,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 2807,
-    "health": 593523,
+    "players": 2601,
+    "health": 594217,
     "maxHealth": 1000000,
-    "percentage": 40.6477,
+    "percentage": 40.5783,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -60,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 1558,
+    "health": 999999,
+    "maxHealth": 1000000,
+    "percentage": 9.99999999891088e-05,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 149,
+    "players": 125,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 730,
+    "players": 687,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 1712,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 440,
+    "players": 414,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1004,
+    "players": 911,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 669,
+    "players": 623,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 105,
+    "players": 98,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 60,
+    "players": 56,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
