@@ -3,40 +3,40 @@
     "planetIndex": 80,
     "name": "Veld",
     "faction": "Terminids",
-    "players": 41596,
-    "health": 217493,
+    "players": 41281,
+    "health": 193574,
     "maxHealth": 500000,
-    "percentage": 56.5014,
+    "percentage": 61.285199999999996,
     "defense": true,
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
     },
-    "expireDateTime": 1716976768.841
+    "expireDateTime": 1716976773.283
   },
   {
     "planetIndex": 77,
     "name": "Cirrus",
     "faction": "Terminids",
-    "players": 14647,
-    "health": 359116,
+    "players": 14441,
+    "health": 350803,
     "maxHealth": 500000,
-    "percentage": 28.1768,
+    "percentage": 29.839399999999998,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1716976868.841
+    "expireDateTime": 1716976873.283
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 5993,
-    "health": 450869,
+    "players": 5954,
+    "health": 447612,
     "maxHealth": 1000000,
-    "percentage": 54.9131,
+    "percentage": 55.2388,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,10 +48,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 6565,
-    "health": 582928,
+    "players": 6611,
+    "health": 583921,
     "maxHealth": 1000000,
-    "percentage": 41.7072,
+    "percentage": 41.607899999999994,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 4278,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 323,
+    "players": 306,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1664,
+    "players": 1687,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 4496,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1047,
+    "players": 915,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 2047,
+    "players": 1973,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1616,
+    "players": 1587,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 341,
+    "players": 305,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 127,
+    "players": 149,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
