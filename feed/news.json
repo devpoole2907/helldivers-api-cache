@@ -649,5 +649,11 @@
     "type": 0,
     "tagIds": [],
     "message": " EMERGENCY ALERT\n\nSpore production on the Meridian Supercolony has risen to critical levels. Planets in the vicinity of the Supercolony are under imminent threat of infestation. Emergency evacuation orders have been issued. All Helldivers are called to address this critical situation."
+  },
+  {
+    "id": 2880,
+    "published": 9388203,
+    "type": 0,
+    "tagIds": []
   }
 ]
