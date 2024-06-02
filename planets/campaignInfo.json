@@ -1,57 +1,27 @@
 [
   {
-    "planetIndex": 126,
-    "name": "Turing",
-    "faction": "Terminids",
-    "players": 9362,
-    "health": 343389,
-    "maxHealth": 600000,
-    "percentage": 42.7685,
-    "defense": true,
-    "biome": {
-      "slug": "ethereal",
-      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-    },
-    "expireDateTime": 1717341673.016
-  },
-  {
-    "planetIndex": 129,
-    "name": "Acamar IV",
-    "faction": "Terminids",
-    "players": 3513,
-    "health": 505785,
-    "maxHealth": 600000,
-    "percentage": 15.7025,
-    "defense": true,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": 1717341703.016
-  },
-  {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 7676,
-    "health": 566641,
+    "players": 8331,
+    "health": 564456,
     "maxHealth": 600000,
-    "percentage": 5.55983333333333,
+    "percentage": 5.924000000000007,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1717408343.016
+    "expireDateTime": 1717408341.173
   },
   {
     "planetIndex": 64,
     "name": "Meridia",
     "faction": "Terminids",
-    "players": 42775,
-    "health": 234213,
+    "players": 43347,
+    "health": 221473,
     "maxHealth": 1000000,
-    "percentage": 76.5787,
+    "percentage": 77.8527,
     "defense": false,
     "biome": {
       "slug": "buginfested",
@@ -60,13 +30,43 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 129,
+    "name": "Acamar IV",
+    "faction": "Terminids",
+    "players": 3335,
+    "health": 500000,
+    "maxHealth": 1000000,
+    "percentage": 50,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 126,
+    "name": "Turing",
+    "faction": "Terminids",
+    "players": 8777,
+    "health": 502970,
+    "maxHealth": 1000000,
+    "percentage": 49.702999999999996,
+    "defense": false,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 3854,
-    "health": 826453,
+    "players": 3996,
+    "health": 827691,
     "maxHealth": 1000000,
-    "percentage": 17.354699999999994,
+    "percentage": 17.23089999999999,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -78,10 +78,10 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 2690,
-    "health": 963613,
+    "players": 2673,
+    "health": 965328,
     "maxHealth": 1000000,
-    "percentage": 3.6387,
+    "percentage": 3.467199999999991,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -93,7 +93,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 226,
+    "players": 214,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 886,
+    "players": 907,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 652,
+    "players": 646,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1437,
+    "players": 1483,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1437,
+    "players": 1474,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 109,
+    "players": 125,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 78,
+    "players": 75,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
