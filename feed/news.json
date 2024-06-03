@@ -704,5 +704,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATION \"ENDURING PEACE\"\u2014SUCCESSFUL\n\nThe Supercolony has been destroyed. In its place, a beautiful black hole remains, drawing in every Terminid spore in the system.\n\nCongratulations is in order. The Helldivers won a historic victory for Managed Democracy today. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2888,
+    "published": 9772200,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWith the Supercolony destroyed, it is now finally possible to clear out the spreading Terminid infestation. Since the Terminids corrupted the perfectly-designed Terminid Control System, they have infected world after world with their tyranny, forcing colonists to evacuate their homesteads. Now, the time has come to reclaim the lost dreams of our hardworking citizens.\n\nConsult the Galactic Map on your Super Destroyer for more information."
   }
 ]
