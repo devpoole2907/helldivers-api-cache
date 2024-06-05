@@ -711,5 +711,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nWith the Supercolony destroyed, it is now finally possible to clear out the spreading Terminid infestation. Since the Terminids corrupted the perfectly-designed Terminid Control System, they have infected world after world with their tyranny, forcing colonists to evacuate their homesteads. Now, the time has come to reclaim the lost dreams of our hardworking citizens.\n\nConsult the Galactic Map on your Super Destroyer for more information."
+  },
+  {
+    "id": 2889,
+    "published": 9933019,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC GUIDANCE\n\nThe Automatons are attacking Aesir Pass, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted.\n\nTherefore, Super Earth High Command recommends prioritizing the defense of Aesir Pass."
   }
 ]
