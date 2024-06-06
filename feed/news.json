@@ -718,5 +718,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC GUIDANCE\n\nThe Automatons are attacking Aesir Pass, the site of a newly-constructed SEAF Training Facility. If the planet falls, the capability of the SEAF to replenish their forces and thereby aid in galactic defense will be significantly impacted.\n\nTherefore, Super Earth High Command recommends prioritizing the defense of Aesir Pass."
+  },
+  {
+    "id": 2890,
+    "published": 10023600,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nAesir Pass has fallen to the Automatons, and its SEAF Training Facilities have been destroyed.\n\nSEAF defense efforts have been weakened further. "
   }
 ]
