@@ -739,5 +739,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n \nOur analysts have identified a large Automaton Data Center, codenamed Database One, deep within Automaton territory. It is protected by exceptionally robust encryption protocols. Whatever data is stored there, much effort has been expended to keep it hidden. \n\nThe Helldivers are ordered to liberate the planet, capturing Database One and allowing manual extraction of the data."
+  },
+  {
+    "id": 2893,
+    "published": 10117800,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC GUIDANCE\n\nSuper Earth High Command advises all Helldivers that the shortest path to liberating Wasat, the target of the current Major Order, is through the following systems: Wezen, then Vega Bay, then finally Wasat itself.\n\nHigh Command offers this guidance in order to conserve Helldivers' critical decision-making effort, for use on the battlefield itself."
   }
 ]
