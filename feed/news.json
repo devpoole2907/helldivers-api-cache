@@ -725,5 +725,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nAesir Pass has fallen to the Automatons, and its SEAF Training Facilities have been destroyed.\n\nSEAF defense efforts have been weakened further. "
+  },
+  {
+    "id": 2891,
+    "published": 10089600,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have cleansed the Terminids from many worlds, undoing much of the crisis forced upon our citizens by their mutated Supecolony."
   }
 ]
