@@ -732,5 +732,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have cleansed the Terminids from many worlds, undoing much of the crisis forced upon our citizens by their mutated Supecolony."
+  },
+  {
+    "id": 2892,
+    "published": 10089900,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n \nOur analysts have identified a large Automaton Data Center, codenamed Database One, deep within Automaton territory. It is protected by exceptionally robust encryption protocols. Whatever data is stored there, much effort has been expended to keep it hidden. \n\nThe Helldivers are ordered to liberate the planet, capturing Database One and allowing manual extraction of the data."
   }
 ]
