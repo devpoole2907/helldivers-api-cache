@@ -3,10 +3,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 7697,
-    "health": 486263,
+    "players": 7445,
+    "health": 488721,
     "maxHealth": 1000000,
-    "percentage": 51.3737,
+    "percentage": 51.1279,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -18,10 +18,10 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 38732,
-    "health": 864835,
+    "players": 37693,
+    "health": 854732,
     "maxHealth": 1000000,
-    "percentage": 13.516499999999994,
+    "percentage": 14.526799999999994,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -30,10 +30,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 14342,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1237,
+    "players": 1111,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 4686,
+    "players": 4390,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 15095,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 10057,
+    "players": 10256,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2949,
+    "players": 2888,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
