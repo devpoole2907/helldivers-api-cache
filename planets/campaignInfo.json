@@ -3,25 +3,25 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 934,
-    "health": 323360,
+    "players": 995,
+    "health": 322974,
     "maxHealth": 350000,
-    "percentage": 7.611428571428561,
+    "percentage": 7.721714285714285,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1718035753.479
+    "expireDateTime": 1718035757.852
   },
   {
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 23840,
-    "health": 565899,
+    "players": 25111,
+    "health": 550559,
     "maxHealth": 1000000,
-    "percentage": 43.4101,
+    "percentage": 44.9441,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -30,17 +30,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 169,
-    "name": "Estanu",
+    "planetIndex": 78,
+    "name": "Crimsica",
     "faction": "Terminids",
-    "players": 5971,
-    "health": 999980,
+    "players": 7767,
+    "health": 999992,
     "maxHealth": 1000000,
-    "percentage": 0.001999999999995339,
+    "percentage": 0.0007999999999981355,
     "defense": false,
     "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
     "expireDateTime": null
   },
@@ -48,7 +48,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 789,
+    "players": 881,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 158,
+    "players": 171,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 619,
+    "players": 630,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,17 +90,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
+    "planetIndex": 169,
+    "name": "Estanu",
     "faction": "Terminids",
-    "players": 7607,
+    "players": 6298,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
     "expireDateTime": null
   },
@@ -108,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1481,
+    "players": 1565,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
