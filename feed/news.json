@@ -753,5 +753,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nDatabase One has been captured, and its encryption breached by intrepid SEAF Cyberwarfare Specialists.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2895,
+    "published": 10444219,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHigh Command has received two urgent requests for aid on planets that recently fell to the Automaton occupation: Survivors in the wreckage of a children's hospital are trapped on Vernen Wells, while explosives critical for MD-17 Anti-Tank Mines are trapped on Marfark. Consult the Galactic Map on your ship for more information."
   }
 ]
