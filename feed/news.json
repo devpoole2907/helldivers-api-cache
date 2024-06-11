@@ -746,5 +746,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC GUIDANCE\n\nSuper Earth High Command advises all Helldivers that the shortest path to liberating Wasat, the target of the current Major Order, is through the following systems: Wezen, then Vega Bay, then finally Wasat itself.\n\nHigh Command offers this guidance in order to conserve Helldivers' critical decision-making effort, for use on the battlefield itself."
+  },
+  {
+    "id": 2894,
+    "published": 10425021,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nDatabase One has been captured, and its encryption breached by intrepid SEAF Cyberwarfare Specialists.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
