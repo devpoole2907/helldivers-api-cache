@@ -3,10 +3,10 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 469,
-    "health": 814765,
+    "players": 522,
+    "health": 822080,
     "maxHealth": 1000000,
-    "percentage": 18.5235,
+    "percentage": 17.792,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -15,28 +15,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 201,
-    "name": "Meissa",
-    "faction": "Automatons",
-    "players": 4730,
-    "health": 997266,
-    "maxHealth": 1000000,
-    "percentage": 0.2733999999999952,
-    "defense": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 7539,
-    "health": 998121,
+    "players": 8212,
+    "health": 997063,
     "maxHealth": 1000000,
-    "percentage": 0.18789999999999907,
+    "percentage": 0.2937000000000012,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -45,10 +30,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 201,
+    "name": "Meissa",
+    "faction": "Automatons",
+    "players": 5581,
+    "health": 997487,
+    "maxHealth": 1000000,
+    "percentage": 0.2513000000000005,
+    "defense": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 4698,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1397,
+    "players": 1513,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 175,
+    "players": 214,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,22 +93,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 662,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 4498,
+    "players": 775,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1130,
+    "players": 1165,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
