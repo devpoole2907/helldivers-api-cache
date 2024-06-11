@@ -3,10 +3,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 38216,
-    "health": 906549,
+    "players": 39907,
+    "health": 897863,
     "maxHealth": 1000000,
-    "percentage": 9.345100000000002,
+    "percentage": 10.213699999999989,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -15,25 +15,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 242,
-    "name": "Ustotu",
-    "faction": "Automatons",
-    "players": 281,
-    "health": 995823,
-    "maxHealth": 1000000,
-    "percentage": 0.4176999999999964,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 3577,
+    "players": 3795,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +33,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 715,
+    "players": 726,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +48,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 8981,
+    "players": 9296,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 6604,
+    "players": 7054,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 2165,
+    "players": 2131,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 1638,
+    "players": 1625,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -116,6 +101,21 @@
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 242,
+    "name": "Ustotu",
+    "faction": "Automatons",
+    "players": 309,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
     "expireDateTime": null
   }
