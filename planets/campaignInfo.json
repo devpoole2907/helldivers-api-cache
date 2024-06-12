@@ -1,9 +1,24 @@
 [
   {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 30944,
+    "health": 999430,
+    "maxHealth": 1000000,
+    "percentage": 0.05700000000000216,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 1243,
+    "players": 944,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -18,7 +33,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 369,
+    "players": 361,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -33,7 +48,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 7321,
+    "players": 6841,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +63,7 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 5798,
+    "players": 5420,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1865,
+    "players": 1905,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5471,
+    "players": 5963,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 552,
+    "players": 519,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 187,
+    "players": 199,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -116,21 +131,6 @@
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 28922,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   }
