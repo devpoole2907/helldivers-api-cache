@@ -767,5 +767,26 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nAesir Pass has fallen to the Automatons, and its SEAF Training Facilities have been destroyed.\n\nSEAF defense efforts have been weakened further. "
+  },
+  {
+    "id": 2897,
+    "published": 10702729,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC REPORT\n\nVernen Wells has been liberated. SEAF forces have secured the Children's Hospital, and made contact with the civilians trapped underneath the rubble. The majority of the thousands of trapped civilians\u2014including all 4,311 very sick children\u2014are alive. Rescue operations are underway.\n\nLong-range imagery shows heavy Automaton transport activity on Marfark. The Anti-Tank Mine material has likely been moved far out of reach."
+  },
+  {
+    "id": 2898,
+    "published": 10702859,
+    "type": 0,
+    "tagIds": [],
+    "message": "void msg"
+  },
+  {
+    "id": 2899,
+    "published": 10702869,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC REPORT\n\nVernen Wells has been liberated. SEAF forces have secured the Children's Hospital, and made contact with the civilians trapped underneath the rubble. The majority of the thousands of trapped civilians\u2014including all 4,311 very sick children\u2014are alive. Rescue operations are underway.\n\nLong-range imagery shows heavy Automaton transport activity on Marfark. The Anti-Tank Mine material has likely been moved far out of reach."
   }
 ]
