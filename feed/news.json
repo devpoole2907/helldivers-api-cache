@@ -760,5 +760,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nHigh Command has received two urgent requests for aid on planets that recently fell to the Automaton occupation: Survivors in the wreckage of a children's hospital are trapped on Vernen Wells, while explosives critical for MD-17 Anti-Tank Mines are trapped on Marfark. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2896,
+    "published": 10702559,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nAesir Pass has fallen to the Automatons, and its SEAF Training Facilities have been destroyed.\n\nSEAF defense efforts have been weakened further. "
   }
 ]
