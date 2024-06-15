@@ -802,5 +802,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe Helldivers succeeded in liberating Vernen Wells in time to save the civilians trapped within. Already, the very sick children are en route to Super Citizen Mary's Hospital for Tragically Ill Youths, where they will receive the best care the Federation has to offer.\n\nMarfark remains in Automaton hands. MD-17 Anti-Tank Mine factories have been shuttered for the time being, following multiple material shortfalls."
+  },
+  {
+    "id": 2902,
+    "published": 10796100,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nTerminid population levels remain at unmanageable levels. The Terminids must be flushed out from the Mirin and Draco sectors, securing those planets for our citizens and reducing the population to a manageable size and footprint. Consult the Galactic Map on your ship for more information."
   }
 ]
