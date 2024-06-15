@@ -795,5 +795,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL REPORT\n\nThe Automatons appear to have become aware of our efforts to liberate the Anti-Tank Mine materials on Marfark, and have initiated operations to transport the material off-planet. Within 24 hours, it will be too late to secure the materials.\n\nWorkers at AT Mine Factories have been notified that their employment may be terminated."
+  },
+  {
+    "id": 2901,
+    "published": 10789905,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Helldivers succeeded in liberating Vernen Wells in time to save the civilians trapped within. Already, the very sick children are en route to Super Citizen Mary's Hospital for Tragically Ill Youths, where they will receive the best care the Federation has to offer.\n\nMarfark remains in Automaton hands. MD-17 Anti-Tank Mine factories have been shuttered for the time being, following multiple material shortfalls."
   }
 ]
