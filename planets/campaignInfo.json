@@ -3,40 +3,40 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 3397,
-    "health": 356878,
+    "players": 3398,
+    "health": 355962,
     "maxHealth": 500000,
-    "percentage": 28.624399999999994,
+    "percentage": 28.807599999999994,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1718828563.893
+    "expireDateTime": 1718828561.973
   },
   {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 12664,
-    "health": 487610,
+    "players": 12708,
+    "health": 484752,
     "maxHealth": 500000,
-    "percentage": 2.4779999999999944,
+    "percentage": 3.049599999999998,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1718889643.893
+    "expireDateTime": 1718889641.973
   },
   {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 34706,
-    "health": 257418,
+    "players": 34977,
+    "health": 250148,
     "maxHealth": 1000000,
-    "percentage": 74.2582,
+    "percentage": 74.98519999999999,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 6436,
-    "health": 999969,
-    "maxHealth": 1000000,
-    "percentage": 0.0030999999999892225,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 123,
+    "players": 104,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 237,
+    "players": 224,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 560,
+    "players": 547,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1852,
+    "players": 1774,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 552,
+    "players": 539,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 801,
+    "players": 865,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,10 +135,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 6248,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 115,
+    "players": 120,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
