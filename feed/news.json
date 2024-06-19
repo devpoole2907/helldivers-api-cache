@@ -816,5 +816,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL REPORT\n\nAbnormally high levels of interstellar spore emissions have been observed from the Terminid planets currently being liberated. Scientists assess this dispersal may be a survival adaptation in response to the destruction of their nurseries. It is unlikely to cause any long-term problems. Helldivers are advised to continue the operation with unaltered aggression."
+  },
+  {
+    "id": 2904,
+    "published": 11136705,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE \n\nIn order to assist with the liberation of Hellmire from the Terminid Swarm, the addition of the FLAM-40 FLAMETHROWER Support Weapon to all loadouts has been authorized for the next 24 hours. "
   }
 ]
