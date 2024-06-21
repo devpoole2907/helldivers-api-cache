@@ -823,5 +823,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE \n\nIn order to assist with the liberation of Hellmire from the Terminid Swarm, the addition of the FLAM-40 FLAMETHROWER Support Weapon to all loadouts has been authorized for the next 24 hours. "
+  },
+  {
+    "id": 2905,
+    "published": 11332872,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully achieved a significant reduction in Terminid population levels, proving the efficacy of targeting Terminid Nurseries directly. Many once-infested planets are now ready for our citizens to settle. This is the first step towards Terminid containment and the long-lasting prosperity it will bring our citizens."
+  },
+  {
+    "id": 2906,
+    "published": 11333109,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Automatons have been making incursions into the Xzar Sector, in an effort to re-steal the sites of their introductory crimes. Consult the Galactic Map on your ship for more information."
   }
 ]
