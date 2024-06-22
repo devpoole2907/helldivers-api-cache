@@ -3,70 +3,70 @@
     "planetIndex": 155,
     "name": "Ingmar",
     "faction": "Automatons",
-    "players": 14939,
-    "health": 26177,
+    "players": 14708,
+    "health": 12950,
     "maxHealth": 300000,
-    "percentage": 91.27433333333333,
+    "percentage": 95.68333333333334,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1719091255.927
+    "expireDateTime": 1719091256.381
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 5052,
-    "health": 359237,
+    "players": 5530,
+    "health": 355135,
     "maxHealth": 450000,
-    "percentage": 20.169555555555547,
+    "percentage": 21.081111111111113,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719086325.927
+    "expireDateTime": 1719086326.381
   },
   {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1282,
-    "health": 370034,
+    "players": 1327,
+    "health": 369247,
     "maxHealth": 400000,
-    "percentage": 7.491500000000002,
+    "percentage": 7.6882499999999965,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1719086385.927
+    "expireDateTime": 1719086386.381
   },
   {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 473,
-    "health": 288777,
+    "players": 485,
+    "health": 288429,
     "maxHealth": 300000,
-    "percentage": 3.7409999999999997,
+    "percentage": 3.8569999999999993,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1719097425.927
+    "expireDateTime": 1719097426.381
   },
   {
     "planetIndex": 154,
     "name": "Mort",
     "faction": "Automatons",
-    "players": 4349,
-    "health": 466012,
+    "players": 4132,
+    "health": 465662,
     "maxHealth": 1000000,
-    "percentage": 53.398799999999994,
+    "percentage": 53.4338,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -78,34 +78,19 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 8231,
-    "health": 583992,
+    "players": 8563,
+    "health": 584845,
     "maxHealth": 1000000,
-    "percentage": 41.6008,
+    "percentage": 41.515499999999996,
     "defense": false,
     "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 2333,
-    "health": 999981,
-    "maxHealth": 1000000,
-    "percentage": 0.0018999999999920192,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
     "expireDateTime": null
   },
   {
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 91,
+    "players": 88,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +105,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 618,
+    "players": 647,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +120,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 155,
+    "players": 150,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +135,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 343,
+    "players": 361,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +150,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 162,
+    "players": 170,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +165,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 362,
+    "players": 367,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -192,10 +177,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 2411,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 44,
+    "players": 58,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,7 +210,7 @@
     "planetIndex": 258,
     "name": "Zagon Prime",
     "faction": "Terminids",
-    "players": 747,
+    "players": 782,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
