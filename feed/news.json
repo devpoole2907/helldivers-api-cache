@@ -837,5 +837,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automatons have been making incursions into the Xzar Sector, in an effort to re-steal the sites of their introductory crimes. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2907,
+    "published": 11397179,
+    "type": 0,
+    "tagIds": [],
+    "message": "WEAPON EXPERIMENTATION\nThe AC-8 Autocannon stratagem has been temporarily authorized for use by all Helldivers."
   }
 ]
