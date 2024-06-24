@@ -3,70 +3,70 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 6842,
-    "health": 174020,
+    "players": 6861,
+    "health": 170686,
     "maxHealth": 350000,
-    "percentage": 50.279999999999994,
+    "percentage": 51.232571428571426,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1719266370.247
+    "expireDateTime": 1719266374.316
   },
   {
     "planetIndex": 155,
     "name": "Ingmar",
     "faction": "Automatons",
-    "players": 23396,
-    "health": 161900,
+    "players": 24116,
+    "health": 151720,
     "maxHealth": 300000,
-    "percentage": 46.03333333333334,
+    "percentage": 49.42666666666667,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1719350660.247
+    "expireDateTime": 1719350664.316
   },
   {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 153,
-    "health": 295953,
+    "players": 163,
+    "health": 295897,
     "maxHealth": 300000,
-    "percentage": 1.3490000000000038,
+    "percentage": 1.3676666666666648,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1719305900.247
+    "expireDateTime": 1719305904.316
   },
   {
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 152,
-    "health": 299174,
+    "players": 150,
+    "health": 299092,
     "maxHealth": 300000,
-    "percentage": 0.2753333333333359,
+    "percentage": 0.3026666666666671,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719350670.247
+    "expireDateTime": 1719350674.316
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4730,
-    "health": 546235,
+    "players": 4820,
+    "health": 548831,
     "maxHealth": 1000000,
-    "percentage": 45.3765,
+    "percentage": 45.116899999999994,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -75,10 +75,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1370,
-    "health": 751242,
+    "players": 1409,
+    "health": 752734,
     "maxHealth": 1000000,
-    "percentage": 24.875799999999998,
+    "percentage": 24.72659999999999,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -90,10 +90,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1967,
-    "health": 853787,
+    "players": 1969,
+    "health": 856272,
     "maxHealth": 1000000,
-    "percentage": 14.62129999999999,
+    "percentage": 14.372799999999998,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -102,10 +102,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 3172,
+    "health": 999956,
+    "maxHealth": 1000000,
+    "percentage": 0.0043999999999897454,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 59,
+    "players": 74,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 83,
+    "players": 92,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 934,
+    "players": 928,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +165,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 218,
+    "players": 232,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +180,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 371,
+    "players": 395,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +195,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 180,
+    "players": 153,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +210,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 431,
+    "players": 430,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -207,25 +222,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 3112,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 99,
+    "players": 94,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -240,7 +240,7 @@
     "planetIndex": 258,
     "name": "Zagon Prime",
     "faction": "Terminids",
-    "players": 842,
+    "players": 849,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
