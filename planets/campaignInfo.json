@@ -3,70 +3,70 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 854,
-    "health": 241748,
+    "players": 574,
+    "health": 240659,
     "maxHealth": 300000,
-    "percentage": 19.417333333333332,
+    "percentage": 19.78033333333333,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719350838.015
+    "expireDateTime": 1719350853.145
   },
   {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 636,
-    "health": 252994,
+    "players": 489,
+    "health": 252463,
     "maxHealth": 300000,
-    "percentage": 15.668666666666667,
+    "percentage": 15.845666666666673,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1719306068.015
+    "expireDateTime": 1719306083.145
   },
   {
     "planetIndex": 154,
     "name": "Mort",
     "faction": "Automatons",
-    "players": 5215,
-    "health": 249081,
+    "players": 7263,
+    "health": 247456,
     "maxHealth": 250000,
-    "percentage": 0.36759999999999593,
+    "percentage": 1.0176000000000016,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719388498.015
+    "expireDateTime": 1719388513.145
   },
   {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 724,
-    "health": 349883,
+    "players": 981,
+    "health": 349655,
     "maxHealth": 350000,
-    "percentage": 0.033428571428558485,
+    "percentage": 0.0985714285714181,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719388148.015
+    "expireDateTime": 1719388163.145
   },
   {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1917,
-    "health": 535709,
+    "players": 1740,
+    "health": 536446,
     "maxHealth": 1000000,
-    "percentage": 46.4291,
+    "percentage": 46.355399999999996,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -78,10 +78,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 5045,
-    "health": 553532,
+    "players": 4301,
+    "health": 552528,
     "maxHealth": 1000000,
-    "percentage": 44.6468,
+    "percentage": 44.7472,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -90,10 +90,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1983,
-    "health": 701598,
+    "players": 1488,
+    "health": 701216,
     "maxHealth": 1000000,
-    "percentage": 29.840199999999996,
+    "percentage": 29.8784,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -102,10 +102,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 212,
+    "name": "Oshaune",
+    "faction": "Terminids",
+    "players": 1480,
+    "health": 999949,
+    "maxHealth": 1000000,
+    "percentage": 0.005099999999998772,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 110,
+    "players": 108,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 130,
+    "players": 122,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 540,
+    "players": 467,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +165,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 240,
+    "players": 185,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +180,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 434,
+    "players": 366,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +195,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 207,
+    "players": 158,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +210,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 546,
+    "players": 450,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -207,25 +222,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 212,
-    "name": "Oshaune",
-    "faction": "Terminids",
-    "players": 1611,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1026,
+    "players": 878,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -240,7 +240,7 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 94,
+    "players": 61,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -255,7 +255,7 @@
     "planetIndex": 258,
     "name": "Zagon Prime",
     "faction": "Terminids",
-    "players": 402,
+    "players": 356,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
