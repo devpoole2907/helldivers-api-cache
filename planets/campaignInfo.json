@@ -3,40 +3,40 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 5805,
-    "health": 206867,
+    "players": 6011,
+    "health": 204845,
     "maxHealth": 300000,
-    "percentage": 31.04433333333334,
+    "percentage": 31.718333333333334,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719350961.564
+    "expireDateTime": 1719350963.901
   },
   {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 5477,
-    "health": 291905,
+    "players": 5830,
+    "health": 289803,
     "maxHealth": 350000,
-    "percentage": 16.598571428571418,
+    "percentage": 17.199142857142846,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1719388271.564
+    "expireDateTime": 1719388273.901
   },
   {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3770,
-    "health": 589674,
+    "players": 3846,
+    "health": 591330,
     "maxHealth": 1000000,
-    "percentage": 41.032599999999995,
+    "percentage": 40.867,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 11875,
-    "health": 593596,
+    "players": 12249,
+    "health": 593254,
     "maxHealth": 1000000,
-    "percentage": 40.6404,
+    "percentage": 40.6746,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -60,10 +60,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 1617,
-    "health": 639994,
+    "players": 1626,
+    "health": 643595,
     "maxHealth": 1000000,
-    "percentage": 36.0006,
+    "percentage": 35.6405,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -75,10 +75,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 11786,
-    "health": 708785,
+    "players": 12210,
+    "health": 705670,
     "maxHealth": 1000000,
-    "percentage": 29.121499999999997,
+    "percentage": 29.432999999999993,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -87,40 +87,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 3104,
-    "health": 999987,
-    "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 1325,
-    "health": 999997,
-    "maxHealth": 1000000,
-    "percentage": 0.0002999999999957481,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 594,
+    "players": 597,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +105,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1270,
+    "players": 1372,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,10 +117,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 1437,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 2208,
+    "players": 2269,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +150,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 1187,
+    "players": 1304,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -177,10 +162,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 203,
+    "name": "Menkent",
+    "faction": "Automatons",
+    "players": 3255,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 2850,
+    "players": 2937,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +195,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2094,
+    "players": 2087,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,7 +210,7 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 336,
+    "players": 334,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -225,7 +225,7 @@
     "planetIndex": 258,
     "name": "Zagon Prime",
     "faction": "Terminids",
-    "players": 713,
+    "players": 747,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
