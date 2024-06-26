@@ -851,5 +851,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON \n\nThe Automatons have been rebuffed. The territory so many sacrificed to liberate remains safe in the hands of Freedom. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2909,
+    "published": 11727000,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Terminids are infesting untarnished worlds in the Falstaff and Jin Xi sectors. This greedy annexation will not be tolerated. Consult the Galactic Map on your ship for more information."
   }
 ]
