@@ -1,57 +1,57 @@
 [
   {
-    "planetIndex": 129,
-    "name": "Acamar IV",
-    "faction": "Terminids",
-    "players": 1041,
-    "health": 299965,
-    "maxHealth": 300000,
-    "percentage": 0.011666666666670267,
-    "defense": true,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": 1719486336.278
-  },
-  {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 424,
-    "health": 349965,
-    "maxHealth": 350000,
-    "percentage": 0.009999999999990905,
-    "defense": true,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": 1719486316.278
-  },
-  {
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 1039,
-    "health": 299975,
+    "players": 2379,
+    "health": 299725,
     "maxHealth": 300000,
-    "percentage": 0.008333333333339965,
+    "percentage": 0.09166666666666856,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1719486346.278
+    "expireDateTime": 1719486350.224
+  },
+  {
+    "planetIndex": 129,
+    "name": "Acamar IV",
+    "faction": "Terminids",
+    "players": 2279,
+    "health": 299755,
+    "maxHealth": 300000,
+    "percentage": 0.08166666666666345,
+    "defense": true,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": 1719486340.224
+  },
+  {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 699,
+    "health": 349835,
+    "maxHealth": 350000,
+    "percentage": 0.04714285714284472,
+    "defense": true,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": 1719486320.224
   },
   {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 3537,
-    "health": 495767,
+    "players": 2820,
+    "health": 493939,
     "maxHealth": 1000000,
-    "percentage": 50.4233,
+    "percentage": 50.6061,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -63,10 +63,10 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1567,
-    "health": 553851,
+    "players": 1348,
+    "health": 552725,
     "maxHealth": 1000000,
-    "percentage": 44.6149,
+    "percentage": 44.7275,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -78,10 +78,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 8082,
-    "health": 588433,
+    "players": 7198,
+    "health": 585049,
     "maxHealth": 1000000,
-    "percentage": 41.1567,
+    "percentage": 41.495099999999994,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -90,10 +90,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3157,
-    "health": 693190,
+    "players": 4349,
+    "health": 694702,
     "maxHealth": 1000000,
-    "percentage": 30.680999999999997,
+    "percentage": 30.529799999999994,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -105,10 +105,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 718,
-    "health": 820237,
+    "players": 587,
+    "health": 822819,
     "maxHealth": 1000000,
-    "percentage": 17.976299999999995,
+    "percentage": 17.718099999999993,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -117,10 +117,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 368,
+    "health": 999978,
+    "maxHealth": 1000000,
+    "percentage": 0.002200000000001978,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 150,
+    "players": 145,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 701,
+    "players": 657,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -147,25 +162,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 388,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 649,
+    "players": 610,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +180,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 408,
+    "players": 357,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +195,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1010,
+    "players": 840,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,7 +210,7 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 1993,
+    "players": 1620,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -225,7 +225,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1232,
+    "players": 1246,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
