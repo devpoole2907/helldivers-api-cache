@@ -3,25 +3,25 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 3830,
-    "health": 287031,
+    "players": 3389,
+    "health": 283411,
     "maxHealth": 350000,
-    "percentage": 17.991142857142847,
+    "percentage": 19.025428571428563,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1719486481.001
+    "expireDateTime": 1719486490.729
   },
   {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1084,
-    "health": 520023,
+    "players": 962,
+    "health": 519042,
     "maxHealth": 1000000,
-    "percentage": 47.997699999999995,
+    "percentage": 48.0958,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -33,10 +33,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1721,
-    "health": 529241,
+    "players": 1582,
+    "health": 530335,
     "maxHealth": 1000000,
-    "percentage": 47.0759,
+    "percentage": 46.966499999999996,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4697,
-    "health": 658593,
+    "players": 3884,
+    "health": 660868,
     "maxHealth": 1000000,
-    "percentage": 34.140699999999995,
+    "percentage": 33.9132,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -60,10 +60,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 13563,
-    "health": 755086,
+    "players": 11689,
+    "health": 745626,
     "maxHealth": 1000000,
-    "percentage": 24.4914,
+    "percentage": 25.437399999999997,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -72,17 +72,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 3483,
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 460,
     "health": 999988,
     "maxHealth": 1000000,
     "percentage": 0.0011999999999972033,
     "defense": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
     "expireDateTime": null
   },
@@ -90,7 +90,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 109,
+    "players": 114,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 2349,
+    "players": 2062,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,25 +117,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 515,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 569,
+    "players": 502,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +135,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 410,
+    "players": 384,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +150,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 758,
+    "players": 638,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +165,7 @@
     "planetIndex": 212,
     "name": "Oshaune",
     "faction": "Terminids",
-    "players": 1123,
+    "players": 953,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -192,10 +177,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 2969,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 557,
+    "players": 506,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
