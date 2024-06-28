@@ -3,10 +3,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 873,
-    "health": 615029,
+    "players": 965,
+    "health": 616837,
     "maxHealth": 1000000,
-    "percentage": 38.497099999999996,
+    "percentage": 38.3163,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -15,13 +15,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 2446,
+    "health": 706650,
+    "maxHealth": 1000000,
+    "percentage": 29.334999999999994,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 856,
-    "health": 704167,
+    "players": 848,
+    "health": 707806,
     "maxHealth": 1000000,
-    "percentage": 29.583299999999994,
+    "percentage": 29.219399999999993,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,25 +42,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2459,
-    "health": 706902,
-    "maxHealth": 1000000,
-    "percentage": 29.309799999999996,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1328,
-    "health": 748308,
+    "players": 1358,
+    "health": 754376,
     "maxHealth": 1000000,
-    "percentage": 25.16919999999999,
+    "percentage": 24.562399999999997,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -60,10 +60,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 10813,
-    "health": 991850,
+    "players": 12277,
+    "health": 973217,
     "maxHealth": 1000000,
-    "percentage": 0.8149999999999977,
+    "percentage": 2.678299999999993,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -75,10 +75,10 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 2313,
-    "health": 999994,
+    "players": 2373,
+    "health": 999965,
     "maxHealth": 1000000,
-    "percentage": 0.0005999999999914962,
+    "percentage": 0.0034999999999882903,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -87,10 +87,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 244,
+    "name": "Varylia 5",
+    "faction": "Automatons",
+    "players": 271,
+    "health": 999980,
+    "maxHealth": 1000000,
+    "percentage": 0.001999999999995339,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 53,
+    "players": 58,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 334,
+    "players": 285,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 355,
+    "players": 425,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 229,
+    "players": 238,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +165,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 470,
+    "players": 486,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -158,21 +173,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 244,
-    "name": "Varylia 5",
-    "faction": "Automatons",
-    "players": 282,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   }
