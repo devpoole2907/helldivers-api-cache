@@ -858,5 +858,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Terminids are infesting untarnished worlds in the Falstaff and Jin Xi sectors. This greedy annexation will not be tolerated. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2910,
+    "published": 12071220,
+    "type": 0,
+    "tagIds": [],
+    "message": "An outbreak of Terminids has erupted in the Jin Xi Sector, despite the valiant reclamation of adjacent worlds by the Helldivers. It appears that the abnormally large spore dispersals following recent Hive Annihilation Actions may have led to seeding of Jin Xi planets before the Terminids could be fully eradicated from adjacent worlds."
+  },
+  {
+    "id": 2911,
+    "published": 12071220,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Under pressure, the bugs are scrabbling for planetary purchase. Do not allow them to infest new ground."
   }
 ]
