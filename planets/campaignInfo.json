@@ -3,10 +3,10 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 12127,
-    "health": 839315,
+    "players": 11633,
+    "health": 832535,
     "maxHealth": 1000000,
-    "percentage": 16.0685,
+    "percentage": 16.746499999999997,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -18,10 +18,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1296,
-    "health": 841537,
+    "players": 1275,
+    "health": 844618,
     "maxHealth": 1000000,
-    "percentage": 15.8463,
+    "percentage": 15.53819999999999,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -33,10 +33,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 936,
-    "health": 886425,
+    "players": 924,
+    "health": 887102,
     "maxHealth": 1000000,
-    "percentage": 11.357500000000002,
+    "percentage": 11.2898,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 1078,
-    "health": 986130,
+    "players": 1058,
+    "health": 991268,
     "maxHealth": 1000000,
-    "percentage": 1.3870000000000005,
+    "percentage": 0.8731999999999971,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -60,10 +60,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 201,
+    "name": "Meissa",
+    "faction": "Automatons",
+    "players": 345,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 244,
+    "name": "Varylia 5",
+    "faction": "Automatons",
+    "players": 412,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 74,
+    "players": 69,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +108,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 572,
+    "players": 601,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +123,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1563,
+    "players": 1456,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +135,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 562,
+    "players": 575,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +150,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 540,
+    "players": 537,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,25 +162,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 201,
-    "name": "Meissa",
-    "faction": "Automatons",
-    "players": 351,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 607,
+    "players": 577,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +180,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 810,
+    "players": 735,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -173,21 +188,6 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 244,
-    "name": "Varylia 5",
-    "faction": "Automatons",
-    "players": 403,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   }
