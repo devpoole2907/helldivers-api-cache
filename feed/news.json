@@ -872,5 +872,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC DEVELOPMENT Additional Terminid outbreaks have occurred. Under pressure, the bugs are scrabbling for planetary purchase. Do not allow them to infest new ground."
+  },
+  {
+    "id": 2912,
+    "published": 12332050,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nWith great effort, the Terminid expansion has been significantly limited by the actions of the Helldivers. Though the bugs now infest some once-beautiful worlds, many remain unblemished by tyranny, ready for Democratic settlement. Excising the infestation will be taxing, but will require far less expenditure of resources than our worst-case scenarios predicted."
+  },
+  {
+    "id": 2913,
+    "published": 12332409,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe planet X-45 is home to a lost Advanced Weapons Lab from the First Galactic War that was developing a powerful interplanetary battle station. Excavation of the Lab's work is underway.\n\nHowever, the Automatons have launched an assault to rout our forces in the Ymir Sector. It is imperative that X-45 be held until the plans for the battle station are recovered. Consult the Galactic Map on your ship for more information."
   }
 ]
