@@ -3,25 +3,25 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 6702,
-    "health": 287082,
+    "players": 6659,
+    "health": 284771,
     "maxHealth": 300000,
-    "percentage": 4.305999999999997,
+    "percentage": 5.076333333333338,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1720093571.248
+    "expireDateTime": 1720093576.232
   },
   {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 17978,
-    "health": 990713,
+    "players": 18406,
+    "health": 986586,
     "maxHealth": 1000000,
-    "percentage": 0.9286999999999921,
+    "percentage": 1.341399999999993,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -30,17 +30,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 2327,
+    "planetIndex": 243,
+    "name": "Vandalon IV",
+    "faction": "Automatons",
+    "players": 561,
     "health": 999999,
     "maxHealth": 1000000,
     "percentage": 9.99999999891088e-05,
     "defense": false,
     "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   },
@@ -48,7 +48,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 134,
+    "players": 143,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2910,
+    "players": 2931,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 2379,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 5579,
+    "players": 5768,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +105,7 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 5678,
+    "players": 5695,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 962,
+    "players": 955,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 1367,
+    "players": 1433,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1953,
+    "players": 1959,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +165,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 3409,
+    "players": 3392,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -162,25 +177,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 591,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 781,
+    "players": 785,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
