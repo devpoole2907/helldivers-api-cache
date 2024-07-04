@@ -3,25 +3,25 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 2091,
-    "health": 174785,
+    "players": 2081,
+    "health": 173320,
     "maxHealth": 300000,
-    "percentage": 41.73833333333334,
+    "percentage": 42.22666666666667,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1720093700.882
+    "expireDateTime": 1720093705.485
   },
   {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 5875,
-    "health": 689065,
+    "players": 5748,
+    "health": 685277,
     "maxHealth": 1000000,
-    "percentage": 31.09349999999999,
+    "percentage": 31.47229999999999,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -30,30 +30,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
+    "planetIndex": 170,
+    "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1264,
-    "health": 999991,
+    "players": 942,
+    "health": 999922,
     "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
+    "percentage": 0.007799999999988927,
     "defense": false,
     "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2369,
-    "health": 999995,
-    "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
-    "defense": false,
-    "biome": null,
     "expireDateTime": null
   },
   {
@@ -72,25 +60,37 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
+    "planetIndex": 78,
+    "name": "Crimsica",
     "faction": "Terminids",
-    "players": 974,
+    "players": 1255,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 2303,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 2240,
+    "players": 2224,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 315,
+    "players": 306,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 427,
+    "players": 408,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 552,
+    "players": 543,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1237,
+    "players": 1188,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 165,
+    "players": 166,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +180,7 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 222,
+    "players": 198,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
