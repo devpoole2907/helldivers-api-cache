@@ -886,5 +886,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe planet X-45 is home to a lost Advanced Weapons Lab from the First Galactic War that was developing a powerful interplanetary battle station. Excavation of the Lab's work is underway.\n\nHowever, the Automatons have launched an assault to rout our forces in the Ymir Sector. It is imperative that X-45 be held until the plans for the battle station are recovered. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2914,
+    "published": 12412855,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERSECURITY ALERT\n\nAutomaton hacking efforts in the form of malicious messages have been observed recently. \n\nThese messages prey on well-intentioned patriots, with subjects like \"Check out this patriotic photo,\" \"Your citizenship classification has been upgraded,\" and \"Dissident talk amongst your friends.\" \n\nThese attacks allow our enemies to breach our secure systems and access secret data. Stay vigilant, and report any suspicious messages to your cyber security officer. "
   }
 ]
