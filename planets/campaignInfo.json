@@ -3,52 +3,22 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 20306,
-    "health": 447743,
+    "players": 25171,
+    "health": 442468,
     "maxHealth": 450000,
-    "percentage": 0.5015555555555551,
+    "percentage": 1.6737777777777723,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1720314267.719
-  },
-  {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 5052,
-    "health": 999960,
-    "maxHealth": 1000000,
-    "percentage": 0.003999999999990678,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 173,
-    "name": "Gatria",
-    "faction": "Terminids",
-    "players": 7171,
-    "health": 999996,
-    "maxHealth": 1000000,
-    "percentage": 0.00039999999999906777,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
+    "expireDateTime": 1720314270.634
   },
   {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 277,
+    "players": 284,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +33,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2913,
+    "players": 3115,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +48,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2401,
+    "players": 2571,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 5102,
+    "players": 5165,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,10 +72,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 173,
+    "name": "Gatria",
+    "faction": "Terminids",
+    "players": 7420,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1680,
+    "players": 1733,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +105,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 2234,
+    "players": 2077,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,10 +117,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 3980,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 2644,
+    "players": 2675,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 2482,
+    "players": 2567,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1137,
+    "players": 1024,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +180,7 @@
     "planetIndex": 247,
     "name": "Wezen",
     "faction": "Automatons",
-    "players": 4012,
+    "players": 2492,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
