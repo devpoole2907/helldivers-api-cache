@@ -914,5 +914,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automatons have launched a surprise attack on Aesir Pass. If it falls, it will jeopardize efforts to rescue our position in the Ymir Sector."
+  },
+  {
+    "id": 2918,
+    "published": 12649800,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nAesir Pass has fallen. With the loss of this position, the strategic viability of establishing a connection to our forces in the Ymir Sector has been significantly reduced.\n\nX-45 must be held, no matter the cost. Even if the planet cannot be saved, the Battle Station Plans must be secured. The Helldivers are ordered to fight to the last soldier."
   }
 ]
