@@ -921,5 +921,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nAesir Pass has fallen. With the loss of this position, the strategic viability of establishing a connection to our forces in the Ymir Sector has been significantly reduced.\n\nX-45 must be held, no matter the cost. Even if the planet cannot be saved, the Battle Station Plans must be secured. The Helldivers are ordered to fight to the last soldier."
+  },
+  {
+    "id": 2919,
+    "published": 12664800,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nExcavation of the Advanced Weapons Lab on X-45 have recovered an intact cache of a lost Support Weapon from the First Galactic War: the MLS-4X Commando Rocket Launcher. These weapons will be immediately put to use in defense of the planet. \n\nAll operations in defense of X-45 will be augmented with the MLS-4X Commando until the end of the current Order."
   }
 ]
