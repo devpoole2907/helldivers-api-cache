@@ -3,55 +3,55 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 4893,
-    "health": 34601,
+    "players": 3818,
+    "health": 28655,
     "maxHealth": 250000,
-    "percentage": 86.1596,
+    "percentage": 88.538,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1720471528.337
+    "expireDateTime": 1720471535.922
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 885,
-    "health": 164491,
+    "players": 793,
+    "health": 163617,
     "maxHealth": 200000,
-    "percentage": 17.754499999999993,
+    "percentage": 18.191500000000005,
     "defense": true,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1720471568.337
+    "expireDateTime": 1720471575.922
   },
   {
     "planetIndex": 249,
     "name": "X-45",
     "faction": "Automatons",
-    "players": 9162,
-    "health": 597780,
+    "players": 12554,
+    "health": 594770,
     "maxHealth": 600000,
-    "percentage": 0.37000000000000455,
+    "percentage": 0.8716666666666697,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1720526188.337
+    "expireDateTime": 1720526195.922
   },
   {
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 1710,
-    "health": 814238,
+    "players": 1518,
+    "health": 819490,
     "maxHealth": 1000000,
-    "percentage": 18.5762,
+    "percentage": 18.051000000000002,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -63,10 +63,10 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 5220,
-    "health": 971311,
+    "players": 5355,
+    "health": 969784,
     "maxHealth": 1000000,
-    "percentage": 2.8688999999999965,
+    "percentage": 3.0215999999999923,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -78,10 +78,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 273,
-    "health": 990354,
+    "players": 264,
+    "health": 997516,
     "maxHealth": 1000000,
-    "percentage": 0.9645999999999901,
+    "percentage": 0.24839999999998952,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -90,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 1836,
-    "health": 999985,
-    "maxHealth": 1000000,
-    "percentage": 0.0014999999999929514,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 18,
+    "players": 33,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,10 +105,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 1828,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1283,
+    "players": 1338,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1531,
+    "players": 1550,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 182,
+    "players": 175,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 219,
+    "players": 168,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +180,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 94,
+    "players": 103,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +195,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1054,
+    "players": 1096,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,7 +210,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 106,
+    "players": 101,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
