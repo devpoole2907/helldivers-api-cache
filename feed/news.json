@@ -928,5 +928,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nExcavation of the Advanced Weapons Lab on X-45 have recovered an intact cache of a lost Support Weapon from the First Galactic War: the MLS-4X Commando Rocket Launcher. These weapons will be immediately put to use in defense of the planet. \n\nAll operations in defense of X-45 will be augmented with the MLS-4X Commando until the end of the current Order."
+  },
+  {
+    "id": 2920,
+    "published": 12850975,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThanks to the valiant defense of the Helldivers of X-45, the plans for the interplanetary battle station have been received. Work completing this research will commence shortly.\n\nremaining MLS-4X Commandos have been successfully shipped off-planet, enabling rapid production of the weapon. It will shortly be available for requisition fleetwide. \n\nConsult the Galactic Map on your ship for more information."
   }
 ]
