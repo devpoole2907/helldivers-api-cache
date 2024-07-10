@@ -3,10 +3,10 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 8394,
-    "health": 464130,
+    "players": 8564,
+    "health": 459190,
     "maxHealth": 1000000,
-    "percentage": 53.586999999999996,
+    "percentage": 54.080999999999996,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -15,40 +15,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 573,
-    "health": 999974,
-    "maxHealth": 1000000,
-    "percentage": 0.002600000000001046,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 220,
-    "health": 999982,
-    "maxHealth": 1000000,
-    "percentage": 0.0017999999999886995,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 764,
+    "players": 687,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +33,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 61,
+    "players": 64,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +48,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1348,
+    "players": 1420,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +63,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 981,
+    "players": 931,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1821,
+    "players": 1858,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,10 +87,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 528,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 857,
+    "players": 913,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,10 +117,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 243,
+    "name": "Vandalon IV",
+    "faction": "Automatons",
+    "players": 217,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 1578,
+    "players": 1540,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
