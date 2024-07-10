@@ -3,10 +3,10 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 8879,
-    "health": 482315,
+    "players": 8825,
+    "health": 474403,
     "maxHealth": 1000000,
-    "percentage": 51.768499999999996,
+    "percentage": 52.5597,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -15,10 +15,37 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 1410,
+    "health": 999943,
+    "maxHealth": 1000000,
+    "percentage": 0.005699999999990268,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1956,
+    "health": 999945,
+    "maxHealth": 1000000,
+    "percentage": 0.00549999999999784,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 828,
+    "players": 804,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,25 +72,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 1408,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1079,
+    "players": 1095,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,22 +87,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2034,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 620,
+    "players": 596,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 857,
+    "players": 872,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 243,
+    "players": 238,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 1696,
+    "players": 1690,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
