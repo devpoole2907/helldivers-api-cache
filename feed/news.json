@@ -942,5 +942,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to kill the designated number of Terminids\u2014ideally utilizing a variety of means\u2014in order to aid in scientific research.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2922,
+    "published": 13026059,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe vast quantities of Terminids eradicated by the Helldivers has greatly aided the Ministry of Science's Terminid Research Initiative. Though much work remains, our understanding of the most efficacious bug-eradication methodologies has been thoroughly advanced."
   }
 ]
