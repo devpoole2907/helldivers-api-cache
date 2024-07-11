@@ -3,41 +3,41 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 8023,
-    "health": 178404,
+    "players": 7446,
+    "health": 164138,
     "maxHealth": 350000,
-    "percentage": 49.027428571428565,
+    "percentage": 53.103428571428566,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1720704952.307
+    "expireDateTime": 1720704962.355
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 5703,
-    "health": 953242,
+    "players": 4480,
+    "health": 950395,
     "maxHealth": 1000000,
-    "percentage": 4.675799999999995,
+    "percentage": 4.960499999999996,
     "defense": false,
     "biome": null,
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 3026,
-    "health": 999991,
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 750,
+    "health": 999998,
     "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
+    "percentage": 0.00019999999999242846,
     "defense": false,
     "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   },
@@ -45,7 +45,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1169,
+    "players": 974,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +60,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 114,
+    "players": 80,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -72,10 +72,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 2604,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1650,
+    "players": 1384,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,25 +102,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 941,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1318,
+    "players": 1157,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 361,
+    "players": 321,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 1571,
+    "players": 1374,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
