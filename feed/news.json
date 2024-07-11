@@ -949,5 +949,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe vast quantities of Terminids eradicated by the Helldivers has greatly aided the Ministry of Science's Terminid Research Initiative. Though much work remains, our understanding of the most efficacious bug-eradication methodologies has been thoroughly advanced."
+  },
+  {
+    "id": 2923,
+    "published": 13046720,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to cut a line through the Automaton front, joining our forces and dividing theirs in two at the Andromeda Sector. Success in this endeavor will interrupt bot supply routes and comms lines, weakening their cut-off forces.\n\nConsult the Galactic Map on your Super Destroyer for more information."
   }
 ]
