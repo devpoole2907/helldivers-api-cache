@@ -1,57 +1,42 @@
 [
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 2461,
-    "health": 470762,
-    "maxHealth": 500000,
-    "percentage": 5.8476,
-    "defense": true,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": 1720965768.837
-  },
-  {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1839,
-    "health": 329571,
+    "players": 1901,
+    "health": 325119,
     "maxHealth": 350000,
-    "percentage": 5.836857142857141,
+    "percentage": 7.108857142857133,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1720965828.837
+    "expireDateTime": 1720965842.474
   },
   {
-    "planetIndex": 169,
-    "name": "Estanu",
+    "planetIndex": 34,
+    "name": "Hellmire",
     "faction": "Terminids",
-    "players": 5524,
-    "health": 634403,
-    "maxHealth": 1000000,
-    "percentage": 36.5597,
-    "defense": false,
+    "players": 2614,
+    "health": 465153,
+    "maxHealth": 500000,
+    "percentage": 6.969399999999993,
+    "defense": true,
     "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": null
+    "expireDateTime": 1720965782.474
   },
   {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 19172,
-    "health": 681002,
+    "players": 21071,
+    "health": 629001,
     "maxHealth": 1000000,
-    "percentage": 31.8998,
+    "percentage": 37.0999,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 5908,
+    "health": 650983,
+    "maxHealth": 1000000,
+    "percentage": 34.90169999999999,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 347,
+    "players": 397,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2375,
+    "players": 2490,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2395,
+    "players": 2785,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 5947,
+    "players": 6127,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 989,
+    "players": 1146,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 162,
+    "players": 163,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 285,
+    "players": 284,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 832,
+    "players": 864,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
