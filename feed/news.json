@@ -956,5 +956,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to cut a line through the Automaton front, joining our forces and dividing theirs in two at the Andromeda Sector. Success in this endeavor will interrupt bot supply routes and comms lines, weakening their cut-off forces.\n\nConsult the Galactic Map on your Super Destroyer for more information."
+  },
+  {
+    "id": 2924,
+    "published": 13305608,
+    "type": 0,
+    "tagIds": [],
+    "message": "BATTLEFRONT UPDATE\n\nReports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage!"
   }
 ]
