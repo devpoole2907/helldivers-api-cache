@@ -3,10 +3,10 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1587,
-    "health": 660533,
+    "players": 1442,
+    "health": 667265,
     "maxHealth": 1000000,
-    "percentage": 33.94669999999999,
+    "percentage": 33.2735,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -18,10 +18,10 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1058,
-    "health": 669717,
+    "players": 1070,
+    "health": 676946,
     "maxHealth": 1000000,
-    "percentage": 33.0283,
+    "percentage": 32.30539999999999,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -30,28 +30,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 4968,
-    "health": 875625,
-    "maxHealth": 1000000,
-    "percentage": 12.4375,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 18804,
-    "health": 885186,
+    "players": 17901,
+    "health": 873407,
     "maxHealth": 1000000,
-    "percentage": 11.481399999999994,
+    "percentage": 12.659300000000002,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -60,17 +45,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 199,
-    "name": "Martale",
-    "faction": "Automatons",
-    "players": 9513,
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 4741,
+    "health": 881149,
+    "maxHealth": 1000000,
+    "percentage": 11.885099999999994,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 2639,
     "health": 999995,
     "maxHealth": 1000000,
     "percentage": 0.0004999999999881766,
     "defense": false,
     "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
     "expireDateTime": null
   },
@@ -78,7 +78,7 @@
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 331,
+    "players": 302,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 106,
+    "players": 118,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 2653,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2656,
+    "players": 2527,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,10 +117,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 8574,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 161,
+    "players": 148,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 233,
+    "players": 215,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 581,
+    "players": 568,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
