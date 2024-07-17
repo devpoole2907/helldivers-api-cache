@@ -3,10 +3,10 @@
     "planetIndex": 157,
     "name": "Charon Prime",
     "faction": "Automatons",
-    "players": 3990,
-    "health": 994506,
+    "players": 4380,
+    "health": 988701,
     "maxHealth": 1000000,
-    "percentage": 0.5493999999999915,
+    "percentage": 1.1298999999999921,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 7603,
-    "health": 995773,
+    "players": 8541,
+    "health": 990385,
     "maxHealth": 1000000,
-    "percentage": 0.42269999999999186,
+    "percentage": 0.9615000000000009,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -30,13 +30,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 246,
+    "name": "Vega Bay",
+    "faction": "Automatons",
+    "players": 389,
+    "health": 998392,
+    "maxHealth": 1000000,
+    "percentage": 0.16079999999999472,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 156,
     "name": "Charbal-VII",
     "faction": "Automatons",
-    "players": 252,
-    "health": 999074,
+    "players": 284,
+    "health": 998571,
     "maxHealth": 1000000,
-    "percentage": 0.09259999999999025,
+    "percentage": 0.14289999999999736,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -45,13 +60,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 246,
-    "name": "Vega Bay",
+    "planetIndex": 243,
+    "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 387,
-    "health": 999189,
+    "players": 369,
+    "health": 998828,
     "maxHealth": 1000000,
-    "percentage": 0.08109999999999218,
+    "percentage": 0.11719999999999686,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -60,17 +75,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 355,
-    "health": 999302,
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 744,
+    "health": 999998,
     "maxHealth": 1000000,
-    "percentage": 0.06980000000000075,
+    "percentage": 0.00019999999999242846,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   },
@@ -78,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 255,
+    "players": 265,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2735,
+    "players": 2972,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1224,
+    "players": 1266,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2071,
+    "players": 2200,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,25 +147,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 670,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 884,
+    "players": 992,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
