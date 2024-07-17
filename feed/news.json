@@ -963,5 +963,12 @@
     "type": 0,
     "tagIds": [],
     "message": "BATTLEFRONT UPDATE\n\nReports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage!"
+  },
+  {
+    "id": 2925,
+    "published": 13537679,
+    "type": 0,
+    "tagIds": [],
+    "message": "The Automaton Dominion has been fractured by the mighty assault rifle of Freedom. Thanks to the courage and obedience of the Helldivers, a large swath of Automaton-held planets are cut off from Cyberstan, disrupting their supplies and communications.\n\nThis will significantly impact the defenses on those planets, and it will take the Automatons time to recover. Until then, and so long as our barrier holds, the cut-off planets are vulnerable to our just liberation. "
   }
 ]
