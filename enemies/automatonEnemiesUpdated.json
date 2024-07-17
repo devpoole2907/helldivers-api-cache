@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Trooper",
+        "description": "As the primary infantry unit of the Automaton forces, the Trooper is a fundamental component of the enemy lineup. This unit, while basic, can be deployed in large numbers and equipped with a variety of weapons and equipment based on mission needs. Often considered cannon fodder due to their vulnerability in small groups, Troopers are nonetheless crucial targets because of their ability to call in heavier reinforcements.",
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"]
+    },
+    {
+        "name": "Commissar",
+        "description": "The Commissar is a unique Automaton unit, acting as a simulated military leader. Enhanced with advanced processing and basic command algorithms, it orchestrates troop movements while avoiding direct combat. Despite its non-sentient nature, the Commissar is essential for coordinating Automaton infantry squads.",
+        "recommendedStratagems": ["Anti-Materiel Rifle"]
+    },
+    {
+        "name": "Scout Strider",
+        "description": "The Scout Strider, a machine operated by another machine, functions as a mobile turret under the limited control of an Automaton Trooper. This setup represents yet another futile endeavor to mimic true intelligence by commanding a device even more basic than the operator itself.",
+        "recommendedStratagems": ["Recoilless Rifle", "Autocannon", "Railgun", "Expendable Anti-Tank"]
+    },
+    {
+        "name": "Berserker",
+        "description": "The Berserker embodies raw savagery, equipped with chainsaws each powered by a CPU dedicated to a single task: minimizing the distance between the saw and its target as swiftly as possible.",
+        "recommendedStratagems": ["Autocannon", "Jump Pack", "Autocannon Sentry", "Anti-Materiel Rifle"]
+    },
+    {
+        "name": "Devastator",
+        "description": "The Devastator, armored to the hilt, aims to dismantle any opposition to the Automatons' oppressive ideology using a formidable arsenal. This includes arm cannons, protective arm shields, arm machine guns, and shoulder-launched rocket pods.",
+        "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"]
+    },
+    {
+        "name": "Hulk",
+        "description": "The Hulk, like all Automaton units, is single-mindedly designed for one purpose: delivering devastating firepower. When encountered, the standard protocol for Helldivers is to initiate the heaviest Orbital bombardment available without delay.",
+        "recommendedStratagems": ["Eagle 500KG Bomb", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Quasar Cannon", "Recoilless Rifle", "Railgun", "Anti-Materiel Rifle", "Autocannon"]
+    },
+    {
+        "name": "Tank",
+        "description": "The Automaton Tank, a blatant imitation of Super Earth's tank designs, falls short in numerous areas, including slow turret rotation and movement speed— a rip-off of a 20th-century classic. This highlights the Automatons' nature as nothing more than copycats and thieves. In contrast, a single skilled Helldiver can dismantle these tanks, while Super Earth's versions can decimate entire platoons.",
+        "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"]
+    },
+    {
+        "name": "Factory Strider",
+        "description": "Referred to as 'Walkers' by some Helldivers, the Factory Striders are massive, heavily armed colossi, embodying steel and socialist ideals. These mobile factories, capable of being stationed at Automaton outposts or parachuted into combat zones, unleash havoc with their cannons and dual miniguns while manufacturing batches of Standard Devastators. They also traverse planetary surfaces, offering fire support as needed. Their ability to quickly deploy and proliferate throughout Super Earth colonies underscores their strategic importance in Automaton operations.",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Gunship",
+        "description": "Gunships, large aerial vehicles, patrol the vicinity of Automaton Gunship Facilities, monitoring nearby activities. Upon detecting Helldiver movements, they swiftly mobilize to scan and assess the area. Equipped with an underside turret and capable of launching a barrage of rockets, these Gunships engage upon sighting their targets. They bear a resemblance to smaller, less robust versions of Automaton Dropships, notably lacking the 'arms' used to deploy Automaton troops.",
+        "recommendedStratagems": []
+    },
+    {
+        "name": "Dropship",
+        "description": "Dropships, large non-humanoid Automaton vehicles, are tasked with the rapid transport and deployment of Automaton infantry. When Helldiver activity is detected, typically marked by the firing of a signal flare, these Dropships spring into action, quickly delivering Automaton units to the conflict zone. Packed to the brim with troops, they are essential for swift tactical responses.",
+        "recommendedStratagems": ["Quasar Cannon", "Recoilless Rifle", "Expendable Anti-Tank"]
+    }
+]

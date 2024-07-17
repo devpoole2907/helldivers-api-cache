@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Scavenger",
+        "description": "The Scavenger, an adolescent form of the Warrior, sits at the bottom of the Terminid food chain and is ubiquitous across various planets and difficulty levels.\nThough individually weak and largely harmless, Scavengers can become surprisingly dangerous when encountered in packs. A Helldiver caught amidst a group of these creatures may find them more threatening than initially anticipated. Additionally, if given the opportunity, Scavengers can release a cloud of Pheromone Spores, signaling the presence of hostiles to other nearby Terminids.",
+        "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"]
+    },
+    {
+        "name": "Warrior",
+        "description": "The Warrior represents the evolutionary advancement from the Scavenger and precedes the transformation into a Brood Commander, appearing at any difficulty level.\nThese entities move at a moderate pace and attack exclusively with their razor-sharp claws.",
+        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"]
+    },
+    {
+        "name": "Hunter",
+        "description": "The Hunter, a medium-sized Terminid like the Warrior, emerges on Medium difficulty and higher.\nEmploying tactics from its adolescent stage, the Pouncer, Hunters use their wings to leap great distances, stunning Helldivers and executing flank maneuvers to gain the upper hand.",
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"]
+    },
+    {
+        "name": "Stalker",
+        "description": "The Stalker is a large-sized Terminid that originates from a Stalker Lair. It appears to be a mutated version of the Hunter, equipped with camouflage capabilities and enhanced strength. There are historical reports suggesting that this strain of Terminid was present during the First Galactic War, although there is no documented evidence of their camouflage abilities from that time.",
+        "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"]
+    },
+    {
+        "name": "Bile Spewer",
+        "description": "The Bile Spewer, a Terminid with moderate armor and size, appears on Medium difficulty and higher. It represents the adult form and third stage in a four-stage evolutionary sequence, following the Bile Spitter and Nursing Spewer and preceding the Bile Titan.\nBile Spewers discharge streams of highly corrosive acid known as 'Bile', which can impede Helldivers' movements and prove extremely lethal upon prolonged exposure. On Extreme difficulty and higher, Bile Spewers gain the capability to launch a mortar-like volley of bile into the air, significantly enhancing their range and lethality.",
+        "recommendedStratagems": ["Eagle 110mm Rocket Pods", "Jump Pack", "Shield Generator Pack", "Autocannon", "Anti-Materiel Rifle", "Grenade Launcher"]
+    },
+    {
+        "name": "Charger",
+        "description": "The Charger is a large, heavily armored Terminid that first appears on Medium difficulty, either as an Elimination Target or occasionally guarding the Shuttle Bay during Emergency Evacuation missions. It begins to spawn naturally and more frequently as the difficulty level increases. True to their name, Chargers aggressively charge at Helldivers, aiming to bash or trample them, which can deal substantial damage, concuss, and potentially launch their targets into the air. At close range, Chargers also deploy their claws for combat.",
+        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"]
+    },
+    {
+        "name": "Brood Commander",
+        "description": "Named after the strain of Terminids from the First Galactic War, the Brood Commander is a heavily-armored and formidable variant of the Warrior. It belongs to the nearly-extinct Terminid Leadership Caste, marking it as a particularly dangerous adversary.",
+        "recommendedStratagems": ["Anti-Materiel Rifle", "Railgun", "Laser Cannon", "Mortar Sentry", "Autocannon"]
+    },
+    {
+        "name": "Bile Titan",
+        "description": "The Bile Titan, a colossal and heavily-armored Terminid, represents the ultimate growth stage of a Bile Warrior. It appears on Challenging difficulty as an Elimination Target and becomes increasingly common as the difficulty escalates.\nDespite its immense size, the Bile Titan can rapidly close distances, dousing Helldivers with its deadly bile. Those in close proximity also risk being crushed or impaled by its massive claws.",
+        "recommendedStratagems": ["Autocannon", "Orbital Precision Strike", "Eagle 500KG Bomb", "Eagle 110mm Rocket Pods", "Railgun", "Expendable Anti-Tank", "Orbital Railcannon Strike", "Jump Pack"]
+    },
+    {
+        "name": "Shrieker",
+        "description": "Shriekers are moderate-sized, flying Terminids characterized by their large wingspans. They typically travel in large flocks and employ dive tactics to swoop down and swipe at Helldivers.",
+        "recommendedStratagems": ["Eagle 500KG Bomb", "Autocannon", "Laser Cannon", "Patriot Exosuit", "Arc Thrower"]
+    }
+]
