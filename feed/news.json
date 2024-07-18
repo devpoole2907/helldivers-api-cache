@@ -970,5 +970,12 @@
     "type": 0,
     "tagIds": [],
     "message": "The Automaton Dominion has been fractured by the mighty assault rifle of Freedom. Thanks to the courage and obedience of the Helldivers, a large swath of Automaton-held planets are cut off from Cyberstan, disrupting their supplies and communications.\n\nThis will significantly impact the defenses on those planets, and it will take the Automatons time to recover. Until then, and so long as our barrier holds, the cut-off planets are vulnerable to our just liberation. "
+  },
+  {
+    "id": 2926,
+    "published": 13635359,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWith the Automaton forces in disarray, the opportunity has come to liberate the territory the Automatons illegally occupy. \n\nTime is of the essence. The Automaton defenses will recover in short order. We must press the advantage now."
   }
 ]
