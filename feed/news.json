@@ -977,5 +977,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nWith the Automaton forces in disarray, the opportunity has come to liberate the territory the Automatons illegally occupy. \n\nTime is of the essence. The Automaton defenses will recover in short order. We must press the advantage now."
+  },
+  {
+    "id": 2927,
+    "published": 13906952,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nIn a lightning-fast assault, the Helldivers capitalized fully on the Automatons' weakened defenses to liberate much of the territory they stole from us."
   }
 ]
