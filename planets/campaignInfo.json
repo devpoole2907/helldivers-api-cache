@@ -1,42 +1,12 @@
 [
   {
-    "planetIndex": 129,
-    "name": "Acamar IV",
-    "faction": "Terminids",
-    "players": 4548,
-    "health": 236778,
-    "maxHealth": 450000,
-    "percentage": 47.382666666666665,
-    "defense": true,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": 1721550612.284
-  },
-  {
-    "planetIndex": 113,
-    "name": "Aesir Pass",
-    "faction": "Automatons",
-    "players": 841,
-    "health": 364284,
-    "maxHealth": 450000,
-    "percentage": 19.048000000000002,
-    "defense": true,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": 1721550542.284
-  },
-  {
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 12419,
-    "health": 265571,
+    "players": 12291,
+    "health": 257215,
     "maxHealth": 1000000,
-    "percentage": 73.4429,
+    "percentage": 74.2785,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -45,13 +15,43 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 129,
+    "name": "Acamar IV",
+    "faction": "Terminids",
+    "players": 4506,
+    "health": 500287,
+    "maxHealth": 1000000,
+    "percentage": 49.9713,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 113,
+    "name": "Aesir Pass",
+    "faction": "Automatons",
+    "players": 856,
+    "health": 500378,
+    "maxHealth": 1000000,
+    "percentage": 49.962199999999996,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 549,
-    "health": 850672,
+    "players": 558,
+    "health": 850414,
     "maxHealth": 1000000,
-    "percentage": 14.9328,
+    "percentage": 14.95859999999999,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -63,10 +63,10 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 128,
-    "health": 935655,
+    "players": 125,
+    "health": 935569,
     "maxHealth": 1000000,
-    "percentage": 6.4345,
+    "percentage": 6.443100000000001,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -78,7 +78,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 62,
+    "players": 83,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1259,
+    "players": 1247,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 674,
+    "players": 673,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 1950,
+    "players": 1917,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 712,
+    "players": 694,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 349,
+    "players": 373,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -158,21 +158,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 148,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   }
