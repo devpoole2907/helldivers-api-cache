@@ -984,5 +984,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nIn a lightning-fast assault, the Helldivers capitalized fully on the Automatons' weakened defenses to liberate much of the territory they stole from us."
+  },
+  {
+    "id": 2928,
+    "published": 13983315,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nFollowing the Helldivers' inspiringly rapid support of the Terminid Research Initiative, the Ministry of Science has requested a second, much larger research trial.\n\nHigh Command has authorized a rotating series of augmenting Stratagems for the duration of this trial, in support of scientific progress."
   }
 ]
