@@ -991,5 +991,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nFollowing the Helldivers' inspiringly rapid support of the Terminid Research Initiative, the Ministry of Science has requested a second, much larger research trial.\n\nHigh Command has authorized a rotating series of augmenting Stratagems for the duration of this trial, in support of scientific progress."
+  },
+  {
+    "id": 2929,
+    "published": 14069609,
+    "type": 0,
+    "tagIds": [],
+    "message": "SYSTEMS UPDATE\n\nA cybersecurity software update has caused an unexpected outage for all Destroyer surveillance systems. All personnel are ordered to manually record their own behavior until services are restored.\n\nInstructions to Service Technicians: to bring systems back online, please manually reboot each affected computer 15 times."
   }
 ]
