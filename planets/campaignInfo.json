@@ -3,10 +3,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 8775,
-    "health": 461608,
+    "players": 9065,
+    "health": 457507,
     "maxHealth": 1000000,
-    "percentage": 53.8392,
+    "percentage": 54.2493,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -15,10 +15,10 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 107,
-    "health": 492696,
+    "players": 127,
+    "health": 492640,
     "maxHealth": 1000000,
-    "percentage": 50.730399999999996,
+    "percentage": 50.736,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -30,10 +30,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 415,
-    "health": 669563,
+    "players": 413,
+    "health": 669284,
     "maxHealth": 1000000,
-    "percentage": 33.0437,
+    "percentage": 33.071600000000004,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -45,10 +45,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1157,
-    "health": 789275,
+    "players": 1145,
+    "health": 790534,
     "maxHealth": 1000000,
-    "percentage": 21.07249999999999,
+    "percentage": 20.94659999999999,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -60,10 +60,10 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 198,
-    "health": 869916,
+    "players": 201,
+    "health": 869837,
     "maxHealth": 1000000,
-    "percentage": 13.008399999999995,
+    "percentage": 13.016300000000001,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -75,10 +75,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 279,
-    "health": 900584,
+    "players": 283,
+    "health": 900467,
     "maxHealth": 1000000,
-    "percentage": 9.941599999999994,
+    "percentage": 9.953299999999999,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -90,10 +90,10 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 94,
-    "health": 967156,
+    "players": 115,
+    "health": 967105,
     "maxHealth": 1000000,
-    "percentage": 3.284399999999991,
+    "percentage": 3.2894999999999897,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -102,10 +102,55 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 169,
+    "name": "Estanu",
+    "faction": "Terminids",
+    "players": 4381,
+    "health": 999969,
+    "maxHealth": 1000000,
+    "percentage": 0.0030999999999892225,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 2925,
+    "health": 999982,
+    "maxHealth": 1000000,
+    "percentage": 0.0017999999999886995,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 653,
+    "health": 999994,
+    "maxHealth": 1000000,
+    "percentage": 0.0005999999999914962,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 120,
+    "players": 125,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,25 +162,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 2893,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1234,
+    "players": 1264,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -143,36 +173,6 @@
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 169,
-    "name": "Estanu",
-    "faction": "Terminids",
-    "players": 4197,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 672,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
