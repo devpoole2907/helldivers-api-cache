@@ -998,5 +998,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SYSTEMS UPDATE\n\nA cybersecurity software update has caused an unexpected outage for all Destroyer surveillance systems. All personnel are ordered to manually record their own behavior until services are restored.\n\nInstructions to Service Technicians: to bring systems back online, please manually reboot each affected computer 15 times."
+  },
+  {
+    "id": 2930,
+    "published": 14214074,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nThe Automatons are rapidly repairing their logistics and communications infrastructure, following the fracturing of their domain by the Helldivers. Their defenses will soon begin recovering."
   }
 ]
