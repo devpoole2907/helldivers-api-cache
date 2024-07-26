@@ -3,10 +3,10 @@
     "planetIndex": 158,
     "name": "Choepessa IV",
     "faction": "Automatons",
-    "players": 1088,
-    "health": 462544,
+    "players": 1073,
+    "health": 461722,
     "maxHealth": 1000000,
-    "percentage": 53.745599999999996,
+    "percentage": 53.827799999999996,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -18,10 +18,10 @@
     "planetIndex": 245,
     "name": "Wasat",
     "faction": "Automatons",
-    "players": 109,
-    "health": 600777,
+    "players": 116,
+    "health": 601455,
     "maxHealth": 1000000,
-    "percentage": 39.9223,
+    "percentage": 39.854499999999994,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -34,9 +34,9 @@
     "name": "Vandalon IV",
     "faction": "Automatons",
     "players": 219,
-    "health": 742675,
+    "health": 743222,
     "maxHealth": 1000000,
-    "percentage": 25.7325,
+    "percentage": 25.67779999999999,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 8456,
-    "health": 838374,
+    "players": 8268,
+    "health": 833498,
     "maxHealth": 1000000,
-    "percentage": 16.162599999999998,
+    "percentage": 16.650199999999998,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -63,10 +63,10 @@
     "planetIndex": 246,
     "name": "Vega Bay",
     "faction": "Automatons",
-    "players": 185,
-    "health": 966474,
+    "players": 181,
+    "health": 967078,
     "maxHealth": 1000000,
-    "percentage": 3.3525999999999954,
+    "percentage": 3.292199999999994,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -78,10 +78,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2109,
-    "health": 999958,
+    "players": 2155,
+    "health": 999983,
     "maxHealth": 1000000,
-    "percentage": 0.004199999999997317,
+    "percentage": 0.0016999999999995907,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -90,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 670,
-    "health": 999987,
-    "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 602,
+    "players": 626,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 150,
+    "players": 144,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1682,
+    "players": 1696,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1080,
+    "players": 1059,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -161,6 +146,21 @@
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 34,
+    "name": "Hellmire",
+    "faction": "Terminids",
+    "players": 706,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
