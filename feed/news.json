@@ -1005,5 +1005,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nThe Automatons are rapidly repairing their logistics and communications infrastructure, following the fracturing of their domain by the Helldivers. Their defenses will soon begin recovering."
+  },
+  {
+    "id": 2931,
+    "published": 14349699,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have demonstrated a commitment to scientific progress equaled only by their fervor for Democratic supremacy. Thanks to their efforts, the Ministry of Science has ample data to further ongoing Terminid research efforts. \n\nConsult the Galactic Map on your ship for more information."
   }
 ]
