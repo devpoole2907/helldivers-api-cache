@@ -1019,5 +1019,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to reclaim more ground from the Automatons. However, the enemy has deployed Orbital Cannons across their territories.\n\nThe Orbital Cannons are targeting SEAF air forces, extending extraction times.\n\nLiberating a bot planet will allow temporary return to normal extraction. If two planets are liberated within 12 hours of each other, shorter extraction times will be possible for the remainder of the order."
+  },
+  {
+    "id": 2933,
+    "published": 14442500,
+    "type": 0,
+    "tagIds": [],
+    "message": "The liberation of a planet from the Automatons has destabilized the Orbital Cannon targeting array. Extraction times will return to normal for the next 12 hours."
   }
 ]
