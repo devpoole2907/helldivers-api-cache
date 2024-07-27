@@ -1012,5 +1012,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have demonstrated a commitment to scientific progress equaled only by their fervor for Democratic supremacy. Thanks to their efforts, the Ministry of Science has ample data to further ongoing Terminid research efforts. \n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2932,
+    "published": 14419602,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to reclaim more ground from the Automatons. However, the enemy has deployed Orbital Cannons across their territories.\n\nThe Orbital Cannons are targeting SEAF air forces, extending extraction times.\n\nLiberating a bot planet will allow temporary return to normal extraction. If two planets are liberated within 12 hours of each other, shorter extraction times will be possible for the remainder of the order."
   }
 ]
