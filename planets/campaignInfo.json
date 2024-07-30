@@ -3,10 +3,10 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 5679,
-    "health": 499161,
+    "players": 5762,
+    "health": 500242,
     "maxHealth": 1000000,
-    "percentage": 50.0839,
+    "percentage": 49.9758,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -18,10 +18,10 @@
     "planetIndex": 244,
     "name": "Varylia 5",
     "faction": "Automatons",
-    "players": 15757,
-    "health": 739041,
+    "players": 16160,
+    "health": 732710,
     "maxHealth": 1000000,
-    "percentage": 26.0959,
+    "percentage": 26.729,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -33,10 +33,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1366,
-    "health": 974735,
+    "players": 1383,
+    "health": 975810,
     "maxHealth": 1000000,
-    "percentage": 2.5264999999999986,
+    "percentage": 2.418999999999997,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -45,32 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 247,
-    "name": "Wezen",
+    "planetIndex": 242,
+    "name": "Ustotu",
     "faction": "Automatons",
-    "players": 2295,
-    "health": 999957,
+    "players": 1756,
+    "health": 999990,
     "maxHealth": 1000000,
-    "percentage": 0.004300000000000637,
+    "percentage": 0.000999999999990564,
     "defense": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 1376,
-    "health": 999989,
-    "maxHealth": 1000000,
-    "percentage": 0.0010999999999938836,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
     "expireDateTime": null
   },
@@ -78,7 +63,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 462,
+    "players": 447,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 116,
+    "players": 114,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2035,
+    "players": 2044,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,10 +105,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 1496,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 950,
+    "players": 962,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 745,
+    "players": 758,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,17 +150,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 242,
-    "name": "Ustotu",
+    "planetIndex": 247,
+    "name": "Wezen",
     "faction": "Automatons",
-    "players": 1763,
+    "players": 2318,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   }
