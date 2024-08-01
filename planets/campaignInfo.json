@@ -3,10 +3,10 @@
     "planetIndex": 242,
     "name": "Ustotu",
     "faction": "Automatons",
-    "players": 8140,
-    "health": 437079,
+    "players": 8338,
+    "health": 431397,
     "maxHealth": 1000000,
-    "percentage": 56.2921,
+    "percentage": 56.860299999999995,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -18,10 +18,10 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 4388,
-    "health": 733211,
+    "players": 4548,
+    "health": 733431,
     "maxHealth": 1000000,
-    "percentage": 26.6789,
+    "percentage": 26.656899999999993,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -30,17 +30,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
+    "planetIndex": 247,
+    "name": "Wezen",
     "faction": "Automatons",
-    "players": 681,
-    "health": 999973,
+    "players": 1240,
+    "health": 999972,
     "maxHealth": 1000000,
-    "percentage": 0.0026999999999901547,
+    "percentage": 0.0027999999999934744,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 1380,
+    "health": 999993,
+    "maxHealth": 1000000,
+    "percentage": 0.0006999999999948159,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
     "expireDateTime": null
   },
@@ -48,7 +63,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 254,
+    "players": 255,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 59,
+    "players": 64,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 1395,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 790,
+    "players": 820,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 575,
+    "players": 618,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 489,
+    "players": 500,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,17 +135,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 247,
-    "name": "Wezen",
+    "planetIndex": 243,
+    "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 1185,
+    "players": 697,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
