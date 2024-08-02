@@ -1054,5 +1054,19 @@
     "type": 0,
     "tagIds": [],
     "message": "The liberation of a planet from the Automatons has destabilized the Orbital Cannon targeting array. Extraction times will return to normal for the next 12 hours."
+  },
+  {
+    "id": 2938,
+    "published": 14938050,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe valiant sacrifice of millions of our most well-trained and brave heroes was not enough to pry free the collectivist death-grip on our stolen worlds. "
+  },
+  {
+    "id": 2939,
+    "published": 14938080,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHigh Command has ordered an Efficacy Review of the currently available Mine Stratagems.\n\nThe Helldivers are ordered to kill or dismantle the targeted number of Liberty's enemies. If the targeted number is not reached, High Command will specially authorize the urgent addition of Anti-Tank Mines to the Helldivers' repetoire."
   }
 ]
