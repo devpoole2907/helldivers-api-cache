@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 6484,
-    "health": 899690,
+    "players": 7467,
+    "health": 889151,
     "maxHealth": 1000000,
-    "percentage": 10.030999999999992,
+    "percentage": 11.08489999999999,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -15,17 +15,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 1182,
-    "health": 999998,
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 760,
+    "health": 999913,
     "maxHealth": 1000000,
-    "percentage": 0.00019999999999242846,
+    "percentage": 0.008699999999990382,
     "defense": false,
     "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
@@ -33,7 +33,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 647,
+    "players": 1056,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 167,
+    "players": 261,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 1258,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1649,
+    "players": 1676,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 623,
+    "players": 656,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 330,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 551,
+    "players": 1692,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
