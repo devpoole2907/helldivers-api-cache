@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 13616,
-    "health": 791988,
+    "players": 14646,
+    "health": 779734,
     "maxHealth": 1000000,
-    "percentage": 20.801199999999994,
+    "percentage": 22.026600000000002,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 3365,
-    "health": 990093,
+    "players": 3600,
+    "health": 988720,
     "maxHealth": 1000000,
-    "percentage": 0.9906999999999897,
+    "percentage": 1.1280000000000001,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,17 +30,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 779,
-    "health": 999989,
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 3125,
+    "health": 999994,
     "maxHealth": 1000000,
-    "percentage": 0.0010999999999938836,
+    "percentage": 0.0005999999999914962,
     "defense": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   },
@@ -48,10 +48,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 924,
-    "health": 999991,
+    "players": 954,
+    "health": 1000000,
     "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
+    "percentage": 0,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -63,7 +63,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 336,
+    "players": 391,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 2041,
+    "players": 2110,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 2845,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1011,
+    "players": 1090,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -116,6 +101,21 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 877,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
