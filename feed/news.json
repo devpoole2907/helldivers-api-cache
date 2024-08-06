@@ -1075,5 +1075,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe failure of the Helldivers to eliminate the targeted number of enemies using their currently-available arsenal has made clear the need for additional weaponry. Therefore, High Command has ordered the immediate, large-scale production of Anti-Tank Mines. They will be available fleetwide in short order. "
+  },
+  {
+    "id": 2941,
+    "published": 15273859,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nTerminids have overrun SEAF recon posts on Socorro III. Partial reports indicate the possibility of new Terminid variants. Most likely, these reports are exaggerations; however, the Terminid incursion is undoubtable.\n\nThe Helldivers are to deploy to Socorro III and eradicate as many Terminids as possible. Further, the Helldivers are ordered to liberate all nearby planets, to prevent the spread of any new Terminid variants that may or may not exist."
   }
 ]
