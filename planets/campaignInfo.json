@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 21822,
-    "health": 398068,
+    "players": 20686,
+    "health": 390718,
     "maxHealth": 1000000,
-    "percentage": 60.1932,
+    "percentage": 60.9282,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 6610,
-    "health": 931495,
+    "players": 6232,
+    "health": 930174,
     "maxHealth": 1000000,
-    "percentage": 6.850499999999997,
+    "percentage": 6.982599999999991,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,25 +30,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 4661,
-    "health": 999995,
-    "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 2045,
+    "players": 1961,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 679,
+    "players": 683,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 3610,
+    "players": 3325,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 4337,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1823,
+    "players": 1745,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 1682,
+    "players": 1606,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
