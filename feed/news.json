@@ -1068,5 +1068,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nHigh Command has ordered an Efficacy Review of the currently available Mine Stratagems.\n\nThe Helldivers are ordered to kill or dismantle the targeted number of Liberty's enemies. If the targeted number is not reached, High Command will specially authorize the urgent addition of Anti-Tank Mines to the Helldivers' repetoire."
+  },
+  {
+    "id": 2940,
+    "published": 15258540,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe failure of the Helldivers to eliminate the targeted number of enemies using their currently-available arsenal has made clear the need for additional weaponry. Therefore, High Command has ordered the immediate, large-scale production of Anti-Tank Mines. They will be available fleetwide in short order. "
   }
 ]
