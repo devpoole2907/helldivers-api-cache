@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 19969,
-    "health": 230672,
+    "players": 23650,
+    "health": 211982,
     "maxHealth": 1000000,
-    "percentage": 76.9328,
+    "percentage": 78.8018,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 5017,
-    "health": 907893,
+    "players": 6257,
+    "health": 904947,
     "maxHealth": 1000000,
-    "percentage": 9.210699999999989,
+    "percentage": 9.505299999999991,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,25 +30,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 2123,
-    "health": 999995,
-    "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1090,
+    "players": 1283,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 304,
+    "players": 355,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 2349,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2684,
+    "players": 3049,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1017,
+    "players": 1206,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 979,
+    "players": 1104,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
