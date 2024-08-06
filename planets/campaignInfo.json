@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 11186,
-    "health": 318364,
+    "players": 10783,
+    "health": 314350,
     "maxHealth": 1000000,
-    "percentage": 68.1636,
+    "percentage": 68.565,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 3200,
-    "health": 919547,
+    "players": 3136,
+    "health": 918877,
     "maxHealth": 1000000,
-    "percentage": 8.045299999999997,
+    "percentage": 8.11229999999999,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,10 +30,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 113,
-    "name": "Aesir Pass",
+    "planetIndex": 240,
+    "name": "Troost",
     "faction": "Automatons",
-    "players": 994,
+    "players": 763,
     "health": 999997,
     "maxHealth": 1000000,
     "percentage": 0.0002999999999957481,
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 113,
+    "name": "Aesir Pass",
+    "faction": "Automatons",
+    "players": 956,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 356,
+    "players": 333,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1603,
+    "players": 1484,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2162,
+    "players": 2064,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 911,
+    "players": 876,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -101,21 +116,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 815,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
