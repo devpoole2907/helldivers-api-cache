@@ -3,22 +3,22 @@
     "planetIndex": 123,
     "name": "Socorro III",
     "faction": "Terminids",
-    "players": 18067,
-    "health": 1099012,
+    "players": 18526,
+    "health": 1087696,
     "maxHealth": 2000000,
-    "percentage": 45.0494,
+    "percentage": 45.615199999999994,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723129191.092
+    "expireDateTime": 1723129203.459
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2729,
-    "health": 116636,
+    "players": 2817,
+    "health": 118133,
     "maxHealth": 1000000,
-    "percentage": 88.3364,
+    "percentage": 88.1867,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -30,10 +30,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 2283,
-    "health": 894673,
+    "players": 2318,
+    "health": 895094,
     "maxHealth": 1000000,
-    "percentage": 10.532699999999991,
+    "percentage": 10.4906,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -42,25 +42,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 2173,
-    "health": 999992,
-    "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 440,
+    "players": 475,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,10 +72,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 2208,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 554,
+    "players": 595,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 338,
+    "players": 348,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 366,
+    "players": 394,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
