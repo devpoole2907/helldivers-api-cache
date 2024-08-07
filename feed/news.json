@@ -1082,5 +1082,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nTerminids have overrun SEAF recon posts on Socorro III. Partial reports indicate the possibility of new Terminid variants. Most likely, these reports are exaggerations; however, the Terminid incursion is undoubtable.\n\nThe Helldivers are to deploy to Socorro III and eradicate as many Terminids as possible. Further, the Helldivers are ordered to liberate all nearby planets, to prevent the spread of any new Terminid variants that may or may not exist."
+  },
+  {
+    "id": 2942,
+    "published": 15372163,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL UPDATE\n\nThe strange Terminid spore cloud near Socorro III has grown in size by 13% in the past 24 hours. Genetic analysis indicates a possible connection of new Terminids to the interstellar spores. The situation will continue to be closely monitored."
   }
 ]
