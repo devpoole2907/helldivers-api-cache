@@ -3,37 +3,37 @@
     "planetIndex": 123,
     "name": "Socorro III",
     "faction": "Terminids",
-    "players": 18980,
-    "health": 1055440,
+    "players": 19572,
+    "health": 1041396,
     "maxHealth": 2000000,
-    "percentage": 47.227999999999994,
+    "percentage": 47.9302,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723129211.069
+    "expireDateTime": 1723129211.031
   },
   {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1430,
-    "health": 399660,
+    "players": 1958,
+    "health": 399323,
     "maxHealth": 400000,
-    "percentage": 0.08499999999999375,
+    "percentage": 0.16924999999999102,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1723113651.069
+    "expireDateTime": 1723113651.031
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2725,
-    "health": 121001,
+    "players": 2833,
+    "health": 122558,
     "maxHealth": 1000000,
-    "percentage": 87.8999,
+    "percentage": 87.7442,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -45,10 +45,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 2370,
-    "health": 896048,
+    "players": 2440,
+    "health": 896320,
     "maxHealth": 1000000,
-    "percentage": 10.395200000000003,
+    "percentage": 10.367999999999995,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -57,10 +57,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 2050,
+    "health": 999990,
+    "maxHealth": 1000000,
+    "percentage": 0.000999999999990564,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 481,
+    "players": 475,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 265,
+    "players": 261,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,25 +102,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 2130,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 556,
+    "players": 580,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 328,
+    "players": 330,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 414,
+    "players": 393,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
