@@ -3,22 +3,22 @@
     "planetIndex": 123,
     "name": "Socorro III",
     "faction": "Terminids",
-    "players": 15881,
-    "health": 34589,
+    "players": 16362,
+    "health": 28617,
     "maxHealth": 300000,
-    "percentage": 88.47033333333333,
+    "percentage": 90.461,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723278085.666
+    "expireDateTime": 1723278094.041
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 3827,
-    "health": 558878,
+    "players": 3853,
+    "health": 562593,
     "maxHealth": 1000000,
-    "percentage": 44.112199999999994,
+    "percentage": 43.7407,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -30,10 +30,10 @@
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 33907,
-    "health": 712002,
+    "players": 34670,
+    "health": 695938,
     "maxHealth": 1000000,
-    "percentage": 28.79979999999999,
+    "percentage": 30.4062,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -45,10 +45,10 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 4899,
-    "health": 867280,
+    "players": 4915,
+    "health": 872912,
     "maxHealth": 1000000,
-    "percentage": 13.271999999999991,
+    "percentage": 12.708799999999997,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -57,10 +57,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 243,
+    "name": "Vandalon IV",
+    "faction": "Automatons",
+    "players": 4939,
+    "health": 999984,
+    "maxHealth": 1000000,
+    "percentage": 0.001599999999996271,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1688,
+    "players": 1747,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 765,
+    "players": 743,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +105,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 962,
+    "players": 1096,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 762,
+    "players": 815,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 569,
+    "players": 590,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 240,
     "name": "Troost",
     "faction": "Automatons",
-    "players": 1135,
+    "players": 1212,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -143,21 +158,6 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 4624,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
