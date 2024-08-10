@@ -1,12 +1,42 @@
 [
   {
+    "planetIndex": 129,
+    "name": "Acamar IV",
+    "faction": "Terminids",
+    "players": 26,
+    "health": 300000,
+    "maxHealth": 300000,
+    "percentage": 0,
+    "defense": true,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": 1723375740.972
+  },
+  {
+    "planetIndex": 66,
+    "name": "Curia",
+    "faction": "Automatons",
+    "players": 186,
+    "health": 300000,
+    "maxHealth": 300000,
+    "percentage": 0,
+    "defense": true,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": 1723375650.972
+  },
+  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 5332,
-    "health": 702368,
+    "players": 5694,
+    "health": 702866,
     "maxHealth": 1000000,
-    "percentage": 29.763199999999998,
+    "percentage": 29.713399999999993,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -15,17 +45,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 243,
-    "name": "Vandalon IV",
-    "faction": "Automatons",
-    "players": 3899,
-    "health": 999970,
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 16264,
+    "health": 999586,
     "maxHealth": 1000000,
-    "percentage": 0.0030000000000001137,
+    "percentage": 0.041399999999995885,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 672,
+    "health": 999964,
+    "maxHealth": 1000000,
+    "percentage": 0.00359999999999161,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
@@ -33,7 +78,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 972,
+    "players": 959,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 439,
+    "players": 420,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
-    "faction": "Terminids",
-    "players": 14753,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1243,
+    "players": 1338,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 813,
+    "players": 880,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +138,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1943,
+    "players": 2180,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,17 +150,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 240,
-    "name": "Troost",
+    "planetIndex": 243,
+    "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 602,
+    "players": 3917,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
