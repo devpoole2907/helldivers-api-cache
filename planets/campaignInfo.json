@@ -3,40 +3,40 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 19086,
-    "health": 203374,
+    "players": 19882,
+    "health": 192206,
     "maxHealth": 300000,
-    "percentage": 32.20866666666667,
+    "percentage": 35.93133333333334,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1723375801.436
+    "expireDateTime": 1723375799.171
   },
   {
     "planetIndex": 66,
     "name": "Curia",
     "faction": "Automatons",
-    "players": 5551,
-    "health": 232891,
+    "players": 5458,
+    "health": 229735,
     "maxHealth": 300000,
-    "percentage": 22.369666666666674,
+    "percentage": 23.421666666666667,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1723375711.436
+    "expireDateTime": 1723375709.171
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 3380,
-    "health": 736417,
+    "players": 3518,
+    "health": 740677,
     "maxHealth": 1000000,
-    "percentage": 26.3583,
+    "percentage": 25.932299999999998,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -48,10 +48,10 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 7784,
-    "health": 970239,
+    "players": 7699,
+    "health": 974112,
     "maxHealth": 1000000,
-    "percentage": 2.9761000000000024,
+    "percentage": 2.588799999999992,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -63,10 +63,10 @@
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 16001,
-    "health": 989626,
+    "players": 17363,
+    "health": 984871,
     "maxHealth": 1000000,
-    "percentage": 1.037399999999991,
+    "percentage": 1.512900000000002,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -75,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 4255,
-    "health": 999985,
-    "maxHealth": 1000000,
-    "percentage": 0.0014999999999929514,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 457,
+    "players": 463,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 185,
+    "players": 186,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1110,
+    "players": 1065,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 836,
+    "players": 854,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,22 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1646,
+    "players": 1707,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 4435,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
