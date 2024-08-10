@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Some Helldivers are experiencing issues with the War Monitor database. The issue has been identified and an app update is on the way!",
+    "prominentAlert": "The issues with the database have been resolved! Check the App Store for an update for War Monitor.",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
