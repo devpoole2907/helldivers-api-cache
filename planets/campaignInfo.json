@@ -3,25 +3,25 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 13937,
-    "health": 258583,
+    "players": 12289,
+    "health": 243573,
     "maxHealth": 500000,
-    "percentage": 48.2834,
+    "percentage": 51.285399999999996,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1723490839.481
+    "expireDateTime": 1723490840.33
   },
   {
     "planetIndex": 243,
     "name": "Vandalon IV",
     "faction": "Automatons",
-    "players": 10774,
-    "health": 256116,
+    "players": 9535,
+    "health": 247742,
     "maxHealth": 1000000,
-    "percentage": 74.38839999999999,
+    "percentage": 75.22579999999999,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -33,10 +33,10 @@
     "planetIndex": 66,
     "name": "Curia",
     "faction": "Automatons",
-    "players": 1774,
-    "health": 700243,
+    "players": 1505,
+    "health": 706183,
     "maxHealth": 1000000,
-    "percentage": 29.975700000000003,
+    "percentage": 29.381699999999995,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -48,10 +48,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1797,
-    "health": 898090,
+    "players": 1603,
+    "health": 903224,
     "maxHealth": 1000000,
-    "percentage": 10.191000000000003,
+    "percentage": 9.677599999999998,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -60,10 +60,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 1547,
+    "health": 999985,
+    "maxHealth": 1000000,
+    "percentage": 0.0014999999999929514,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 1370,
+    "health": 999993,
+    "maxHealth": 1000000,
+    "percentage": 0.0006999999999948159,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 207,
+    "players": 132,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +108,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 111,
+    "players": 100,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
-    "faction": "Terminids",
-    "players": 1682,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 635,
+    "players": 557,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 430,
+    "players": 367,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,22 +153,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 779,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 1648,
+    "players": 704,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
