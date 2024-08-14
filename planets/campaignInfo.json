@@ -3,34 +3,64 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 9963,
-    "health": 121059,
+    "players": 9975,
+    "health": 113311,
     "maxHealth": 400000,
-    "percentage": 69.73525000000001,
+    "percentage": 71.67224999999999,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1723651700.185
+    "expireDateTime": 1723651709.994
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1904,
-    "health": 331722,
+    "players": 1845,
+    "health": 330069,
     "maxHealth": 400000,
-    "percentage": 17.069500000000005,
+    "percentage": 17.482749999999996,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723651590.185
+    "expireDateTime": 1723651599.994
+  },
+  {
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 1133,
+    "health": 999973,
+    "maxHealth": 1000000,
+    "percentage": 0.0026999999999901547,
+    "defense": false,
+    "biome": {
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 66,
+    "name": "Curia",
+    "faction": "Automatons",
+    "players": 3121,
+    "health": 999984,
+    "maxHealth": 1000000,
+    "percentage": 0.001599999999996271,
+    "defense": false,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 307,
+    "players": 315,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 176,
+    "players": 183,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -57,40 +87,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 1135,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 66,
-    "name": "Curia",
-    "faction": "Automatons",
-    "players": 3017,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1322,
+    "players": 1300,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 310,
+    "players": 303,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 317,
+    "players": 287,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 501,
+    "players": 488,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
