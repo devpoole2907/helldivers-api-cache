@@ -3,64 +3,49 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 21841,
-    "health": 99752,
+    "players": 21234,
+    "health": 88120,
     "maxHealth": 350000,
-    "percentage": 71.49942857142857,
+    "percentage": 74.82285714285715,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1723728899.995
+    "expireDateTime": 1723728899.356
   },
   {
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 6718,
-    "health": 283564,
+    "players": 6726,
+    "health": 280648,
     "maxHealth": 350000,
-    "percentage": 18.981714285714276,
+    "percentage": 19.814857142857136,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1723728969.995
+    "expireDateTime": 1723728969.356
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2679,
-    "health": 570067,
+    "players": 2564,
+    "health": 573402,
     "maxHealth": 1000000,
-    "percentage": 42.9933,
+    "percentage": 42.6598,
     "defense": false,
     "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 66,
-    "name": "Curia",
-    "faction": "Automatons",
-    "players": 6625,
-    "health": 999968,
-    "maxHealth": 1000000,
-    "percentage": 0.003199999999992542,
-    "defense": false,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-    },
     "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 620,
+    "players": 656,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +60,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 418,
+    "players": 412,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +75,7 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1789,
+    "players": 1751,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,10 +87,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 66,
+    "name": "Curia",
+    "faction": "Automatons",
+    "players": 6344,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1771,
+    "players": 1723,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 681,
+    "players": 645,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 427,
+    "players": 413,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 767,
+    "players": 807,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
