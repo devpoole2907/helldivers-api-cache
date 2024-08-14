@@ -3,52 +3,52 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 14100,
-    "health": 224440,
+    "players": 13320,
+    "health": 213989,
     "maxHealth": 400000,
-    "percentage": 43.89,
+    "percentage": 46.50275,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723651658.209
+    "expireDateTime": 1723651651.353
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 5806,
-    "health": 349082,
+    "players": 7374,
+    "health": 348064,
     "maxHealth": 350000,
-    "percentage": 0.26228571428571,
+    "percentage": 0.553142857142845,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1723728828.209
+    "expireDateTime": 1723728821.353
   },
   {
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 1980,
-    "health": 349400,
+    "players": 2522,
+    "health": 348798,
     "maxHealth": 350000,
-    "percentage": 0.17142857142856371,
+    "percentage": 0.34342857142856076,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1723728898.209
+    "expireDateTime": 1723728891.353
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2754,
-    "health": 999917,
+    "players": 2513,
+    "health": 999980,
     "maxHealth": 1000000,
-    "percentage": 0.008299999999991314,
+    "percentage": 0.001999999999995339,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -57,10 +57,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 170,
+    "name": "Fori Prime",
+    "faction": "Terminids",
+    "players": 694,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 412,
+    "players": 402,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 238,
+    "players": 208,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +105,7 @@
     "planetIndex": 66,
     "name": "Curia",
     "faction": "Automatons",
-    "players": 4732,
+    "players": 4736,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1918,
+    "players": 1799,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,25 +132,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 766,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 452,
+    "players": 475,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 736,
+    "players": 695,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
