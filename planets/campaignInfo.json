@@ -3,56 +3,56 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 11492,
-    "health": 189683,
+    "players": 11057,
+    "health": 185115,
     "maxHealth": 400000,
-    "percentage": 52.57925,
+    "percentage": 53.72125,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1723651660.073
+    "expireDateTime": 1723651660.232
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 10064,
-    "health": 337985,
+    "players": 10631,
+    "health": 333724,
     "maxHealth": 350000,
-    "percentage": 3.432857142857131,
+    "percentage": 4.650285714285701,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1723728830.073
+    "expireDateTime": 1723728830.232
   },
   {
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 3286,
-    "health": 345537,
+    "players": 3351,
+    "health": 344249,
     "maxHealth": 350000,
-    "percentage": 1.2751428571428534,
+    "percentage": 1.6431428571428484,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1723728900.073
+    "expireDateTime": 1723728900.232
   },
   {
-    "planetIndex": 66,
-    "name": "Curia",
-    "faction": "Automatons",
-    "players": 4756,
-    "health": 999980,
+    "planetIndex": 78,
+    "name": "Crimsica",
+    "faction": "Terminids",
+    "players": 2234,
+    "health": 999983,
     "maxHealth": 1000000,
-    "percentage": 0.001999999999995339,
+    "percentage": 0.0016999999999995907,
     "defense": false,
     "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+      "slug": "crimsonmoor",
+      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
     "expireDateTime": null
   },
@@ -60,7 +60,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 461,
+    "players": 442,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 232,
+    "players": 203,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,17 +87,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 78,
-    "name": "Crimsica",
-    "faction": "Terminids",
-    "players": 2231,
+    "planetIndex": 66,
+    "name": "Curia",
+    "faction": "Automatons",
+    "players": 4784,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
     "expireDateTime": null
   },
@@ -105,7 +105,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1822,
+    "players": 1753,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 687,
+    "players": 678,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 695,
+    "players": 706,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
