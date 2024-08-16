@@ -1124,5 +1124,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers successfully wiped out the remaining pocket of Automaton resistance in their cut-off territory, while simultaneously holding the line against the Terminid spread."
+  },
+  {
+    "id": 2948,
+    "published": 16137978,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe massive interstellar spore cloud known as the Gloom now occupies massive swaths of Terminid space. \n\nAll vessels sent into the Gloom have ceased radio contact within minutes. Now, the Helldivers must procure samples of Terminid organic matter from the planets closest to the Gloom."
   }
 ]
