@@ -3,25 +3,25 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 8069,
-    "health": 463379,
+    "players": 8298,
+    "health": 461496,
     "maxHealth": 500000,
-    "percentage": 7.3241999999999905,
+    "percentage": 7.700800000000001,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1723908130.622
+    "expireDateTime": 1723908130.451
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 17001,
-    "health": 609852,
+    "players": 17214,
+    "health": 607155,
     "maxHealth": 1000000,
-    "percentage": 39.014799999999994,
+    "percentage": 39.284499999999994,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -33,10 +33,10 @@
     "planetIndex": 66,
     "name": "Curia",
     "faction": "Automatons",
-    "players": 6092,
-    "health": 688345,
+    "players": 6031,
+    "health": 689210,
     "maxHealth": 1000000,
-    "percentage": 31.165499999999994,
+    "percentage": 31.078999999999994,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -48,19 +48,34 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1748,
-    "health": 919070,
+    "players": 1804,
+    "health": 921382,
     "maxHealth": 1000000,
-    "percentage": 8.09299999999999,
+    "percentage": 7.861800000000002,
     "defense": false,
     "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 5938,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 477,
+    "players": 522,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 297,
+    "players": 331,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +105,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 5640,
+    "players": 5778,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 851,
+    "players": 908,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 642,
+    "players": 697,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -128,21 +143,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 5797,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
