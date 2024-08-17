@@ -10,6 +10,7 @@
         "description": "The Impaler is a colossal, heavily-armored Terminid with a distinctive and formidable mutation: its head is composed of three lethal tentacles that can burrow deep into the ground and reemerge up to several dozen meters away.",
         "recommendedStratagems": ["Orbital Railcannon Strike", "Spear"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Impaler.png?updatedAt=1723866117722"
+    },
     {
         "name": "Warrior",
         "description": "The Warrior represents the evolutionary advancement from the Scavenger and precedes the transformation into a Brood Commander, appearing at any difficulty level.\nThese entities move at a moderate pace and attack exclusively with their razor-sharp claws.",
