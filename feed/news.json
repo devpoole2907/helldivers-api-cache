@@ -1145,5 +1145,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nWhile our attention has been diverted by the Gloom, the Automatons have crept closer to Super Earth. The Helldivers are ordered to launch an assault on the Automatons to push them back. \n\nIntel indicates that additional Automaton attacks are expected within the next few days. Remain vigilant, and defend against any further Automaton incursions."
+  },
+  {
+    "id": 2951,
+    "published": 16238741,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nThose who submitted counterfeit samples in a recent Order have been reassigned to Chemical Weapon facilities, where they will be given the opportunity to repay their debt to Managed Democracy with strenuous labor. \n\nThe Orbital Gas Strike stratagem will be temporarily added to all loadouts."
   }
 ]
