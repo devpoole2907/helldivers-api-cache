@@ -1131,5 +1131,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe massive interstellar spore cloud known as the Gloom now occupies massive swaths of Terminid space. \n\nAll vessels sent into the Gloom have ceased radio contact within minutes. Now, the Helldivers must procure samples of Terminid organic matter from the planets closest to the Gloom."
+  },
+  {
+    "id": 2949,
+    "published": 16209720,
+    "type": 0,
+    "tagIds": [],
+    "message": "Major Order Update:\n\nSuper Earth High Command has detected a large batch of counterfeit samples within the delivery of the last Major Order. As is customary, Medals have been awarded to all Helldivers who honorably performed their duties, and the ones submitting false samples have had their pet fish summarily executed.\n\nLaboratories all across Super Earth space are attempting to filter out the false samples, but the expected scientific advances to combat the spread of the gloom have decreased significantly. As a result of this, worlds near the gloom have begun resettlement protocols."
   }
 ]
