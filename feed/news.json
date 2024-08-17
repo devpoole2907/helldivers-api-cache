@@ -1138,5 +1138,12 @@
     "type": 0,
     "tagIds": [],
     "message": "Major Order Update:\n\nSuper Earth High Command has detected a large batch of counterfeit samples within the delivery of the last Major Order. As is customary, Medals have been awarded to all Helldivers who honorably performed their duties, and the ones submitting false samples have had their pet fish summarily executed.\n\nLaboratories all across Super Earth space are attempting to filter out the false samples, but the expected scientific advances to combat the spread of the gloom have decreased significantly. As a result of this, worlds near the gloom have begun resettlement protocols."
+  },
+  {
+    "id": 2950,
+    "published": 16236366,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nWhile our attention has been diverted by the Gloom, the Automatons have crept closer to Super Earth. The Helldivers are ordered to launch an assault on the Automatons to push them back. \n\nIntel indicates that additional Automaton attacks are expected within the next few days. Remain vigilant, and defend against any further Automaton incursions."
   }
 ]
