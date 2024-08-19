@@ -3,10 +3,10 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 5353,
-    "health": 285397,
+    "players": 5308,
+    "health": 283338,
     "maxHealth": 1000000,
-    "percentage": 71.4603,
+    "percentage": 71.6662,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -18,10 +18,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 6320,
-    "health": 875989,
+    "players": 6095,
+    "health": 874113,
     "maxHealth": 1000000,
-    "percentage": 12.4011,
+    "percentage": 12.588700000000003,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,25 +30,22 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
+    "planetIndex": 171,
+    "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1187,
-    "health": 999992,
+    "players": 914,
+    "health": 999955,
     "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
+    "percentage": 0.004499999999993065,
     "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
+    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 871,
+    "players": 833,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,10 +57,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 1186,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 668,
+    "players": 649,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,22 +87,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 970,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 307,
+    "players": 304,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 471,
+    "players": 450,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
