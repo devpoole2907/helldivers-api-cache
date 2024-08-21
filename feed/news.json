@@ -1159,5 +1159,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Automatons have been pushed back from the sectors closest to Super Earth. Our high-classification citizens have been protected, their patriotic dedication rewarded with the guarantee of safety they deserve. \n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2953,
+    "published": 16564995,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nEfforts to research the growing Terminid spore cloud known as the Gloom have failed. But we will not allow a mere lack of scientific understanding to thwart decisive action. The Helldivers are ordered to deploy in full force to hold back the Terminid swarm with the deployment of every weapon in their arsenal. \n\nConsult the Galactic Map on your Destroyer for more information."
   }
 ]
