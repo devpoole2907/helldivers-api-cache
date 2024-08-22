@@ -3,25 +3,25 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 8492,
-    "health": 300038,
+    "players": 8065,
+    "health": 294413,
     "maxHealth": 600000,
-    "percentage": 49.99366666666667,
+    "percentage": 50.93116666666667,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1724337590.601
+    "expireDateTime": 1724337590.646
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 3491,
-    "health": 30845,
+    "players": 3236,
+    "health": 31359,
     "maxHealth": 1000000,
-    "percentage": 96.9155,
+    "percentage": 96.8641,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -33,10 +33,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 3837,
-    "health": 510811,
+    "players": 3701,
+    "health": 511908,
     "maxHealth": 1000000,
-    "percentage": 48.9189,
+    "percentage": 48.8092,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 1412,
-    "health": 716245,
+    "players": 1344,
+    "health": 718696,
     "maxHealth": 1000000,
-    "percentage": 28.375500000000002,
+    "percentage": 28.130399999999995,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
-    "faction": "Terminids",
-    "players": 2361,
-    "health": 999979,
-    "maxHealth": 1000000,
-    "percentage": 0.0020999999999986585,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 881,
+    "players": 822,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 493,
+    "players": 456,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -101,6 +86,21 @@
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 2217,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
     "expireDateTime": null
   },
@@ -123,7 +123,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 566,
+    "players": 527,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 430,
+    "players": 376,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +150,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 797,
+    "players": 738,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
