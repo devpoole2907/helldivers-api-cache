@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 9962,
-    "health": 30431,
-    "maxHealth": 600000,
-    "percentage": 94.92816666666667,
-    "defense": true,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": 1724337689.042
-  },
-  {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 4932,
-    "health": 11096,
+    "players": 5150,
+    "health": 10380,
     "maxHealth": 1000000,
-    "percentage": 98.8904,
+    "percentage": 98.962,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -30,13 +15,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 9799,
+    "health": 502158,
+    "maxHealth": 1000000,
+    "percentage": 49.7842,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 2298,
-    "health": 562217,
+    "players": 2344,
+    "health": 563559,
     "maxHealth": 1000000,
-    "percentage": 43.778299999999994,
+    "percentage": 43.644099999999995,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 1522,
-    "health": 814227,
+    "players": 1639,
+    "health": 816203,
     "maxHealth": 1000000,
-    "percentage": 18.577299999999994,
+    "percentage": 18.3797,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 2764,
+    "health": 999964,
+    "maxHealth": 1000000,
+    "percentage": 0.00359999999999161,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 477,
+    "players": 499,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 363,
+    "players": 400,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
-    "faction": "Terminids",
-    "players": 2734,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 759,
+    "players": 752,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,22 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 440,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 395,
+    "players": 399,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +138,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 693,
+    "players": 722,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
