@@ -3,25 +3,25 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 5423,
-    "health": 185230,
+    "players": 5917,
+    "health": 168601,
     "maxHealth": 600000,
-    "percentage": 69.12833333333333,
+    "percentage": 71.89983333333333,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1724337640.652
+    "expireDateTime": 1724337640.674
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 2575,
-    "health": 30126,
+    "players": 2712,
+    "health": 28371,
     "maxHealth": 1000000,
-    "percentage": 96.9874,
+    "percentage": 97.1629,
     "defense": false,
     "biome": {
       "slug": "crimsonmoor",
@@ -33,10 +33,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1699,
-    "health": 526932,
+    "players": 1572,
+    "health": 530639,
     "maxHealth": 1000000,
-    "percentage": 47.306799999999996,
+    "percentage": 46.936099999999996,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -48,10 +48,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 660,
-    "health": 763062,
+    "players": 700,
+    "health": 769789,
     "maxHealth": 1000000,
-    "percentage": 23.693799999999996,
+    "percentage": 23.02109999999999,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,13 +60,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 354,
+    "health": 999976,
+    "maxHealth": 1000000,
+    "percentage": 0.0023999999999944066,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 380,
-    "health": 999975,
+    "players": 359,
+    "health": 1000000,
     "maxHealth": 1000000,
-    "percentage": 0.0024999999999977263,
+    "percentage": 0,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -78,7 +93,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 197,
+    "players": 210,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1519,
+    "players": 1588,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 317,
+    "players": 349,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 234,
+    "players": 268,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +150,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 207,
+    "players": 209,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -143,21 +158,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 337,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   }
