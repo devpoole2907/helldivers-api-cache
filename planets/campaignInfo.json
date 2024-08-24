@@ -3,10 +3,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 9602,
-    "health": 188618,
+    "players": 9645,
+    "health": 187081,
     "maxHealth": 1000000,
-    "percentage": 81.1382,
+    "percentage": 81.2919,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -18,10 +18,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1967,
-    "health": 859569,
+    "players": 1956,
+    "health": 860930,
     "maxHealth": 1000000,
-    "percentage": 14.043099999999995,
+    "percentage": 13.906999999999996,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,13 +30,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 122,
+    "name": "Erson Sands",
+    "faction": "Terminids",
+    "players": 1598,
+    "health": 999980,
+    "maxHealth": 1000000,
+    "percentage": 0.001999999999995339,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 2133,
-    "health": 1000000,
+    "players": 2085,
+    "health": 999993,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.0006999999999948159,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -48,7 +63,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 511,
+    "players": 498,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 122,
-    "name": "Erson Sands",
-    "faction": "Terminids",
-    "players": 1593,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 949,
+    "players": 924,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 337,
+    "players": 324,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 521,
+    "players": 497,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
