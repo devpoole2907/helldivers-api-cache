@@ -3,10 +3,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 10501,
-    "health": 716185,
+    "players": 10594,
+    "health": 711825,
     "maxHealth": 1000000,
-    "percentage": 28.381500000000003,
+    "percentage": 28.817499999999995,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -15,13 +15,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1306,
+    "health": 999966,
+    "maxHealth": 1000000,
+    "percentage": 0.0033999999999991815,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 2006,
-    "health": 999960,
+    "players": 2011,
+    "health": 999966,
     "maxHealth": 1000000,
-    "percentage": 0.003999999999990678,
+    "percentage": 0.0033999999999991815,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -30,25 +42,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 170,
-    "name": "Fori Prime",
-    "faction": "Terminids",
-    "players": 1632,
-    "health": 999995,
-    "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 510,
+    "players": 533,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +60,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 556,
+    "players": 582,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +75,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 2401,
+    "players": 2445,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,22 +87,25 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 170,
+    "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1289,
+    "players": 1652,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 568,
+    "players": 561,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 761,
+    "players": 747,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
