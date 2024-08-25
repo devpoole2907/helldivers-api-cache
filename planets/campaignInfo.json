@@ -3,10 +3,10 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 17034,
-    "health": 864033,
+    "players": 15464,
+    "health": 848960,
     "maxHealth": 1000000,
-    "percentage": 13.596699999999998,
+    "percentage": 15.104,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -15,40 +15,22 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 4191,
-    "health": 999282,
-    "maxHealth": 1000000,
-    "percentage": 0.07179999999999609,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 170,
-    "name": "Fori Prime",
+    "planetIndex": 171,
+    "name": "Gacrux",
     "faction": "Terminids",
-    "players": 3184,
+    "players": 2577,
     "health": 999992,
     "maxHealth": 1000000,
     "percentage": 0.0007999999999981355,
     "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
+    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1282,
+    "players": 1222,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +45,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 1071,
+    "players": 976,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +60,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 4552,
+    "players": 4056,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,22 +72,25 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 170,
+    "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2957,
+    "players": 2821,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1084,
+    "players": 908,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +105,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 1885,
+    "players": 1647,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -128,6 +113,21 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 3716,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
