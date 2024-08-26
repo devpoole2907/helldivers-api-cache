@@ -3,25 +3,25 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 9105,
-    "health": 257869,
+    "players": 8280,
+    "health": 248134,
     "maxHealth": 350000,
-    "percentage": 26.323142857142855,
+    "percentage": 29.10457142857142,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1724708990.422
+    "expireDateTime": 1724708991.147
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 9871,
-    "health": 307737,
+    "players": 8909,
+    "health": 302338,
     "maxHealth": 1000000,
-    "percentage": 69.2263,
+    "percentage": 69.7662,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -30,10 +30,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 2555,
+    "health": 999980,
+    "maxHealth": 1000000,
+    "percentage": 0.001999999999995339,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 1067,
+    "players": 983,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +63,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 792,
+    "players": 673,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1488,
+    "players": 1369,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1720,
+    "players": 1539,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1346,
+    "players": 1224,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 575,
+    "players": 512,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 963,
+    "players": 850,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -128,21 +143,6 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 2968,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
