@@ -3,25 +3,25 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 4725,
-    "health": 86527,
+    "players": 4880,
+    "health": 82056,
     "maxHealth": 350000,
-    "percentage": 75.27799999999999,
+    "percentage": 76.55542857142856,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1724709062.508
+    "expireDateTime": 1724709056.359
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 5802,
-    "health": 191888,
+    "players": 5984,
+    "health": 187375,
     "maxHealth": 1000000,
-    "percentage": 80.8112,
+    "percentage": 81.2625,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -30,43 +30,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 1191,
-    "health": 999968,
-    "maxHealth": 1000000,
-    "percentage": 0.003199999999992542,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 421,
-    "health": 999971,
+    "players": 416,
+    "health": 1000000,
     "maxHealth": 1000000,
-    "percentage": 0.002899999999996794,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 400,
-    "health": 999987,
-    "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
+    "percentage": 0,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -78,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 343,
+    "players": 356,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +63,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 672,
+    "players": 697,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +78,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 842,
+    "players": 879,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +105,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 276,
+    "players": 256,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -143,6 +113,36 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 409,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 1229,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
