@@ -3,34 +3,64 @@
     "planetIndex": 123,
     "name": "Socorro III",
     "faction": "Terminids",
-    "players": 7216,
-    "health": 137464,
+    "players": 7085,
+    "health": 132346,
     "maxHealth": 250000,
-    "percentage": 45.014399999999995,
+    "percentage": 47.0616,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1724765901.223
+    "expireDateTime": 1724765900.526
   },
   {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 1785,
-    "health": 110535,
+    "players": 1675,
+    "health": 109529,
     "maxHealth": 150000,
-    "percentage": 26.310000000000002,
+    "percentage": 26.980666666666664,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1724779071.223
+    "expireDateTime": 1724779070.526
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 1664,
+    "health": 999938,
+    "maxHealth": 1000000,
+    "percentage": 0.006199999999992656,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 613,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 350,
+    "players": 339,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 234,
+    "players": 229,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +90,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 1052,
+    "players": 1051,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +105,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2452,
+    "players": 2351,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +120,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1441,
+    "players": 1396,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,7 +132,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 409,
+    "players": 354,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -110,36 +140,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 628,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 1779,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
