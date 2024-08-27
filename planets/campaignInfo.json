@@ -3,37 +3,37 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 16175,
-    "health": 97320,
+    "players": 15847,
+    "health": 88816,
     "maxHealth": 250000,
-    "percentage": 61.071999999999996,
+    "percentage": 64.4736,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1724858091.307
+    "expireDateTime": 1724858095.1
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 8344,
-    "health": 92319,
+    "players": 8197,
+    "health": 88645,
     "maxHealth": 200000,
-    "percentage": 53.8405,
+    "percentage": 55.6775,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1724874431.307
+    "expireDateTime": 1724874435.1
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 3829,
+    "players": 3711,
     "health": 999999,
     "maxHealth": 1000000,
     "percentage": 9.99999999891088e-05,
@@ -45,7 +45,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 770,
+    "players": 759,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +60,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 428,
+    "players": 409,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1794,
+    "players": 1841,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
