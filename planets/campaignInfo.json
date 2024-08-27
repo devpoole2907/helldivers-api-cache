@@ -3,46 +3,61 @@
     "planetIndex": 123,
     "name": "Socorro III",
     "faction": "Terminids",
-    "players": 6474,
-    "health": 116707,
+    "players": 6118,
+    "health": 106465,
     "maxHealth": 250000,
-    "percentage": 53.3172,
+    "percentage": 57.414,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1724765912.084
+    "expireDateTime": 1724765915.549
   },
   {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 1555,
-    "health": 106634,
+    "players": 1485,
+    "health": 104567,
     "maxHealth": 150000,
-    "percentage": 28.91066666666667,
+    "percentage": 30.28866666666667,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1724779082.084
+    "expireDateTime": 1724779085.549
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1135,
-    "health": 999987,
+    "players": 1081,
+    "health": 999944,
     "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
+    "percentage": 0.00560000000000116,
     "defense": false,
     "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 1310,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 301,
+    "players": 280,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -57,7 +72,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 203,
+    "players": 193,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -72,7 +87,7 @@
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 900,
+    "players": 850,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,7 +102,7 @@
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 1839,
+    "players": 1675,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,7 +117,7 @@
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 361,
+    "players": 321,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,7 +132,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 564,
+    "players": 515,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -125,21 +140,6 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 1451,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
