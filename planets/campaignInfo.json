@@ -3,49 +3,37 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 16600,
-    "health": 135852,
+    "players": 16595,
+    "health": 128255,
     "maxHealth": 250000,
-    "percentage": 45.6592,
+    "percentage": 48.698,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1724858080.31
+    "expireDateTime": 1724858089.117
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 8380,
-    "health": 111058,
+    "players": 8521,
+    "health": 107717,
     "maxHealth": 200000,
-    "percentage": 44.471,
+    "percentage": 46.1415,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1724874420.31
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 3916,
-    "health": 999880,
-    "maxHealth": 1000000,
-    "percentage": 0.012000000000000455,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
+    "expireDateTime": 1724874429.117
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 692,
+    "players": 724,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 498,
+    "players": 462,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -72,10 +60,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 3925,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1992,
+    "players": 1967,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
