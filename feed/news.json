@@ -1166,5 +1166,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nEfforts to research the growing Terminid spore cloud known as the Gloom have failed. But we will not allow a mere lack of scientific understanding to thwart decisive action. The Helldivers are ordered to deploy in full force to hold back the Terminid swarm with the deployment of every weapon in their arsenal. \n\nConsult the Galactic Map on your Destroyer for more information."
+  },
+  {
+    "id": 2954,
+    "published": 17083559,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully exterminated massive swaths of Terminids, including the largest tyrants amongst them. This inspiring exercise of liberation sends a clear message to our enemies. A message so loud, and so clear, that it needs no explicit articulation.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
