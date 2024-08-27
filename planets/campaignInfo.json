@@ -3,22 +3,34 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 7821,
-    "health": 42959,
+    "players": 9095,
+    "health": 39401,
     "maxHealth": 200000,
-    "percentage": 78.5205,
+    "percentage": 80.2995,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1724874462.41
+    "expireDateTime": 1724874462.198
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 7407,
+    "health": 999890,
+    "maxHealth": 1000000,
+    "percentage": 0.01099999999999568,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 689,
+    "players": 711,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -33,7 +45,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 433,
+    "players": 470,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,22 +57,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 5072,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1784,
+    "players": 1961,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
