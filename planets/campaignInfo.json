@@ -4,39 +4,39 @@
     "name": "Matar Bay",
     "faction": "Automatons",
     "players": 2330,
-    "health": 40981,
+    "health": 37386,
     "maxHealth": 150000,
-    "percentage": 72.67933333333333,
+    "percentage": 75.076,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1724779158.679
+    "expireDateTime": 1724779168.528
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 2638,
-    "health": 194957,
+    "players": 2880,
+    "health": 192237,
     "maxHealth": 200000,
-    "percentage": 2.521500000000003,
+    "percentage": 3.8815000000000026,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1724874368.679
+    "expireDateTime": 1724874378.528
   },
   {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 5181,
-    "health": 998167,
+    "players": 5420,
+    "health": 997326,
     "maxHealth": 1000000,
-    "percentage": 0.18329999999998847,
+    "percentage": 0.267399999999995,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -45,25 +45,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 1852,
-    "health": 999941,
-    "maxHealth": 1000000,
-    "percentage": 0.005899999999996908,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2972,
-    "health": 999993,
+    "players": 3100,
+    "health": 999974,
     "maxHealth": 1000000,
-    "percentage": 0.0006999999999948159,
+    "percentage": 0.002600000000001046,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -75,7 +63,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 270,
+    "players": 242,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,10 +90,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1822,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 34,
     "name": "Hellmire",
     "faction": "Terminids",
-    "players": 499,
+    "players": 526,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 211,
     "name": "Nivel 43",
     "faction": "Terminids",
-    "players": 963,
+    "players": 1018,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +135,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 804,
+    "players": 833,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
