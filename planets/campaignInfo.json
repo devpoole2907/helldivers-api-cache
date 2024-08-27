@@ -3,40 +3,40 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 2422,
-    "health": 45801,
+    "players": 2330,
+    "health": 40981,
     "maxHealth": 150000,
-    "percentage": 69.46600000000001,
+    "percentage": 72.67933333333333,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1724779162.035
+    "expireDateTime": 1724779158.679
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 2236,
-    "health": 197154,
+    "players": 2638,
+    "health": 194957,
     "maxHealth": 200000,
-    "percentage": 1.4230000000000018,
+    "percentage": 2.521500000000003,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1724874372.035
+    "expireDateTime": 1724874368.679
   },
   {
     "planetIndex": 122,
     "name": "Erson Sands",
     "faction": "Terminids",
-    "players": 4818,
-    "health": 998459,
+    "players": 5181,
+    "health": 998167,
     "maxHealth": 1000000,
-    "percentage": 0.15409999999999968,
+    "percentage": 0.18329999999998847,
     "defense": false,
     "biome": {
       "slug": "desert",
@@ -45,13 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1852,
+    "health": 999941,
+    "maxHealth": 1000000,
+    "percentage": 0.005899999999996908,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 170,
     "name": "Fori Prime",
     "faction": "Terminids",
-    "players": 2793,
-    "health": 999983,
+    "players": 2972,
+    "health": 999993,
     "maxHealth": 1000000,
-    "percentage": 0.0016999999999995907,
+    "percentage": 0.0006999999999948159,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -60,40 +72,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 211,
-    "name": "Nivel 43",
-    "faction": "Terminids",
-    "players": 854,
-    "health": 999988,
-    "maxHealth": 1000000,
-    "percentage": 0.0011999999999972033,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 34,
-    "name": "Hellmire",
-    "faction": "Terminids",
-    "players": 483,
-    "health": 999994,
-    "maxHealth": 1000000,
-    "percentage": 0.0005999999999914962,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 279,
+    "players": 270,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 178,
+    "players": 190,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,22 +102,40 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 34,
+    "name": "Hellmire",
     "faction": "Terminids",
-    "players": 1743,
+    "players": 499,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 211,
+    "name": "Nivel 43",
+    "faction": "Terminids",
+    "players": 963,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 941,
+    "players": 804,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
