@@ -3,82 +3,82 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 7082,
-    "health": 51956,
+    "players": 7185,
+    "health": 47759,
     "maxHealth": 250000,
-    "percentage": 79.2176,
+    "percentage": 80.8964,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1724929910.208
+    "expireDateTime": 1724929905.607
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 3246,
-    "health": 96206,
+    "players": 3357,
+    "health": 94777,
     "maxHealth": 250000,
-    "percentage": 61.5176,
+    "percentage": 62.0892,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725006210.208
+    "expireDateTime": 1725006205.607
   },
   {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 2116,
-    "health": 148559,
+    "players": 2156,
+    "health": 147374,
     "maxHealth": 250000,
-    "percentage": 40.5764,
+    "percentage": 41.050399999999996,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006180.208
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 1945,
-    "health": 859230,
-    "maxHealth": 1000000,
-    "percentage": 14.076999999999998,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
+    "expireDateTime": 1725006175.607
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 10376,
-    "health": 859366,
+    "players": 10731,
+    "health": 855174,
     "maxHealth": 1000000,
-    "percentage": 14.063400000000001,
+    "percentage": 14.48259999999999,
     "defense": false,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 2005,
+    "health": 861078,
+    "maxHealth": 1000000,
+    "percentage": 13.892200000000003,
+    "defense": false,
+    "biome": null,
     "expireDateTime": null
   },
   {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 2264,
-    "health": 991930,
+    "players": 2303,
+    "health": 993125,
     "maxHealth": 1000000,
-    "percentage": 0.8070000000000022,
+    "percentage": 0.6875,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -90,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 329,
+    "players": 336,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
