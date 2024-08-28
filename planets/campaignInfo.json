@@ -3,55 +3,55 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2615,
-    "health": 187516,
+    "players": 2814,
+    "health": 179115,
     "maxHealth": 250000,
-    "percentage": 24.9936,
+    "percentage": 28.354,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725006111.354
+    "expireDateTime": 1725006111.155
   },
   {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1683,
-    "health": 208634,
+    "players": 1842,
+    "health": 203316,
     "maxHealth": 250000,
-    "percentage": 16.54639999999999,
+    "percentage": 18.673599999999993,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006081.354
+    "expireDateTime": 1725006081.155
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 3970,
-    "health": 231123,
+    "players": 4648,
+    "health": 218226,
     "maxHealth": 250000,
-    "percentage": 7.550799999999995,
+    "percentage": 12.709599999999995,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1724929811.354
+    "expireDateTime": 1724929811.155
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1261,
-    "health": 766691,
+    "players": 1411,
+    "health": 772730,
     "maxHealth": 1000000,
-    "percentage": 23.3309,
+    "percentage": 22.72699999999999,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -60,10 +60,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 3133,
-    "health": 939597,
+    "players": 2713,
+    "health": 937532,
     "maxHealth": 1000000,
-    "percentage": 6.040300000000002,
+    "percentage": 6.246799999999993,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -75,10 +75,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 4755,
-    "health": 997898,
+    "players": 6151,
+    "health": 993400,
     "maxHealth": 1000000,
-    "percentage": 0.2102000000000004,
+    "percentage": 0.6599999999999966,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -90,7 +90,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 217,
+    "players": 250,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
