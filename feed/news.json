@@ -1173,5 +1173,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully exterminated massive swaths of Terminids, including the largest tyrants amongst them. This inspiring exercise of liberation sends a clear message to our enemies. A message so loud, and so clear, that it needs no explicit articulation.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 2955,
+    "published": 17155800,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall.\n\nLiberate the polystyrene stockpile on Vernen Wells, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. "
   }
 ]
