@@ -3,40 +3,40 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2581,
-    "health": 245642,
+    "players": 2639,
+    "health": 244064,
     "maxHealth": 250000,
-    "percentage": 1.7432000000000016,
+    "percentage": 2.3743999999999943,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725006065.226
+    "expireDateTime": 1725006071.164
   },
   {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1721,
-    "health": 245917,
+    "players": 1747,
+    "health": 244425,
     "maxHealth": 250000,
-    "percentage": 1.6332000000000022,
+    "percentage": 2.2299999999999898,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006035.226
+    "expireDateTime": 1725006041.164
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2737,
-    "health": 759493,
+    "players": 2436,
+    "health": 755824,
     "maxHealth": 1000000,
-    "percentage": 24.050699999999992,
+    "percentage": 24.417599999999993,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -45,10 +45,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 2451,
-    "health": 971692,
+    "players": 2832,
+    "health": 972011,
     "maxHealth": 1000000,
-    "percentage": 2.8307999999999964,
+    "percentage": 2.798899999999989,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -60,10 +60,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 486,
-    "health": 999969,
+    "players": 552,
+    "health": 1000000,
     "maxHealth": 1000000,
-    "percentage": 0.0030999999999892225,
+    "percentage": 0,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -75,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 553,
+    "players": 577,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
