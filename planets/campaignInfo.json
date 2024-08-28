@@ -3,40 +3,40 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2918,
-    "health": 224875,
+    "players": 3002,
+    "health": 221960,
     "maxHealth": 250000,
-    "percentage": 10.049999999999997,
+    "percentage": 11.215999999999994,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725006081.164
+    "expireDateTime": 1725006081.226
   },
   {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1775,
-    "health": 232156,
+    "players": 1803,
+    "health": 230333,
     "maxHealth": 250000,
-    "percentage": 7.137599999999992,
+    "percentage": 7.866799999999998,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006051.164
+    "expireDateTime": 1725006051.226
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1575,
-    "health": 751250,
+    "players": 1545,
+    "health": 751774,
     "maxHealth": 1000000,
-    "percentage": 24.875,
+    "percentage": 24.822599999999994,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -45,10 +45,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 3985,
-    "health": 965921,
+    "players": 4227,
+    "health": 963595,
     "maxHealth": 1000000,
-    "percentage": 3.407899999999998,
+    "percentage": 3.6404999999999887,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -60,7 +60,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 702,
+    "players": 696,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 742,
+    "players": 759,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
