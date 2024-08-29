@@ -3,40 +3,40 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2678,
-    "health": 46289,
+    "players": 2380,
+    "health": 40764,
     "maxHealth": 250000,
-    "percentage": 81.4844,
+    "percentage": 83.6944,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725006270.201
+    "expireDateTime": 1725006280.38
   },
   {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1789,
-    "health": 118280,
+    "players": 1534,
+    "health": 114744,
     "maxHealth": 250000,
-    "percentage": 52.687999999999995,
+    "percentage": 54.102399999999996,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006240.201
+    "expireDateTime": 1725006250.38
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 9107,
-    "health": 719854,
+    "players": 7834,
+    "health": 704182,
     "maxHealth": 1000000,
-    "percentage": 28.0146,
+    "percentage": 29.5818,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1113,
-    "health": 914386,
+    "players": 863,
+    "health": 919882,
     "maxHealth": 1000000,
-    "percentage": 8.561399999999992,
+    "percentage": 8.011799999999994,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -60,7 +60,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 526,
+    "players": 436,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1390,
+    "players": 1317,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
