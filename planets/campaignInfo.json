@@ -3,25 +3,25 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 4816,
-    "health": 5535,
+    "players": 4828,
+    "health": 1085,
     "maxHealth": 250000,
-    "percentage": 97.786,
+    "percentage": 99.566,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006363.329
+    "expireDateTime": 1725006365.33
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 11413,
-    "health": 389131,
+    "players": 11714,
+    "health": 378567,
     "maxHealth": 1000000,
-    "percentage": 61.0869,
+    "percentage": 62.143299999999996,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -33,34 +33,19 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2004,
-    "health": 998550,
+    "players": 2068,
+    "health": 999953,
     "maxHealth": 1000000,
-    "percentage": 0.14499999999999602,
+    "percentage": 0.004699999999999704,
     "defense": false,
     "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 1312,
-    "health": 999981,
-    "maxHealth": 1000000,
-    "percentage": 0.0018999999999920192,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
     "expireDateTime": null
   },
   {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 516,
+    "players": 569,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -68,6 +53,21 @@
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 1343,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
