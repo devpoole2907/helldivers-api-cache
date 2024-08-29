@@ -3,10 +3,10 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 13236,
-    "health": 340492,
+    "players": 13516,
+    "health": 330473,
     "maxHealth": 1000000,
-    "percentage": 65.9508,
+    "percentage": 66.9527,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -15,10 +15,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 5381,
+    "health": 999895,
+    "maxHealth": 1000000,
+    "percentage": 0.010499999999993292,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 687,
+    "players": 699,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -30,22 +42,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 5029,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1565,
+    "players": 1612,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
