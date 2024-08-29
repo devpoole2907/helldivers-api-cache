@@ -3,25 +3,25 @@
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 3918,
-    "health": 47997,
+    "players": 4294,
+    "health": 40395,
     "maxHealth": 250000,
-    "percentage": 80.8012,
+    "percentage": 83.842,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006350.473
+    "expireDateTime": 1725006356.582
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 8957,
-    "health": 480581,
+    "players": 9560,
+    "health": 462231,
     "maxHealth": 1000000,
-    "percentage": 51.9419,
+    "percentage": 53.7769,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -33,27 +33,12 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1551,
-    "health": 980424,
+    "players": 1579,
+    "health": 983974,
     "maxHealth": 1000000,
-    "percentage": 1.9575999999999993,
+    "percentage": 1.6025999999999954,
     "defense": false,
     "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 1092,
-    "health": 999979,
-    "maxHealth": 1000000,
-    "percentage": 0.0020999999999986585,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
     "expireDateTime": null
   },
   {
@@ -68,6 +53,21 @@
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 1136,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
