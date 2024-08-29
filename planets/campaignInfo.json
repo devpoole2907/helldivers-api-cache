@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 4828,
-    "health": 1085,
-    "maxHealth": 250000,
-    "percentage": 99.566,
-    "defense": true,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": 1725006365.33
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 11714,
-    "health": 378567,
+    "players": 12089,
+    "health": 370176,
     "maxHealth": 1000000,
-    "percentage": 62.143299999999996,
+    "percentage": 62.9824,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -33,10 +18,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2068,
-    "health": 999953,
+    "players": 2361,
+    "health": 999920,
     "maxHealth": 1000000,
-    "percentage": 0.004699999999999704,
+    "percentage": 0.007999999999995566,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -45,7 +30,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 569,
+    "players": 605,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +45,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1343,
+    "players": 1402,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
