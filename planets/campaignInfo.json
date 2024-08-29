@@ -1,42 +1,27 @@
 [
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 2113,
-    "health": 2323,
-    "maxHealth": 250000,
-    "percentage": 99.0708,
-    "defense": true,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": 1725006339.697
-  },
-  {
     "planetIndex": 75,
     "name": "Esker",
     "faction": "Terminids",
-    "players": 1337,
-    "health": 90908,
+    "players": 1349,
+    "health": 89133,
     "maxHealth": 250000,
-    "percentage": 63.6368,
+    "percentage": 64.3468,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1725006309.697
+    "expireDateTime": 1725006311.519
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 6052,
-    "health": 599625,
+    "players": 6044,
+    "health": 593655,
     "maxHealth": 1000000,
-    "percentage": 40.037499999999994,
+    "percentage": 40.634499999999996,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -48,34 +33,19 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 518,
-    "health": 953533,
+    "players": 496,
+    "health": 955700,
     "maxHealth": 1000000,
-    "percentage": 4.646699999999996,
+    "percentage": 4.429999999999993,
     "defense": false,
     "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 696,
-    "health": 999957,
-    "maxHealth": 1000000,
-    "percentage": 0.004300000000000637,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
     "expireDateTime": null
   },
   {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 294,
+    "players": 281,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -83,6 +53,21 @@
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 675,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
