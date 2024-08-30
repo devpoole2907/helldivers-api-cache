@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 8575,
-    "health": 262985,
+    "players": 8904,
+    "health": 259135,
     "maxHealth": 500000,
-    "percentage": 47.403,
+    "percentage": 48.172999999999995,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086030.368
+    "expireDateTime": 1725086030.438
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1935,
-    "health": 357833,
+    "players": 1949,
+    "health": 357094,
     "maxHealth": 400000,
-    "percentage": 10.541749999999993,
+    "percentage": 10.726500000000001,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090310.368
+    "expireDateTime": 1725090310.438
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 17137,
-    "health": 683081,
+    "players": 17572,
+    "health": 679049,
     "maxHealth": 1000000,
-    "percentage": 31.69189999999999,
+    "percentage": 32.0951,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 334,
+    "players": 306,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2384,
+    "players": 2528,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 936,
+    "players": 933,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
