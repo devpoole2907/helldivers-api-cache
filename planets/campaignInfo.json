@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6789,
-    "health": 293498,
+    "players": 7111,
+    "health": 284660,
     "maxHealth": 500000,
-    "percentage": 41.300399999999996,
+    "percentage": 43.068,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086020.228
+    "expireDateTime": 1725086029.259
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1786,
-    "health": 363970,
+    "players": 1766,
+    "health": 362222,
     "maxHealth": 400000,
-    "percentage": 9.007499999999993,
+    "percentage": 9.444500000000005,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090300.228
+    "expireDateTime": 1725090309.259
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 13800,
-    "health": 712620,
+    "players": 14271,
+    "health": 703820,
     "maxHealth": 1000000,
-    "percentage": 28.738,
+    "percentage": 29.617999999999995,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 235,
+    "players": 263,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1926,
+    "players": 2009,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 784,
+    "players": 816,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
