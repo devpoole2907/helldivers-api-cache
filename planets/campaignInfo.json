@@ -3,26 +3,26 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 7776,
-    "health": 974477,
+    "players": 8049,
+    "health": 968543,
     "maxHealth": 1000000,
-    "percentage": 2.5522999999999882,
+    "percentage": 3.145699999999991,
     "defense": false,
     "biome": null,
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
+    "planetIndex": 112,
+    "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 2797,
-    "health": 999998,
+    "players": 21053,
+    "health": 994200,
     "maxHealth": 1000000,
-    "percentage": 0.00019999999999242846,
+    "percentage": 0.5799999999999983,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   },
@@ -30,7 +30,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 857,
+    "players": 652,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -42,17 +42,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
+    "planetIndex": 67,
+    "name": "Tarsh",
     "faction": "Automatons",
-    "players": 12925,
+    "players": 2347,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
