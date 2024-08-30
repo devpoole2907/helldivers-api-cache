@@ -1,24 +1,12 @@
 [
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 7692,
-    "health": 965494,
-    "maxHealth": 1000000,
-    "percentage": 3.4505999999999943,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 18917,
-    "health": 969028,
+    "players": 18347,
+    "health": 964579,
     "maxHealth": 1000000,
-    "percentage": 3.097200000000001,
+    "percentage": 3.5420999999999907,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -27,10 +15,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 7615,
+    "health": 964869,
+    "maxHealth": 1000000,
+    "percentage": 3.5130999999999943,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 553,
+    "players": 507,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,7 +45,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1856,
+    "players": 1777,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
