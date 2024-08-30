@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 7505,
-    "health": 178455,
+    "players": 7375,
+    "health": 175212,
     "maxHealth": 500000,
-    "percentage": 64.309,
+    "percentage": 64.9576,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086064.328
+    "expireDateTime": 1725086062.549
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1905,
-    "health": 341938,
+    "players": 1902,
+    "health": 341132,
     "maxHealth": 400000,
-    "percentage": 14.515500000000003,
+    "percentage": 14.716999999999999,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090344.328
+    "expireDateTime": 1725090342.549
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 15328,
-    "health": 606309,
+    "players": 15422,
+    "health": 602563,
     "maxHealth": 1000000,
-    "percentage": 39.369099999999996,
+    "percentage": 39.7437,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 228,
+    "players": 237,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2184,
+    "players": 2168,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 898,
+    "players": 885,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
