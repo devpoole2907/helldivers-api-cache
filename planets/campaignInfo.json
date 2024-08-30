@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 7967,
-    "health": 197007,
+    "players": 7751,
+    "health": 193299,
     "maxHealth": 500000,
-    "percentage": 60.5986,
+    "percentage": 61.340199999999996,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086060.33
+    "expireDateTime": 1725086060.523
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1956,
-    "health": 345762,
+    "players": 1932,
+    "health": 344994,
     "maxHealth": 400000,
-    "percentage": 13.5595,
+    "percentage": 13.751499999999993,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090340.33
+    "expireDateTime": 1725090340.523
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 15867,
-    "health": 622933,
+    "players": 15641,
+    "health": 620467,
     "maxHealth": 1000000,
-    "percentage": 37.7067,
+    "percentage": 37.9533,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -45,22 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2205,
-    "health": 999994,
-    "maxHealth": 1000000,
-    "percentage": 0.0005999999999914962,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 283,
+    "players": 267,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -72,10 +60,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 2151,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 867,
+    "players": 835,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
