@@ -1,36 +1,36 @@
 [
   {
-    "planetIndex": 113,
-    "name": "Aesir Pass",
-    "faction": "Automatons",
-    "players": 16811,
-    "health": 42841,
-    "maxHealth": 1000000,
-    "percentage": 95.7159,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 6310,
-    "health": 977758,
+    "players": 7776,
+    "health": 974477,
     "maxHealth": 1000000,
-    "percentage": 2.224199999999996,
+    "percentage": 2.5522999999999882,
     "defense": false,
     "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 2797,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 825,
+    "players": 857,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -42,17 +42,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
+    "planetIndex": 112,
+    "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1941,
+    "players": 12925,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
     "expireDateTime": null
   }
