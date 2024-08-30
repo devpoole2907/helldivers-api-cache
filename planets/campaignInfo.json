@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 3022,
-    "health": 464230,
+    "players": 3083,
+    "health": 460571,
     "maxHealth": 500000,
-    "percentage": 7.153999999999996,
+    "percentage": 7.885799999999989,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725085960.491
+    "expireDateTime": 1725085960.294
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 811,
-    "health": 396080,
+    "players": 831,
+    "health": 395168,
     "maxHealth": 400000,
-    "percentage": 0.980000000000004,
+    "percentage": 1.2079999999999984,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090240.491
+    "expireDateTime": 1725090240.294
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 5961,
-    "health": 848530,
+    "players": 5989,
+    "health": 846002,
     "maxHealth": 1000000,
-    "percentage": 15.146999999999991,
+    "percentage": 15.399799999999999,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 982,
-    "health": 959748,
+    "players": 1017,
+    "health": 961561,
     "maxHealth": 1000000,
-    "percentage": 4.025199999999998,
+    "percentage": 3.8438999999999908,
     "defense": false,
     "biome": null,
     "expireDateTime": null
@@ -60,7 +60,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 136,
+    "players": 142,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 404,
+    "players": 400,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
