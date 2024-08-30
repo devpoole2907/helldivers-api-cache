@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6666,
-    "health": 338714,
+    "players": 6649,
+    "health": 334465,
     "maxHealth": 500000,
-    "percentage": 32.2572,
+    "percentage": 33.107,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086011.153
+    "expireDateTime": 1725086010.032
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1436,
-    "health": 371886,
+    "players": 1486,
+    "health": 371163,
     "maxHealth": 400000,
-    "percentage": 7.028499999999994,
+    "percentage": 7.209249999999997,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090291.153
+    "expireDateTime": 1725090290.032
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 12389,
-    "health": 749611,
+    "players": 12552,
+    "health": 746661,
     "maxHealth": 1000000,
-    "percentage": 25.038899999999998,
+    "percentage": 25.3339,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 222,
+    "players": 212,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1971,
+    "players": 1930,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 697,
+    "players": 694,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
