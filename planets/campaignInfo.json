@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6774,
-    "health": 301209,
+    "players": 6789,
+    "health": 297085,
     "maxHealth": 500000,
-    "percentage": 39.758199999999995,
+    "percentage": 40.583,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086019.554
+    "expireDateTime": 1725086019.51
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1687,
-    "health": 365218,
+    "players": 1715,
+    "health": 364684,
     "maxHealth": 400000,
-    "percentage": 8.695499999999996,
+    "percentage": 8.828999999999994,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090299.554
+    "expireDateTime": 1725090299.51
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 13214,
-    "health": 720043,
+    "players": 13598,
+    "health": 716640,
     "maxHealth": 1000000,
-    "percentage": 27.9957,
+    "percentage": 28.336,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 229,
+    "players": 262,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2008,
+    "players": 1983,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 777,
+    "players": 773,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
