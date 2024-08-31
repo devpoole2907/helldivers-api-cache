@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 8558,
-    "health": 146879,
+    "players": 9895,
+    "health": 126358,
     "maxHealth": 500000,
-    "percentage": 70.6242,
+    "percentage": 74.7284,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086080.456
+    "expireDateTime": 1725086080.439
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 2224,
-    "health": 335609,
+    "players": 2361,
+    "health": 331082,
     "maxHealth": 400000,
-    "percentage": 16.097750000000005,
+    "percentage": 17.2295,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090360.456
+    "expireDateTime": 1725090360.439
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 18422,
-    "health": 572037,
+    "players": 20215,
+    "health": 547283,
     "maxHealth": 1000000,
-    "percentage": 42.796299999999995,
+    "percentage": 45.271699999999996,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 329,
+    "players": 306,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2386,
+    "players": 2681,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1035,
+    "players": 1129,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
