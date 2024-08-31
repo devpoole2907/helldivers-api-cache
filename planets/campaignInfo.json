@@ -3,10 +3,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 12318,
-    "health": 356436,
+    "players": 13232,
+    "health": 347915,
     "maxHealth": 1000000,
-    "percentage": 64.35640000000001,
+    "percentage": 65.2085,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -18,10 +18,10 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6251,
-    "health": 400818,
+    "players": 6914,
+    "health": 392552,
     "maxHealth": 1000000,
-    "percentage": 59.9182,
+    "percentage": 60.7448,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -33,37 +33,10 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 658,
-    "health": 568061,
+    "players": 732,
+    "health": 573456,
     "maxHealth": 1000000,
-    "percentage": 43.1939,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 1294,
-    "health": 999988,
-    "maxHealth": 1000000,
-    "percentage": 0.0011999999999972033,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 178,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 42.654399999999995,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -75,15 +48,42 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 572,
-    "health": 1000000,
+    "players": 596,
+    "health": 999997,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.0002999999999957481,
     "defense": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 194,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1342,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
     "expireDateTime": null
   }
 ]
