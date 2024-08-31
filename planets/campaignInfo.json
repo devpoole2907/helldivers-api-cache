@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 10339,
-    "health": 118833,
+    "players": 10306,
+    "health": 111413,
     "maxHealth": 500000,
-    "percentage": 76.2334,
+    "percentage": 77.7174,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086090.552
+    "expireDateTime": 1725086090.32
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 2374,
-    "health": 329635,
+    "players": 2404,
+    "health": 328031,
     "maxHealth": 400000,
-    "percentage": 17.591250000000002,
+    "percentage": 17.99225,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090370.552
+    "expireDateTime": 1725090370.32
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 20484,
-    "health": 538974,
+    "players": 20002,
+    "health": 529592,
     "maxHealth": 1000000,
-    "percentage": 46.102599999999995,
+    "percentage": 47.0408,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 296,
+    "players": 289,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2638,
+    "players": 2655,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1155,
+    "players": 1104,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
