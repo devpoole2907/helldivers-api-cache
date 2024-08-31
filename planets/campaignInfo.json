@@ -3,40 +3,40 @@
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 9895,
-    "health": 126358,
+    "players": 10339,
+    "health": 118833,
     "maxHealth": 500000,
-    "percentage": 74.7284,
+    "percentage": 76.2334,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1725086080.439
+    "expireDateTime": 1725086090.552
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 2361,
-    "health": 331082,
+    "players": 2374,
+    "health": 329635,
     "maxHealth": 400000,
-    "percentage": 17.2295,
+    "percentage": 17.591250000000002,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1725090360.439
+    "expireDateTime": 1725090370.552
   },
   {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 20215,
-    "health": 547283,
+    "players": 20484,
+    "health": 538974,
     "maxHealth": 1000000,
-    "percentage": 45.271699999999996,
+    "percentage": 46.102599999999995,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -48,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 306,
+    "players": 296,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2681,
+    "players": 2638,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1129,
+    "players": 1155,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
