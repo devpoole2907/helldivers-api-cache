@@ -3,25 +3,25 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 2511,
-    "health": 449546,
+    "players": 2430,
+    "health": 447868,
     "maxHealth": 500000,
-    "percentage": 10.090800000000002,
+    "percentage": 10.426400000000001,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725218649.814
+    "expireDateTime": 1725218650.825
   },
   {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 6147,
-    "health": 196623,
+    "players": 6022,
+    "health": 193804,
     "maxHealth": 1000000,
-    "percentage": 80.3377,
+    "percentage": 80.61959999999999,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -33,10 +33,10 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 5249,
-    "health": 787753,
+    "players": 5265,
+    "health": 787549,
     "maxHealth": 1000000,
-    "percentage": 21.2247,
+    "percentage": 21.245099999999994,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 2573,
-    "health": 999992,
-    "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 293,
+    "players": 271,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 817,
+    "players": 771,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +75,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1927,
+    "players": 1822,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +90,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 1703,
+    "players": 1569,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -113,6 +98,21 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 2362,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
