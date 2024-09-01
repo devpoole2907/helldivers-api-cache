@@ -3,25 +3,25 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1641,
-    "health": 428636,
+    "players": 1604,
+    "health": 426257,
     "maxHealth": 500000,
-    "percentage": 14.27279999999999,
+    "percentage": 14.748599999999996,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1725218680.436
+    "expireDateTime": 1725218690.449
   },
   {
     "planetIndex": 125,
     "name": "Fenrir III",
     "faction": "Terminids",
-    "players": 5327,
-    "health": 155335,
+    "players": 5380,
+    "health": 149717,
     "maxHealth": 1000000,
-    "percentage": 84.4665,
+    "percentage": 85.0283,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -33,10 +33,10 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 5364,
-    "health": 771772,
+    "players": 5479,
+    "health": 768851,
     "maxHealth": 1000000,
-    "percentage": 22.8228,
+    "percentage": 23.11489999999999,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -45,17 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
+    "planetIndex": 203,
+    "name": "Menkent",
     "faction": "Automatons",
-    "players": 1274,
-    "health": 999998,
+    "players": 1070,
+    "health": 999992,
     "maxHealth": 1000000,
-    "percentage": 0.00019999999999242846,
+    "percentage": 0.0007999999999981355,
     "defense": false,
     "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   },
@@ -63,7 +63,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 187,
+    "players": 170,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 614,
+    "players": 588,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -87,17 +87,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
+    "planetIndex": 194,
+    "name": "Lesath",
     "faction": "Automatons",
-    "players": 987,
+    "players": 1243,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
     "expireDateTime": null
   },
@@ -105,7 +105,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1417,
+    "players": 1407,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
