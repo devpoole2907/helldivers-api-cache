@@ -1180,5 +1180,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall.\n\nLiberate the polystyrene stockpile on Vernen Wells, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. "
+  },
+  {
+    "id": 2956,
+    "published": 17587890,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nDespite heroic conservation efforts, and millions of Automaton militants recycled into useful scrap metals, the Helldivers were unable to secure sufficient resources to rectify supply shortages. Fleetwide distribution of the Orbital Napalm Barrage will be delayed."
   }
 ]
