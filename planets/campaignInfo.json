@@ -3,10 +3,10 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 6450,
-    "health": 519335,
+    "players": 6133,
+    "health": 516742,
     "maxHealth": 1000000,
-    "percentage": 48.0665,
+    "percentage": 48.3258,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -18,10 +18,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 4604,
-    "health": 677113,
+    "players": 4388,
+    "health": 679574,
     "maxHealth": 1000000,
-    "percentage": 32.28869999999999,
+    "percentage": 32.04259999999999,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,10 +30,37 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1840,
+    "health": 999989,
+    "maxHealth": 1000000,
+    "percentage": 0.0010999999999938836,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 1674,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 201,
+    "players": 186,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -42,18 +69,6 @@
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 1984,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
     "expireDateTime": null
   },
   {
@@ -72,25 +87,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 1782,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 647,
+    "players": 576,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1674,
+    "players": 1640,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
