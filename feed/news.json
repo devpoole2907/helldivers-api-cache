@@ -1187,5 +1187,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nDespite heroic conservation efforts, and millions of Automaton militants recycled into useful scrap metals, the Helldivers were unable to secure sufficient resources to rectify supply shortages. Fleetwide distribution of the Orbital Napalm Barrage will be delayed."
+  },
+  {
+    "id": 2957,
+    "published": 17604930,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nA massive Terminid outbreak has erupted out of the Gloom into the Jin Xi sector. Colonies in the Jin Xi sector are only weeks old, but millions of families are trapped within, awaiting emergency evacuation.\n\nAll Helldivers are called to the colonies' defense. "
   }
 ]
