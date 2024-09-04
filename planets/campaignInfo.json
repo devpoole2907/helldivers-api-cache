@@ -3,30 +3,42 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 7058,
-    "health": 746738,
+    "players": 7363,
+    "health": 735919,
     "maxHealth": 1900000,
-    "percentage": 60.698,
+    "percentage": 61.267421052631576,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1725530610.703
+    "expireDateTime": 1725530604.874
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 747,
-    "health": 561351,
+    "players": 706,
+    "health": 561875,
     "maxHealth": 1000000,
-    "percentage": 43.8649,
+    "percentage": 43.8125,
     "defense": false,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 472,
+    "health": 999987,
+    "maxHealth": 1000000,
+    "percentage": 0.001300000000000523,
+    "defense": false,
+    "biome": null,
     "expireDateTime": null
   },
   {
@@ -45,22 +57,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 433,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": null,
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 269,
+    "players": 277,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +90,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 532,
+    "players": 528,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 199,
+    "players": 210,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +120,7 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 370,
+    "players": 379,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
