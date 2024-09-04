@@ -1201,5 +1201,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SYSTEM OUTAGE UPDATE\n\nSome Helldivers may have noticed a recent service outage in the Major Order Communication Display. The issue has since been resolved (details below).\n\n[SYSTEM ERROR REPORT #4.23.342]\nCause: Organic tissue degradation on electronic equipment.\nDiscussion: Comms. Technician #R-2342 became stranded in server farm. Cause of death: exposure.\nResolution: Electronics replaced. Family of deceased fined for damages. \n[END REPORT]"
+  },
+  {
+    "id": 2959,
+    "published": 17761320,
+    "type": 0,
+    "tagIds": [],
+    "message": "TEMPORARY ARSENAL AUGMENTATION\n\nWhile the supplies recovered by the Helldivers in execution of the recent Major Order were insufficient to permanently deploy Orbital Napalm Barrages fleetwide, the Ministry of Defense was able to produce a limited supply of the Stratagem, thanks to the Helldivers' efforts. In recognition of their continued unquestioning sacrifice, the Orbital Napalm Barrage has been made temporarily available to all Helldivers."
   }
 ]
