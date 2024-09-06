@@ -1208,5 +1208,19 @@
     "type": 0,
     "tagIds": [],
     "message": "TEMPORARY ARSENAL AUGMENTATION\n\nWhile the supplies recovered by the Helldivers in execution of the recent Major Order were insufficient to permanently deploy Orbital Napalm Barrages fleetwide, the Ministry of Defense was able to produce a limited supply of the Stratagem, thanks to the Helldivers' efforts. In recognition of their continued unquestioning sacrifice, the Orbital Napalm Barrage has been made temporarily available to all Helldivers."
+  },
+  {
+    "id": 2960,
+    "published": 17950747,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Terminid outbreak from the Gloom has been contained, with damages and lost territory minimized. The bugs wrought massive devastation across the Jin Xi sector, forcing many families to flee from their homes, but the swift action of the Helldivers prevented the loss of territory and protected the investments of the Ministry of Expansion."
+  },
+  {
+    "id": 2961,
+    "published": 17951158,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Automatons have launched another brazen expansion in an attempt to steal more territory from hardworking Super Earth citizens. Intercepted communications indicate this latest incursion is targeting a large repository of titanium on Imber, possibly for use in construction of some kind of enhanced strike force."
   }
 ]
