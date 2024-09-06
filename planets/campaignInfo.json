@@ -3,37 +3,37 @@
     "planetIndex": 68,
     "name": "Shelt",
     "faction": "Automatons",
-    "players": 7953,
-    "health": 546541,
+    "players": 8752,
+    "health": 544868,
     "maxHealth": 550000,
-    "percentage": 0.6289090909090902,
+    "percentage": 0.9330909090909216,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1725726346.131
+    "expireDateTime": 1725726342.556
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 2045,
-    "health": 1498955,
+    "players": 2099,
+    "health": 1498319,
     "maxHealth": 1500000,
-    "percentage": 0.06966666666666299,
+    "percentage": 0.11206666666666365,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1725818296.131
+    "expireDateTime": 1725818292.556
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1253,
-    "health": 815971,
+    "players": 1193,
+    "health": 816576,
     "maxHealth": 1000000,
-    "percentage": 18.402900000000002,
+    "percentage": 18.342399999999998,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -45,10 +45,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 5283,
-    "health": 939200,
+    "players": 4973,
+    "health": 939094,
     "maxHealth": 1000000,
-    "percentage": 6.079999999999998,
+    "percentage": 6.090599999999995,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -57,15 +57,18 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 100,
+    "name": "Trandor",
     "faction": "Terminids",
-    "players": 1772,
-    "health": 999987,
+    "players": 2134,
+    "health": 999991,
     "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
+    "percentage": 0.0009000000000014552,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
     "expireDateTime": null
   },
   {
@@ -84,10 +87,22 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1741,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 381,
+    "players": 351,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -102,7 +117,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 125,
+    "players": 137,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,7 +132,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 719,
+    "players": 674,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -132,7 +147,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 572,
+    "players": 554,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -140,21 +155,6 @@
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 2123,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   }
