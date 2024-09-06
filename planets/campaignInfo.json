@@ -1,42 +1,12 @@
 [
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 16963,
-    "health": 13319,
-    "maxHealth": 1700000,
-    "percentage": 99.21652941176471,
-    "defense": true,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": 1725624241.018
-  },
-  {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1273,
-    "health": 787628,
+    "players": 1242,
+    "health": 789325,
     "maxHealth": 1000000,
-    "percentage": 21.2372,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 134,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 21.067499999999995,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -48,19 +18,49 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 736,
+    "players": 786,
+    "health": 999984,
+    "maxHealth": 1000000,
+    "percentage": 0.001599999999996271,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 716,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 113,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 627,
+    "players": 568,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +75,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 139,
+    "players": 113,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +90,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1117,
+    "players": 1173,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +105,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 237,
+    "players": 234,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,25 +117,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 712,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 970,
+    "players": 963,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
