@@ -3,55 +3,25 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 15413,
-    "health": 1173147,
+    "players": 15963,
+    "health": 1156587,
     "maxHealth": 1500000,
-    "percentage": 21.7902,
+    "percentage": 22.894199999999998,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1725818508.31
+    "expireDateTime": 1725818511.174
   },
   {
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 1005,
-    "health": 983137,
+    "players": 1090,
+    "health": 986150,
     "maxHealth": 1000000,
-    "percentage": 1.6862999999999886,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 4396,
-    "health": 999948,
-    "maxHealth": 1000000,
-    "percentage": 0.005200000000002092,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 159,
-    "name": "Choohe",
-    "faction": "Automatons",
-    "players": 150,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 1.384999999999991,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -63,10 +33,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2083,
-    "health": 1000000,
+    "players": 2147,
+    "health": 999994,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.0005999999999914962,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -75,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 159,
+    "name": "Choohe",
+    "faction": "Automatons",
+    "players": 165,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 776,
+    "players": 754,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 188,
+    "players": 172,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 4389,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 886,
+    "players": 908,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 867,
+    "players": 910,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 2411,
+    "players": 2507,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
