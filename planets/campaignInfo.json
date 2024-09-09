@@ -3,40 +3,40 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 3006,
-    "health": 234037,
+    "players": 2833,
+    "health": 230208,
     "maxHealth": 400000,
-    "percentage": 41.49075,
+    "percentage": 42.448,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1725877442.165
+    "expireDateTime": 1725877440.478
   },
   {
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 8979,
-    "health": 929458,
+    "players": 8746,
+    "health": 919994,
     "maxHealth": 1000000,
-    "percentage": 7.0541999999999945,
+    "percentage": 8.000599999999991,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1726005482.165
+    "expireDateTime": 1726005480.478
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 3334,
-    "health": 507454,
+    "players": 3185,
+    "health": 508074,
     "maxHealth": 1000000,
-    "percentage": 49.254599999999996,
+    "percentage": 49.1926,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,28 +45,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 2266,
-    "health": 999992,
-    "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 159,
-    "name": "Choohe",
+    "planetIndex": 45,
+    "name": "Mastia",
     "faction": "Automatons",
-    "players": 122,
-    "health": 1000000,
+    "players": 533,
+    "health": 999995,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.0004999999999881766,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -78,10 +63,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1861,
-    "health": 1000000,
+    "players": 1770,
+    "health": 999996,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.00039999999999906777,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -90,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
+    "planetIndex": 159,
+    "name": "Choohe",
     "faction": "Automatons",
-    "players": 403,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 45,
-    "name": "Mastia",
-    "faction": "Automatons",
-    "players": 588,
+    "players": 112,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 385,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 94,
+    "players": 82,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 3522,
+    "players": 3427,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 760,
+    "players": 694,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 683,
+    "players": 653,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -176,6 +161,21 @@
     "biome": {
       "slug": "morass",
       "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 2159,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   }
