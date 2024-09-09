@@ -3,40 +3,40 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 646,
-    "health": 187613,
+    "players": 578,
+    "health": 184851,
     "maxHealth": 400000,
-    "percentage": 53.09675,
+    "percentage": 53.78725,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1725877480.539
+    "expireDateTime": 1725877480.515
   },
   {
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 3403,
-    "health": 787322,
+    "players": 3505,
+    "health": 777155,
     "maxHealth": 1000000,
-    "percentage": 21.267799999999994,
+    "percentage": 22.284499999999994,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1726005520.539
+    "expireDateTime": 1726005520.515
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 780,
-    "health": 526650,
+    "players": 830,
+    "health": 528511,
     "maxHealth": 1000000,
-    "percentage": 47.335,
+    "percentage": 47.1489,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,32 +45,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 100,
+    "name": "Trandor",
     "faction": "Terminids",
-    "players": 552,
-    "health": 999917,
+    "players": 796,
+    "health": 999854,
     "maxHealth": 1000000,
-    "percentage": 0.008299999999991314,
+    "percentage": 0.0146000000000015,
     "defense": false,
     "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 215,
-    "name": "Partion",
-    "faction": "Terminids",
-    "players": 287,
-    "health": 999974,
-    "maxHealth": 1000000,
-    "percentage": 0.002600000000001046,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   },
@@ -78,7 +63,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 39,
+    "players": 34,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 524,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 124,
+    "players": 114,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 199,
+    "players": 191,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 37,
+    "players": 20,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1491,
+    "players": 1504,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,10 +150,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 215,
+    "name": "Partion",
+    "faction": "Terminids",
+    "players": 271,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 188,
+    "players": 178,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -161,21 +176,6 @@
     "biome": {
       "slug": "morass",
       "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 817,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   }
