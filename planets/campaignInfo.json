@@ -3,37 +3,37 @@
     "planetIndex": 68,
     "name": "Shelt",
     "faction": "Automatons",
-    "players": 8013,
-    "health": 48951,
+    "players": 7623,
+    "health": 39444,
     "maxHealth": 300000,
-    "percentage": 83.68299999999999,
+    "percentage": 86.852,
     "defense": true,
     "biome": null,
-    "expireDateTime": 1726045837.248
+    "expireDateTime": 1726045840.363
   },
   {
     "planetIndex": 46,
     "name": "Shallus",
     "faction": "Automatons",
-    "players": 4006,
-    "health": 174863,
+    "players": 3773,
+    "health": 170181,
     "maxHealth": 300000,
-    "percentage": 41.71233333333333,
+    "percentage": 43.273,
     "defense": true,
     "biome": {
       "slug": "ethereal",
       "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
-    "expireDateTime": 1726045797.248
+    "expireDateTime": 1726045800.363
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 979,
-    "health": 704051,
+    "players": 859,
+    "health": 706752,
     "maxHealth": 1000000,
-    "percentage": 29.594899999999996,
+    "percentage": 29.324799999999996,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,10 +45,10 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 394,
-    "health": 946259,
+    "players": 384,
+    "health": 951271,
     "maxHealth": 1000000,
-    "percentage": 5.3740999999999985,
+    "percentage": 4.872900000000001,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -57,25 +57,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 2233,
-    "health": 999904,
-    "maxHealth": 1000000,
-    "percentage": 0.009599999999991837,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 79,
+    "players": 94,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +75,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1564,
+    "players": 1437,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +90,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 291,
+    "players": 246,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +105,7 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 382,
+    "players": 358,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +135,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 3227,
+    "players": 3067,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +150,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 688,
+    "players": 643,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +165,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 392,
+    "players": 363,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -188,6 +173,21 @@
     "biome": {
       "slug": "morass",
       "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 2050,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   }
