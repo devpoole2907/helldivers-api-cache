@@ -3,40 +3,40 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 4320,
-    "health": 309565,
+    "players": 4766,
+    "health": 291204,
     "maxHealth": 400000,
-    "percentage": 22.60875,
+    "percentage": 27.198999999999998,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1726128301.183
+    "expireDateTime": 1726128310.984
   },
   {
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 782,
-    "health": 276155,
+    "players": 888,
+    "health": 271579,
     "maxHealth": 300000,
-    "percentage": 7.948333333333338,
+    "percentage": 9.473666666666674,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726124591.183
+    "expireDateTime": 1726124600.984
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 519,
-    "health": 712110,
+    "players": 543,
+    "health": 716774,
     "maxHealth": 1000000,
-    "percentage": 28.789,
+    "percentage": 28.322599999999994,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 1180,
-    "health": 999886,
-    "maxHealth": 1000000,
-    "percentage": 0.011399999999994748,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 45,
+    "players": 51,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 581,
+    "players": 674,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 142,
+    "players": 144,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 210,
+    "players": 216,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 43,
+    "players": 65,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1723,
+    "players": 1966,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 318,
+    "players": 335,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 179,
+    "players": 213,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,10 +165,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 1378,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 109,
+    "players": 95,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
