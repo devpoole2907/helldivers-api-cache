@@ -1222,5 +1222,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automatons have launched another brazen expansion in an attempt to steal more territory from hardworking Super Earth citizens. Intercepted communications indicate this latest incursion is targeting a large repository of titanium on Imber, possibly for use in construction of some kind of enhanced strike force."
+  },
+  {
+    "id": 2962,
+    "published": 18465243,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Automatons have been rebuffed once more, their territorial ambitions stymied by the ever-watchful Helldivers. The titanium deposits on Imber were retained, and the Helldivers defended most of the bots attempted incursions into Super Earth territory."
   }
 ]
