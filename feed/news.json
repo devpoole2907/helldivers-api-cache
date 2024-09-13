@@ -1229,5 +1229,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Automatons have been rebuffed once more, their territorial ambitions stymied by the ever-watchful Helldivers. The titanium deposits on Imber were retained, and the Helldivers defended most of the bots attempted incursions into Super Earth territory."
+  },
+  {
+    "id": 2963,
+    "published": 18546840,
+    "type": 0,
+    "tagIds": [],
+    "message": "Curb rising Terminid population levels by conducting mass elimination of the small- to medium-sized specimens."
+  },
+  {
+    "id": 2964,
+    "published": 18547280,
+    "type": 0,
+    "tagIds": [],
+    "message": "SITUATIONAL RECAP\n\nReminder: Liberating the Automaton-controlled planets Tarsh and Mastia before the end of the current order will allow the Orbital Napalm Barrage to be available for immediate fleetwide requisition."
   }
 ]
