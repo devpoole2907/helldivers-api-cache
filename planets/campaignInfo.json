@@ -3,25 +3,25 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 5240,
-    "health": 70078,
+    "players": 5193,
+    "health": 62975,
     "maxHealth": 550000,
-    "percentage": 87.25854545454546,
+    "percentage": 88.55,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1726242369.221
+    "expireDateTime": 1726242367.577
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 1845,
-    "health": 630669,
+    "players": 1795,
+    "health": 630491,
     "maxHealth": 1000000,
-    "percentage": 36.933099999999996,
+    "percentage": 36.9509,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -30,10 +30,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 589,
+    "health": 999959,
+    "maxHealth": 1000000,
+    "percentage": 0.004099999999993997,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 45,
+    "name": "Mastia",
+    "faction": "Automatons",
+    "players": 333,
+    "health": 999976,
+    "maxHealth": 1000000,
+    "percentage": 0.0023999999999944066,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 58,
+    "players": 55,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 562,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 250,
+    "players": 248,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 45,
-    "name": "Mastia",
-    "faction": "Automatons",
-    "players": 305,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 72,
+    "players": 64,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 1010,
+    "players": 1012,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 229,
+    "players": 236,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 323,
+    "players": 297,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 474,
+    "players": 502,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 303,
+    "players": 278,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
