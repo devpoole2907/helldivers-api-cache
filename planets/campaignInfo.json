@@ -3,10 +3,10 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 1410,
-    "health": 641524,
+    "players": 1670,
+    "health": 650974,
     "maxHealth": 1000000,
-    "percentage": 35.8476,
+    "percentage": 34.90259999999999,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -18,10 +18,10 @@
     "planetIndex": 45,
     "name": "Mastia",
     "faction": "Automatons",
-    "players": 4438,
-    "health": 877520,
+    "players": 6654,
+    "health": 847415,
     "maxHealth": 1000000,
-    "percentage": 12.24799999999999,
+    "percentage": 15.258499999999998,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -33,10 +33,10 @@
     "planetIndex": 67,
     "name": "Tarsh",
     "faction": "Automatons",
-    "players": 1812,
-    "health": 950319,
+    "players": 2448,
+    "health": 939941,
     "maxHealth": 1000000,
-    "percentage": 4.968099999999993,
+    "percentage": 6.005899999999997,
     "defense": false,
     "biome": {
       "slug": "morass",
@@ -45,17 +45,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 3088,
-    "health": 999956,
+    "players": 9979,
+    "health": 999813,
     "maxHealth": 1000000,
-    "percentage": 0.0043999999999897454,
+    "percentage": 0.018699999999995498,
     "defense": false,
     "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 215,
+    "name": "Partion",
+    "faction": "Terminids",
+    "players": 1472,
+    "health": 999989,
+    "maxHealth": 1000000,
+    "percentage": 0.0010999999999938836,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
     "expireDateTime": null
   },
@@ -63,7 +78,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 129,
+    "players": 149,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2785,
+    "players": 3879,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 377,
+    "players": 489,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 126,
+    "players": 143,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,32 +135,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
+    "planetIndex": 100,
+    "name": "Trandor",
     "faction": "Terminids",
-    "players": 7371,
+    "players": 4234,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 215,
-    "name": "Partion",
-    "faction": "Terminids",
-    "players": 1139,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
     },
     "expireDateTime": null
   },
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 378,
+    "players": 384,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
