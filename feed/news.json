@@ -1250,5 +1250,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SITUATIONAL RECAP\n\nReminder: Liberating the Automaton-controlled planets Tarsh and Mastia before the end of the current order will allow the Orbital Napalm Barrage to be available for immediate fleetwide requisition."
+  },
+  {
+    "id": 2966,
+    "published": 18734851,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nMastia has been liberated, allowing access to the planet's polystyrene foam manufactories. The liberation of Tarsh is now all that is needed to make the Orbital Napalm Barrage Stratagem available for requisition."
   }
 ]
