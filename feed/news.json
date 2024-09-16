@@ -1264,5 +1264,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nTarsh has been cutoff from all adjacent Automaton systems, and as a result their resistance is crumbling! While the isolated bots on Tarsh will fight fiercely, their organization is failing. Press the advantage Helldivers!"
+  },
+  {
+    "id": 2968,
+    "published": 18796479,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL EXPANSION\n\nWith the successful liberation of Tarsh and Mastia from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population."
   }
 ]
