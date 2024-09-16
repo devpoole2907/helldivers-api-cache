@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "",
+    "prominentAlert": "iOS 18 has released! In case you're experiencing any issues, please stand by for an upcoming update for War Monitor!",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
