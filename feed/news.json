@@ -1271,5 +1271,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL EXPANSION\n\nWith the successful liberation of Tarsh and Mastia from the Automaton grasp, the Orbital Napalm Barrage has been made available for immediate requisition. This Stratagem may prove useful in the current effort to cull the Terminid population."
+  },
+  {
+    "id": 2969,
+    "published": 18805880,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nTerminid population levels have been reduced, but by lower than the targeted amount required to fully bring their population under control. \n"
   }
 ]
