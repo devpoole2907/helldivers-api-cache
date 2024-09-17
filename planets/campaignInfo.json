@@ -3,10 +3,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 19869,
-    "health": 878961,
+    "players": 22423,
+    "health": 870365,
     "maxHealth": 1000000,
-    "percentage": 12.103899999999996,
+    "percentage": 12.963499999999996,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -18,10 +18,10 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 5675,
-    "health": 976047,
+    "players": 6387,
+    "health": 977070,
     "maxHealth": 1000000,
-    "percentage": 2.3952999999999918,
+    "percentage": 2.292999999999992,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -30,10 +30,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 4561,
+    "health": 999977,
+    "maxHealth": 1000000,
+    "percentage": 0.002299999999991087,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 8131,
+    "health": 999996,
+    "maxHealth": 1000000,
+    "percentage": 0.00039999999999906777,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 307,
+    "players": 336,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -45,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 4099,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1795,
+    "players": 2096,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 333,
+    "players": 392,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1900,
+    "players": 2120,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 7349,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 770,
+    "players": 910,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
