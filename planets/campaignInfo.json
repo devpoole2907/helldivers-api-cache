@@ -3,25 +3,25 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 30130,
-    "health": 671458,
+    "players": 32378,
+    "health": 656350,
     "maxHealth": 700000,
-    "percentage": 4.07742857142857,
+    "percentage": 6.23571428571428,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1726673895.282
+    "expireDateTime": 1726673900.799
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 13353,
-    "health": 838009,
+    "players": 12757,
+    "health": 842748,
     "maxHealth": 1000000,
-    "percentage": 16.1991,
+    "percentage": 15.725200000000001,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -33,10 +33,10 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 10680,
-    "health": 978782,
+    "players": 11435,
+    "health": 978221,
     "maxHealth": 1000000,
-    "percentage": 2.1217999999999932,
+    "percentage": 2.177899999999994,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 4168,
+    "health": 999985,
+    "maxHealth": 1000000,
+    "percentage": 0.0014999999999929514,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 574,
+    "players": 667,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4014,
+    "players": 4298,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 2458,
+    "players": 2576,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 549,
+    "players": 585,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1397,
+    "players": 1406,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 4057,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 1417,
+    "players": 1497,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
