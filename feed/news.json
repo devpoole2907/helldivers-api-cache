@@ -1278,5 +1278,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nTerminid population levels have been reduced, but by lower than the targeted amount required to fully bring their population under control. \n"
+  },
+  {
+    "id": 2970,
+    "published": 18894870,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSuper Earth High Command has ordered an evaluation of Helldiver Force Readiness, following recent adjustments to fleetwide capabilities. In service of this evaluation, the Helldivers are ordered to conduct open warfare on both the Automaton and Terminid fronts, with the objective of increasing the total number of planets within the Super Earth Federation.\n\nConsult your Galactic Map for more information."
   }
 ]
