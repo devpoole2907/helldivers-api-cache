@@ -3,40 +3,40 @@
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 9461,
-    "health": 250233,
+    "players": 9629,
+    "health": 248460,
     "maxHealth": 300000,
-    "percentage": 16.589,
+    "percentage": 17.180000000000007,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726745081.131
+    "expireDateTime": 1726745090.91
   },
   {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
     "players": 1500,
-    "health": 589927,
+    "health": 589596,
     "maxHealth": 600000,
-    "percentage": 1.6788333333333298,
+    "percentage": 1.7340000000000089,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1726744721.131
+    "expireDateTime": 1726744730.91
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 10353,
-    "health": 965826,
+    "players": 10363,
+    "health": 965033,
     "maxHealth": 1000000,
-    "percentage": 3.4174000000000007,
+    "percentage": 3.49669999999999,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -45,28 +45,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 116,
-    "name": "Gaellivare",
-    "faction": "Automatons",
-    "players": 7296,
-    "health": 979877,
-    "maxHealth": 1000000,
-    "percentage": 2.012299999999996,
-    "defense": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 23215,
-    "health": 979966,
+    "players": 23114,
+    "health": 979514,
     "maxHealth": 1000000,
-    "percentage": 2.003399999999999,
+    "percentage": 2.0485999999999933,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -75,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 116,
+    "name": "Gaellivare",
+    "faction": "Automatons",
+    "players": 7250,
+    "health": 980078,
+    "maxHealth": 1000000,
+    "percentage": 1.9921999999999969,
+    "defense": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 523,
+    "players": 498,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 6838,
+    "players": 6907,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1619,
+    "players": 1615,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 573,
+    "players": 568,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 2740,
+    "players": 2724,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 1503,
+    "players": 1531,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
