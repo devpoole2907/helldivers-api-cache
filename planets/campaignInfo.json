@@ -1,42 +1,42 @@
 [
   {
-    "planetIndex": 162,
-    "name": "Clasa",
-    "faction": "Automatons",
-    "players": 831,
-    "health": 599985,
-    "maxHealth": 600000,
-    "percentage": 0.0024999999999977263,
-    "defense": true,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": 1726744665.718
-  },
-  {
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 288,
-    "health": 300000,
+    "players": 1037,
+    "health": 299932,
     "maxHealth": 300000,
-    "percentage": 0,
+    "percentage": 0.022666666666665947,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726745025.718
+    "expireDateTime": 1726745026.477
+  },
+  {
+    "planetIndex": 162,
+    "name": "Clasa",
+    "faction": "Automatons",
+    "players": 1229,
+    "health": 599907,
+    "maxHealth": 600000,
+    "percentage": 0.015500000000002956,
+    "defense": true,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": 1726744666.477
   },
   {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 4265,
-    "health": 963869,
+    "players": 4316,
+    "health": 964053,
     "maxHealth": 1000000,
-    "percentage": 3.6130999999999887,
+    "percentage": 3.594699999999989,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 5035,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 259,
+    "players": 245,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2873,
+    "players": 3178,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1024,
+    "players": 1037,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 302,
+    "players": 304,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 9102,
+    "players": 11312,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1100,
+    "players": 1252,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,25 +150,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 4032,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 624,
+    "players": 658,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
