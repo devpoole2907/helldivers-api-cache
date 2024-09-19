@@ -3,40 +3,40 @@
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 4360,
-    "health": 98439,
+    "players": 4460,
+    "health": 94088,
     "maxHealth": 300000,
-    "percentage": 67.187,
+    "percentage": 68.63733333333333,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726745218.593
+    "expireDateTime": 1726745229.664
   },
   {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 482,
-    "health": 573210,
+    "players": 545,
+    "health": 572820,
     "maxHealth": 600000,
-    "percentage": 4.465000000000003,
+    "percentage": 4.530000000000001,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1726744858.593
+    "expireDateTime": 1726744869.664
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 8893,
-    "health": 906013,
+    "players": 9809,
+    "health": 900076,
     "maxHealth": 1000000,
-    "percentage": 9.398699999999991,
+    "percentage": 9.99239999999999,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 14573,
-    "health": 985924,
+    "players": 15571,
+    "health": 982531,
     "maxHealth": 1000000,
-    "percentage": 1.4076000000000022,
+    "percentage": 1.7468999999999966,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 3467,
-    "health": 999980,
-    "maxHealth": 1000000,
-    "percentage": 0.001999999999995339,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 241,
+    "players": 257,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,10 +75,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 3593,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 2499,
+    "players": 2822,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 663,
+    "players": 730,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 263,
+    "players": 305,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1834,
+    "players": 1993,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 449,
+    "players": 516,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
