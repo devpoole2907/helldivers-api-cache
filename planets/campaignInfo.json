@@ -3,40 +3,40 @@
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 12683,
-    "health": 190518,
+    "players": 12620,
+    "health": 175319,
     "maxHealth": 300000,
-    "percentage": 36.494,
+    "percentage": 41.56033333333333,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726745140.898
+    "expireDateTime": 1726745155.932
   },
   {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 1864,
-    "health": 582404,
+    "players": 1697,
+    "health": 580767,
     "maxHealth": 600000,
-    "percentage": 2.9326666666666767,
+    "percentage": 3.2055000000000007,
     "defense": true,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1726744780.898
+    "expireDateTime": 1726744795.932
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 11019,
-    "health": 949367,
+    "players": 11221,
+    "health": 945422,
     "maxHealth": 1000000,
-    "percentage": 5.063299999999998,
+    "percentage": 5.457799999999992,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 25355,
-    "health": 981126,
+    "players": 23795,
+    "health": 981723,
     "maxHealth": 1000000,
-    "percentage": 1.8873999999999995,
+    "percentage": 1.827699999999993,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -63,10 +63,10 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 8440,
-    "health": 988172,
+    "players": 7666,
+    "health": 990295,
     "maxHealth": 1000000,
-    "percentage": 1.1828000000000003,
+    "percentage": 0.9705000000000013,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -75,25 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 8387,
-    "health": 999974,
-    "maxHealth": 1000000,
-    "percentage": 0.002600000000001046,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 467,
+    "players": 520,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 7791,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1903,
+    "players": 1733,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 585,
+    "players": 564,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 2593,
+    "players": 2722,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 1600,
+    "players": 1382,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
