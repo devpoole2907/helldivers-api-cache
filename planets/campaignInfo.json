@@ -3,40 +3,40 @@
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 4460,
-    "health": 94088,
-    "maxHealth": 300000,
-    "percentage": 68.63733333333333,
-    "defense": true,
+    "players": 4537,
+    "health": 500697,
+    "maxHealth": 1000000,
+    "percentage": 49.930299999999995,
+    "defense": false,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1726745229.664
+    "expireDateTime": null
   },
   {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 545,
-    "health": 572820,
-    "maxHealth": 600000,
-    "percentage": 4.530000000000001,
-    "defense": true,
+    "players": 575,
+    "health": 502171,
+    "maxHealth": 1000000,
+    "percentage": 49.7829,
+    "defense": false,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1726744869.664
+    "expireDateTime": null
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 9809,
-    "health": 900076,
+    "players": 10144,
+    "health": 897984,
     "maxHealth": 1000000,
-    "percentage": 9.99239999999999,
+    "percentage": 10.2016,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 15571,
-    "health": 982531,
+    "players": 16155,
+    "health": 981590,
     "maxHealth": 1000000,
-    "percentage": 1.7468999999999966,
+    "percentage": 1.840999999999994,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -63,7 +63,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 257,
+    "players": 297,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 3593,
+    "players": 3798,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 2822,
+    "players": 2883,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 730,
+    "players": 741,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 305,
+    "players": 318,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1993,
+    "players": 2136,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -146,21 +146,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 117,
-    "name": "Vog-sojoth",
-    "faction": "Automatons",
-    "players": 516,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
