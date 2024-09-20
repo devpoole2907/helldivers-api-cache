@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 161,
-    "name": "Claorell",
-    "faction": "Automatons",
-    "players": 6062,
-    "health": 410780,
-    "maxHealth": 1000000,
-    "percentage": 58.922,
-    "defense": false,
-    "biome": {
-      "slug": "moon",
-      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 20000,
-    "health": 419150,
+    "players": 21802,
+    "health": 405773,
     "maxHealth": 1000000,
-    "percentage": 58.085,
+    "percentage": 59.4227,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -30,13 +15,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 161,
+    "name": "Claorell",
+    "faction": "Automatons",
+    "players": 6508,
+    "health": 408805,
+    "maxHealth": 1000000,
+    "percentage": 59.119499999999995,
+    "defense": false,
+    "biome": {
+      "slug": "moon",
+      "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 680,
-    "health": 721580,
+    "players": 714,
+    "health": 725739,
     "maxHealth": 1000000,
-    "percentage": 27.842,
+    "percentage": 27.42609999999999,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 14192,
+    "health": 999978,
+    "maxHealth": 1000000,
+    "percentage": 0.002200000000001978,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 336,
+    "players": 401,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4435,
+    "players": 4891,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 3320,
+    "players": 3660,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1311,
+    "players": 1503,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 414,
+    "players": 443,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 13255,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 2698,
+    "players": 2883,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
