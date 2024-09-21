@@ -3,25 +3,25 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 16,
-    "health": 200000,
+    "players": 5984,
+    "health": 199921,
     "maxHealth": 200000,
-    "percentage": 0,
+    "percentage": 0.039500000000003865,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1727041990.225
+    "expireDateTime": 1727041988.247
   },
   {
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 21661,
-    "health": 116150,
+    "players": 19325,
+    "health": 110276,
     "maxHealth": 1000000,
-    "percentage": 88.385,
+    "percentage": 88.9724,
     "defense": false,
     "biome": {
       "slug": "moon",
@@ -33,10 +33,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 19382,
-    "health": 999958,
+    "players": 17797,
+    "health": 999500,
     "maxHealth": 1000000,
-    "percentage": 0.004199999999997317,
+    "percentage": 0.04999999999999716,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 216,
+    "name": "Peacock",
+    "faction": "Terminids",
+    "players": 10084,
+    "health": 999983,
+    "maxHealth": 1000000,
+    "percentage": 0.0016999999999995907,
+    "defense": false,
+    "biome": {
+      "slug": "rainforest",
+      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 930,
+    "players": 812,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 1312,
+    "players": 1126,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 7841,
+    "players": 7161,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 8410,
+    "players": 6586,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 3070,
+    "players": 2598,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 874,
+    "players": 737,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +153,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 4120,
+    "players": 3785,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -146,21 +161,6 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 216,
-    "name": "Peacock",
-    "faction": "Terminids",
-    "players": 10929,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "rainforest",
-      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
     },
     "expireDateTime": null
   }
