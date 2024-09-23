@@ -1285,5 +1285,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nSuper Earth High Command has ordered an evaluation of Helldiver Force Readiness, following recent adjustments to fleetwide capabilities. In service of this evaluation, the Helldivers are ordered to conduct open warfare on both the Automaton and Terminid fronts, with the objective of increasing the total number of planets within the Super Earth Federation.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 2971,
+    "published": 19397442,
+    "type": 0,
+    "tagIds": [],
+    "message": "CRITICAL INTEL\nMultiple intel streams indicate a high probability of an imminent Automaton offensive. Several frontline planets are under threat of invasion.\n\nAll signs indicate a powerful and sustained offensive. Hold as much ground as you can."
   }
 ]
