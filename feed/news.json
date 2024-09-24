@@ -1292,5 +1292,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CRITICAL INTEL\nMultiple intel streams indicate a high probability of an imminent Automaton offensive. Several frontline planets are under threat of invasion.\n\nAll signs indicate a powerful and sustained offensive. Hold as much ground as you can."
+  },
+  {
+    "id": 2972,
+    "published": 19500625,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nMonths ago, the Helldivers liberated GW1-era blueprints for an interplanetary battle station from planet X-45. Today, after intense research and planning, construction of the Democracy Space Station is ready to begin.\n\n2 planets have been identified with sufficiently strong magnetospheres for safe construction, both under Automaton control. One must be liberated.\n\nConsult your Galactic Map for more information."
   }
 ]
