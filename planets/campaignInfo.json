@@ -3,25 +3,25 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 10289,
-    "health": 141971,
+    "players": 10815,
+    "health": 135369,
     "maxHealth": 550000,
-    "percentage": 74.18709090909091,
+    "percentage": 75.38745454545455,
     "defense": true,
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
     },
-    "expireDateTime": 1727187651.622
+    "expireDateTime": 1727187651.5
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 6889,
-    "health": 917258,
+    "players": 7236,
+    "health": 914659,
     "maxHealth": 1000000,
-    "percentage": 8.274199999999993,
+    "percentage": 8.534099999999995,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -30,25 +30,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 216,
-    "name": "Peacock",
-    "faction": "Terminids",
-    "players": 3814,
-    "health": 999987,
-    "maxHealth": 1000000,
-    "percentage": 0.001300000000000523,
-    "defense": false,
-    "biome": {
-      "slug": "rainforest",
-      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 179,
+    "players": 183,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +48,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 145,
+    "players": 153,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 922,
+    "players": 934,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 752,
+    "players": 720,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 137,
+    "players": 146,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 2040,
+    "players": 2159,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 216,
+    "name": "Peacock",
+    "faction": "Terminids",
+    "players": 3963,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "rainforest",
+      "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 384,
+    "players": 402,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
