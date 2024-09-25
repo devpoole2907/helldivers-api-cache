@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Experiencing issues with the current major order? Check the App Store soon for an update to War Monitor!",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": false,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
