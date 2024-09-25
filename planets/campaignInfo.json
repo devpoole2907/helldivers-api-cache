@@ -3,40 +3,40 @@
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 10947,
-    "health": 288343,
+    "players": 11803,
+    "health": 278476,
     "maxHealth": 600000,
-    "percentage": 51.94283333333333,
+    "percentage": 53.58733333333333,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1727280610.902
+    "expireDateTime": 1727280606.009
   },
   {
     "planetIndex": 161,
     "name": "Claorell",
     "faction": "Automatons",
-    "players": 2625,
-    "health": 417953,
+    "players": 2912,
+    "health": 416320,
     "maxHealth": 500000,
-    "percentage": 16.40939999999999,
+    "percentage": 16.73599999999999,
     "defense": true,
     "biome": {
       "slug": "moon",
       "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
     },
-    "expireDateTime": 1727280650.902
+    "expireDateTime": 1727280646.009
   },
   {
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 1605,
-    "health": 750884,
+    "players": 1639,
+    "health": 756237,
     "maxHealth": 1000000,
-    "percentage": 24.911599999999993,
+    "percentage": 24.3763,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -48,10 +48,10 @@
     "planetIndex": 116,
     "name": "Gaellivare",
     "faction": "Automatons",
-    "players": 19609,
-    "health": 842292,
+    "players": 20764,
+    "health": 838173,
     "maxHealth": 1000000,
-    "percentage": 15.770799999999994,
+    "percentage": 16.182699999999997,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 1965,
+    "health": 999997,
+    "maxHealth": 1000000,
+    "percentage": 0.0002999999999957481,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 109,
+    "players": 102,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 802,
+    "players": 820,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 1906,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 335,
+    "players": 350,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 89,
+    "players": 82,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1171,
+    "players": 1248,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 1580,
+    "players": 1709,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 373,
+    "players": 344,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
