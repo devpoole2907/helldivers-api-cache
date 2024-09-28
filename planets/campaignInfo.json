@@ -1,54 +1,69 @@
 [
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 4751,
-    "health": 362059,
-    "maxHealth": 850000,
-    "percentage": 57.404823529411765,
-    "defense": true,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": 1727558600.842
-  },
-  {
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 49490,
-    "health": 561884,
+    "players": 48837,
+    "health": 550114,
     "maxHealth": 1100000,
-    "percentage": 48.919636363636364,
+    "percentage": 49.989636363636365,
     "defense": true,
     "biome": {
       "slug": "ethereal",
       "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
-    "expireDateTime": 1727650400.842
+    "expireDateTime": 1727650403.766
+  },
+  {
+    "planetIndex": 128,
+    "name": "Darius II",
+    "faction": "Terminids",
+    "players": 147,
+    "health": 750000,
+    "maxHealth": 750000,
+    "percentage": 0,
+    "defense": true,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": 1727645213.766
   },
   {
     "planetIndex": 68,
     "name": "Shelt",
     "faction": "Automatons",
-    "players": 10156,
-    "health": 383325,
+    "players": 9967,
+    "health": 384669,
     "maxHealth": 1000000,
-    "percentage": 61.6675,
+    "percentage": 61.5331,
     "defense": false,
     "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 4460,
+    "health": 502255,
+    "maxHealth": 1000000,
+    "percentage": 49.774499999999996,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 3145,
-    "health": 830533,
+    "players": 3096,
+    "health": 834179,
     "maxHealth": 1000000,
-    "percentage": 16.946699999999993,
+    "percentage": 16.582099999999997,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,7 +75,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 227,
+    "players": 216,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +90,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 449,
+    "players": 441,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +105,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 1151,
+    "players": 1124,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +120,7 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 1196,
+    "players": 1149,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +135,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1089,
+    "players": 1034,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,22 +150,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 194,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 215,
-    "name": "Partion",
-    "faction": "Terminids",
-    "players": 601,
+    "players": 168,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +165,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 738,
+    "players": 774,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
