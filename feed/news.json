@@ -1299,5 +1299,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nMonths ago, the Helldivers liberated GW1-era blueprints for an interplanetary battle station from planet X-45. Today, after intense research and planning, construction of the Democracy Space Station is ready to begin.\n\n2 planets have been identified with sufficiently strong magnetospheres for safe construction, both under Automaton control. One must be liberated.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 2973,
+    "published": 19792323,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have managed to wrench Gaellivare from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby.\n\nTo build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it.\n\nConsult your Galactic Map for more information."
   }
 ]
