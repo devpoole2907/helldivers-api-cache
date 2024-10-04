@@ -3,10 +3,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 6496,
-    "health": 870708,
+    "players": 6347,
+    "health": 870133,
     "maxHealth": 1000000,
-    "percentage": 12.929199999999994,
+    "percentage": 12.986699999999999,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -18,10 +18,10 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 14107,
-    "health": 998901,
+    "players": 14486,
+    "health": 998087,
     "maxHealth": 1000000,
-    "percentage": 0.10989999999999611,
+    "percentage": 0.19129999999999825,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -30,25 +30,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 4209,
-    "health": 999992,
-    "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 190,
+    "players": 192,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +48,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 9499,
+    "players": 10000,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 2884,
+    "players": 2829,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1435,
+    "players": 1338,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 122,
+    "players": 110,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 2256,
+    "players": 2231,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,6 +116,21 @@
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 4221,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
