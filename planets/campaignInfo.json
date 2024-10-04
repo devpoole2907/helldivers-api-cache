@@ -3,10 +3,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 9213,
-    "health": 908247,
+    "players": 10651,
+    "health": 896976,
     "maxHealth": 1000000,
-    "percentage": 9.175299999999993,
+    "percentage": 10.302399999999992,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -15,40 +15,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 128,
-    "name": "Darius II",
-    "faction": "Terminids",
-    "players": 3362,
-    "health": 999848,
-    "maxHealth": 1000000,
-    "percentage": 0.015199999999992997,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 69,
-    "name": "Imber",
-    "faction": "Automatons",
-    "players": 4045,
-    "health": 999957,
-    "maxHealth": 1000000,
-    "percentage": 0.004300000000000637,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 209,
+    "players": 196,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +33,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 357,
+    "players": 397,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,10 +45,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 128,
+    "name": "Darius II",
+    "faction": "Terminids",
+    "players": 3692,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 69,
+    "name": "Imber",
+    "faction": "Automatons",
+    "players": 4676,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 2003,
+    "players": 2506,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 129,
+    "players": 165,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 1684,
+    "players": 1951,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 4092,
+    "players": 4769,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
