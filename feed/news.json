@@ -1313,5 +1313,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Democracy Space Station has entered the first of four construction phases. Reaching the next stage demands significant scientific breakthroughs.\n\nThe Helldivers are ordered to clear Turing of Terminid presence, to allow the Ministry of Science to establish a new, state-of-the-art Xenoentomology Center. The Center will prototype and develop new High-Efficiency Alcubiere Drives, capable of effectively transporting gigastructures like the DSS."
+  },
+  {
+    "id": 2975,
+    "published": 20347530,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nWith the planet safely held, ground has been broken on the Xenoentomology Center on Turing. Super Earth's leading Terminid experts and FTL engineers from across the galaxy have converged on the planet, to develop High-Efficiency Alcubiere Drives. \n\nThese new drives, once built, will enable the Democracy Space Station to warp between planets at the Helldivers' direction, dispensing Freedom anywhere it is required."
   }
 ]
