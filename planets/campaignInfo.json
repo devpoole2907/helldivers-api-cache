@@ -3,10 +3,10 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 22431,
-    "health": 709813,
+    "players": 23408,
+    "health": 703281,
     "maxHealth": 1000000,
-    "percentage": 29.018699999999995,
+    "percentage": 29.671899999999994,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -15,40 +15,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 6666,
-    "health": 999975,
-    "maxHealth": 1000000,
-    "percentage": 0.0024999999999977263,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 2979,
-    "health": 999978,
-    "maxHealth": 1000000,
-    "percentage": 0.002200000000001978,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 207,
+    "players": 216,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +33,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 7791,
+    "players": 7987,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +48,7 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 3141,
+    "players": 3244,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 3150,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1546,
+    "players": 1454,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 174,
+    "players": 160,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 2660,
+    "players": 2778,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,6 +116,21 @@
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 6904,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
