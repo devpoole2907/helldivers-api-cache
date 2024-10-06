@@ -3,10 +3,10 @@
     "planetIndex": 69,
     "name": "Imber",
     "faction": "Automatons",
-    "players": 15823,
-    "health": 296141,
+    "players": 15934,
+    "health": 292180,
     "maxHealth": 1000000,
-    "percentage": 70.38589999999999,
+    "percentage": 70.782,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -15,17 +15,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
+    "planetIndex": 217,
+    "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1804,
-    "health": 999992,
+    "players": 4139,
+    "health": 999970,
     "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
+    "percentage": 0.0030000000000001137,
     "defense": false,
     "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 128,
+    "name": "Darius II",
+    "faction": "Terminids",
+    "players": 2070,
+    "health": 999995,
+    "maxHealth": 1000000,
+    "percentage": 0.0004999999999881766,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
     "expireDateTime": null
   },
@@ -33,7 +48,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 156,
+    "players": 155,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +63,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 3364,
+    "players": 3365,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,17 +75,17 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 128,
-    "name": "Darius II",
+    "planetIndex": 171,
+    "name": "Gacrux",
     "faction": "Terminids",
-    "players": 2071,
+    "players": 1738,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
     "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
     },
     "expireDateTime": null
   },
@@ -78,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 852,
+    "players": 848,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 101,
+    "players": 89,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 1597,
+    "players": 1532,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -116,21 +131,6 @@
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 4273,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
