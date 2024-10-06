@@ -1327,5 +1327,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe DSS will require the construction of the Deep Mantle Forge Complex, which will use extreme heat and pressure near a planet's core to create large quantities of new, powerful alloy.\n\nWe have identified atmospheric readings on Claorell indicating the Automatons are already engaging in deep-mantle mining operations on the planet.\n\nThe Helldivers are directed to liberate Claorell and its deep-mantle mining complex from the Automatons."
+  },
+  {
+    "id": 2977,
+    "published": 20529000,
+    "type": 0,
+    "tagIds": [],
+    "message": "BATTLEFRONT UPDATE\n\nReports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage!"
   }
 ]
