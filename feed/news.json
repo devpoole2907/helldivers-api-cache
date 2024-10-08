@@ -1334,5 +1334,12 @@
     "type": 0,
     "tagIds": [],
     "message": "BATTLEFRONT UPDATE\n\nReports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage!"
+  },
+  {
+    "id": 2978,
+    "published": 20667480,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nClaorell has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager Super Earth miners ready to construct the Deep Mantle Forge Complex."
   }
 ]
