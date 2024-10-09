@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 12127,
-    "health": 227741,
-    "maxHealth": 500000,
-    "percentage": 54.4518,
-    "defense": true,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": 1728481101.066
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 6246,
-    "health": 507823,
+    "players": 6504,
+    "health": 505323,
     "maxHealth": 1000000,
-    "percentage": 49.2177,
+    "percentage": 49.4677,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -30,10 +15,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 12196,
+    "health": 506459,
+    "maxHealth": 1000000,
+    "percentage": 49.354099999999995,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 116,
+    "players": 123,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +48,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 703,
+    "players": 768,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +63,7 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 1463,
+    "players": 1539,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +78,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 862,
+    "players": 914,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 791,
+    "players": 997,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 203,
-    "name": "Menkent",
-    "faction": "Automatons",
-    "players": 226,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 1066,
+    "players": 1068,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 2170,
+    "players": 2276,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 3111,
+    "players": 3479,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
