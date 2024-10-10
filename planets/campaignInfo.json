@@ -3,10 +3,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 4447,
-    "health": 541591,
+    "players": 4724,
+    "health": 539830,
     "maxHealth": 1000000,
-    "percentage": 45.8409,
+    "percentage": 46.016999999999996,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -18,10 +18,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 3701,
-    "health": 648607,
+    "players": 3774,
+    "health": 647803,
     "maxHealth": 1000000,
-    "percentage": 35.13929999999999,
+    "percentage": 35.2197,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -30,10 +30,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 117,
+    "name": "Vog-sojoth",
+    "faction": "Automatons",
+    "players": 3310,
+    "health": 999893,
+    "maxHealth": 1000000,
+    "percentage": 0.010699999999999932,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 106,
+    "players": 129,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +63,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 654,
+    "players": 671,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 951,
+    "players": 968,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 488,
+    "players": 516,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 635,
+    "players": 619,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 566,
+    "players": 604,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1353,
+    "players": 1435,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,21 +146,6 @@
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 117,
-    "name": "Vog-sojoth",
-    "faction": "Automatons",
-    "players": 3082,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
     "expireDateTime": null
   }
