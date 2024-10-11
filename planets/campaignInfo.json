@@ -3,10 +3,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 6011,
-    "health": 541947,
+    "players": 5988,
+    "health": 538516,
     "maxHealth": 1000000,
-    "percentage": 45.805299999999995,
+    "percentage": 46.148399999999995,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -18,10 +18,10 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1992,
-    "health": 859973,
+    "players": 1962,
+    "health": 861095,
     "maxHealth": 1000000,
-    "percentage": 14.00269999999999,
+    "percentage": 13.890500000000003,
     "defense": false,
     "biome": {
       "slug": "canyon",
@@ -33,10 +33,10 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 3331,
-    "health": 999993,
+    "players": 3261,
+    "health": 999919,
     "maxHealth": 1000000,
-    "percentage": 0.0006999999999948159,
+    "percentage": 0.008099999999998886,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -45,10 +45,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 1546,
+    "health": 999986,
+    "maxHealth": 1000000,
+    "percentage": 0.0013999999999896318,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 128,
+    "name": "Darius II",
+    "faction": "Terminids",
+    "players": 1207,
+    "health": 999994,
+    "maxHealth": 1000000,
+    "percentage": 0.0005999999999914962,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 142,
+    "players": 132,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +93,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 633,
+    "players": 627,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 128,
-    "name": "Darius II",
-    "faction": "Terminids",
-    "players": 1220,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 703,
+    "players": 672,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 834,
+    "players": 799,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +138,7 @@
     "planetIndex": 216,
     "name": "Peacock",
     "faction": "Terminids",
-    "players": 668,
+    "players": 642,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -131,21 +146,6 @@
     "biome": {
       "slug": "rainforest",
       "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 1624,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
     "expireDateTime": null
   }
