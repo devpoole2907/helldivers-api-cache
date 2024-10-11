@@ -1348,5 +1348,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automatons have refused to accept the peaceful and righteous liberation of Claorell. In an act of brazen escalation, they seek to steal the planet so many Helldivers gave their lives to liberate.  This wanton aggression will not be tolerated.\n\nThe Helldivers are ordered to hold Claorell at all costs. "
+  },
+  {
+    "id": 2980,
+    "published": 20958342,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nClaorell has held, and the Automaton offensive rebuffed. The Deep Mantle Forge Complex has been completed, and has begun producing the cutting-edge alloy that will reinforce the hull of the Democracy Space Station."
   }
 ]
