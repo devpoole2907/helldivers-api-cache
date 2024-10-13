@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 172,
-    "name": "Gar Haren",
-    "faction": "Terminids",
-    "players": 9610,
-    "health": 203707,
-    "maxHealth": 550000,
-    "percentage": 62.96236363636364,
-    "defense": true,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": 1728845426.324
-  },
-  {
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 27591,
-    "health": 383012,
+    "players": 28359,
+    "health": 375114,
     "maxHealth": 1000000,
-    "percentage": 61.6988,
+    "percentage": 62.4886,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -30,13 +15,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 172,
+    "name": "Gar Haren",
+    "faction": "Terminids",
+    "players": 9429,
+    "health": 501518,
+    "maxHealth": 1000000,
+    "percentage": 49.8482,
+    "defense": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 1901,
-    "health": 552172,
+    "players": 2002,
+    "health": 552581,
     "maxHealth": 1000000,
-    "percentage": 44.782799999999995,
+    "percentage": 44.741899999999994,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -45,10 +45,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 171,
+    "name": "Gacrux",
+    "faction": "Terminids",
+    "players": 5472,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "undergrowth",
+      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 411,
+    "players": 429,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +78,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 682,
+    "players": 696,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +90,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 171,
-    "name": "Gacrux",
-    "faction": "Terminids",
-    "players": 5264,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "undergrowth",
-      "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1894,
+    "players": 1890,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +108,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 2400,
+    "players": 2452,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1925,
+    "players": 1957,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 2276,
+    "players": 2336,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
