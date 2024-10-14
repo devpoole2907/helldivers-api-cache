@@ -3,10 +3,10 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 2602,
-    "health": 618134,
+    "players": 2500,
+    "health": 618275,
     "maxHealth": 1000000,
-    "percentage": 38.1866,
+    "percentage": 38.1725,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -18,10 +18,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 32167,
-    "health": 769038,
+    "players": 31401,
+    "health": 758098,
     "maxHealth": 1000000,
-    "percentage": 23.096199999999996,
+    "percentage": 24.19019999999999,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -33,10 +33,10 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 2020,
-    "health": 830618,
+    "players": 1956,
+    "health": 833545,
     "maxHealth": 1000000,
-    "percentage": 16.938199999999995,
+    "percentage": 16.6455,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 3479,
-    "health": 999983,
-    "maxHealth": 1000000,
-    "percentage": 0.0016999999999995907,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 357,
+    "players": 384,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1677,
+    "players": 1618,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 3480,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1757,
+    "players": 1714,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 2075,
+    "players": 2124,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
