@@ -3,25 +3,25 @@
     "planetIndex": 130,
     "name": "Achernar Secundus",
     "faction": "Terminids",
-    "players": 7899,
-    "health": 299455,
+    "players": 8002,
+    "health": 289426,
     "maxHealth": 550000,
-    "percentage": 45.553636363636365,
+    "percentage": 47.37709090909091,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1728932620.259
+    "expireDateTime": 1728932619.144
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 383,
-    "health": 594875,
+    "players": 396,
+    "health": 595937,
     "maxHealth": 1000000,
-    "percentage": 40.512499999999996,
+    "percentage": 40.406299999999995,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -33,10 +33,10 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 605,
-    "health": 691622,
+    "players": 640,
+    "health": 695440,
     "maxHealth": 1000000,
-    "percentage": 30.8378,
+    "percentage": 30.456000000000003,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4682,
-    "health": 993944,
+    "players": 4873,
+    "health": 990473,
     "maxHealth": 1000000,
-    "percentage": 0.6055999999999955,
+    "percentage": 0.952699999999993,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -60,10 +60,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 579,
+    "health": 999988,
+    "maxHealth": 1000000,
+    "percentage": 0.0011999999999972033,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 559,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 85,
+    "players": 97,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +108,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 157,
+    "players": 163,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +123,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 496,
+    "players": 503,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,40 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 603,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 584,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 533,
+    "players": 549,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
