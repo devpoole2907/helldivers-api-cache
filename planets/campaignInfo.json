@@ -3,25 +3,25 @@
     "planetIndex": 130,
     "name": "Achernar Secundus",
     "faction": "Terminids",
-    "players": 8148,
-    "health": 283123,
+    "players": 8340,
+    "health": 267007,
     "maxHealth": 550000,
-    "percentage": 48.52309090909091,
+    "percentage": 51.45327272727273,
     "defense": true,
     "biome": {
       "slug": "highlands",
       "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
-    "expireDateTime": 1728932620.26
+    "expireDateTime": 1728932630.276
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 427,
-    "health": 596413,
+    "players": 453,
+    "health": 597459,
     "maxHealth": 1000000,
-    "percentage": 40.3587,
+    "percentage": 40.254099999999994,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -33,10 +33,10 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 622,
-    "health": 697813,
+    "players": 659,
+    "health": 703431,
     "maxHealth": 1000000,
-    "percentage": 30.2187,
+    "percentage": 29.656899999999993,
     "defense": false,
     "biome": {
       "slug": "jungle",
@@ -48,10 +48,10 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 4899,
-    "health": 988881,
+    "players": 5171,
+    "health": 983350,
     "maxHealth": 1000000,
-    "percentage": 1.1118999999999915,
+    "percentage": 1.664999999999992,
     "defense": false,
     "biome": {
       "slug": "undergrowth",
@@ -60,25 +60,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 112,
-    "name": "Vernen Wells",
-    "faction": "Automatons",
-    "players": 561,
-    "health": 999992,
-    "maxHealth": 1000000,
-    "percentage": 0.0007999999999981355,
-    "defense": false,
-    "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 98,
+    "players": 99,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 181,
+    "players": 164,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 495,
+    "players": 479,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 597,
+    "players": 661,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 112,
+    "name": "Vernen Wells",
+    "faction": "Automatons",
+    "players": 565,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 529,
+    "players": 570,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
