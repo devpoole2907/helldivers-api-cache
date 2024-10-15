@@ -3,40 +3,40 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 26882,
-    "health": 278600,
+    "players": 25245,
+    "health": 270069,
     "maxHealth": 400000,
-    "percentage": 30.349999999999994,
+    "percentage": 32.482749999999996,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1729067310.271
+    "expireDateTime": 1729067308.91
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 7049,
-    "health": 549357,
+    "players": 9226,
+    "health": 548720,
     "maxHealth": 550000,
-    "percentage": 0.11690909090910395,
+    "percentage": 0.23272727272727423,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1729091200.271
+    "expireDateTime": 1729091198.91
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 2032,
-    "health": 637756,
+    "players": 1904,
+    "health": 637773,
     "maxHealth": 1000000,
-    "percentage": 36.224399999999996,
+    "percentage": 36.222699999999996,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -45,25 +45,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 2430,
-    "health": 999991,
-    "maxHealth": 1000000,
-    "percentage": 0.0009000000000014552,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 348,
+    "players": 346,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +63,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 452,
+    "players": 472,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +78,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 1113,
+    "players": 1053,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 4623,
+    "players": 4464,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 383,
+    "players": 350,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,10 +120,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 2363,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1991,
+    "players": 1994,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 1852,
+    "players": 1859,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
