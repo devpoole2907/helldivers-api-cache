@@ -3,40 +3,40 @@
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 8995,
-    "health": 316023,
+    "players": 9133,
+    "health": 309740,
     "maxHealth": 700000,
-    "percentage": 54.85385714285714,
+    "percentage": 55.75142857142857,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1729196276.236
+    "expireDateTime": 1729196270.305
   },
   {
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 2191,
-    "health": 252633,
+    "players": 2193,
+    "health": 251055,
     "maxHealth": 350000,
-    "percentage": 27.81914285714285,
+    "percentage": 28.269999999999996,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1729196236.236
+    "expireDateTime": 1729196230.305
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 1369,
-    "health": 544157,
+    "players": 1368,
+    "health": 543755,
     "maxHealth": 1000000,
-    "percentage": 45.5843,
+    "percentage": 45.6245,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -48,10 +48,10 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 3825,
-    "health": 583486,
+    "players": 3878,
+    "health": 582536,
     "maxHealth": 1000000,
-    "percentage": 41.651399999999995,
+    "percentage": 41.746399999999994,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 1620,
+    "health": 999993,
+    "maxHealth": 1000000,
+    "percentage": 0.0006999999999948159,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 186,
+    "players": 183,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 192,
+    "players": 205,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +108,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 740,
+    "players": 728,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,25 +120,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 1592,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 316,
+    "players": 324,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 620,
+    "players": 605,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 427,
+    "players": 448,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
