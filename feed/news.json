@@ -1369,5 +1369,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER UPDATE\n\nThe Helldivers have won battles in the effort to secure Acamar IV.. The Defense of Achird III, won on a razor's edge, has been recognized by High Command as a show of valor not seen since the Battle of Mort in the first days of the war. Achird stands, as does Freedom.\n\nBut the fight is not yet over. Readings indicate imminent Terminid invasions of the defensive ring. Hold the line, so the Terminid Research Preserve can be built."
+  },
+  {
+    "id": 2983,
+    "published": 21546300,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have established and held a protective border around Acamar IV, allowing the successful construction of the first-ever Terminid Research Preserve. Our intrepid Xenoentomologists have conducted an inaugural specimen collection foray, and are already reporting great strides towards our understanding of E-710 extraction and exploitation. "
   }
 ]
