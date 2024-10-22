@@ -3,10 +3,10 @@
     "planetIndex": 169,
     "name": "Estanu",
     "faction": "Terminids",
-    "players": 8267,
-    "health": 274575,
+    "players": 8212,
+    "health": 269964,
     "maxHealth": 1000000,
-    "percentage": 72.5425,
+    "percentage": 73.0036,
     "defense": false,
     "biome": {
       "slug": "icemoss",
@@ -15,13 +15,43 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 199,
+    "name": "Martale",
+    "faction": "Automatons",
+    "players": 3396,
+    "health": 999885,
+    "maxHealth": 1000000,
+    "percentage": 0.011499999999998067,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 100,
+    "name": "Trandor",
+    "faction": "Terminids",
+    "players": 935,
+    "health": 999926,
+    "maxHealth": 1000000,
+    "percentage": 0.007399999999989859,
+    "defense": false,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 1675,
-    "health": 999995,
+    "players": 1654,
+    "health": 999994,
     "maxHealth": 1000000,
-    "percentage": 0.0004999999999881766,
+    "percentage": 0.0005999999999914962,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -33,7 +63,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 218,
+    "players": 183,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -48,7 +78,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 758,
+    "players": 687,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -63,7 +93,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 818,
+    "players": 780,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 199,
-    "name": "Martale",
-    "faction": "Automatons",
-    "players": 3469,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 940,
+    "players": 907,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +123,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 301,
+    "players": 317,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +135,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 100,
-    "name": "Trandor",
-    "faction": "Terminids",
-    "players": 977,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 795,
+    "players": 764,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 340,
+    "players": 382,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
