@@ -3,40 +3,40 @@
     "planetIndex": 251,
     "name": "Zefia",
     "faction": "Automatons",
-    "players": 1497,
-    "health": 348753,
+    "players": 1269,
+    "health": 347692,
     "maxHealth": 450000,
-    "percentage": 22.499333333333325,
+    "percentage": 22.73511111111111,
     "defense": true,
     "biome": {
       "slug": "ethereal",
       "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
-    "expireDateTime": 1729711844.355
+    "expireDateTime": 1729711840.822
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 7943,
-    "health": 599018,
+    "players": 8853,
+    "health": 598311,
     "maxHealth": 600000,
-    "percentage": 0.1636666666666713,
+    "percentage": 0.2815000000000083,
     "defense": true,
     "biome": {
       "slug": "undergrowth",
       "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
     },
-    "expireDateTime": 1729785574.355
+    "expireDateTime": 1729785570.822
   },
   {
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 6157,
-    "health": 968545,
+    "players": 5088,
+    "health": 967227,
     "maxHealth": 1000000,
-    "percentage": 3.1454999999999984,
+    "percentage": 3.2772999999999968,
     "defense": false,
     "biome": {
       "slug": "mesa",
@@ -48,10 +48,10 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 1986,
-    "health": 997198,
+    "players": 1801,
+    "health": 997199,
     "maxHealth": 1000000,
-    "percentage": 0.28019999999999357,
+    "percentage": 0.28009999999999025,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -60,10 +60,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 194,
+    "name": "Lesath",
+    "faction": "Automatons",
+    "players": 15170,
+    "health": 999961,
+    "maxHealth": 1000000,
+    "percentage": 0.003900000000001569,
+    "defense": false,
+    "biome": {
+      "slug": "icemoss",
+      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 126,
+    "players": 128,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +93,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 1124,
+    "players": 985,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,25 +105,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 194,
-    "name": "Lesath",
-    "faction": "Automatons",
-    "players": 13406,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "icemoss",
-      "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 1875,
+    "players": 1618,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +123,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 592,
+    "players": 571,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +138,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 601,
+    "players": 550,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +153,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 827,
+    "players": 785,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +168,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 246,
+    "players": 226,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
