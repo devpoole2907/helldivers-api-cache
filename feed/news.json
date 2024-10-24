@@ -1404,5 +1404,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe need to expand the protective planetary buffer surrounding the DSS has become clear. Liberating Lesath would insulate the DSS from a sudden assault by a resurgent Jet Brigade.\n\nHowever, a Terminid outbreak has just erupted, threatening the Terminid Research Preserve on Acamar IV. \n\nWhat to prioritize is a difficult decision\u2014one which High Command leaves in the capable and united hands of the Helldivers."
+  },
+  {
+    "id": 2988,
+    "published": 22054059,
+    "type": 0,
+    "tagIds": [],
+    "message": "AUTOMATON COUNTERATTACK\n\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
+  },
+  {
+    "id": 2989,
+    "published": 22054316,
+    "type": 0,
+    "tagIds": [],
+    "message": "SPORE SURGE\n\nThe Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
   }
 ]
