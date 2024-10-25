@@ -1418,5 +1418,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SPORE SURGE\n\nThe Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets."
+  },
+  {
+    "id": 2990,
+    "published": 22163359,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nLesath has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the Jet Brigade resurface, the station will be more well-protected from attack.\n\nThe DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online."
   }
 ]
