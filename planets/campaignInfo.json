@@ -1,42 +1,12 @@
 [
   {
-    "planetIndex": 207,
-    "name": "Mintoria",
-    "faction": "Automatons",
-    "players": 553,
-    "health": 424396,
-    "maxHealth": 450000,
-    "percentage": 5.689777777777778,
-    "defense": true,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": 1730215300.293
-  },
-  {
-    "planetIndex": 70,
-    "name": "Blistica",
-    "faction": "Automatons",
-    "players": 191,
-    "health": 441776,
-    "maxHealth": 450000,
-    "percentage": 1.8275555555555485,
-    "defense": true,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": 1730215240.293
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 567,
-    "health": 392585,
+    "players": 580,
+    "health": 394934,
     "maxHealth": 1000000,
-    "percentage": 60.741499999999995,
+    "percentage": 60.5066,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -45,13 +15,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 200,
-    "name": "Matar Bay",
+    "planetIndex": 207,
+    "name": "Mintoria",
     "faction": "Automatons",
-    "players": 17125,
-    "health": 530117,
+    "players": 416,
+    "health": 503731,
     "maxHealth": 1000000,
-    "percentage": 46.988299999999995,
+    "percentage": 49.6269,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,17 +30,32 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 250,
-    "name": "Yed Prior",
+    "planetIndex": 70,
+    "name": "Blistica",
     "faction": "Automatons",
-    "players": 99,
-    "health": 912604,
+    "players": 137,
+    "health": 503969,
     "maxHealth": 1000000,
-    "percentage": 8.739599999999996,
+    "percentage": 49.6031,
     "defense": false,
     "biome": {
-      "slug": "crimsonmoor",
-      "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 17484,
+    "health": 523962,
+    "maxHealth": 1000000,
+    "percentage": 47.6038,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   },
@@ -78,10 +63,10 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 10538,
-    "health": 997637,
+    "players": 10463,
+    "health": 997254,
     "maxHealth": 1000000,
-    "percentage": 0.23629999999999995,
+    "percentage": 0.2745999999999924,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -93,7 +78,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 58,
+    "players": 57,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 89,
+    "players": 94,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 1423,
+    "players": 1422,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -138,7 +123,7 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 1217,
+    "players": 1234,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 100,
+    "players": 89,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 916,
+    "players": 919,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +168,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 74,
+    "players": 67,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -198,7 +183,7 @@
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 3465,
+    "players": 3367,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -213,7 +198,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 282,
+    "players": 283,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -228,7 +213,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 187,
+    "players": 222,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -236,21 +221,6 @@
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 251,
-    "name": "Zefia",
-    "faction": "Automatons",
-    "players": 57,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "ethereal",
-      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
     "expireDateTime": null
   }
