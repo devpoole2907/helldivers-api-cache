@@ -1446,5 +1446,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to accomplish 3 objectives: capture an Automaton database containing critical intel regarding the Jet Brigade, re-secure the Terminid Research Preserve, and limit Automaton territorial expansion."
+  },
+  {
+    "id": 2994,
+    "published": 22524079,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARFRONT DEVELOPMENT\n\nA catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on MATAR BAY."
   }
 ]
