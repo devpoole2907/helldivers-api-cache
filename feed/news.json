@@ -1453,5 +1453,12 @@
     "type": 0,
     "tagIds": [],
     "message": "WARFRONT DEVELOPMENT\n\nA catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on MATAR BAY."
+  },
+  {
+    "id": 2995,
+    "published": 22585256,
+    "type": 0,
+    "tagIds": [],
+    "message": "INVASION!\n\nThe bots seek to add ZZANIAH PRIME to their despotic domain. We cannot allow this illegal territorial expansion."
   }
 ]
