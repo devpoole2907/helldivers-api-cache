@@ -1474,5 +1474,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INVASION!\n\nThe Automatons are attempting to steal CLAORELL from our noble citizens. Do not let them, Helldivers."
+  },
+  {
+    "id": 2998,
+    "published": 22861700,
+    "type": 0,
+    "tagIds": [],
+    "message": "INVASION!\n\nCURIA has issued an emergency defense beacon. All available units are called to defend it from the Automaton invaders."
   }
 ]
