@@ -1488,5 +1488,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nDespite heroic effort, the Helldivers were unable to complete all three objectives set by High Command. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3000,
+    "published": 22962359,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL ADVISORY\n\nAlerts from the Xenoentomology Center indicate imminent Terminid attacks on Gloom-adjacent planets."
   }
 ]
