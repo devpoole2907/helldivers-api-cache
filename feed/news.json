@@ -1495,5 +1495,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL ADVISORY\n\nAlerts from the Xenoentomology Center indicate imminent Terminid attacks on Gloom-adjacent planets."
+  },
+  {
+    "id": 3001,
+    "published": 22973078,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL UPDATE\n\nRecent efforts to reestablish the perimeter around the Terminid Research Preserve on Acamar IV have yielded positive results. Not only have the external treats to the preserve been neutralized, but the Terminid population inside the preserve has grown significantly since the assault began. \n\nResearchers from the Xenoentomology Center are hard at work uncovering the reason behind this fortuitous population increase, as well as calculating its seemingly exponential nature."
   }
 ]
