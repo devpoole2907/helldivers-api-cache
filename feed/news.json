@@ -1481,5 +1481,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INVASION!\n\nCURIA has issued an emergency defense beacon. All available units are called to defend it from the Automaton invaders."
+  },
+  {
+    "id": 2999,
+    "published": 22947800,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nDespite heroic effort, the Helldivers were unable to complete all three objectives set by High Command. Consult the Galactic Map on your ship for more information."
   }
 ]
