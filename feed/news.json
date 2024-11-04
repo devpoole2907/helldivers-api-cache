@@ -1502,5 +1502,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL UPDATE\n\nRecent efforts to reestablish the perimeter around the Terminid Research Preserve on Acamar IV have yielded positive results. Not only have the external treats to the preserve been neutralized, but the Terminid population inside the preserve has grown significantly since the assault began. \n\nResearchers from the Xenoentomology Center are hard at work uncovering the reason behind this fortuitous population increase, as well as calculating its seemingly exponential nature."
+  },
+  {
+    "id": 3002,
+    "published": 23030368,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
