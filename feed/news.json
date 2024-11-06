@@ -1509,5 +1509,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe DSS is in its third construction stage. Before it can be activated, it must be fully staffed. Hold the designated planets while their citizens are relocated to the DSS.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3003,
+    "published": 23198988,
+    "type": 0,
+    "tagIds": [],
+    "message": "SITUATIONAL REFRESHER\n\nThis helpful refresher is provided as an aid for Helldivers who have recently come out of cryo-sleep:\n\nThe Democracy Space Station is in its third construction phase. Before it can enter its activation phase, it must be fully staffed.\n\nThe Helldivers are ordered to hold the designated planets while their citizens relocate to the DSS.\n\nFailure to hold these planets means staff must be recruited using standard processes, delaying the DSS."
   }
 ]
