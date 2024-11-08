@@ -1516,5 +1516,19 @@
     "type": 0,
     "tagIds": [],
     "message": "SITUATIONAL REFRESHER\n\nThis helpful refresher is provided as an aid for Helldivers who have recently come out of cryo-sleep:\n\nThe Democracy Space Station is in its third construction phase. Before it can enter its activation phase, it must be fully staffed.\n\nThe Helldivers are ordered to hold the designated planets while their citizens relocate to the DSS.\n\nFailure to hold these planets means staff must be recruited using standard processes, delaying the DSS."
+  },
+  {
+    "id": 3004,
+    "published": 23381420,
+    "type": 0,
+    "tagIds": [],
+    "message": "PLANET DEFENDED\n\nThe bugs have been repelled from CRIMSICA. Citizens across the planet are holding celebrations in honor of the Helldivers' heroism."
+  },
+  {
+    "id": 3005,
+    "published": 23381482,
+    "type": 0,
+    "tagIds": [],
+    "message": "TEMPORARY ARSENAL AUGMENTATION\n\nThe ORBITAL NAPALM BARRAGE stratagem has been temporarily authorized for use by all Helldivers."
   }
 ]
