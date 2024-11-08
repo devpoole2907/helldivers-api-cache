@@ -1530,5 +1530,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TEMPORARY ARSENAL AUGMENTATION\n\nThe ORBITAL NAPALM BARRAGE stratagem has been temporarily authorized for use by all Helldivers."
+  },
+  {
+    "id": 3006,
+    "published": 23396466,
+    "type": 0,
+    "tagIds": [],
+    "message": "INVASION!\n\nThe Terminids are attempting to spread to BORE ROCK. All Helldivers are called upon to deploy immediately to the planet's defense."
   }
 ]
