@@ -1537,5 +1537,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INVASION!\n\nThe Terminids are attempting to spread to BORE ROCK. All Helldivers are called upon to deploy immediately to the planet's defense."
+  },
+  {
+    "id": 3007,
+    "published": 23466323,
+    "type": 0,
+    "tagIds": [],
+    "message": "DECREASED SPAWNING\n\nSuccessful operations against Terminids have exterminated large numbers of Terminid eggs, leading to decreased brood sizes and lowered overall resistance."
   }
 ]
