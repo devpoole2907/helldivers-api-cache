@@ -1544,5 +1544,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DECREASED SPAWNING\n\nSuccessful operations against Terminids have exterminated large numbers of Terminid eggs, leading to decreased brood sizes and lowered overall resistance."
+  },
+  {
+    "id": 3008,
+    "published": 23548868,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have managed to hold all designated planets, allowing their citizens to safely evacuate to the DSS. The DSS is now fully staffed, and the project has entered its final phase.\n\nAs we look towards our bright future, we thank the Helldivers, whose hard work will soon allow the DSS to blast away all shadows."
   }
 ]
