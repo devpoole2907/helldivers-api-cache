@@ -1551,5 +1551,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have managed to hold all designated planets, allowing their citizens to safely evacuate to the DSS. The DSS is now fully staffed, and the project has entered its final phase.\n\nAs we look towards our bright future, we thank the Helldivers, whose hard work will soon allow the DSS to blast away all shadows."
+  },
+  {
+    "id": 3009,
+    "published": 23629953,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives.\n\nHaste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on Vernen Wells. An attack on the DSS Logistics Hub on Tarsh is likely imminent. If the Hub is seized, the DSS itself will be next. "
   }
 ]
