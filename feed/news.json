@@ -1558,5 +1558,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe time has come. The Democracy Space Station is fully constructed and ready for activation. The sole remaining step to bring the station online is the procurement of enough E-710 to power its High-Efficiency Alcubierre Drives.\n\nHaste is critical. The rebuilt Automaton Jet Brigade has been spotted amassing on Vernen Wells. An attack on the DSS Logistics Hub on Tarsh is likely imminent. If the Hub is seized, the DSS itself will be next. "
+  },
+  {
+    "id": 3010,
+    "published": 23651502,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on Tarsh. Intel indicates the Automatons are seeking the location of the DSS itself. \n\nThe force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress."
   }
 ]
