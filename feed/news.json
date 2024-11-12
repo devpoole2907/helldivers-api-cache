@@ -1565,5 +1565,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automaton Jet Brigade has launched an assault on the DSS Logistics Hub on Tarsh. Intel indicates the Automatons are seeking the location of the DSS itself. \n\nThe force of this assault means it will be extremely difficult to repel, but every bot felled will reduce the strength of future attacks and slow the Automatons' progress."
+  },
+  {
+    "id": 3011,
+    "published": 23733300,
+    "type": 0,
+    "tagIds": [],
+    "message": "EMERGENCY ALERT\n\nThe Terminid Research Center has suffered a catastrophic security breach. A massive subterranean hive erupted underneath Tyranny Park, massacreing visitors and staff. The cause is under investigation, but previous unresolved incursions into the planetary perimeter may have been a factor.\n\nThe outbreak has spread to the surrounding planets, including the Xenoentomology Center on Turing. The Center has critical research data, and must be protected."
   }
 ]
