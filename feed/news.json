@@ -1572,5 +1572,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EMERGENCY ALERT\n\nThe Terminid Research Center has suffered a catastrophic security breach. A massive subterranean hive erupted underneath Tyranny Park, massacreing visitors and staff. The cause is under investigation, but previous unresolved incursions into the planetary perimeter may have been a factor.\n\nThe outbreak has spread to the surrounding planets, including the Xenoentomology Center on Turing. The Center has critical research data, and must be protected."
+  },
+  {
+    "id": 3012,
+    "published": 23738000,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automatons have taken Tarsh. The DSS Logistics Hub has been destroyed. Fortunately, the facility is no longer essential, and the defense held long enough to safely evacuate an acceptable number of its valued personnel. \n\nHowever, the Automatons have pinpointed the location of the DSS. The Jet Brigade will soon advance towards Gaellivare."
   }
 ]

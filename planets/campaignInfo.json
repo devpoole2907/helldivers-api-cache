@@ -1,102 +1,102 @@
 [
   {
-    "planetIndex": 67,
-    "name": "Tarsh",
-    "faction": "Automatons",
-    "players": 16056,
-    "health": 2095554,
-    "maxHealth": 2900000,
-    "percentage": 27.739517241379303,
-    "defense": true,
-    "biome": {
-      "slug": "morass",
-      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-    },
-    "expireDateTime": 1731441935.695
-  },
-  {
     "planetIndex": 126,
     "name": "Turing",
     "faction": "Terminids",
-    "players": 11260,
-    "health": 398040,
+    "players": 14014,
+    "health": 393001,
     "maxHealth": 400000,
-    "percentage": 0.4899999999999949,
+    "percentage": 1.7497499999999917,
     "defense": true,
     "biome": {
       "slug": "ethereal",
       "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
     },
-    "expireDateTime": 1731523625.695
+    "expireDateTime": 1731523632.704
   },
   {
     "planetIndex": 78,
     "name": "Crimsica",
     "faction": "Terminids",
-    "players": 1664,
-    "health": 399572,
+    "players": 1769,
+    "health": 398681,
     "maxHealth": 400000,
-    "percentage": 0.10699999999999932,
+    "percentage": 0.3297500000000042,
     "defense": true,
     "biome": {
       "slug": "crimsonmoor",
       "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
     },
-    "expireDateTime": 1731523595.695
+    "expireDateTime": 1731523602.704
   },
   {
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 821,
-    "health": 399691,
+    "players": 928,
+    "health": 399278,
     "maxHealth": 400000,
-    "percentage": 0.07724999999999227,
+    "percentage": 0.180499999999995,
     "defense": true,
     "biome": {
       "slug": "toxic",
       "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
     },
-    "expireDateTime": 1731523675.695
+    "expireDateTime": 1731523682.704
   },
   {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 622,
-    "health": 399822,
+    "players": 668,
+    "health": 399514,
     "maxHealth": 400000,
-    "percentage": 0.04449999999999932,
+    "percentage": 0.1214999999999975,
     "defense": true,
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
-    "expireDateTime": 1731523715.695
+    "expireDateTime": 1731523722.704
   },
   {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 442,
-    "health": 399945,
+    "players": 473,
+    "health": 399840,
     "maxHealth": 400000,
-    "percentage": 0.013750000000001705,
+    "percentage": 0.03999999999999204,
     "defense": true,
     "biome": {
       "slug": "undergrowth",
       "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
     },
-    "expireDateTime": 1731523745.695
+    "expireDateTime": 1731523752.704
+  },
+  {
+    "planetIndex": 67,
+    "name": "Tarsh",
+    "faction": "Automatons",
+    "players": 15342,
+    "health": 509266,
+    "maxHealth": 1000000,
+    "percentage": 49.0734,
+    "defense": false,
+    "biome": {
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
   },
   {
     "planetIndex": 100,
     "name": "Trandor",
     "faction": "Terminids",
-    "players": 6636,
-    "health": 629700,
+    "players": 5344,
+    "health": 630344,
     "maxHealth": 1000000,
-    "percentage": 37.029999999999994,
+    "percentage": 36.965599999999995,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -105,28 +105,13 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 75,
-    "name": "Esker",
-    "faction": "Terminids",
-    "players": 1983,
-    "health": 999998,
-    "maxHealth": 1000000,
-    "percentage": 0.00019999999999242846,
-    "defense": false,
-    "biome": {
-      "slug": "toxic",
-      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 129,
     "name": "Acamar IV",
     "faction": "Terminids",
-    "players": 3936,
-    "health": 1000000,
+    "players": 4681,
+    "health": 999923,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.007699999999999818,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -138,7 +123,7 @@
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 200,
+    "players": 219,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 70,
     "name": "Blistica",
     "faction": "Automatons",
-    "players": 30,
+    "players": 25,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +168,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 22,
+    "players": 27,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -198,7 +183,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 53,
+    "players": 66,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,10 +195,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 75,
+    "name": "Esker",
+    "faction": "Terminids",
+    "players": 1826,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "toxic",
+      "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 922,
+    "players": 857,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -228,7 +228,7 @@
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 323,
+    "players": 335,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -243,7 +243,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 71,
+    "players": 103,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -258,7 +258,7 @@
     "planetIndex": 207,
     "name": "Mintoria",
     "faction": "Automatons",
-    "players": 115,
+    "players": 138,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -273,7 +273,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 1037,
+    "players": 913,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -288,7 +288,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 67,
+    "players": 48,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -303,7 +303,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 826,
+    "players": 898,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -318,7 +318,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 303,
+    "players": 347,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
