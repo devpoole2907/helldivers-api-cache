@@ -1586,5 +1586,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nSEAF reinforcements from Lesath, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice."
+  },
+  {
+    "id": 3014,
+    "published": 23847450,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS ONLINE\n\nHelldivers can now collectively control the Democracy Space Station via the Galactic Map. Use it to defend our way of life and fight for Managed Democracy."
   }
 ]
