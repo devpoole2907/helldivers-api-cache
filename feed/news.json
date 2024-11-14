@@ -1607,5 +1607,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS UNDER ATTACK\n\nThe Automaton Jet Brigade has made landing on Gaellivare. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. "
+  },
+  {
+    "id": 3017,
+    "published": 23892600,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHardworking laborers at the Deep Mantle Forge Complex have produced excess quantities of ORBITAL GAS STRIKE to aid in the defense against the Jet Brigade. The Stratagem will be automatically added to the loadout for all Helldivers for the near future."
   }
 ]
