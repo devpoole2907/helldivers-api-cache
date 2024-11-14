@@ -1579,5 +1579,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automatons have taken Tarsh. The DSS Logistics Hub has been destroyed. Fortunately, the facility is no longer essential, and the defense held long enough to safely evacuate an acceptable number of its valued personnel. \n\nHowever, the Automatons have pinpointed the location of the DSS. The Jet Brigade will soon advance towards Gaellivare."
+  },
+  {
+    "id": 3013,
+    "published": 23838120,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nSEAF reinforcements from Lesath, grateful for the recent liberation of their homes, have reclaimed key ground from the Automatons on MASTIA in a valiant act of sacrifice."
   }
 ]
