@@ -1600,5 +1600,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nMastia has fallen. The invasion of Gaellivare is imminent. "
+  },
+  {
+    "id": 3016,
+    "published": 23879313,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS UNDER ATTACK\n\nThe Automaton Jet Brigade has made landing on Gaellivare. SEAF units are besieged at multiple points across the planet. If the planet falls while the DSS is in its orbit, the station will be in extreme danger. "
   }
 ]
