@@ -1614,5 +1614,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHardworking laborers at the Deep Mantle Forge Complex have produced excess quantities of ORBITAL GAS STRIKE to aid in the defense against the Jet Brigade. The Stratagem will be automatically added to the loadout for all Helldivers for the near future."
+  },
+  {
+    "id": 3018,
+    "published": 23934185,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\n\nIn the current operational context, liberating Mastia would end the current Automaton attack on Gaellivare."
   }
 ]
