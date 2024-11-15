@@ -1621,5 +1621,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\n\nIn the current operational context, liberating Mastia would end the current Automaton attack on Gaellivare."
+  },
+  {
+    "id": 3019,
+    "published": 23982000,
+    "type": 0,
+    "tagIds": [],
+    "message": "TEMPORARY DSS AUGMENTATION\n\nHigh Command has authorized augmentations to Helldiver loadouts while the Planetary Bombardment Tactical Action is active, in order to ameliorate an unexpectedly steep increase in heroic sacrifices. \n\nThis is a temporary change, while a full assessment of the optimal number of sacrifices is underway.\n\nConsult the DSS Interface on your Galactic Map for more details."
   }
 ]
