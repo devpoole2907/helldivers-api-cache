@@ -1628,5 +1628,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TEMPORARY DSS AUGMENTATION\n\nHigh Command has authorized augmentations to Helldiver loadouts while the Planetary Bombardment Tactical Action is active, in order to ameliorate an unexpectedly steep increase in heroic sacrifices. \n\nThis is a temporary change, while a full assessment of the optimal number of sacrifices is underway.\n\nConsult the DSS Interface on your Galactic Map for more details."
+  },
+  {
+    "id": 3020,
+    "published": 24021300,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\nIn an unexpected but cunning move, the Helldivers have voted to send the DSS back to Gaellivare and activate its EAGLE STORM Tactical Action to hold the defense against the Jet Brigade. This development has led to operations upon Mastia possibly gaining sufficient time to complete, and thereby end the attack upon Gaellivare by taking out its point of origin."
   }
 ]
