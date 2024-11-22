@@ -1670,5 +1670,12 @@
     "type": 0,
     "tagIds": [],
     "message": "JET BRIGADE ROUTED\n\nThe Helldivers have delivered Justice to the Automaton Jet Brigade for their atrocities against Liberty. The Automaton unit's avaricious pursuit of the DSS led to their entrapment on Imber, where they were finally destroyed.\n\nBut the totalitarianism is a resilient virus. The Automatons still possess the means to rebuild a new Jet Brigade: a production facility somewhere deep in their territory. We will not be truly free until it is found and destroyed."
+  },
+  {
+    "id": 3026,
+    "published": 24604451,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nVoluntary extended work hours by patriotic factory workers has produced a surplus of materials, allowing for temporary SPEAR usage fleetwide."
   }
 ]
