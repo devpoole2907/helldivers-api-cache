@@ -1684,5 +1684,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Ministry of Defense is conducting a machine gun weapons efficacy review. In service of this review, the Helldivers are tasked with data collection.\n\nThe Helldivers are ordered to kill the enemies of Freedom using the following Support Weapons:\n-The M-105 Stalwart\n-The MG-43 Machine Gun\n-The MG-206 Heavy Machine Gun\n\nThe machine gun that reaches its targeted kill goal first will be understood as the most efficacious and Helldiver-approved machine gun."
+  },
+  {
+    "id": 3028,
+    "published": 25001800,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER UPDATE\n\nThe Ministry of Defense Office of Weapon Efficacy has provided an update to its data collection request:\n\nA misplaced decimal led to an erroneously high volume of data to be requested. The required number of kills has been reduced to account for this error.\n\nFollowing the conclusion of the current review, the Office of Weapon Efficacy has ordered a full review of its decimal placement procedures."
   }
 ]
