@@ -1698,5 +1698,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThanks to the Helldivers' resolute commitment to scientific advancement, the Machine Gun Efficacy Review has been completed, with more than enough data collected to achieve its investigative aims. \n\nAfter thorough and Democratically-driven testing, the MG-43 was the first to reach the goal of 50 million enemies dispatched. All Helldiver arsenals will be temporarily augmented with the MG-43."
+  },
+  {
+    "id": 3030,
+    "published": 25189250,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThough the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. \n\nThe Helldivers are ordered to gather intel on the factories' location by: \n- Liberating the Jet brigade staging ground on Choohe.\n- Dismantling enough bots to find any that operated alongside the Jet Brigade."
   }
 ]
