@@ -1691,5 +1691,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER UPDATE\n\nThe Ministry of Defense Office of Weapon Efficacy has provided an update to its data collection request:\n\nA misplaced decimal led to an erroneously high volume of data to be requested. The required number of kills has been reduced to account for this error.\n\nFollowing the conclusion of the current review, the Office of Weapon Efficacy has ordered a full review of its decimal placement procedures."
+  },
+  {
+    "id": 3029,
+    "published": 25174754,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThanks to the Helldivers' resolute commitment to scientific advancement, the Machine Gun Efficacy Review has been completed, with more than enough data collected to achieve its investigative aims. \n\nAfter thorough and Democratically-driven testing, the MG-43 was the first to reach the goal of 50 million enemies dispatched. All Helldiver arsenals will be temporarily augmented with the MG-43."
   }
 ]
