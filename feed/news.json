@@ -1712,5 +1712,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INFORMATIONAL MESSAGE\n\nSuper Earth High Command would like to inform all Helldivers that investigations into reported anomalies surrounding the singularity created by the destruction of the Supercolony have concluded.\n\n It has been determined definitively that the singularity is an ordinary black hole. Further observations of perceived anomalies should be disregarded, as the science is conclusive."
+  },
+  {
+    "id": 3032,
+    "published": 25525664,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nThe Helldivers' expedient dismantling of the specified 150,000,000 Automatons has created a resource surplus, allowing additional funds to be diverted to the success of the current mission. All Helldivers have been granted the use of the ORBITAL RAILCANNON STRIKE stratagem for the remainder of this order."
   }
 ]
