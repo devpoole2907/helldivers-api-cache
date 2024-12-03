@@ -1705,5 +1705,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThough the Jet Brigade was routed by the Helldivers some time ago, the factories that produced them are still out there. \n\nThe Helldivers are ordered to gather intel on the factories' location by: \n- Liberating the Jet brigade staging ground on Choohe.\n- Dismantling enough bots to find any that operated alongside the Jet Brigade."
+  },
+  {
+    "id": 3031,
+    "published": 25505376,
+    "type": 0,
+    "tagIds": [],
+    "message": "INFORMATIONAL MESSAGE\n\nSuper Earth High Command would like to inform all Helldivers that investigations into reported anomalies surrounding the singularity created by the destruction of the Supercolony have concluded.\n\n It has been determined definitively that the singularity is an ordinary black hole. Further observations of perceived anomalies should be disregarded, as the science is conclusive."
   }
 ]
