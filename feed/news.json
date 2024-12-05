@@ -1726,5 +1726,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThough the Helldivers dismantled over 150,000,000 Automatons, they were unable to claim the Jet Brigade staging ground on Choohe. This means that our search for information on Jet Brigade factories was only partially successful.\n\nIt will take time to analyze the memory drives recovered from the dismantled Automatons, but when we do, we will find and destroy the factories."
+  },
+  {
+    "id": 3034,
+    "published": 25709922,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nEfforts to expand the arsenal of chemical deterrents have been interrupted by an uptick in colonial labor shrinkage. Mass production of new MD-8 Gas Mines is now bottlenecked by chlorine shortages.\n\nThe Helldivers are ordered to reclaim salt-rich planets from our enemies. If all planets can be secured within the specified timeframe, the MD-8 Gas Mines will be made available for immediate requisition in all Super Destroyers."
   }
 ]
