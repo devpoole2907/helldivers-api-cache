@@ -1747,5 +1747,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has approved early limited deployment of MD-8 Gas Mines for operations in support of the current Major Order, in order to ensure the fulfillment of our childrens' future chlorine needs."
+  },
+  {
+    "id": 3037,
+    "published": 26142020,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nToo few planets were liberated by the Helldivers to recitify the current chlorine shortage, delaying production of the MD-8 Gas Mines. \n\nConsult the Galactic Map on your ship for more information."
   }
 ]
