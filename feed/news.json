@@ -1754,5 +1754,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nToo few planets were liberated by the Helldivers to recitify the current chlorine shortage, delaying production of the MD-8 Gas Mines. \n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3038,
+    "published": 26217328,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Ministry of Defense has awarded a multitrillion-Supercredit contract to AM Defense to expand production of high-quality military equipment for the Helldivers. AM Defense will construct a massive, multi-complex Factory Hub on ACHERNAR SECUNDUS.\n\nReadings indicate a Terminid expansion towards ACHERNAR SECUNDUS. The Helldivers must protect the investments of our security partners."
   }
 ]
