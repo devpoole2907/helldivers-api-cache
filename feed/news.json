@@ -1761,5 +1761,26 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Ministry of Defense has awarded a multitrillion-Supercredit contract to AM Defense to expand production of high-quality military equipment for the Helldivers. AM Defense will construct a massive, multi-complex Factory Hub on ACHERNAR SECUNDUS.\n\nReadings indicate a Terminid expansion towards ACHERNAR SECUNDUS. The Helldivers must protect the investments of our security partners."
+  },
+  {
+    "id": 3039,
+    "published": 26347156,
+    "type": 0,
+    "tagIds": [],
+    "message": "EMERGENCY ALERT\n\nDISREGARD ALL PRIOR ORDERS\n\nREPLACEMENT ORDERS TO FOLLOW THIS MESSAGE\n\nREPLACEMENT ORDERS TO FOLLOW THIS MESSAGE"
+  },
+  {
+    "id": 3040,
+    "published": 26347378,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALL UNITS TO LIBCON 1\n\nPLANET CALYPSO UNDER ATTACK\n\nALL HELLDIVERS ORDERED TO CALYPSO IMMEDIATELY\n\nILLUMINATE SIGNATURES REPORTED\n"
+  },
+  {
+    "id": 3041,
+    "published": 26347537,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS OFFLINE\n\nThe Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings."
   }
 ]

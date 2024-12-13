@@ -1847,8 +1847,16 @@
   "123": {
     "name": "Socorro III",
     "sector": "Falstaff",
-    "biome": null,
-    "environmentals": []
+    "biome": {
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "environmentals": [
+      {
+        "name": "Thick Fog",
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
+      }
+    ]
   },
   "124": {
     "name": "Bore Rock",
