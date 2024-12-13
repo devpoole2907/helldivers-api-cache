@@ -2,7 +2,7 @@
     "alert": "Created by James Poole",
     "prominentAlert": "",
     "season": "801",
-    "showIlluminate": false,
+    "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
     "startedAt": "2024-02-10T07:20:30.089979Z"
     
