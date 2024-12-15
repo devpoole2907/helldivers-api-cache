@@ -1782,5 +1782,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS OFFLINE\n\nThe Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings."
+  },
+  {
+    "id": 3042,
+    "published": 26563063,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nIlluminate forces hold multiple locations on CALYPSO.\n\nEnemy intentions unknown.\n\nHuman-like assailants reported.\n\nUse all necessary force to repel enemy."
   }
 ]
