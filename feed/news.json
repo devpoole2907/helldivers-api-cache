@@ -1789,5 +1789,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nIlluminate forces hold multiple locations on CALYPSO.\n\nEnemy intentions unknown.\n\nHuman-like assailants reported.\n\nUse all necessary force to repel enemy."
+  },
+  {
+    "id": 3043,
+    "published": 26605920,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe resurgent Illuminate have been repelled by the Helldivers. Consult the Galactic Map on your ship for additional information."
+  },
+  {
+    "id": 3044,
+    "published": 26606100,
+    "type": 0,
+    "tagIds": [],
+    "message": "SITE CONSTRUCTION UPDATE\n\nThe Admiral Defense (AM) Factory Hub has been completed. Production of Fast Recon Vehicles (FRVs) for all Helldiver battlespaces is on schedule to begin within the next several days. "
   }
 ]
