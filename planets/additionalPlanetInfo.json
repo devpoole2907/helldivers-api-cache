@@ -1003,7 +1003,10 @@
   "68": {
     "name": "Shelt",
     "sector": "Talus",
-    "biome": null,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
     "environmentals": []
   },
   "69": {
@@ -2583,17 +2586,13 @@
     "name": "Gar Haren",
     "sector": "Jin Xi",
     "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
     },
     "environmentals": [
       {
-        "name": "Volcanic Activity",
-        "description": "Volcanoes throw burning rocks around this planet"
-      },
-      {
-        "name": "Rainstorms",
-        "description": "Torrential rainstorms reduce visibility"
+        "name": "Thick Fog",
+        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
       }
     ]
   },
