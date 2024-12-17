@@ -1810,5 +1810,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Illuminate have resurfaced. Another undefended outer colony is under attack. All Helldivers are ordered to converge on GENESIS PRIME and eradicate the remnants of this alien threat."
+  },
+  {
+    "id": 3046,
+    "published": 26684239,
+    "type": 0,
+    "tagIds": [],
+    "message": "ILLUMINATE INCURSIONS ONGOING\n\nMOG has come under attack. It is now clear that these attacks represent an ongoing wave of unprovoked aggression from the no-longer-eradicated species. \n\nThe parameters of the Major Order will continue to be adjusted dynamically in response to the ongoing situation. The Helldivers are ordered to fight the Illuminate on all emerging battlefronts."
   }
 ]
