@@ -3,19 +3,19 @@
         "name": "Voteless",
         "description": "WIP",
         "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
-        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/voteless-min.png?updatedAt=1734402602749"
     },
     {
         "name": "Overseer",
         "description": "WIP",
         "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
-        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/overseer-min.png?updatedAt=1734402603160"
     },
     {
         "name": "Harvester",
         "description": "WIP",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"],
-        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/harvester-min.png?updatedAt=1734402602844"
     },
     {
         "name": "Watcher",
