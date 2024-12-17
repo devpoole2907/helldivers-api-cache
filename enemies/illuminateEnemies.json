@@ -2,21 +2,25 @@
     {
         "name": "Voteless",
         "description": "WIP",
-        "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"]
+        "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
     },
     {
         "name": "Overseer",
         "description": "WIP",
-        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"]
+        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
     },
     {
         "name": "Harvester",
         "description": "WIP",
-        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"]
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
     },
     {
         "name": "Watcher",
         "description": "WIP",
-        "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"]
+        "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203282/Dropship_pspmbf.png"
     }
     ]
