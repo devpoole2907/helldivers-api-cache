@@ -14,7 +14,7 @@
     {
         "name": "Harvester",
         "description": "WIP",
-        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"],
+        "recommendedStratagems": ["Flamethrower", "Quasar Cannon", "Anti-Materiel Rifle"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/harvester-min.png?updatedAt=1734402602844"
     },
     {
