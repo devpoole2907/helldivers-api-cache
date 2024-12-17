@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Missing some planet images? No armors showing up? Check the App Store for an update for War Monitor!",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
