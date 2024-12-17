@@ -20,7 +20,7 @@
     {
         "name": "Watcher",
         "description": "WIP",
-        "recommendedStratagems": ["Orbital Smoke Strike", "Jump Pack", "Railgun", "Anti-Materiel Rifle", "Eagle Smoke Strike", "Autocannon Sentry"],
+        "recommendedStratagems": ["Eagle Cluster Bomb", "Orbital Airburst Strike"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/watcher-min.png?updatedAt=1734402602730"
     }
     ]
