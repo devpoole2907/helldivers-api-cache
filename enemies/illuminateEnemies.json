@@ -8,7 +8,7 @@
     {
         "name": "Overseer",
         "description": "WIP",
-        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
+        "recommendedStratagems": ["Flamethrower", "Anti-Materiel Rifle"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/overseer-min.png?updatedAt=1734402603160"
     },
     {
