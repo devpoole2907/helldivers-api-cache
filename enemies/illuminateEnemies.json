@@ -19,7 +19,7 @@
     },
     {
         "name": "Watcher",
-        "description": "WIP",
+        "description": "Watchers are floating Illuminate scouts that call in reinforcements upon spotting threats, emitting flares to signal Warp Ships.\\nThey fire low-damage Arc lightning when engaged and explode on impact after destruction, posing a final danger to nearby Helldivers.\\nPrecision shots to their main body can eliminate them quickly.",
         "recommendedStratagems": ["Anti-Materiel Rifle", "Railgun"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/watcher-min.png?updatedAt=1734402602730"
     }
