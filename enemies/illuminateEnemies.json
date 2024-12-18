@@ -13,7 +13,7 @@
     },
     {
         "name": "Harvester",
-        "description": "WIP",
+        "description": "Harvesters are large, mechanical tripods armed with a deadly sweeping laser and deployable shields.\\nTheir shields regenerate over time, but destroying the crest above their eye disables them permanently.\\nSlow and vulnerable to flanking, Harvesters can be taken down with precise shots to their eye or legs.",
         "recommendedStratagems": ["Flamethrower", "Quasar Cannon", "Anti-Materiel Rifle"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/harvester-min.png?updatedAt=1734402602844"
     },
