@@ -1838,5 +1838,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ILLUMINATE INCURSION ANALYSIS UNDER REVIEW\n\nRecent developments indicate that the current Illuminate attack pattern analysis methodology may require redress. The process has been placed under review under further notice."
+  },
+  {
+    "id": 3050,
+    "published": 26807864,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXPERIMENTAL WEAPON DEPLOYMENT\n\nHigh Command has temporarily authorized early deployment of the experimental StA-X3 W.A.S.P. Launcher Support Weapon to all Illuminate incursion sites. "
   }
 ]
