@@ -1,7 +1,7 @@
 [
     {
         "name": "Voteless",
-        "description": "WIP",
+        "description": "The Voteless are mutated Super Earth citizens, warped by the Illuminate into mindless melee soldiers with pale skin and glowing blue eyes.\\nWhile individually weak, they are resilient and lunge quickly, overwhelming Helldivers in large swarms.\\nGas weapons and anti-infantry stratagems are highly effective against their hordes.",
         "recommendedStratagems": ["Eagle Cluster Bomb", "Orbital Airburst Strike", "Arc Thrower"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/voteless-min.png?updatedAt=1734402602749"
     },
