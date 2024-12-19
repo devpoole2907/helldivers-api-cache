@@ -1859,5 +1859,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nThe amount of ammo, Stratagems, and lives of heroes used to combat the Illuminate extremists have put the Q4 defense budget under unexpected strain. To address this issue, the Ministry of Defense has entered into a contract with reputable arms manufacturer St\u00e5hl Arms.\n\nAll Helldivers have been granted access to six new items, including two weapons and one armor set, effective immediately."
+  },
+  {
+    "id": 3053,
+    "published": 26922598,
+    "type": 0,
+    "tagIds": [],
+    "message": "FACTORY HUB THREATENED\n\nThe AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV).\n\nIf the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted."
   }
 ]
