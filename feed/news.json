@@ -1845,5 +1845,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXPERIMENTAL WEAPON DEPLOYMENT\n\nHigh Command has temporarily authorized early deployment of the experimental StA-X3 W.A.S.P. Launcher Support Weapon to all Illuminate incursion sites. "
+  },
+  {
+    "id": 3051,
+    "published": 26856473,
+    "type": 0,
+    "tagIds": [],
+    "message": "SITUATIONAL DEVELOPMENT\n\nSome Helldivers may have noticed novel electromagnetic phenomena in vicinity of the Meridian Black Hole. High Command is aware of the situation, which is being closely monitored by experts in the field. \n\nHelldivers are advised to avoid distractions and focus their full attention on repelling the Illuminate threat."
   }
 ]
