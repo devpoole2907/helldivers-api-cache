@@ -1960,10 +1960,6 @@
     },
     "environmentals": [
       {
-        "name": "Thick Fog",
-        "description": "Dense fog lightly reduce visibility for both enemy and friendly units."
-      },
-      {
         "name": "Rainstorms",
         "description": "Torrential rainstorms reduce visibility"
       }
