@@ -1866,5 +1866,12 @@
     "type": 0,
     "tagIds": [],
     "message": "FACTORY HUB THREATENED\n\nThe AM Defense Factory Hub on ACHERNAR SECUNDUS has come under attack by the Illuminate, threatening production of the Fast Reconnaissance Vehicle (FRV).\n\nIf the Illuminate are not repelled, distribution of the FRV will be severely delayed. Importantly, many colonists will also be killed or abducted."
+  },
+  {
+    "id": 3054,
+    "published": 26984751,
+    "type": 0,
+    "tagIds": [],
+    "message": "ACHERNAR SECUNDUS SECURED\n\nThe Illuminate have been repelled from ACHERNAR SECUNDUS, and the AM Defense Factory Hub has been secured. Production of the Fast Reconnaissance Vehicle (FRV) has resumed. The vehicle will soon be available for fleetwide requisition. Significantly, millions of colonists are also now safe."
   }
 ]
