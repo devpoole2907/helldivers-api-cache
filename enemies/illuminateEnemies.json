@@ -25,7 +25,7 @@
     },
     {
         "name": "Warp Ship",
-        "description": "WIP",
+        "description": "The Warp Ship serves as an Illuminate enemy emplacement and transport aircraft.\nGrounded Warp Ships periodically release Voteless and are protected by regenerating shields, requiring explosives or high-demolition stratagems to destroy their bay doors.\nReinforcement Warp Ships lack shields and deploy troops via tractor beams but can be destroyed with precision strikes from rockets or heavy weapons.",
         "recommendedStratagems": ["Orbital Precision Strike"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/warpship.heic"
     }
