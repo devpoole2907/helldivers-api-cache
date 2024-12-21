@@ -27,7 +27,7 @@
         "name": "Devastator",
         "description": "The Devastator, armored to the hilt, aims to dismantle any opposition to the Automatons' oppressive ideology using a formidable arsenal. This includes arm cannons, protective arm shields, arm machine guns, and shoulder-launched rocket pods.",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
-        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721203279/Devastator_j3j9p6.png"
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Devastator.heic"
     },
     {
         "name": "Hulk",
