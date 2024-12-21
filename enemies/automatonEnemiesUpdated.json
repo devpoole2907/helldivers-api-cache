@@ -33,7 +33,7 @@
         "name": "Hulk",
         "description": "The Hulk, like all Automaton units, is single-mindedly designed for one purpose: delivering devastating firepower. When encountered, the standard protocol for Helldivers is to initiate the heaviest Orbital bombardment available without delay.",
         "recommendedStratagems": ["Eagle 500KG Bomb", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Quasar Cannon", "Recoilless Rifle", "Railgun", "Anti-Materiel Rifle", "Autocannon"],
-        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1723262697/Hulk_wupma2.png"
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Hulk.heic"
     },
     {
         "name": "Tank",
