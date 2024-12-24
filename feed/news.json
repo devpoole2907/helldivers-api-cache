@@ -1894,5 +1894,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nDecisive Fascism-repulsion operations by the Helldivers in vicinity of FENRIR III has facilitated the safe construction of a new Center of Science.\n\nAlready, the project has yielded valuable insights. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3058,
+    "published": 27366971,
+    "type": 0,
+    "tagIds": [],
+    "message": "HOLIDAY NOTICE\n\nToday, citizens across the Federation observe one of our most special holidays. A joyous celebration of love, family, and pursuing peace: the Festival of Reckoning.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3059,
+    "published": 27367048,
+    "type": 0,
+    "tagIds": [],
+    "message": "HOLIDAY TIDINGS\n\nThe Spirit of Reckoning has left a present for all Helldivers, who proved their virtue this year through unhestitating sacrifice in defense of Freedom. All Helldivers will find the StA-X3 W.A.S.P. LAUNCHER Stratagem waiting in their Armory."
   }
 ]
