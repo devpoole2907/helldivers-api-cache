@@ -1,7 +1,7 @@
 [
     {
         "name": "Alpha Commander",
-        "description": "The Alpha Commander is a heavily-armored and supercharged variant of the Brood Commander, boasting increased health and heightened aggression.\nWith a health pool of 1000 and the ability to summon Alpha Warriors, these fast-moving and relentless enemies are lethal up close.\nLike Brood Commanders, they enter a berserk state when beheaded, gaining speed and attack power briefly before expiring.\nMaiming their legs to slow them or engaging at range with high-damage weapons is critical for survival.",
+        "description": "The Alpha Commander is a heavily-armored and supercharged variant of the Brood Commander, boasting increased health and heightened aggression.\n\nWith a health pool of 1000 and the ability to summon Alpha Warriors, these fast-moving and relentless enemies are lethal up close.\n\nLike Brood Commanders, they enter a berserk state when beheaded, gaining speed and attack power briefly before expiring. Maiming their legs to slow them or engaging at range with high-damage weapons is critical for survival.",
         "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Alpha%20Brood%20Commander.heic"
     },
