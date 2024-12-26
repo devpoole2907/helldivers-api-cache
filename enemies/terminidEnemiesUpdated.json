@@ -1,5 +1,41 @@
 [
     {
+        "name": "Alpha Commander",
+        "description": "The Alpha Commander is a heavily-armored and supercharged variant of the Brood Commander, boasting increased health and heightened aggression.\nWith a health pool of 1000 and the ability to summon Alpha Warriors, these fast-moving and relentless enemies are lethal up close.\nLike Brood Commanders, they enter a berserk state when beheaded, gaining speed and attack power briefly before expiring.\nMaiming their legs to slow them or engaging at range with high-damage weapons is critical for survival.",
+        "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Alpha%20Brood%20Commander.heic"
+    },
+    {
+        "name": "Alpha Warrior",
+        "description": "The Alpha Warrior is a faster and deadlier variant of the Warrior, exclusively summoned by Alpha Commanders on Impossible difficulty and above.\nWhile identical to Warriors in behavior, their increased speed allows them to relentlessly pursue and attack Helldivers.\nUpon losing their head, Alpha Warriors gain heightened aggression and can deal significant damage before bleeding out.\nHelldivers are advised to ensure they are fully dispatched, or cripple their legs to slow them down.",
+        "recommendedStratagems": ["Arc Thrower", "Machine Gun Sentry", "Flamethrower", "Grenade Launcher", "Patriot Exosuit", "Machine Gun"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Alpha%20Warrior.heic"
+    },
+    {
+        "name": "Bile Warrior",
+        "description": "The Bile Warrior is a medium-sized Terminid variant of the Warrior, distinguished by its volatile bile sack and unstable body chemistry.\nBelieved to be a sub-adult form of the Bile Titan, these creatures appear on Challenging difficulty and higher, releasing a deadly bile explosion upon death.\nWhile their combat behavior mirrors standard Warriors, Helldivers must maintain a safe distance to avoid their explosive demise, making ranged tactics essential for survival.",
+        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Bile%20Warrior.heic"
+    },
+    {
+        "name": "Hive Guard",
+        "description": "The Hive Guard is a medium-sized Terminid equipped with medium armor on its front, appearing on Easy difficulty and higher.\nLarger than the Warrior, it plays a defensive role, often protecting bug nests or escorting high-value Terminids like Brood Commanders and Chargers.\nWhen under fire, Hive Guards can 'hunker down,' forming a stationary shield wall with their armored head and claws, protecting smaller Terminids behind them.\nTheir armor can be bypassed by flanking or aiming at gaps, while grenades and high-penetration weapons can effectively dispatch them.\nHive Guards may briefly enter a berserk state upon decapitation, blindly rushing forward before expiring.",
+        "recommendedStratagems": ["Machine Gun", "Machine Gun Sentry", "Arc Thrower", "Grenade Launcher", "Patriot Exosuit", "Flamethrower"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Hive%20Guard.heic"
+    },
+    {
+        "name": "Behemoth",
+        "description": "The Behemoth is a heavily-armored variation of the Charger, distinguishable by its elongated horn-like head armor.\nFound as Elimination Targets or Shuttle Bay guardians on Medium difficulty, they also spawn randomly at higher difficulties alongside regular Chargers.\nBehemoths have increased health and armor resistance, making their unprotected abdomen less vulnerable to damage.\nThey are more resilient than standard Chargers and frequently enter a berserk state before succumbing to their wounds.",
+        "recommendedStratagems": ["Orbital Precision Strike", "Railgun", "Quasar Cannon", "Jump Pack", "Autocannon", "Recoilless Rifle", "Shield Generator Pack", "Expendable Anti-Tank"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Behemoth.heic"
+    },
+    {
+        "name": "Spore Charger",
+        "description": "The Spore Charger is a heavily-armored evolution of the Charger, distinguished by the spore fog it generates and its bright-green bile sacs.\nIts fog shroud obscures vision and masks its movements, making it a dangerous ambush predator.\nDespite its shroud, the Spore Charger retains the same weaknesses as regular Chargers, including its vulnerable rear abdomen and susceptibility to explosives.\nHowever, killing it with an explosion scatters corrosive bile in the surrounding area, causing damage over time and slowing nearby Helldivers.",
+        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Spore%20Charger.heic"
+    },
+    {
         "name": "Scavenger",
         "description": "The Scavenger, an adolescent form of the Warrior, sits at the bottom of the Terminid food chain and is ubiquitous across various planets and difficulty levels.\nThough individually weak and largely harmless, Scavengers can become surprisingly dangerous when encountered in packs. A Helldiver caught amidst a group of these creatures may find them more threatening than initially anticipated. Additionally, if given the opportunity, Scavengers can release a cloud of Pheromone Spores, signaling the presence of hostiles to other nearby Terminids.",
         "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
@@ -13,7 +49,7 @@
     },
     {
         "name": "Warrior",
-        "description": "The Warrior represents the evolutionary advancement from the Scavenger and precedes the transformation into a Brood Commander, appearing at any difficulty level.\nThese entities move at a moderate pace and attack exclusively with their razor-sharp claws.",
+        "description": "The Warrior represents the evolutionary advancement from the Scavenger and precedes the transformation into a Brood Commander, appearing at any difficulty level.\nArmed only with razor-sharp claws, these light-armored enemies rely on surprise tactics, such as burrowing underground to ambush Helldivers.\nWarriors are fast, aggressive, and often attack in packs, utilizing flanking maneuvers to encircle their targets.\nWhen beheaded, they enter a berserk state, blindly charging at their last known target with heightened aggression before expiring.",
         "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721204685/Warrior_u4g8gg.png"
     },
@@ -37,13 +73,13 @@
     },
     {
         "name": "Charger",
-        "description": "The Charger is a large, heavily armored Terminid that first appears on Medium difficulty, either as an Elimination Target or occasionally guarding the Shuttle Bay during Emergency Evacuation missions. It begins to spawn naturally and more frequently as the difficulty level increases. True to their name, Chargers aggressively charge at Helldivers, aiming to bash or trample them, which can deal substantial damage, concuss, and potentially launch their targets into the air. At close range, Chargers also deploy their claws for combat.",
+        "description": "The Charger is a large, heavily-armored Terminid that begins appearing as an Elimination Target on Medium difficulty and becomes more frequent at higher levels.\nKnown for its devastating charges, which can concuss, trample, or even launch Helldivers, the Charger also uses its claws in close-range combat.\nWhile heavily armored, its rear abdomen is unprotected and vulnerable to sustained fire. Chargers can enter a berserk state upon receiving lethal damage, continuing to attack before succumbing to their wounds.",
         "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721204611/Charger_cvixji.png"
     },
     {
         "name": "Brood Commander",
-        "description": "Named after the strain of Terminids from the First Galactic War, the Brood Commander is a heavily-armored and formidable variant of the Warrior. It belongs to the nearly-extinct Terminid Leadership Caste, marking it as a particularly dangerous adversary.",
+        "description": "The Brood Commander, a heavily-armored Terminid and variant of the Warrior, represents the nearly-extinct Terminid Leadership Caste.\nIt can summon Warriors and Hive Guards, or trigger bug breaches to overwhelm Helldivers with swarms.\nDespite its light armor, the Brood Commander boasts high durability and can enter a berserk state if its head is destroyed, briefly gaining speed and attack power before expiring.\nDestroying its legs or claws can slow it significantly, and stagger effects can disrupt its pheromone signals.",
         "recommendedStratagems": ["Anti-Materiel Rifle", "Railgun", "Laser Cannon", "Mortar Sentry", "Autocannon"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721204607/Brood_Commander_gerpaf.png"
     },
