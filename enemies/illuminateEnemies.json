@@ -1,15 +1,21 @@
 [
     {
         "name": "Voteless",
-        "description": "The Voteless are mutated Super Earth citizens, warped by the Illuminate into mindless melee soldiers with pale skin and glowing blue eyes.\nWhile individually weak, they are resilient and lunge quickly, overwhelming Helldivers in large swarms.\nGas weapons and anti-infantry stratagems are highly effective against their hordes.",
+        "description": "The Voteless are mutated Super Earth citizens, warped by the Illuminate into mindless melee soldiers with pale skin and glowing blue eyes.\n\nWhile individually weak, they are resilient and lunge quickly, overwhelming Helldivers in large swarms.\nGas weapons and anti-infantry stratagems are highly effective against their hordes.",
         "recommendedStratagems": ["Eagle Cluster Bomb", "Orbital Airburst Strike", "Arc Thrower"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/voteless-min.png?updatedAt=1734402602749"
     },
     {
         "name": "Overseer",
-        "description": "Overseers are ancient Illuminate warriors wielding energy staves for both high-damage ranged attacks and devastating melee sweeps.\nThey deploy energy shields under fire but remain vulnerable to area-of-effect attacks and shots targeting their legs or helmet.\nOverseers excel at close combat, using their staves to knock down and overwhelm Helldivers.",
+        "description": "Overseers are ancient Illuminate warriors wielding energy staves for both high-damage ranged attacks and devastating melee sweeps.\n\nThey deploy energy shields under fire but remain vulnerable to area-of-effect attacks and shots targeting their legs or helmet.\nOverseers excel at close combat, using their staves to knock down and overwhelm Helldivers.",
         "recommendedStratagems": ["Railgun", "Anti-Materiel Rifle"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/overseer-min.png?updatedAt=1734402603160"
+    },
+    {
+        "name": "Elevated Overseer",
+        "description": "The Elevated Overseer is a flying medium infantry unit of the Illuminate, equipped with a rapid burst-firing energy weapon and grenades.\n\nWith maneuverable flight and frequent dodging, they advance slowly while launching attacks and grenades intermittently.\n\nElevated Overseers are armored, but their jetpacks and armor plating can be targeted for devastating effects, including instant kills when their jetpacks detonate.\n\nHelldivers can exploit their susceptibility to stunning attacks to immobilize them, strip their armor, and eliminate them effectively.",
+        "recommendedStratagems": ["Arc Thrower", "Guard Dog", "Guard Dog Rover", "Anti-Materiel Rifle"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Illuminate/Elevated%20Overseer.heic"
     },
     {
         "name": "Harvester",
