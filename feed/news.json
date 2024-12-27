@@ -1936,5 +1936,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ILLUMINATE INCURSION\n\nThe Illuminate have launched a vicious assault on JULHEIM, bringing death and destruction to families' peaceful and solemn observance of the Festival of Reckoning. It is clear that nothing is sacred to these zealots. The Helldivers must ensure the innocents killed by the Illuminate today are fully avenged."
+  },
+  {
+    "id": 3064,
+    "published": 27626362,
+    "type": 0,
+    "tagIds": [],
+    "message": "FESTIVAL'S END\n\nThe Festival of Reckoning has come to a close. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3065,
+    "published": 27626665,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to kill as many Illuminate and Voteless as possible over the coming wave of attacks. This will both deter the enemy and allow the Ministry of Science to autopsy the remains, possibly yielding intel about the Illuminate and how the Voteless are created."
   }
 ]
