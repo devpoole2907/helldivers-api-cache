@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Super Earth reminds all brave Helldivers that holiday cheer is a dangerous distraction. Stay focused on protecting democracy!",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
