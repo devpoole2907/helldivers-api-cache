@@ -8,19 +8,19 @@
     {
         "name": "Alpha Warrior",
         "description": "The Alpha Warrior is a faster and deadlier variant of the Warrior, exclusively summoned by Alpha Commanders on Impossible difficulty and above.\n\nWhile identical to Warriors in behavior, their increased speed allows them to relentlessly pursue and attack Helldivers.\n\nUpon losing their head, Alpha Warriors gain heightened aggression and can deal significant damage before bleeding out.\n\nHelldivers are advised to ensure they are fully dispatched, or cripple their legs to slow them down.",
-        "recommendedStratagems": ["Arc Thrower", "Machine Gun Sentry", "Flamethrower", "Grenade Launcher", "Patriot Exosuit", "Machine Gun"],
+        "recommendedStratagems": ["Arc Thrower", "Machine Gun Sentry", "Flamethrower", "Grenade Launcher", "Orbital Napalm Barrage", "Patriot Exosuit", "Machine Gun"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Alpha%20Warrior.heic"
     },
     {
         "name": "Bile Warrior",
         "description": "The Bile Warrior is a medium-sized Terminid variant of the Warrior, distinguished by its volatile bile sack and unstable body chemistry.\n\nBelieved to be a sub-adult form of the Bile Titan, these creatures appear on Challenging difficulty and higher, releasing a deadly bile explosion upon death.\n\nWhile their combat behavior mirrors standard Warriors, Helldivers must maintain a safe distance to avoid their explosive demise, making ranged tactics essential for survival.",
-        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
+        "recommendedStratagems": ["Machine Gun Sentry", "Orbital Napalm Barrage", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Bile%20Warrior.heic"
     },
     {
         "name": "Hive Guard",
         "description": "The Hive Guard is a medium-sized Terminid equipped with medium armor on its front, appearing on Easy difficulty and higher.\n\nLarger than the Warrior, it plays a defensive role, often protecting bug nests or escorting high-value Terminids like Brood Commanders and Chargers.\n\nWhen under fire, Hive Guards can 'hunker down,' forming a stationary shield wall with their armored head and claws, protecting smaller Terminids behind them.\n\nTheir armor can be bypassed by flanking or aiming at gaps, while grenades and high-penetration weapons can effectively dispatch them.\n\nHive Guards may briefly enter a berserk state upon decapitation, blindly rushing forward before expiring.",
-        "recommendedStratagems": ["Machine Gun", "Machine Gun Sentry", "Arc Thrower", "Grenade Launcher", "Patriot Exosuit", "Flamethrower"],
+        "recommendedStratagems": ["Machine Gun", "Machine Gun Sentry", "Arc Thrower", "Orbital Napalm Barrage", "Grenade Launcher", "Patriot Exosuit", "Flamethrower"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Hive%20Guard.heic"
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "Spore Charger",
         "description": "The Spore Charger is a heavily-armored evolution of the Charger, distinguished by the spore fog it generates and its bright-green bile sacs.\n\nIts fog shroud obscures vision and masks its movements, making it a dangerous ambush predator.\n\nDespite its shroud, the Spore Charger retains the same weaknesses as regular Chargers, including its vulnerable rear abdomen and susceptibility to explosives.\n\nHowever, killing it with an explosion scatters corrosive bile in the surrounding area, causing damage over time and slowing nearby Helldivers.",
-        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
+        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Napalm Barrage", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Terminids/Spore%20Charger.heic?updatedAt=1735254436742"
     },
     {
@@ -74,7 +74,7 @@
     {
         "name": "Charger",
         "description": "The Charger is a large, heavily-armored Terminid that begins appearing as an Elimination Target on Medium difficulty and becomes more frequent at higher levels.\n\nKnown for its devastating charges, which can concuss, trample, or even launch Helldivers, the Charger also uses its claws in close-range combat.\n\nWhile heavily armored, its rear abdomen is unprotected and vulnerable to sustained fire. Chargers can enter a berserk state upon receiving lethal damage, continuing to attack before succumbing to their wounds.",
-        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
+        "recommendedStratagems": ["Orbital Precision Strike", "Orbital Railcannon Strike", "Railgun", "Orbital Napalm Barrage", "Quasar Cannon", "Shield Generator Pack", "Jump Pack", "Autocannon", "Recoilless Rifle", "Flamethrower", "Expendable Anti-Tank"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1721204611/Charger_cvixji.png"
     },
     {
