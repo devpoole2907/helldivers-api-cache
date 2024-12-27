@@ -6,6 +6,18 @@
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Trooper.heic"
     },
     {
+        "name": "Brawler",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Brawler.heic?updatedAt=1735277320816"
+    },
+    {
+        "name": "Marauder",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Arc Thrower", "Orbital Napalm Barrage", "Guard Dog Rover", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Marauder.heic?updatedAt=1735274482961"
+    },
+    {
         "name": "Commissar",
         "description": "The Commissar is a unique Automaton unit, acting as a simulated military leader. Enhanced with advanced processing and basic command algorithms, it orchestrates troop movements while avoiding direct combat. Despite its non-sentient nature, the Commissar is essential for coordinating Automaton infantry squads.",
         "recommendedStratagems": ["Anti-Materiel Rifle"],
@@ -16,6 +28,12 @@
         "description": "The Scout Strider, a machine operated by another machine, functions as a mobile turret under the limited control of an Automaton Trooper. This setup represents yet another futile endeavor to mimic true intelligence by commanding a device even more basic than the operator itself.",
         "recommendedStratagems": ["Recoilless Rifle", "Autocannon", "Railgun", "Expendable Anti-Tank"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Scout%20Strider.heic"
+    },
+    {
+        "name": "Reinforced Scout Strider",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Railgun", "Autocannon", "Expendable Anti-Tank"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Reinforced%20Scout%20Strider.heic?updatedAt=1735274623161"
     },
     {
         "name": "Berserker",
@@ -30,16 +48,40 @@
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Devastator.heic"
     },
     {
+        "name": "Rocket Devastator",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Rocket%20Devastator.heic?updatedAt=1735277246315"
+    },
+    {
+        "name": "Heavy Devastator",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Heavy%20Devastator.heic?updatedAt=1735277246339"
+    },
+    {
         "name": "Hulk",
         "description": "The Hulk, like all Automaton units, is single-mindedly designed for one purpose: delivering devastating firepower. When encountered, the standard protocol for Helldivers is to initiate the heaviest Orbital bombardment available without delay.",
         "recommendedStratagems": ["Eagle 500KG Bomb", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Quasar Cannon", "Recoilless Rifle", "Railgun", "Anti-Materiel Rifle", "Autocannon"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Hulk.heic"
     },
     {
-        "name": "Tank",
+        "name": "Annihilator Tank",
         "description": "The Automaton Tank, a blatant imitation of Super Earth's tank designs, falls short in numerous areas, including slow turret rotation and movement speed— a rip-off of a 20th-century classic. This highlights the Automatons' nature as nothing more than copycats and thieves. In contrast, a single skilled Helldiver can dismantle these tanks, while Super Earth's versions can decimate entire platoons.",
         "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Tank.heic"
+    },
+    {
+        "name": "Barrager Tank",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Barrager%20Tank.heic?updatedAt=1735277108069"
+    },
+    {
+        "name": "Shredder Tank",
+        "description": "Coming soon",
+        "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"],
+        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Shredder%20Tank.heic?updatedAt=1735277108239"
     },
     {
         "name": "Factory Strider",
