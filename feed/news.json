@@ -1950,5 +1950,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to kill as many Illuminate and Voteless as possible over the coming wave of attacks. This will both deter the enemy and allow the Ministry of Science to autopsy the remains, possibly yielding intel about the Illuminate and how the Voteless are created."
+  },
+  {
+    "id": 3066,
+    "published": 28087597,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
