@@ -1957,5 +1957,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Illuminate have been forced to pay a heavy toll for their merciless campaign of terror. The Helldivers killed vast swaths of the bloodthirsty alien species, sending a message of what is to come should they choose to continue their aggression.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3067,
+    "published": 28170470,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information."
   }
 ]
