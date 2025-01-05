@@ -1964,5 +1964,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Helldivers are ordered to secure MASTIA to facilitate the construction of a new Center for Citizen Surveillance & Security. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3068,
+    "published": 28391689,
+    "type": 0,
+    "tagIds": [],
+    "message": "INVASION!\n\nAutomaton dropships fill the skies of GAELLIVARE. All Helldivers are called to its defense!"
   }
 ]
