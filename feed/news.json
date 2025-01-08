@@ -1971,5 +1971,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INVASION!\n\nAutomaton dropships fill the skies of GAELLIVARE. All Helldivers are called to its defense!"
+  },
+  {
+    "id": 3069,
+    "published": 28624522,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information."
   }
 ]
