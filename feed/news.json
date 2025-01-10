@@ -1978,5 +1978,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Center for Citizen Surveillance & Security has been completed. The FREEDOM Act is fully implemented, marking the auspicious beginning of a new era of safety and unity. Consult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3070,
+    "published": 28816539,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Xenoentomology Center on Turing has detected a sharp increase in Terminid spore outflow from the Gloom, cascading throughout all Terminid-occupied worlds to greatly accelerate bug expansion. Multiple outbreaks have already been detected. The Helldivers must respond immediately to stem further outbreaks.\n\nConsult your Galactic Map for more information."
   }
 ]
