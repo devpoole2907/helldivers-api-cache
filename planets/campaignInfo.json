@@ -3,40 +3,40 @@
     "planetIndex": 168,
     "name": "Erata Prime",
     "faction": "Terminids",
-    "players": 19666,
-    "health": 390919,
+    "players": 18795,
+    "health": 387927,
     "maxHealth": 700000,
-    "percentage": 44.15442857142857,
+    "percentage": 44.58185714285714,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1736705852.302
+    "expireDateTime": 1736705850.592
   },
   {
     "planetIndex": 219,
     "name": "Polaris Prime",
     "faction": "Terminids",
-    "players": 35956,
-    "health": 423724,
+    "players": 35461,
+    "health": 418347,
     "maxHealth": 550000,
-    "percentage": 22.959272727272733,
+    "percentage": 23.936909090909097,
     "defense": true,
     "biome": {
       "slug": "desert",
       "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
     },
-    "expireDateTime": 1736723882.302
+    "expireDateTime": 1736723880.592
   },
   {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 2522,
-    "health": 525162,
+    "players": 2433,
+    "health": 526499,
     "maxHealth": 1000000,
-    "percentage": 47.483799999999995,
+    "percentage": 47.3501,
     "defense": false,
     "biome": {
       "slug": "tundra",
@@ -45,13 +45,28 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 60,
+    "name": "Irulta",
+    "faction": "Illuminates",
+    "players": 13338,
+    "health": 134649,
+    "maxHealth": 200000,
+    "percentage": 32.6755,
+    "defense": false,
+    "biome": {
+      "slug": "jungle",
+      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+    },
+    "expireDateTime": 1736668780.592
+  },
+  {
     "planetIndex": 218,
     "name": "Pherkad Secundus",
     "faction": "Terminids",
-    "players": 3867,
-    "health": 670629,
+    "players": 3778,
+    "health": 673697,
     "maxHealth": 1000000,
-    "percentage": 32.9371,
+    "percentage": 32.63029999999999,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -60,40 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 60,
-    "name": "Irulta",
-    "faction": "Illuminates",
-    "players": 13709,
-    "health": 136137,
-    "maxHealth": 200000,
-    "percentage": 31.9315,
-    "defense": false,
-    "biome": {
-      "slug": "jungle",
-      "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-    },
-    "expireDateTime": 1736668782.302
-  },
-  {
-    "planetIndex": 117,
-    "name": "Vog-sojoth",
-    "faction": "Automatons",
-    "players": 7695,
-    "health": 999999,
-    "maxHealth": 1000000,
-    "percentage": 9.99999999891088e-05,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 540,
+    "players": 523,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +93,7 @@
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 511,
+    "players": 478,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -123,7 +108,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 504,
+    "players": 488,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -153,7 +138,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 287,
+    "players": 308,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -168,7 +153,7 @@
     "planetIndex": 173,
     "name": "Gatria",
     "faction": "Terminids",
-    "players": 2862,
+    "players": 2836,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +168,7 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 1483,
+    "players": 1436,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -198,7 +183,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 621,
+    "players": 652,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -213,7 +198,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 624,
+    "players": 585,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -228,7 +213,7 @@
     "planetIndex": 215,
     "name": "Partion",
     "faction": "Terminids",
-    "players": 414,
+    "players": 417,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -243,7 +228,7 @@
     "planetIndex": 112,
     "name": "Vernen Wells",
     "faction": "Automatons",
-    "players": 1007,
+    "players": 977,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -255,10 +240,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 117,
+    "name": "Vog-sojoth",
+    "faction": "Automatons",
+    "players": 7554,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 250,
     "name": "Yed Prior",
     "faction": "Automatons",
-    "players": 1183,
+    "players": 1154,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -273,7 +273,7 @@
     "planetIndex": 251,
     "name": "Zefia",
     "faction": "Automatons",
-    "players": 652,
+    "players": 633,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
