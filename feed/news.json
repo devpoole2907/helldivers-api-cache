@@ -1992,5 +1992,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nA particularly effective patriotic communications campaign encouraged an influx of war donations. The ORBITAL NAPALM BARRAGE stratagem is temporarily available to all Helldivers. "
+  },
+  {
+    "id": 3072,
+    "published": 29085300,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\nIn the current operational context, liberating HEETH would end the current Terminid attacks upon both CIRRUS and ANGEL'S VENTURE."
   }
 ]
