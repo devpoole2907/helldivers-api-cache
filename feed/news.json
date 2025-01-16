@@ -2013,5 +2013,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Terminid outbreak has been contained. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3075,
+    "published": 29330730,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Democracy Space Station has been returned to operational status, following a systemwide breakdown during the initial Illuminate invasion. \n\nWhile the station was offline, Ministry of Defense engineers implemented a number of operational adjustments. Consult your Galactic Map for more information.\n\nThe Illuminate have continued their assault on Freedom unabated. Utilize the power of the newly-repaired DSS to repel their invasion and save our citizens."
   }
 ]
