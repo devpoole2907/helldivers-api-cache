@@ -2027,5 +2027,12 @@
     "type": 0,
     "tagIds": [],
     "message": "WARFRONT DEVELOPMENT\n\nA catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on HEETH."
+  },
+  {
+    "id": 3077,
+    "published": 29827560,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Illuminate campaign of terror continues unrestricted. Even the resurgent DSS, deployed with unassailable precision by the Helldivers, was not enough to repel the tide of xeno-autocracy. Millions of colonists have perished, and untold more have been corrupted into Voteless servants."
   }
 ]
