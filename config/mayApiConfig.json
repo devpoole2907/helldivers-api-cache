@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "The DSS update is now live! Monitor its status and location - available now on the App Store.",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
