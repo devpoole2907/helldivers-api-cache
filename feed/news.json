@@ -2034,5 +2034,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe Illuminate campaign of terror continues unrestricted. Even the resurgent DSS, deployed with unassailable precision by the Helldivers, was not enough to repel the tide of xeno-autocracy. Millions of colonists have perished, and untold more have been corrupted into Voteless servants."
+  },
+  {
+    "id": 3078,
+    "published": 30003420,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nRecent scientific findings have drastically increased the priority of developing Gloom-resistant technology. The Helldivers are ordered to collect scientific samples in order to support its development. \n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3079,
+    "published": 30003828,
+    "type": 0,
+    "tagIds": [],
+    "message": "ADVISORY\n\nCounterfeit sample detection measures have been strengthened since many such samples were received in a previous Order. The measures are anticipated to be sufficient. \n\nAll personnel are encouraged to do their part: remain vigilant for un-Democratic attempts to steal from the prosperity of all, and report any indications of such behavior to their Democracy Officer immediately."
   }
 ]
