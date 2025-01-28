@@ -3,7 +3,7 @@
         "name": "Trooper",
         "description": "As the primary infantry unit of the Automaton forces, the Trooper is a fundamental component of the enemy lineup. This unit, while basic, can be deployed in large numbers and equipped with a variety of weapons and equipment based on mission needs. Often considered cannon fodder due to their vulnerability in small groups, Troopers are nonetheless crucial targets because of their ability to call in heavier reinforcements.",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Trooper.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034371/Trooper.heic"
     },
     {
         "name": "Brawler",
@@ -21,7 +21,7 @@
         "name": "Commissar",
         "description": "The Commissar is a unique Automaton unit, acting as a simulated military leader. Enhanced with advanced processing and basic command algorithms, it orchestrates troop movements while avoiding direct combat. Despite its non-sentient nature, the Commissar is essential for coordinating Automaton infantry squads.",
         "recommendedStratagems": ["Anti-Materiel Rifle"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Commissar.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034366/Commissar.heic"
     },
     {
         "name": "Scout Strider",
@@ -93,7 +93,7 @@
         "name": "Gunship",
         "description": "Gunships, large aerial vehicles, patrol the vicinity of Automaton Gunship Facilities, monitoring nearby activities. Upon detecting Helldiver movements, they swiftly mobilize to scan and assess the area. Equipped with an underside turret and capable of launching a barrage of rockets, these Gunships engage upon sighting their targets. They bear a resemblance to smaller, less robust versions of Automaton Dropships, notably lacking the 'arms' used to deploy Automaton troops.",
         "recommendedStratagems": [],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Gunship.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034368/Gunship.heic"
     },
     {
         "name": "Dropship",
