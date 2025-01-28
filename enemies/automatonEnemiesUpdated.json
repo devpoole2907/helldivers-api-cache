@@ -99,6 +99,6 @@
         "name": "Dropship",
         "description": "Dropships, large non-humanoid Automaton vehicles, are tasked with the rapid transport and deployment of Automaton infantry. When Helldiver activity is detected, typically marked by the firing of a signal flare, these Dropships spring into action, quickly delivering Automaton units to the conflict zone. Packed to the brim with troops, they are essential for swift tactical responses.",
         "recommendedStratagems": ["Quasar Cannon", "Recoilless Rifle", "Expendable Anti-Tank"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Dropship.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034942/Dropship.heic"
     }
 ]
