@@ -9,7 +9,7 @@
         "name": "Brawler",
         "description": "Coming soon",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Brawler.heic?updatedAt=1735277320816"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034193/Brawler.heic"
     },
     {
         "name": "Marauder",
@@ -39,31 +39,31 @@
         "name": "Berserker",
         "description": "The Berserker embodies raw savagery, equipped with chainsaws each powered by a CPU dedicated to a single task: minimizing the distance between the saw and its target as swiftly as possible.",
         "recommendedStratagems": ["Autocannon", "Jump Pack", "Autocannon Sentry", "Anti-Materiel Rifle"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Berserker.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034190/Berserker.heic"
     },
     {
         "name": "Devastator",
         "description": "The Devastator, armored to the hilt, aims to dismantle any opposition to the Automatons' oppressive ideology using a formidable arsenal. This includes arm cannons, protective arm shields, arm machine guns, and shoulder-launched rocket pods.",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Devastator.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034166/Devastator.heic"
     },
     {
         "name": "Rocket Devastator",
         "description": "Coming soon",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Rocket%20Devastator.heic?updatedAt=1735277246315"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034182/Rocket_Devastator.heic"
     },
     {
         "name": "Heavy Devastator",
         "description": "Coming soon",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Heavy%20Devastator.heic?updatedAt=1735277246339"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034159/Heavy_Devastator.heic"
     },
     {
         "name": "Hulk",
         "description": "The Hulk, like all Automaton units, is single-mindedly designed for one purpose: delivering devastating firepower. When encountered, the standard protocol for Helldivers is to initiate the heaviest Orbital bombardment available without delay.",
         "recommendedStratagems": ["Eagle 500KG Bomb", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Quasar Cannon", "Recoilless Rifle", "Railgun", "Anti-Materiel Rifle", "Autocannon"],
-        "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Hulk.heic"
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034024/Hulk.heic"
     },
     {
         "name": "Annihilator Tank",
