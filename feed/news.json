@@ -2069,5 +2069,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nIntel from the Staging Grounds for the Automaton Jet Brigade on Choohe has finally been deciphered, and the source of the violent unit identified. The Factories that produced the robotic marauders is located on CHORT BAY.\n\nThe Helldivers are ordered to strike deep into Automaton territory with the objective of liberating CHORT BAY and destroying the Jet Brigade Factories there."
+  },
+  {
+    "id": 3083,
+    "published": 30598286,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL REPORT\n\nLong-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity."
   }
 ]
