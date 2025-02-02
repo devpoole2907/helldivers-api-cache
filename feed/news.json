@@ -2083,5 +2083,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives."
+  },
+  {
+    "id": 3085,
+    "published": 30757634,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nThe Automaton Jet Brigade has been spotted on Planet MENKENT."
   }
 ]
