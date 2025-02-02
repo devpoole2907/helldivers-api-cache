@@ -2076,5 +2076,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL REPORT\n\nLong-range imagery of CHORT BAY has confirmed the presence of Jet Brigade factories on its surface. However, no jetpack-augmented units have been spotted on the planet. It is possible they have not yet managed to rebuild their force in any significant capacity."
+  },
+  {
+    "id": 3084,
+    "published": 30756846,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Automaton Jet Brigade Factories on CHORT BAY have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives."
   }
 ]
