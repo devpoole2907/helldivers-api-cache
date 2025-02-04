@@ -3,67 +3,97 @@
     "planetIndex": 194,
     "name": "Lesath",
     "faction": "Automatons",
-    "players": 13304,
-    "health": 1209594,
+    "players": 14547,
+    "health": 1197592,
     "maxHealth": 2100000,
-    "percentage": 42.400285714285715,
+    "percentage": 42.97180952380952,
     "defense": true,
     "biome": {
       "slug": "icemoss",
       "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
     },
-    "expireDateTime": 1738817723.723
+    "expireDateTime": 1738818639.704
   },
   {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 648,
-    "health": 319179,
+    "players": 652,
+    "health": 318531,
     "maxHealth": 350000,
-    "percentage": 8.805999999999997,
+    "percentage": 8.991142857142847,
     "defense": true,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1738701743.723
+    "expireDateTime": 1738701739.704
   },
   {
     "planetIndex": 190,
     "name": "Kraz",
     "faction": "Illuminates",
-    "players": 700,
-    "health": 84239,
+    "players": 777,
+    "health": 83931,
     "maxHealth": 100000,
-    "percentage": 15.760999999999996,
+    "percentage": 16.069000000000003,
     "defense": false,
     "biome": {
       "slug": "canyon",
       "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
     },
-    "expireDateTime": 1738671973.723
+    "expireDateTime": 1738671969.704
   },
   {
     "planetIndex": 60,
     "name": "Irulta",
     "faction": "Illuminates",
-    "players": 1319,
-    "health": 97156,
+    "players": 1414,
+    "health": 96378,
     "maxHealth": 100000,
-    "percentage": 2.843999999999994,
+    "percentage": 3.622,
     "defense": false,
     "biome": {
       "slug": "jungle",
       "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
     },
-    "expireDateTime": 1738703473.723
+    "expireDateTime": 1738703469.704
+  },
+  {
+    "planetIndex": 172,
+    "name": "Gar Haren",
+    "faction": "Terminids",
+    "players": 100,
+    "health": 999990,
+    "maxHealth": 1000000,
+    "percentage": 0.000999999999990564,
+    "defense": false,
+    "biome": {
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 168,
+    "name": "Erata Prime",
+    "faction": "Terminids",
+    "players": 3586,
+    "health": 999992,
+    "maxHealth": 1000000,
+    "percentage": 0.0007999999999981355,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 87,
+    "players": 96,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -78,7 +108,7 @@
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 260,
+    "players": 291,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -93,7 +123,7 @@
     "planetIndex": 159,
     "name": "Choohe",
     "faction": "Automatons",
-    "players": 194,
+    "players": 209,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -108,7 +138,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 19,
+    "players": 12,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,25 +150,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 168,
-    "name": "Erata Prime",
-    "faction": "Terminids",
-    "players": 3209,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 143,
+    "players": 168,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,25 +165,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 172,
-    "name": "Gar Haren",
-    "faction": "Terminids",
-    "players": 119,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "morass",
-      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 199,
     "name": "Martale",
     "faction": "Automatons",
-    "players": 150,
+    "players": 177,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -183,7 +183,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 110,
+    "players": 116,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -198,7 +198,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 703,
+    "players": 758,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -213,7 +213,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 413,
+    "players": 441,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -228,7 +228,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 102,
+    "players": 103,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -243,7 +243,7 @@
     "planetIndex": 217,
     "name": "Phact Bay",
     "faction": "Terminids",
-    "players": 790,
+    "players": 895,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -258,7 +258,7 @@
     "planetIndex": 218,
     "name": "Pherkad Secundus",
     "faction": "Terminids",
-    "players": 200,
+    "players": 220,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -273,7 +273,7 @@
     "planetIndex": 117,
     "name": "Vog-sojoth",
     "faction": "Automatons",
-    "players": 55,
+    "players": 47,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -288,7 +288,7 @@
     "planetIndex": 250,
     "name": "Yed Prior",
     "faction": "Automatons",
-    "players": 56,
+    "players": 45,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -303,7 +303,7 @@
     "planetIndex": 251,
     "name": "Zefia",
     "faction": "Automatons",
-    "players": 16,
+    "players": 19,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
