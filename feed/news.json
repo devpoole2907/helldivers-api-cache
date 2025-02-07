@@ -2124,5 +2124,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe bulk of our deployed SEAF soldiers on Chort Bay have withdrawn. Only skeleton forces remain, supporting ongoing Helldiver operations. The millions of soldiers saved owe their lives to the Helldivers."
+  },
+  {
+    "id": 3091,
+    "published": 31237271,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nThe GAS MINES stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact."
   }
 ]
