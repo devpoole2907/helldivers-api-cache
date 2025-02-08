@@ -2145,5 +2145,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT\n\nThe Meridian Singularity has deviated from its stable orbit.\n\nThe Singularity is now moving along an unnatural path. \n\nMovement speed appears directly correlated with the amount of Dark Energy the Illuminate have gathered from our Galaxy. "
+  },
+  {
+    "id": 3094,
+    "published": 31302510,
+    "type": 0,
+    "tagIds": [],
+    "message": "PATRIOTIC ANNOUNCEMENT\n\nIn recognition of the Helldivers' service, bravery, and obedient fulfillment of their duty over the past year, High Command has authorized the bequethment of a commemorative gift to all Super Destroyers. Helldivers may accept their gift with immense gratitude at their Armory."
   }
 ]
