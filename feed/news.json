@@ -2131,5 +2131,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nThe GAS MINES stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact."
+  },
+  {
+    "id": 3092,
+    "published": 31301110,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Illuminate appear to be attacking our worlds in order to gather Dark Energy, which seemingly powers the movement of the Meridian Singularity.\n\nThe Singularity is currently approaching ANGEL'S VENTURE. The more Dark Energy the Illuminate are able to gather, the faster the Singularity moves. \n\nAll Helldivers are ordered to end any Illuminate invasion attempts as quickly as possible, to safeguard the citizens of ANGEL'S VENTURE."
+  },
+  {
+    "id": 3093,
+    "published": 31301120,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT\n\nThe Meridian Singularity has deviated from its stable orbit.\n\nThe Singularity is now moving along an unnatural path. \n\nMovement speed appears directly correlated with the amount of Dark Energy the Illuminate have gathered from our Galaxy. "
   }
 ]
