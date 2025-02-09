@@ -2152,5 +2152,12 @@
     "type": 0,
     "tagIds": [],
     "message": "PATRIOTIC ANNOUNCEMENT\n\nIn recognition of the Helldivers' service, bravery, and obedient fulfillment of their duty over the past year, High Command has authorized the bequethment of a commemorative gift to all Super Destroyers. Helldivers may accept their gift with immense gratitude at their Armory."
+  },
+  {
+    "id": 3095,
+    "published": 31414645,
+    "type": 0,
+    "tagIds": [],
+    "message": "TEMPORARY ARSENAL AUGMENTATION\n\nThe Orbital Railcannon Strike stratagem has been temporarily authorized for use by all Helldivers."
   }
 ]
