@@ -2159,5 +2159,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TEMPORARY ARSENAL AUGMENTATION\n\nThe Orbital Railcannon Strike stratagem has been temporarily authorized for use by all Helldivers."
+  },
+  {
+    "id": 3096,
+    "published": 31650310,
+    "type": 0,
+    "tagIds": [],
+    "message": "PRIORITY ALERT\n\nThe Meridian Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with ANGEL'S VENTURE.\n\nANGEL'S VENTURE can no longer be saved.\n\nEvacuation of high-priority citizens is underway."
   }
 ]
