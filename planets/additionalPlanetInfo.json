@@ -1910,8 +1910,8 @@
     "name": "Angel's Venture",
     "sector": "Orion",
     "biome": {
-      "slug": "tundra",
-      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+      "slug": "shattered",
+      "description": "All that remains of a planet torn apart by the Meridian singularity."
     },
     "environmentals": []
   },
