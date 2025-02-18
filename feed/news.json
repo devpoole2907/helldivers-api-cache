@@ -2187,5 +2187,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT\n\nA new Terminid strain, likely to have developed inside the Gloom, has been encountered near the Center of Science on FENRIR III.\n\nThe Center\u2019s Dark Energy research is now at critical risk.\n\nScattered reports on the new Terminids indicate discoloration, increased intelligence, and drastic changes to hunting patterns. Information remains scarce, as no SEAF units have returned from close encounters. \n\nThis variant group has been dubbed the Predator Strain."
+  },
+  {
+    "id": 3100,
+    "published": 32156200,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nDespite the appearance of the Predator Strain, the Terminid wave has shattered against the Helldiver breakwater.\n\nThe researchers at the Center of Science are safe.\n\nThese researchers have made a startling discovery: the energy produced by E-710 combustion matches all known properties of Dark Energy.\n\nStudying E-710, then, could help us understand Dark Energy\u2014and the means by which the Illuminate are moving the Meridian Singularity."
+  },
+  {
+    "id": 3101,
+    "published": 32156530,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSuper Earth High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
