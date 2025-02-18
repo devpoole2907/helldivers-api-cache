@@ -2201,5 +2201,54 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nSuper Earth High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3102,
+    "published": 32156700,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nIn the interest of preserving the structural integrity of biological and/or geological materials on #PLANET1 during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission."
+  },
+  {
+    "id": 3103,
+    "published": 32156730,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT\n\nPredator Strain Terminids have been sighted on #PLANET.\n\nReports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed."
+  },
+  {
+    "id": 3104,
+    "published": 32157720,
+    "type": 0,
+    "tagIds": [],
+    "message": "void msg"
+  },
+  {
+    "id": 3105,
+    "published": 32157730,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nDespite the appearance of the Predator Strain, the Terminid wave has shattered against the Helldiver breakwater.\n\nThe researchers at the Center of Science are safe.\n\nThese researchers have made a startling discovery: the energy produced by E-710 combustion matches all known properties of Dark Energy.\n\nStudying E-710, then, could help us understand Dark Energy\u2014and the means by which the Illuminate are moving the Meridian Singularity."
+  },
+  {
+    "id": 3106,
+    "published": 32157740,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSuper Earth High Command has ordered immediate deployment to what may represent a massive, untapped source of E-710: the Gloom.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3107,
+    "published": 32157750,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT\n\nPredator Strain Terminids have been sighted on FORI PRIME.\n\nReports of anomalous behavior among other Terminids in the Gloom have yet to be confirmed."
+  },
+  {
+    "id": 3108,
+    "published": 32157760,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nIn the interest of preserving the structural integrity of biological and/or geological materials on FORI PRIME during the ongoing Gloom expedition, the DSS will not be authorized for use in this mission."
   }
 ]
