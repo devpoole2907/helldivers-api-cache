@@ -2257,5 +2257,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT\n\nThe Gloom cover on Fori Prime is predicted to thicken over the coming hours. The equipment enabling the Helldivers\u2019 Gloom expedition is designed to withstand low spore levels only.\n\nGiven the heightened risk, there will be no further operations on Fori Prime after the current Major Order is completed."
+  },
+  {
+    "id": 3110,
+    "published": 32654271,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully plunged through the impenetrable Gloom and surveyed one of its Terminid-plagued worlds.\n\nThe results from this survey confirm that Gloom-mutated Terminid populations are saturated with high-yield specimens. \n\nThe influx of E-710 secured during this operation will enable accelerated research on the Meridian Singularity. It is only a matter of time until we know how the Illuminate are moving the Singularity\u2014and how to stop it."
   }
 ]
