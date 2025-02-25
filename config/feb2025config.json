@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "Helldivers are reporting issues with the current Personal Order. Stand by while Super Earth scientists investigate.",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
