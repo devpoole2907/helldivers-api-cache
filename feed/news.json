@@ -2271,5 +2271,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GALACTIC WAR UPDATE\n\nDue to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path.\n\nAll Galactic Map systems have been updated to their latest versions, and the issue should now be resolved."
+  },
+  {
+    "id": 3112,
+    "published": 32774722,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one.\n\nConsult the Galactic Map on your ship for more information."
   }
 ]
