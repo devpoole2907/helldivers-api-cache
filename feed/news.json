@@ -2264,5 +2264,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully plunged through the impenetrable Gloom and surveyed one of its Terminid-plagued worlds.\n\nThe results from this survey confirm that Gloom-mutated Terminid populations are saturated with high-yield specimens. \n\nThe influx of E-710 secured during this operation will enable accelerated research on the Meridian Singularity. It is only a matter of time until we know how the Illuminate are moving the Singularity\u2014and how to stop it."
+  },
+  {
+    "id": 3111,
+    "published": 32773260,
+    "type": 0,
+    "tagIds": [],
+    "message": "GALACTIC WAR UPDATE\n\nDue to a Galactic Map glitch, the location and movement speed of the Meridian Singularity have reportedly been resetting automatically, causing other unexpected Map behavior. This bug was likely caused by the extraordinary computing power required to accurately simulate the Singularity's path.\n\nAll Galactic Map systems have been updated to their latest versions, and the issue should now be resolved."
   }
 ]
