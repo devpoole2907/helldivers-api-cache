@@ -2278,5 +2278,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automatons have launched a brazen attack, underhandedly capitalizing on the ongoing Terminid and Illuminate offensives to further their despotic schemes. Intercepted communications indicate the enemy has two ultimate targets. But our Federation only has the resources to save one.\n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3113,
+    "published": 32826612,
+    "type": 0,
+    "tagIds": [],
+    "message": "NOTICE\n\nThe Democratic Council has decreed that all spacefaring vessels must submit to full cargo inspections biweekly (twice a week), rather than the previous biweekly (once every two weeks).\n\nTo ensure compliance, the Super Store will be unavailable over the coming hours."
   }
 ]
