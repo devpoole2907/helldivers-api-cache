@@ -2285,5 +2285,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NOTICE\n\nThe Democratic Council has decreed that all spacefaring vessels must submit to full cargo inspections biweekly (twice a week), rather than the previous biweekly (once every two weeks).\n\nTo ensure compliance, the Super Store will be unavailable over the coming hours."
+  },
+  {
+    "id": 3114,
+    "published": 32948100,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nA sudden and unexpected collapse in Automaton capabilities gave our forces the opportunity to liberate huge swaths of territory from the enemy's socialist grasp.\n \nThe latest intel indicates this lapse was caused by a routine update to the Automatons' Operating System. The enemy has since regained full fighting capacity."
   }
 ]
