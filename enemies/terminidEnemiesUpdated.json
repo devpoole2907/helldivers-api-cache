@@ -1,5 +1,17 @@
 [
     {
+        "name": "Predator Hunter",
+        "description": "A deadly evolution of the standard Hunter, the Predator Hunter is part of the Predator Strain and features enhanced aggression and new abilities.\n\nIt can cloak like a Stalker, making ambushes even deadlier, and is capable of spitting bile at Helldivers, adding a ranged threat to its arsenal.\n\nIts extreme speed and relentless attacks make it a high-priority target. Targeting its legs prevents it from pouncing.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
+        "recommendedStratagems": ["Guard Dog Breath"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1740638369/Predator_Hunter.heic"
+    },
+    {
+        "name": "Predator Stalker",
+        "description": "A mutated variant of the Stalker, the Predator Stalker is a relentless and highly aggressive Terminid that swarms its prey in large numbers.\n\nUnlike standard Stalkers, it lacks the ability to cloak or use its tongue to attack, but compensates with sheer persistence, chasing targets with no retreat until it is destroyed.\n\nDespite being individually weaker, these creatures are dangerous in packs.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
+        "recommendedStratagems": ["Guard Dog Breath"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1740638370/Predator_Stalker.heic"
+    },
+    {
         "name": "Alpha Commander",
         "description": "The Alpha Commander is a heavily-armored and supercharged variant of the Brood Commander, boasting increased health and heightened aggression.\n\nWith a health pool of 1000 and the ability to summon Alpha Warriors, these fast-moving and relentless enemies are lethal up close.\n\nLike Brood Commanders, they enter a berserk state when beheaded, gaining speed and attack power briefly before expiring. Maiming their legs to slow them or engaging at range with high-damage weapons is critical for survival.",
         "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
