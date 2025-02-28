@@ -7,7 +7,7 @@
     },
     {
         "name": "Brawler",
-        "description": "Coming soon",
+        "description": "A fast-moving Automaton infantry unit, the Brawler is armed with dual swords and designed for relentless close-quarters combat. Lacking ranged weaponry, it charges headfirst into battle, cutting down any Helldiver who isn’t quick enough to react.\n\nDespite its melee focus, the Brawler retains the ability to man Automaton turrets and can call in reinforcements via a hidden flare launcher in its left arm. Eliminating it before the flare deploys is crucial to preventing additional enemy dropships.\n\nWhile individually weak, multiple Brawlers can overwhelm an unprepared Helldiver, dealing continuous damage that can prevent the use of stims. Fortunately, well-placed grenades or headshots will take them down instantly.",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034193/Brawler.heic"
     },
