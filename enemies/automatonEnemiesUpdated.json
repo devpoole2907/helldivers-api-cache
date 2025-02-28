@@ -31,7 +31,7 @@
     },
     {
         "name": "Reinforced Scout Strider",
-        "description": "Coming soon",
+        "description": "A reinforced variant of the Scout Strider, this model replaces its Trooper pilot with automated controls and enhances its firepower with a Fusion Repeater and dual ballistic missiles mounted on each side. Its reinforced cabin offers increased durability, with some reports suggesting its viewing port is sealed with steel plating or bullet-resistant glass. Despite these upgrades, its greatest weakness remains its exposed rockets—striking them can trigger a catastrophic explosion, instantly neutralizing the Strider.\n\nOnce alerted, this Strider aggressively advances on Helldivers, firing its Fusion Repeater in controlled three-round bursts before pausing to cool down. It also launches rockets sporadically, often upon detecting enemy movement. Helldivers should be wary of its ability to stomp targets that stray too close.",
         "recommendedStratagems": ["Railgun", "Autocannon", "Expendable Anti-Tank"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Reinforced%20Scout%20Strider.heic?updatedAt=1735274623161"
     },
