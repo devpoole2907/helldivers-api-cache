@@ -13,7 +13,7 @@
     },
     {
         "name": "Marauder",
-        "description": "Coming soon",
+        "description": "A lightly armored Automaton equipped with additional plating, offering marginal protection. While its weaponry features slight adjustments to fire rate and recharge time, its offensive capabilities remain unimpressive. Despite the reinforced exterior, light armor-piercing weapons will still dispatch it with just a few extra shots.",
         "recommendedStratagems": ["Arc Thrower", "Orbital Napalm Barrage", "Guard Dog Rover", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Marauder.heic?updatedAt=1735274482961"
     },
