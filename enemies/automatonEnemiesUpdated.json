@@ -55,7 +55,7 @@
     },
     {
         "name": "Heavy Devastator",
-        "description": "Coming soon",
+        "description": "The Heavy Devastator serves as the main shield of the Automaton legion, wielding a ballistic shield and an LMG to provide cover and suppressing fire for its allies. This armored unit advances in formation, ensuring the safety of its comrades while pushing through enemy lines.\n\nIts shield protects its stomach, left arm, and knees, but the rest of its body remains vulnerable to medium armor-piercing rounds. The head, however, can be damaged even by light-penetrating bullets. If its LMG is destroyed, it will continue its advance, attempting to bludgeon Helldivers into submission with its socialist shield.",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034159/Heavy_Devastator.heic"
     },
