@@ -73,7 +73,7 @@
     },
     {
         "name": "Barrager Tank",
-        "description": "Coming soon",
+        "description": "The latest addition to the Automaton tank fleet, this tank is equipped with a missile launcher, functioning as a mobile mortar to rain destruction on democracy’s finest. Unlike other tanks, it lacks an exposed oil tank, making it harder to disable through conventional means.\n\nWith no obvious weak points, Helldivers are advised to blow it up in the most democratic way possible.",
         "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Barrager%20Tank.heic?updatedAt=1735277108069"
     },
