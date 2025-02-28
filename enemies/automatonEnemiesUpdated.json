@@ -49,7 +49,7 @@
     },
     {
         "name": "Rocket Devastator",
-        "description": "Coming soon",
+        "description": "This upgraded variant of the Devastator is equipped with dual rocket pods, each loaded with 12 missiles. It fires in bursts of 3 to 6 rockets at a time and has two limited recharges before exhausting its payload.\n\nDespite its added firepower, its rocket pods remain exposed and can be destroyed with medium armor-piercing rounds, providing a crucial weak point for Helldivers to exploit.",
         "recommendedStratagems": ["Autocannon", "Recoilless Rifle", "Anti-Materiel Rifle", "Railgun"],
         "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1738034182/Rocket_Devastator.heic"
     },
