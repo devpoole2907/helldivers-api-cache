@@ -79,7 +79,7 @@
     },
     {
         "name": "Shredder Tank",
-        "description": "Coming soon",
+        "description": "A heavily armored variant of the Annihilator Tank, the Shredder Tank replaces its turret with a Fusion Autocannon, unleashing relentless barrages of laser fire. Its high rate of fire, fast reload, and rapid turret rotation make it a deadly threat at any range.\n\nDespite its firepower, the Shredder Tank shares the same vulnerabilities as its counterparts. Its turret is weaker than its chassis, and a well-placed shot to its exposed rear or vent can quickly bring it down. Once destroyed, it detonates after a short delay - Helldivers should keep their distance.",
         "recommendedStratagems": ["Expendable Anti-Tank", "Autocannon", "Orbital Railcannon Strike", "Orbital Precision Strike", "Eagle 110mm Rocket Pods", "Railgun", "Recoilless Rifle", "Anti-Materiel Rifle", "Quasar Cannon", "Eagle 500KG Bomb"],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Shredder%20Tank.heic?updatedAt=1735277108239"
     },
