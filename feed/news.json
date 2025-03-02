@@ -2306,5 +2306,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nAgainst all odds, the Helldivers managed to repel the Automaton assault on both fronts. JULHEIM and DUMA TYR have been saved. \n\nConsult the Galactic Map on your ship for more information."
+  },
+  {
+    "id": 3117,
+    "published": 33125460,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Meridian Singularity continues its relentless advance through our Federation. Moradesh may soon be the next celestial victim of the Illuminate's tyrannical avarice.\n\nSimultaneously, the Automatons have launched a surprise attack on Claorell, seeking to take control of the Deep Mantle Forge Complex.\n\nThe Helldivers must choose where to defend. Consult your Galactic Map for more information."
   }
 ]
