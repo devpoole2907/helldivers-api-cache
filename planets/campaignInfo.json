@@ -3,22 +3,22 @@
     "planetIndex": 223,
     "name": "Ras Algethi",
     "faction": "Illuminates",
-    "players": 6780,
-    "health": 124122,
+    "players": 7047,
+    "health": 116397,
     "maxHealth": 200000,
-    "percentage": 37.939,
+    "percentage": 41.8015,
     "defense": false,
     "biome": null,
-    "expireDateTime": 1741255829.651
+    "expireDateTime": 1741255832.105
   },
   {
     "planetIndex": 70,
     "name": "Blistica",
     "faction": "Automatons",
-    "players": 134,
-    "health": 873655,
+    "players": 146,
+    "health": 875677,
     "maxHealth": 1000000,
-    "percentage": 12.634500000000003,
+    "percentage": 12.432299999999998,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -30,22 +30,67 @@
     "planetIndex": 222,
     "name": "Propus",
     "faction": "Illuminates",
-    "players": 1635,
-    "health": 193920,
+    "players": 1624,
+    "health": 192022,
     "maxHealth": 200000,
-    "percentage": 3.039999999999992,
+    "percentage": 3.9890000000000043,
     "defense": false,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1741281069.651
+    "expireDateTime": 1741281072.105
+  },
+  {
+    "planetIndex": 117,
+    "name": "Vog-sojoth",
+    "faction": "Automatons",
+    "players": 3138,
+    "health": 999962,
+    "maxHealth": 1000000,
+    "percentage": 0.0037999999999982492,
+    "defense": false,
+    "biome": {
+      "slug": "winter",
+      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 217,
+    "name": "Phact Bay",
+    "faction": "Terminids",
+    "players": 3771,
+    "health": 999981,
+    "maxHealth": 1000000,
+    "percentage": 0.0018999999999920192,
+    "defense": false,
+    "biome": {
+      "slug": "mesa",
+      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 172,
+    "name": "Gar Haren",
+    "faction": "Terminids",
+    "players": 232,
+    "health": 999991,
+    "maxHealth": 1000000,
+    "percentage": 0.0009000000000014552,
+    "defense": false,
+    "biome": {
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
   },
   {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 94,
+    "players": 108,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -60,7 +105,7 @@
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 517,
+    "players": 491,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -75,7 +120,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 341,
+    "players": 396,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -90,7 +135,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 269,
+    "players": 316,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +150,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 272,
+    "players": 262,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -117,25 +162,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 172,
-    "name": "Gar Haren",
-    "faction": "Terminids",
-    "players": 232,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "morass",
-      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 175,
     "name": "Grand Errant",
     "faction": "Terminids",
-    "players": 477,
+    "players": 480,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +180,7 @@
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 67,
+    "players": 93,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +195,7 @@
     "planetIndex": 200,
     "name": "Matar Bay",
     "faction": "Automatons",
-    "players": 199,
+    "players": 197,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +210,7 @@
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 90,
+    "players": 106,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +225,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 79,
+    "players": 104,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -210,7 +240,7 @@
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 794,
+    "players": 693,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -225,7 +255,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 27,
+    "players": 33,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -237,25 +267,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 217,
-    "name": "Phact Bay",
-    "faction": "Terminids",
-    "players": 3936,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "mesa",
-      "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 218,
     "name": "Pherkad Secundus",
     "faction": "Terminids",
-    "players": 327,
+    "players": 282,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -267,25 +282,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 117,
-    "name": "Vog-sojoth",
-    "faction": "Automatons",
-    "players": 2030,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "winter",
-      "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 251,
     "name": "Zefia",
     "faction": "Automatons",
-    "players": 177,
+    "players": 222,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
