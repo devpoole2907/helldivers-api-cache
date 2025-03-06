@@ -2313,5 +2313,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Meridian Singularity continues its relentless advance through our Federation. Moradesh may soon be the next celestial victim of the Illuminate's tyrannical avarice.\n\nSimultaneously, the Automatons have launched a surprise attack on Claorell, seeking to take control of the Deep Mantle Forge Complex.\n\nThe Helldivers must choose where to defend. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3118,
+    "published": 33471130,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Automatons have been repelled from Claorell. The Deep Mantle Forge Complex remains within our domain, secure from being bent to despotic means. \n\nThe scientists at the Moradesh Research Facility did not have enough time to complete their experiments. They have been evacuated, as the planet's inevitable destruction nears."
   }
 ]
