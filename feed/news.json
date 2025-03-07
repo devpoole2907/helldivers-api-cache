@@ -2327,5 +2327,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nAnalysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.\n\nThe Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details."
+  },
+  {
+    "id": 3120,
+    "published": 33563760,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nSupply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal.\n\nHowever, rapid liberation of the Terminid-infested planet BORE ROCK would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. "
   }
 ]
