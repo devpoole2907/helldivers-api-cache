@@ -3,25 +3,25 @@
     "planetIndex": 253,
     "name": "Zzaniah Prime",
     "faction": "Automatons",
-    "players": 4456,
-    "health": 503506,
+    "players": 4447,
+    "health": 503054,
     "maxHealth": 600000,
-    "percentage": 16.082333333333338,
+    "percentage": 16.15766666666667,
     "defense": true,
     "biome": {
       "slug": "mesa",
       "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
     },
-    "expireDateTime": 1741656398.551
+    "expireDateTime": 1741656399.892
   },
   {
     "planetIndex": 207,
     "name": "Mintoria",
     "faction": "Automatons",
-    "players": 646,
-    "health": 448329,
+    "players": 668,
+    "health": 448255,
     "maxHealth": 1000000,
-    "percentage": 55.1671,
+    "percentage": 55.174499999999995,
     "defense": false,
     "biome": {
       "slug": "highlands",
@@ -33,10 +33,10 @@
     "planetIndex": 124,
     "name": "Bore Rock",
     "faction": "Terminids",
-    "players": 8960,
-    "health": 502398,
+    "players": 9247,
+    "health": 504011,
     "maxHealth": 1000000,
-    "percentage": 49.7602,
+    "percentage": 49.5989,
     "defense": false,
     "biome": {
       "slug": "desolate",
@@ -48,10 +48,10 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 1484,
-    "health": 585066,
+    "players": 1531,
+    "health": 586755,
     "maxHealth": 1000000,
-    "percentage": 41.493399999999994,
+    "percentage": 41.3245,
     "defense": false,
     "biome": {
       "slug": "toxic",
@@ -64,9 +64,9 @@
     "name": "Vog-sojoth",
     "faction": "Automatons",
     "players": 504,
-    "health": 846047,
+    "health": 848649,
     "maxHealth": 1000000,
-    "percentage": 15.395299999999992,
+    "percentage": 15.135099999999994,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -75,100 +75,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 175,
-    "name": "Grand Errant",
-    "faction": "Terminids",
-    "players": 726,
-    "health": 999172,
-    "maxHealth": 1000000,
-    "percentage": 0.08279999999999177,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 214,
-    "name": "Pandion-XXIV",
-    "faction": "Terminids",
-    "players": 539,
-    "health": 999244,
-    "maxHealth": 1000000,
-    "percentage": 0.07559999999999434,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 172,
-    "name": "Gar Haren",
-    "faction": "Terminids",
-    "players": 154,
-    "health": 999774,
-    "maxHealth": 1000000,
-    "percentage": 0.022599999999997067,
-    "defense": false,
-    "biome": {
-      "slug": "morass",
-      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 70,
-    "name": "Blistica",
-    "faction": "Automatons",
-    "players": 129,
-    "health": 999851,
-    "maxHealth": 1000000,
-    "percentage": 0.014899999999997249,
-    "defense": false,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 218,
-    "name": "Pherkad Secundus",
-    "faction": "Terminids",
-    "players": 209,
-    "health": 999918,
-    "maxHealth": 1000000,
-    "percentage": 0.008200000000002206,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 200,
-    "name": "Matar Bay",
-    "faction": "Automatons",
-    "players": 183,
-    "health": 999983,
-    "maxHealth": 1000000,
-    "percentage": 0.0016999999999995907,
-    "defense": false,
-    "biome": {
-      "slug": "highlands",
-      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 113,
     "name": "Aesir Pass",
     "faction": "Automatons",
-    "players": 171,
+    "players": 177,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,10 +90,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 70,
+    "name": "Blistica",
+    "faction": "Automatons",
+    "players": 125,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 203,
+    "players": 198,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -198,7 +123,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 62,
+    "players": 67,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -213,7 +138,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 193,
+    "players": 197,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -225,10 +150,40 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 172,
+    "name": "Gar Haren",
+    "faction": "Terminids",
+    "players": 162,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "morass",
+      "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 175,
+    "name": "Grand Errant",
+    "faction": "Terminids",
+    "players": 767,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "desolate",
+      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 198,
     "name": "Marfark",
     "faction": "Automatons",
-    "players": 128,
+    "players": 124,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -240,10 +195,25 @@
     "expireDateTime": null
   },
   {
+    "planetIndex": 200,
+    "name": "Matar Bay",
+    "faction": "Automatons",
+    "players": 177,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+    },
+    "expireDateTime": null
+  },
+  {
     "planetIndex": 201,
     "name": "Meissa",
     "faction": "Automatons",
-    "players": 75,
+    "players": 79,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -258,7 +228,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 85,
+    "players": 87,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -266,6 +236,21 @@
     "biome": {
       "slug": "desolate",
       "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 214,
+    "name": "Pandion-XXIV",
+    "faction": "Terminids",
+    "players": 606,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
@@ -281,6 +266,21 @@
     "biome": {
       "slug": "swamp",
       "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 218,
+    "name": "Pherkad Secundus",
+    "faction": "Terminids",
+    "players": 192,
+    "health": 1000000,
+    "maxHealth": 1000000,
+    "percentage": 0,
+    "defense": false,
+    "biome": {
+      "slug": "highlands",
+      "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
     },
     "expireDateTime": null
   }
