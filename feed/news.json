@@ -2341,5 +2341,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INFORMATIONAL ADVISORY\n\nIn the previous 24 hours, some personnel inaccurately reported minor errors in the functioning of their Galactic Map, specifically regarding Major Order progress and celestial body coordinates. \n\nThose personnel are now receiving full ocular function examinations. An investigation has been launched as to the cause of this widespread spike in ophthalmological issues.\n\nAll other personnel should proceed operating as normal, in accordance with normal operating procedure."
+  },
+  {
+    "id": 3122,
+    "published": 33833831,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe liberation of BORE ROCK from the Terminids has caused supply chain expediencies of a perplexing but advantageous nature, resulting in 50% faster Eagle Re-Arm times for the remainder of the order."
   }
 ]
