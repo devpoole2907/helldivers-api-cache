@@ -2362,5 +2362,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MORADESH DESTROYED\n\nMoradesh has been torn apart by the Meridian Singularity. Over 95% of its Class C or higher citizens were safely evacuated prior to the planets' destruction.\n\nIn memoriam, 24-hour period of quiet reflection on the nature of vengeance has been ordered by the Ministry of Humanity."
+  },
+  {
+    "id": 3125,
+    "published": 34066800,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Center of Science has unveiled a multi-stage plan to counteract the movement of the Singularity.\n\nHigh Command has ordered the construction of the Penrose Energy Siphon: a means by which to effect a large one-time reduction in Dark Energy Accumulation.\n\nThe device will be constructed piecewise in the orbit of several planets. The Helldivers must hold each of these planets until construction is complete."
   }
 ]
