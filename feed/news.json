@@ -2355,5 +2355,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nFollowing days of diligent resource collection and repurposing of enemy combatants, the Helldivers have enabled the construction of a partial blockade of the Meridian Singularity. Scrap metal collection efforts were below target, resulting in a barrier that is porous, but still moderately effective.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3124,
+    "published": 34036620,
+    "type": 0,
+    "tagIds": [],
+    "message": "MORADESH DESTROYED\n\nMoradesh has been torn apart by the Meridian Singularity. Over 95% of its Class C or higher citizens were safely evacuated prior to the planets' destruction.\n\nIn memoriam, 24-hour period of quiet reflection on the nature of vengeance has been ordered by the Ministry of Humanity."
   }
 ]
