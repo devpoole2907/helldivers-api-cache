@@ -2376,5 +2376,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nAchernar Secundus, home of the AM Defense Factory Hub producing FRVs, is under attack. Production disruptions have resulted in fuel rations for FRVs until the attack can be repelled."
+  },
+  {
+    "id": 3127,
+    "published": 34154100,
+    "type": 0,
+    "tagIds": [],
+    "message": "ACHERNAR SECUNDUS FALLEN\n\nAchernar Secundus has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV fuel will be reduced by 90% until the planet is reclaimed or until fuel can be sourced elsewhere."
   }
 ]
