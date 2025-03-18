@@ -2390,5 +2390,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the Penrose Energy Siphon. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3129,
+    "published": 34407010,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nAutomaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation.\n\nHigh Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon.  Consult your Galactic Map for more information."
   }
 ]
