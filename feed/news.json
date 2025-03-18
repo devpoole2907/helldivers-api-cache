@@ -2383,5 +2383,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ACHERNAR SECUNDUS FALLEN\n\nAchernar Secundus has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV fuel will be reduced by 90% until the planet is reclaimed or until fuel can be sourced elsewhere."
+  },
+  {
+    "id": 3128,
+    "published": 34390870,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the Penrose Energy Siphon. Consult your Galactic Map for more information."
   }
 ]
