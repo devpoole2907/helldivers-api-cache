@@ -2397,5 +2397,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nAutomaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the Penrose Energy Siphon, which would significantly slow the Singularity's advance, is nearly ready for activation.\n\nHigh Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon.  Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3130,
+    "published": 34585037,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY \nAll Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. \n\nIn the current operational context, liberating Bekvam III would end the current Automaton attacks on Charon Prime and Julheim."
   }
 ]
