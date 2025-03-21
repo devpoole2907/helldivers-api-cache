@@ -2404,5 +2404,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY \nAll Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. \n\nIn the current operational context, liberating Bekvam III would end the current Automaton attacks on Charon Prime and Julheim."
+  },
+  {
+    "id": 3131,
+    "published": 34690800,
+    "type": 0,
+    "tagIds": [],
+    "message": "void msg"
+  },
+  {
+    "id": 3132,
+    "published": 34690820,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\nIn the current operational context, liberating JULHEIM would end the current Automaton attacks upon both CHARBAL VII and DOLPH."
   }
 ]
