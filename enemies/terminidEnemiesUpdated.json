@@ -1,5 +1,11 @@
 [
     {
+        "name": "Spore Burst Warrior",
+        "description": "The Spore Burst Warrior is a Warrior variant affected by prolonged Gloom exposure.\n\nIt behaves like a normal Warrior but explodes on death, releasing a toxic orange cloud that deals minor damage to nearby Helldivers.\n\nDestroying its head is the fastest way to bring it down, though it may enter a berserk state before bleeding out. Aim for the head or legs and avoid close-quarters combat.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
+        "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1742930561/Spore_Burst_Warrior.heic"
+    },
+    {
         "name": "Spore Burst Scavenger",
         "description": "The Spore Burst Scavenger is a mutated Scavenger exposed to the Gloom for an extended period.\n\nIt behaves like a regular Scavenger but explodes on death, releasing a toxic orange cloud that deals minor damage to nearby Helldivers.\n\nThey’re weak individually but dangerous in groups—avoid melee and clear them quickly from a distance to prevent Bug Breaches.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
         "recommendedStratagems": ["Arc Thrower", "Flamethrower", "Guard Dog Rover", "Stalwart", "Grenade Launcher", "Orbital Gas Strike", "Eagle Strafing Run", "Tesla Tower"],
