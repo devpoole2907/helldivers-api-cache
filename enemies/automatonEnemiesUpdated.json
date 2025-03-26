@@ -1,5 +1,11 @@
 [
     {
+        "name": "Pyro Trooper",
+        "description": "The Pyro Trooper is a light Automaton deployed by the Incineration Corps, armed with a flamethrower and a strong commitment to setting democracy ablaze.\n\nIt moves similarly to a Commissar - charging straight toward Helldivers to close the gap - then fires its flamethrower in bursts lasting 2–4 seconds.\n\nIts weakest point is the tall, exposed gas tank on its back - much like the ones seen on Jet Troopers. Aim for it to trigger an explosion and make them feel the heat of their own mistakes. Even after death, the tank can still explode if shot, so keep your distance.\n\nAll Pyro Troopers carry a hidden flare launcher in their left arm, capable of calling in Bot Drops. Destroy them before the flare is fired to prevent reinforcements.",
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1742926701/Pyro_Trooper.heic"
+    },
+    {
         "name": "Trooper",
         "description": "As the primary infantry unit of the Automaton forces, the Trooper is a fundamental component of the enemy lineup. This unit, while basic, can be deployed in large numbers and equipped with a variety of weapons and equipment based on mission needs. Often considered cannon fodder due to their vulnerability in small groups, Troopers are nonetheless crucial targets because of their ability to call in heavier reinforcements.",
         "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Eagle Strafing Run", "Machine Gun Sentry", "Mortar Sentry", "Grenade Launcher", "Arc Thrower"],
