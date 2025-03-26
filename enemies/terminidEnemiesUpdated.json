@@ -1,5 +1,11 @@
 [
     {
+        "name": "Spore Burst Hunter",
+        "description": "The Spore Burst Hunter is a Gloom-mutated variant of the standard Hunter.\n\nIt behaves like a normal Hunter but explodes on death, releasing a small orange cloud that deals minor damage to nearby Helldivers.\n\nThey’re fast and dangerous in swarms—aim for the head to take them down quickly, or shoot the legs to slow them and prevent pounces.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
+        "recommendedStratagems": ["Guard Dog Rover", "Stalwart", "Grenade Launcher", "Arc Thrower", "Eagle Napalm Strike", "Eagle Strafing Run"],
+        "imageUrl": "https://res.cloudinary.com/dxtkcvynb/image/upload/v1742930560/Spore_Burst_Hunter.heic"
+    },
+    {
         "name": "Spore Burst Warrior",
         "description": "The Spore Burst Warrior is a Warrior variant affected by prolonged Gloom exposure.\n\nIt behaves like a normal Warrior but explodes on death, releasing a toxic orange cloud that deals minor damage to nearby Helldivers.\n\nDestroying its head is the fastest way to bring it down, though it may enter a berserk state before bleeding out. Aim for the head or legs and avoid close-quarters combat.\n\nKnow more? Reach out on Discord to add more info about this enemy.",
         "recommendedStratagems": ["Machine Gun Sentry", "Patriot Exosuit", "Arc Thrower", "Grenade Launcher", "Flamethrower", "Machine Gun"],
