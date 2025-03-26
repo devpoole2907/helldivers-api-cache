@@ -85,7 +85,7 @@
     },
     {
         "name": "Factory Strider",
-        "description": "Referred to as 'Walkers' by some Helldivers, the Factory Striders are massive, heavily armed colossi, embodying steel and socialist ideals. These mobile factories, capable of being stationed at Automaton outposts or parachuted into combat zones, unleash havoc with their cannons and dual miniguns while manufacturing batches of Standard Devastators. They also traverse planetary surfaces, offering fire support as needed. Their ability to quickly deploy and proliferate throughout Super Earth colonies underscores their strategic importance in Automaton operations.",
+        "description": "Referred to as 'Walkers' by some Helldivers, the Factory Striders are massive, heavily armed colossi, embodying steel and socialist ideals.\n\nThese mobile factories are capable of being stationed at Automaton outposts or parachuted into combat zones, unleashing havoc with their cannons and dual miniguns while manufacturing Standard Devastators. They traverse planetary surfaces to provide fire support wherever needed.\n\nTwo known variants have been identified: the standard Factory Strider, equipped with a powerful plasma cannon, and the Strider Jammer, which replaces the cannon with a Stratagem Jammer that scrambles Stratagem inputs, similar to Illuminate Cognitive Disruptors.\n\nTheir ability to deploy rapidly and multiply across Super Earth colonies highlights their key role in Automaton operations.",
         "recommendedStratagems": [],
         "imageUrl": "https://ik.imagekit.io/rozzkftam/Automaton/Factory%20Strider.heic"
     },
