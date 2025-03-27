@@ -2432,5 +2432,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of Ivis have begun preparing for the possibility of a full-planet evacuation. \n\nThere can be no further delays to the deployment of the Penrose Energy Siphon. The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3135,
+    "published": 35137100,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Penrose Energy Siphon has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. \n\nThe excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation."
   }
 ]
