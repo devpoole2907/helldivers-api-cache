@@ -2446,5 +2446,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path.\n\nThe Helldivers are ordered to suppress Illuminate invasion events. If successful, this will free Super Earth from the Singularity's path of destruction.\n\nHigh Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3137,
+    "published": 35356134,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe underhanded Illuminate scheme to destroy Super Earth has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the Meridian Singularity has been de-energized to the point where Super Earth is now safely out of its accurately-predicted path.\n\nOur citizens can celebrate a hard-earned victory: Super Earth is safe."
   }
 ]
