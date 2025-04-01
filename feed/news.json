@@ -2467,5 +2467,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT\n\nThe Jet Brigade has resurfaced, having evidently been rebuilt in secret. They have joined the Automaton offensive to menace Malevelon Creek.\n\nThe Automatons are clearly dedicating massive resources to besmirching the memory of the heroes who defended the planet. The Helldivers must continue to hold."
+  },
+  {
+    "id": 3140,
+    "published": 35625756,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARFRONT DEVELOPMENT\n\nA successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense."
   }
 ]
