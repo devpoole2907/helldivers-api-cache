@@ -2474,5 +2474,12 @@
     "type": 0,
     "tagIds": [],
     "message": "WARFRONT DEVELOPMENT\n\nA successful SEAF counterattack on VANDALON IV has significantly hampered the Automaton assault on the planet, boosting our progress towards its defense."
+  },
+  {
+    "id": 3141,
+    "published": 35729220,
+    "type": 0,
+    "tagIds": [],
+    "message": "BATTLEFIELD IMPACT\n\nCascading logistical disruptions have resulted in the temporary emplacement of ammunition rationing measures. Resupply pod ammunition will be decreased to 50% for all operations on P\u00d6PLI IX until further notice."
   }
 ]
