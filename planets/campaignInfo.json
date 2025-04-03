@@ -1,27 +1,12 @@
 [
   {
-    "planetIndex": 107,
-    "name": "P\u00f6pli IX",
-    "faction": "Automatons",
-    "players": 39961,
-    "health": 8698,
-    "maxHealth": 2000000,
-    "percentage": 99.5651,
-    "defense": true,
-    "biome": {
-      "slug": "desolate",
-      "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-    },
-    "expireDateTime": 1743708800.39
-  },
-  {
     "planetIndex": 72,
     "name": "Julheim",
     "faction": "Automatons",
-    "players": 1921,
-    "health": 747213,
+    "players": 4969,
+    "health": 747842,
     "maxHealth": 1000000,
-    "percentage": 25.2787,
+    "percentage": 25.2158,
     "defense": false,
     "biome": {
       "slug": "winter",
@@ -33,40 +18,55 @@
     "planetIndex": 58,
     "name": "Parsh",
     "faction": "Illuminates",
-    "players": 3126,
-    "health": 93201,
+    "players": 3578,
+    "health": 92375,
     "maxHealth": 100000,
-    "percentage": 6.798999999999992,
+    "percentage": 7.625,
     "defense": false,
     "biome": {
       "slug": "winter",
       "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
     },
-    "expireDateTime": 1743735390.39
+    "expireDateTime": 1743735384.456
   },
   {
-    "planetIndex": 131,
-    "name": "Achird III",
-    "faction": "Terminids",
-    "players": 5923,
-    "health": 1000000,
+    "planetIndex": 154,
+    "name": "Mort",
+    "faction": "Automatons",
+    "players": 1772,
+    "health": 999902,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.009799999999998477,
     "defense": false,
     "biome": {
-      "slug": "canyon",
-      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
     },
     "expireDateTime": null
   },
   {
-    "planetIndex": 113,
-    "name": "Aesir Pass",
+    "planetIndex": 242,
+    "name": "Ustotu",
     "faction": "Automatons",
-    "players": 95,
-    "health": 1000000,
+    "players": 443,
+    "health": 999940,
     "maxHealth": 1000000,
-    "percentage": 0,
+    "percentage": 0.006000000000000227,
+    "defense": false,
+    "biome": {
+      "slug": "desert",
+      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 240,
+    "name": "Troost",
+    "faction": "Automatons",
+    "players": 247,
+    "health": 999945,
+    "maxHealth": 1000000,
+    "percentage": 0.00549999999999784,
     "defense": false,
     "biome": {
       "slug": "swamp",
@@ -78,19 +78,49 @@
     "planetIndex": 110,
     "name": "Bekvam III",
     "faction": "Automatons",
-    "players": 494,
+    "players": 606,
+    "health": 999949,
+    "maxHealth": 1000000,
+    "percentage": 0.005099999999998772,
+    "defense": false,
+    "biome": null,
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 131,
+    "name": "Achird III",
+    "faction": "Terminids",
+    "players": 6240,
+    "health": 999998,
+    "maxHealth": 1000000,
+    "percentage": 0.00019999999999242846,
+    "defense": false,
+    "biome": {
+      "slug": "canyon",
+      "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+    },
+    "expireDateTime": null
+  },
+  {
+    "planetIndex": 113,
+    "name": "Aesir Pass",
+    "faction": "Automatons",
+    "players": 98,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
     "defense": false,
-    "biome": null,
+    "biome": {
+      "slug": "swamp",
+      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+    },
     "expireDateTime": null
   },
   {
     "planetIndex": 70,
     "name": "Blistica",
     "faction": "Automatons",
-    "players": 108,
+    "players": 117,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -105,7 +135,7 @@
     "planetIndex": 160,
     "name": "Chort Bay",
     "faction": "Automatons",
-    "players": 55,
+    "players": 60,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -120,7 +150,7 @@
     "planetIndex": 162,
     "name": "Clasa",
     "faction": "Automatons",
-    "players": 87,
+    "players": 90,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -135,7 +165,7 @@
     "planetIndex": 128,
     "name": "Darius II",
     "faction": "Terminids",
-    "players": 746,
+    "players": 851,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -150,7 +180,7 @@
     "planetIndex": 171,
     "name": "Gacrux",
     "faction": "Terminids",
-    "players": 522,
+    "players": 549,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -165,7 +195,7 @@
     "planetIndex": 172,
     "name": "Gar Haren",
     "faction": "Terminids",
-    "players": 327,
+    "players": 343,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -180,7 +210,7 @@
     "planetIndex": 175,
     "name": "Grand Errant",
     "faction": "Terminids",
-    "players": 769,
+    "players": 838,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -195,7 +225,7 @@
     "planetIndex": 203,
     "name": "Menkent",
     "faction": "Automatons",
-    "players": 160,
+    "players": 201,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -207,25 +237,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 154,
-    "name": "Mort",
-    "faction": "Automatons",
-    "players": 1120,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 214,
     "name": "Pandion-XXIV",
     "faction": "Terminids",
-    "players": 784,
+    "players": 815,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -240,7 +255,7 @@
     "planetIndex": 115,
     "name": "Penta",
     "faction": "Automatons",
-    "players": 38,
+    "players": 42,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -255,7 +270,7 @@
     "planetIndex": 218,
     "name": "Pherkad Secundus",
     "faction": "Terminids",
-    "players": 435,
+    "players": 430,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
@@ -267,40 +282,10 @@
     "expireDateTime": null
   },
   {
-    "planetIndex": 240,
-    "name": "Troost",
-    "faction": "Automatons",
-    "players": 209,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "swamp",
-      "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-    },
-    "expireDateTime": null
-  },
-  {
-    "planetIndex": 242,
-    "name": "Ustotu",
-    "faction": "Automatons",
-    "players": 396,
-    "health": 1000000,
-    "maxHealth": 1000000,
-    "percentage": 0,
-    "defense": false,
-    "biome": {
-      "slug": "desert",
-      "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-    },
-    "expireDateTime": null
-  },
-  {
     "planetIndex": 251,
     "name": "Zefia",
     "faction": "Automatons",
-    "players": 105,
+    "players": 107,
     "health": 1000000,
     "maxHealth": 1000000,
     "percentage": 0,
