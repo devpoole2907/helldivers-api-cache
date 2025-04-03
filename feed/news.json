@@ -2481,5 +2481,12 @@
     "type": 0,
     "tagIds": [],
     "message": "BATTLEFIELD IMPACT\n\nCascading logistical disruptions have resulted in the temporary emplacement of ammunition rationing measures. Resupply pod ammunition will be decreased to 50% for all operations on P\u00d6PLI IX until further notice."
+  },
+  {
+    "id": 3142,
+    "published": 35773878,
+    "type": 0,
+    "tagIds": [],
+    "message": "BATTLEFIELD IMPACT\n\nCryo-good transport is facing interdiction by Automaton fleets, reducing REINFORCEMENTS to 3 for all operations on P\u00d6PLI IX. in the short term."
   }
 ]
