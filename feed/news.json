@@ -2509,5 +2509,12 @@
     "type": 0,
     "tagIds": [],
     "message": "BATTLEFRONT UPDATE\n\nReports indicate decreased levels of Automaton resistance, assuredly due to having calculated the inevitable ultimate victory of Managed Democracy. Press the advantage!"
+  },
+  {
+    "id": 3146,
+    "published": 35798826,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nThe Automaton Jet Brigade has been defeated and dismantled against the stalwart defense of the Helldivers. While the Automatons have evidenced the concerning capability of re-fielding these forces, the action of the Helldivers proved the continued supremacy of elite human warfighting over the enemy's artificial imitations."
   }
 ]
