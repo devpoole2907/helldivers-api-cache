@@ -2523,5 +2523,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT\n\nThe Meridian Singularity has come within critical range of Ivis. Final evacuation orders have been issued. The planet's destruction is imminent."
+  },
+  {
+    "id": 3148,
+    "published": 35947025,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nAfter days of relentless fighting, the Helldivers have successfully protected Malevelon Creek. \n\nTheir resounding victory has upheld the memory of those honored on Malevelon Creek Memorial Day. \n\nMalevelon Creek remains within the righteous embrace of Freedom\u2014now, and forever."
   }
 ]
