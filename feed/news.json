@@ -2537,5 +2537,12 @@
     "type": 0,
     "tagIds": [],
     "message": "IVIS DESTROYED\n\nIvis has been destroyed by the Meridian Singularity. The destroyed planet joins Moradesh and Angel's Venture amongst the Illuminate's celestial murders. \n\nEfforts to slow the Singularity have worked, but too late to save Ivis. The Illuminate will face Justice for their crimes."
+  },
+  {
+    "id": 3150,
+    "published": 36130645,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nDiligent engineers at the Deep Mantle Forge Complex on Claorell have developed potential improvements to the Democracy Space Station. The DSS was critical to the recent defense against the Automatons, and enhancing its capabilities has become a top priority.\n\nConsult your Galactic Map for more information."
   }
 ]
