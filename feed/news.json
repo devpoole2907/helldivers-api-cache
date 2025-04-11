@@ -2558,5 +2558,26 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nHigh Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3153,
+    "published": 36463630,
+    "type": 0,
+    "tagIds": [],
+    "message": "void msg"
+  },
+  {
+    "id": 3154,
+    "published": 36463670,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nBy returning WEZEN to the rightful control of Super Earth citizens, the Helldivers have secured the resources necessary to augment the Democracy Space Station with an Exosuit Support Bay. \n\nMoving forward, the DSS will provide rapid Exosuit replenishment to all Super Destroyers it shares an orbit with, reducing Exosuit Stratagem cooldown by 35% on the orbited planet."
+  },
+  {
+    "id": 3155,
+    "published": 36465001,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHigh Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information."
   }
 ]
