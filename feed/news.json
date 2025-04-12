@@ -2579,5 +2579,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nHigh Command has authorized a second limited expedition into the Gloom, in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3156,
+    "published": 36580800,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nIn order to boost civilian support of ongoing operations, Super Earth High Command has authorized temporary universal access to the HEAVY MACHINE GUN stratagem."
   }
 ]
