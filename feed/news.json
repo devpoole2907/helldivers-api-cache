@@ -2607,5 +2607,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nFollowing another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the Meridian Singularity has now entered its final phase.\n\nOn PILEN V, construction has commenced on the galaxy's first Repulsive Gravity Field Generator.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3160,
+    "published": 36894838,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nMultiple Gloom-adjacent planets have come under sudden onslaught by mutated Terminids. The Helldivers are called to their immediate defense. The enemy combatants match descriptions and attack patterns of the Predator Strain.\n\nConsult your Galactic Map for more information."
   }
 ]
