@@ -2614,5 +2614,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nMultiple Gloom-adjacent planets have come under sudden onslaught by mutated Terminids. The Helldivers are called to their immediate defense. The enemy combatants match descriptions and attack patterns of the Predator Strain.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3161,
+    "published": 37092600,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY \nAll Helldivers should factor the following advisory into their strategic decision-making: Enemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately. \n\nIn the current operational context, liberating Bore Rock would end the current Terminid attacks on Terrek and Erata Prime."
   }
 ]
