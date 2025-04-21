@@ -2635,5 +2635,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe sudden onslaught of Gloom-mutated Terminids has been slowed, following days of heavy fighting. \n\nThe Predator Strain remains at large. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3164,
+    "published": 37349673,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Illuminate have launched multiple simultaneous attacks, targeting our efforts to stop the Meridian Singularity. Consult your Galactic Map for more information."
   }
 ]
