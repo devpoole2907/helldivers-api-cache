@@ -2642,5 +2642,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Illuminate have launched multiple simultaneous attacks, targeting our efforts to stop the Meridian Singularity. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3166,
+    "published": 37528114,
+    "type": 0,
+    "tagIds": [],
+    "message": "INFORMATIONAL ADVISORY\n\nSEAF Combat Pathologists have identified a defect affecting a small percentage of currently-deployed Voteless: occipital abnormalities require the exercise of local mind control to a much greater degree than normal. \n\nThis creates a short-term opportunity for the current order: successfully repelling Illuminate attacks will instantly repatriate large numbers of Voteless. Once freed, their remains will be available to further advance our scientific endeavors."
   }
 ]
