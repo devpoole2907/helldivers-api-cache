@@ -2649,5 +2649,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INFORMATIONAL ADVISORY\n\nSEAF Combat Pathologists have identified a defect affecting a small percentage of currently-deployed Voteless: occipital abnormalities require the exercise of local mind control to a much greater degree than normal. \n\nThis creates a short-term opportunity for the current order: successfully repelling Illuminate attacks will instantly repatriate large numbers of Voteless. Once freed, their remains will be available to further advance our scientific endeavors."
+  },
+  {
+    "id": 3167,
+    "published": 37568137,
+    "type": 0,
+    "tagIds": [],
+    "message": "CENTER OF SCIENCE UPDATE\n\nScientists on Fenrir III are suffering from the effects of prolonged stress due to successive Illuminate attacks. In order to sustain their critical research, they will be supplied with top-of-the-line treatments to maintain mental acument. \n\nThis reallocation will have a short-term impact on Helldiver operations. Helldiver stim capacity temporarily reduced by 2. "
   }
 ]
