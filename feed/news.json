@@ -2663,5 +2663,12 @@
     "type": 0,
     "tagIds": [],
     "message": "XENOENTOMOLOGY CENTER DAMAGED\n\nThe Xenoentomology Center on Turing has been significantly damaged by the Illuminate, resulting in an outbreak of mutated specimens that had been kept securely under study. \n\nAs a result, TURING has come under attack by the Predator Strain."
+  },
+  {
+    "id": 3169,
+    "published": 37572720,
+    "type": 0,
+    "tagIds": [],
+    "message": "PILEN V UNDER ATTACK\n\nThe Illuminate attack on Pilen V threatens the Repulsive Gravity Field Generator, critical to halting the Meridian Wormhole.\n\n The Generator is nearing completion; the Illuminate cannot be allowed to destroy our progress. "
   }
 ]
