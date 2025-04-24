@@ -2656,5 +2656,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CENTER OF SCIENCE UPDATE\n\nScientists on Fenrir III are suffering from the effects of prolonged stress due to successive Illuminate attacks. In order to sustain their critical research, they will be supplied with top-of-the-line treatments to maintain mental acument. \n\nThis reallocation will have a short-term impact on Helldiver operations. Helldiver stim capacity temporarily reduced by 2. "
+  },
+  {
+    "id": 3168,
+    "published": 37571760,
+    "type": 0,
+    "tagIds": [],
+    "message": "XENOENTOMOLOGY CENTER DAMAGED\n\nThe Xenoentomology Center on Turing has been significantly damaged by the Illuminate, resulting in an outbreak of mutated specimens that had been kept securely under study. \n\nAs a result, TURING has come under attack by the Predator Strain."
   }
 ]
