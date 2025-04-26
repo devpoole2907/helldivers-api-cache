@@ -2691,5 +2691,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCURSION ALERT\n\nIlluminate forces have attacked MASTIA, endangering the Center of Surveillance and the security of our citizens."
+  },
+  {
+    "id": 3173,
+    "published": 37793911,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCURSION ALERT\n\nAn Illuminate attack on ACHERNAR SECUNDUS, threatens the AM Defense Factory Hub and endangers the investments of a key military contractor."
   }
 ]
