@@ -2698,5 +2698,19 @@
     "type": 0,
     "tagIds": [],
     "message": "INCURSION ALERT\n\nAn Illuminate attack on ACHERNAR SECUNDUS, threatens the AM Defense Factory Hub and endangers the investments of a key military contractor."
+  },
+  {
+    "id": 3174,
+    "published": 37834729,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCURSION ALERT\n\nIlluminate forces are invading CLAORELL, where the Deep Mantle Forge Complex produces key materials for the DSS."
+  },
+  {
+    "id": 3175,
+    "published": 37834790,
+    "type": 0,
+    "tagIds": [],
+    "message": "The Illuminate targets, while strategically valuable, so far have little to do with the critical construction of the Repulsive Gravity Field Generator. It is evident that the enemy is hesitant to strike Pilen V directly. Their desperate attempts to distract us will not work. The Meridian Wormhole will be stopped."
   }
 ]
