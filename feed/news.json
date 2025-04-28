@@ -2719,5 +2719,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCURSION ALERT\n\nThe Illuminate have launched an assault on FENRIR III, the home planet of the Center of Science."
+  },
+  {
+    "id": 3177,
+    "published": 37912805,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCURSION ALERT \n\nIlluminate forces have attacked TIBIT. Derelict Automaton factories are located on the planet, but little else of strategic interest. The enemy rationale for targeting this planet is unknown."
   }
 ]
