@@ -2726,5 +2726,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCURSION ALERT \n\nIlluminate forces have attacked TIBIT. Derelict Automaton factories are located on the planet, but little else of strategic interest. The enemy rationale for targeting this planet is unknown."
+  },
+  {
+    "id": 3178,
+    "published": 38027536,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nDauntless efforts by the Helldivers fell short of mission targets. But the righteousness of our cause has yielded an unequivocal victory nevertheless.\n\nCenter of Science confirm that the Meridian Wormhole has slowed to a halt. Furthermore, all Illuminate incursions have abruptly ended, and the enemy has disappeared. The victory of Managed Democracy is undeniable.\n\nConsult your Galactic Map for more information."
   }
 ]
