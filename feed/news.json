@@ -2740,5 +2740,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Meridian Singularity has come to a halt. However, though one enemy is all but annihilated, the Terminids and Automatons remain significant threats.\n\nIn the Illuminate's final hours, they dealt significant damage to the defenses of multiple strategic sites across both battlefronts, granting the opportunity for our foes to capture formerly well-defended territory. The Helldivers must hold these sites."
+  },
+  {
+    "id": 3180,
+    "published": 38214735,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCINERATION CORPS SIGHTED\n\nThe Automaton Incineration Corps has resurfaced on PENTA."
   }
 ]
