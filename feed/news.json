@@ -2747,5 +2747,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCINERATION CORPS SIGHTED\n\nThe Automaton Incineration Corps has resurfaced on PENTA."
+  },
+  {
+    "id": 3181,
+    "published": 38218025,
+    "type": 0,
+    "tagIds": [],
+    "message": "PREDATOR STRAIN OUTBREAK\n\nFailure to contain the Terminid Predator Strain has led to an outbreak on TERREK."
   }
 ]
