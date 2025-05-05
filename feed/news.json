@@ -2754,5 +2754,19 @@
     "type": 0,
     "tagIds": [],
     "message": "PREDATOR STRAIN OUTBREAK\n\nFailure to contain the Terminid Predator Strain has led to an outbreak on TERREK."
+  },
+  {
+    "id": 3182,
+    "published": 38548319,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe rapid and tireless actions of the Helldivers limited the territory lost to the opportunistic offensives of the Terminids and Automatons. \n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3183,
+    "published": 38548323,
+    "type": 0,
+    "tagIds": [],
+    "message": "JET BRIGADE SIGHTED\n\nThe Automaton Jet Brigade has resurfaced on AURORA BAY."
   }
 ]
