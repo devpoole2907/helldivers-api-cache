@@ -2775,5 +2775,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe resurgence of the Automaton Jet Brigade and Incineration Corps, along with the virulent Terminid Predator Strain,  threaten our citizens and enable our enemies' rampant expansionistic ambitions. These territorial landgrabs must be decisively repulsed.\n\nThe Helldivers are ordered to liberate at least one more planet than is lost during the duration of the order. "
+  },
+  {
+    "id": 3185,
+    "published": 38649796,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARFRONT DEVELOPMENT\n\nLegions of new recruits, eager to contribute to the eradication of the Terminids, have surged to take significant ground on CIRRUS. Their sacrifice will be remembered."
+  },
+  {
+    "id": 3186,
+    "published": 38650321,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARFRONT DEVELOPMENT\n\nSEAF units blaming \"lack of rations\" have ceded significant ground to the enemy on TARSH. The cowardly traitors have been court-martialed and democratically executed."
   }
 ]
