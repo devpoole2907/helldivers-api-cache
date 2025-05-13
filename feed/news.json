@@ -2803,5 +2803,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThrough insidious tactics and the unwittingly synchronized deployment of elite units, enemies of Freedom have unlawfully prevented the expansion of Super Earth territory.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3189,
+    "published": 39215100,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT -- ALERT -- ALERT\n\nILLUMINATE FLEET I.V.O. WORMHOLE\n\nWIDOW'S HARBOR ATTACKED\n\nALL UNITS TO WIDOW'S HARBOR"
   }
 ]
