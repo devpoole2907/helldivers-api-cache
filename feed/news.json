@@ -2810,5 +2810,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT -- ALERT -- ALERT\n\nILLUMINATE FLEET I.V.O. WORMHOLE\n\nWIDOW'S HARBOR ATTACKED\n\nALL UNITS TO WIDOW'S HARBOR"
+  },
+  {
+    "id": 3190,
+    "published": 39312322,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT\n\nThe DSS has taken fire from Illuminate spacecraft. The station remains operational, but Helldivers are advised that the enemy appears to have anti-DSS countermeasures prepared. Continued engagement on Illuminate-targeted planets risks further damage to the station."
   }
 ]
