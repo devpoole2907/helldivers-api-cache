@@ -2824,5 +2824,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INFORMATIONAL UPDATE\n\nIn light of the ongoing strategic situation and in order to ensure elite training of the Galaxy's greatest heroes continues uninterrupted, Helldiver training has been relocated from Mars to an undisclosed location."
+  },
+  {
+    "id": 3192,
+    "published": 39418920,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS DISABLED\n\nThe DSS was immediately engaged upon arrival at PILEN V, taking direct and severe damage. The crew managed to conduct a successful emergency warp to CLAORELL before the station was destroyed. Many valiant crew were sacrificed. Repairs are underway; it is unclear when the station will be returned to operational status."
   }
 ]
