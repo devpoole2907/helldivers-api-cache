@@ -2838,5 +2838,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER CONCLUDED\n\nAs anticipated, Widow's Harbor, Pilen V, and New Haven have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength."
+  },
+  {
+    "id": 3194,
+    "published": 39814407,
+    "type": 0,
+    "tagIds": [],
+    "message": "MARS RAZED\n\nMars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet.\n\nFortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1."
   }
 ]
