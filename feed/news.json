@@ -2859,5 +2859,12 @@
     "type": 0,
     "tagIds": [],
     "message": "LOW ORBIT INTERDICTION\n\nIlluminate spacecraft are firing upon Eagle fighters in Super Earth's orbit.\n\nEagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed."
+  },
+  {
+    "id": 3197,
+    "published": 39855720,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Remembrance."
   }
 ]
