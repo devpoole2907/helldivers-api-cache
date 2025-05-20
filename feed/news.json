@@ -2845,5 +2845,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MARS RAZED\n\nMars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet.\n\nFortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1."
+  },
+  {
+    "id": 3195,
+    "published": 39816600,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Battle for Super Earth has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, Super Earth is lost.\n\nThe strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible."
+  },
+  {
+    "id": 3196,
+    "published": 39816840,
+    "type": 0,
+    "tagIds": [],
+    "message": "LOW ORBIT INTERDICTION\n\nIlluminate spacecraft are firing upon Eagle fighters in Super Earth's orbit.\n\nEagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed."
   }
 ]
