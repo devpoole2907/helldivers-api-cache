@@ -2831,5 +2831,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS DISABLED\n\nThe DSS was immediately engaged upon arrival at PILEN V, taking direct and severe damage. The crew managed to conduct a successful emergency warp to CLAORELL before the station was destroyed. Many valiant crew were sacrificed. Repairs are underway; it is unclear when the station will be returned to operational status."
+  },
+  {
+    "id": 3193,
+    "published": 39809700,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER CONCLUDED\n\nAs anticipated, Widow's Harbor, Pilen V, and New Haven have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength."
   }
 ]
