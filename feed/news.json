@@ -2936,5 +2936,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe initial wave of assault is over. The Battle for Super Earth now enters its critical next phase. \n\nIlluminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs.\n\nThe Helldivers are ordered to execute a sustained campaign of successful operations on Super Earth."
+  },
+  {
+    "id": 3208,
+    "published": 40088596,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Administrative Center 02."
+  },
+  {
+    "id": 3209,
+    "published": 40089577,
+    "type": 0,
+    "tagIds": [],
+    "message": "M-105 Stalwart stratagem availability has ended."
   }
 ]
