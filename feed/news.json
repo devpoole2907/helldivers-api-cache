@@ -2971,5 +2971,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SITUATION DIRE\n\nMultiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense."
+  },
+  {
+    "id": 3213,
+    "published": 40200200,
+    "type": 0,
+    "tagIds": [],
+    "message": "EMERGENCY ARSENAL AUGMENTATION\n\nShield Generator Relay authorized for use on SUPER EARTH."
   }
 ]
