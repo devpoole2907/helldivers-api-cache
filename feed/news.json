@@ -2978,5 +2978,19 @@
     "type": 0,
     "tagIds": [],
     "message": "EMERGENCY ARSENAL AUGMENTATION\n\nShield Generator Relay authorized for use on SUPER EARTH."
+  },
+  {
+    "id": 3214,
+    "published": 40205749,
+    "type": 0,
+    "tagIds": [],
+    "message": "ADMINISTRATIVE CENTER 02 HAS FALLEN\n\nThe hallowed center of our Federal Bureaucracy burns."
+  },
+  {
+    "id": 3215,
+    "published": 40205883,
+    "type": 0,
+    "tagIds": [],
+    "message": "As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term."
   }
 ]
