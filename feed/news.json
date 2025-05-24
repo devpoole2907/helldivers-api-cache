@@ -2992,5 +2992,26 @@
     "type": 0,
     "tagIds": [],
     "message": "As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term."
+  },
+  {
+    "id": 3216,
+    "published": 40206847,
+    "type": 0,
+    "tagIds": [],
+    "message": "REMEMBRANCE HAS FALLEN\n\nRemembrance, monument to perseverance, is occupied by the Illuminate. This transgression will not be forgotten, nor forgiven."
+  },
+  {
+    "id": 3217,
+    "published": 40207079,
+    "type": 0,
+    "tagIds": [],
+    "message": "The resultant impact to the planetwide defense network means that Orbital Stratagem Cooldowns will be increased by 60 seconds until further notice."
+  },
+  {
+    "id": 3218,
+    "published": 40207189,
+    "type": 0,
+    "tagIds": [],
+    "message": "SUPER DEFENSE PROTOCOL SAPPHIRE\n\nThree Megacities have fallen, triggering the activation of the first Super Defense Protocol: costly global defense measures to be used only when Democracy needs them most.\n\nSuper Defense Protocol Sapphire converts the remaining rainforests into massive tactical airstrips. Eagle Rearm time is decreased by 45 seconds on Super Earth."
   }
 ]
