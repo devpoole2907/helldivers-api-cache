@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "The Illuminate invasion is impacting the API, causing possible outages! Stay tuned and defend Super Earth.",
+    "prominentAlert": "",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
