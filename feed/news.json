@@ -3048,5 +3048,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Port Mercy."
+  },
+  {
+    "id": 3224,
+    "published": 40353607,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS NEARING OPERATIONAL STATUS\n\nRepairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for Super Earth will require resources to be liberated from the Automatons.\n\nThe dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS."
   }
 ]
