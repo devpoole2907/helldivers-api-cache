@@ -3055,5 +3055,19 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS NEARING OPERATIONAL STATUS\n\nRepairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for Super Earth will require resources to be liberated from the Automatons.\n\nThe dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS."
+  },
+  {
+    "id": 3226,
+    "published": 40376070,
+    "type": 0,
+    "tagIds": [],
+    "message": "OFFENSIVE SHIFT\n\nIntel indicates the Illuminate have shifted their forces to focus offensive efforts on York Supreme."
+  },
+  {
+    "id": 3225,
+    "published": 40376073,
+    "type": 0,
+    "tagIds": [],
+    "message": "OFFENSIVE SHIFT\n\nIntel indicates the Illuminate have shifted their forces away from Equality-on-Sea."
   }
 ]
