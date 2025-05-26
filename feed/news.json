@@ -3027,5 +3027,26 @@
     "type": 0,
     "tagIds": [],
     "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on York Supreme."
+  },
+  {
+    "id": 3221,
+    "published": 40341230,
+    "type": 0,
+    "tagIds": [],
+    "message": "OFFENSIVE SHIFT\n\nIntel indicates the Illuminate have shifted their forces away from Equality-on-Sea."
+  },
+  {
+    "id": 3222,
+    "published": 40341545,
+    "type": 0,
+    "tagIds": [],
+    "message": "OFFENSIVE SHIFT\n\nIntel indicates the Illuminate have shifted their forces away from York Supreme."
+  },
+  {
+    "id": 3223,
+    "published": 40341657,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Port Mercy."
   }
 ]
