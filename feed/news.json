@@ -3076,5 +3076,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nOverwhelming enemy numbers prevented our heroes from completing the required number of operations. With this brief window of opportunity now closed, the chance to strike a mighty blow against our invaders has evaded us.\n\nIlluminate Fleet Strength is now estimated at 24% of its original operating power. 4 Mega Cities remain standing.\n\nThe end of this conflict approaches. Liberty guide us all."
+  },
+  {
+    "id": 3228,
+    "published": 40427841,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Battle for Super Earth enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities.\n\nConsult your Galactic Map for more information."
   }
 ]
