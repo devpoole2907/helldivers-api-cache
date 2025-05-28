@@ -3160,5 +3160,26 @@
     "type": 0,
     "tagIds": [],
     "message": "Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely."
+  },
+  {
+    "id": 3240,
+    "published": 40532556,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS OPERATIONAL\n\nThe Democracy Space Station has been returned to full operational status. It will be deployed to Super Earth immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. \n\nThe station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade."
+  },
+  {
+    "id": 3241,
+    "published": 40532580,
+    "type": 0,
+    "tagIds": [],
+    "message": "IMPACT STABILIZED\n\nExtraction times have been returned to normal."
+  },
+  {
+    "id": 3242,
+    "published": 40532618,
+    "type": 0,
+    "tagIds": [],
+    "message": "IMPACT STABILIZED\n\nAmmunition Combat Loads have been returned to normal. Stim capacity has been returned to normal."
   }
 ]
