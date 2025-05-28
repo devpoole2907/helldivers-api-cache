@@ -3083,5 +3083,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Battle for Super Earth enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3229,
+    "published": 40485891,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY NEARING COLLAPSE\n\nPort Mercy is on the verge of falling to the Illuminate."
   }
 ]
