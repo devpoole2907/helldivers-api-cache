@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "An update to fix issues such as the DSS missing and broken War view will be available soon on the App Store. Please use the Galaxy Map in the mean time!",
+    "prominentAlert": "An update to fix issues such as the DSS missing, broken Major Order, and the blank War view will be available soon on the App Store. Please use the Galaxy Map in the mean time!",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
