@@ -3202,5 +3202,47 @@
     "type": 0,
     "tagIds": [],
     "message": "MEGACITY STATUS REPORT\n\nThe coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength."
+  },
+  {
+    "id": 3246,
+    "published": 40593272,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nA former satellite technician on FORT UNION has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet.\n\nHowever, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed."
+  },
+  {
+    "id": 3247,
+    "published": 40593600,
+    "type": 0,
+    "tagIds": [],
+    "message": "void msg"
+  },
+  {
+    "id": 3248,
+    "published": 40593610,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Super Earth's Capital: Prosperity City."
+  },
+  {
+    "id": 3249,
+    "published": 40593620,
+    "type": 0,
+    "tagIds": [],
+    "message": "DEFENSES HOLDING\n\nThe Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight."
+  },
+  {
+    "id": 3252,
+    "published": 40595900,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY STATUS REPORT\n\nThe coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength."
+  },
+  {
+    "id": 3253,
+    "published": 40595930,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nA former satellite technician on FORT UNION has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet.\n\nHowever, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed."
   }
 ]
