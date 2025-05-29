@@ -3265,5 +3265,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MALWARE TRANSMITTED\n\nSatellites on FORT UNION have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result.\n\nThe unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment."
+  },
+  {
+    "id": 3257,
+    "published": 40642407,
+    "type": 0,
+    "tagIds": [],
+    "message": "ILLUMINATE NEARING DEFEAT\n\nThe Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault.\n\nThese are the battle's final hours. The enemy will push with the entirety of their strength.\n\nHold the line."
   }
 ]
