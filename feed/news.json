@@ -3181,5 +3181,26 @@
     "type": 0,
     "tagIds": [],
     "message": "IMPACT STABILIZED\n\nAmmunition Combat Loads have been returned to normal. Stim capacity has been returned to normal."
+  },
+  {
+    "id": 3243,
+    "published": 40590076,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY UNDER ATTACK\n\nThe Illuminate have launched an attack on Super Earth's Capital: Prosperity City."
+  },
+  {
+    "id": 3244,
+    "published": 40591249,
+    "type": 0,
+    "tagIds": [],
+    "message": "DEFENSES HOLDING\n\nThe Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight."
+  },
+  {
+    "id": 3245,
+    "published": 40592513,
+    "type": 0,
+    "tagIds": [],
+    "message": "MEGACITY STATUS REPORT\n\nThe coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength."
   }
 ]
