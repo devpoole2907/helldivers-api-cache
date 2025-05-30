@@ -3272,5 +3272,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ILLUMINATE NEARING DEFEAT\n\nThe Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault.\n\nThese are the battle's final hours. The enemy will push with the entirety of their strength.\n\nHold the line."
+  },
+  {
+    "id": 3258,
+    "published": 40687920,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Illuminate have retreated. The Battle for Super Earth has been won. Consult your Galactic Map for more information."
   }
 ]
