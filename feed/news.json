@@ -3279,5 +3279,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Illuminate have retreated. The Battle for Super Earth has been won. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3259,
+    "published": 40691689,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW PRESIDENT ELECTED\n\nA new President of Super Earth has been sworn in following a landslide victory in a Managed Election."
   }
 ]
