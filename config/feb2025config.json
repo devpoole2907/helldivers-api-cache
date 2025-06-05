@@ -3,7 +3,7 @@
     "prominentAlert": "App won't load? Super Earth scientists are aware of issues with the API. Please stand by.",
     "season": "801",
     "showIlluminate": true,
-    "apiAddress": "https://helldivers2-api-552449488278.australia-southeast1.run.app/",
+    "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
     "startedAt": "2024-02-10T07:20:30.089979Z",
     "meridiaEvent": true
 }
