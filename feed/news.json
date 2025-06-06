@@ -3307,5 +3307,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThanks to the Helldivers\u2019 swift and decisive response, the Automatons' opportunistic assault has been curtailed. Consult the Galactic Map for more information."
+  },
+  {
+    "id": 3263,
+    "published": 41323497,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe first scattered dregs of the cowardly Illuminate invasion force have been located, and traced to several outlying systems.\n\nThe Helldivers are ordered to liberate all identified hideouts. Intel believes there are more Illuminate planets yet to be identified. The liberation of these sites could lead to the others."
   }
 ]
