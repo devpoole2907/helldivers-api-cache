@@ -3321,5 +3321,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe remnant Illuminate forces have evaded Justice. Some of their remote bases endure.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3265,
+    "published": 41640540,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nMassive Terminid outbreaks have erupted simultaneously across multiple Super Earth cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger.\n\nThe Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities."
   }
 ]
