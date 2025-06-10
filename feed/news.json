@@ -3314,5 +3314,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe first scattered dregs of the cowardly Illuminate invasion force have been located, and traced to several outlying systems.\n\nThe Helldivers are ordered to liberate all identified hideouts. Intel believes there are more Illuminate planets yet to be identified. The liberation of these sites could lead to the others."
+  },
+  {
+    "id": 3264,
+    "published": 41626043,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe remnant Illuminate forces have evaded Justice. Some of their remote bases endure.\n\nConsult the Galactic Map for more information."
   }
 ]
