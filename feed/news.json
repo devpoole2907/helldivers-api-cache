@@ -3328,5 +3328,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nMassive Terminid outbreaks have erupted simultaneously across multiple Super Earth cities. This unprecedented assault of Fascism into highly-populated areas puts millions of citizens in grave danger.\n\nThe Helldivers must respond immediately. Illuminate pursuit operations must be temporarily suspended. Repel the Terminid invasion from our cities."
+  },
+  {
+    "id": 3266,
+    "published": 41908173,
+    "type": 0,
+    "tagIds": [],
+    "message": "SATELLITES SABOTAGED\n\nA deep-space satellite near Super Earth has failed. The Illuminate appear to have planted interference devices during the Battle for Super Earth.\n\nA number of planets in close proximity to Illuminate-occupied planets are no longer observable. Communication has been cut off, and FTL travel to them is impossible. Analysts assess the likelihood of anti-Democratic activity on those planets to be Very High. \n\nA task force is actively working to restore system integrity."
   }
 ]
