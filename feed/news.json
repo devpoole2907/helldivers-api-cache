@@ -3377,5 +3377,12 @@
     "type": 0,
     "tagIds": [],
     "message": "The M-105 Stalwart stratagem is temporarily available to all Helldivers."
+  },
+  {
+    "id": 3273,
+    "published": 42768317,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nLong-distance surveys of currently-infested Terminid planets has identified larger-than-usual free E-710 quantities in the upper geological strata.\n\n Liberating these planets would allow acquisition of these E-710 reservoirs, reducing the required kill count for the current Major Order by 1,000,000,000 Terminids for each Terminid planet liberated."
   }
 ]
