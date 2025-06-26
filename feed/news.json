@@ -3398,5 +3398,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully collected the mandated war restitution. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3276,
+    "published": 43017979,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nALERT: A large-scale, coordinated Automaton offensive has launched without warning. The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information."
   }
 ]
