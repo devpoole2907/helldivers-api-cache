@@ -3405,5 +3405,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nALERT: A large-scale, coordinated Automaton offensive has launched without warning. The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3277,
+    "published": 43109100,
+    "type": 0,
+    "tagIds": [],
+    "message": "PATRIOTIC ANNOUNCEMENT\n\nHigh Command has commissioned a special uniform item for all Helldivers, in recognition of their unyielding efforts to ensure the never-ending prosperity of Super Earth.\n\nA new cape will soon be available fleetwide."
   }
 ]
