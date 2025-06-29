@@ -3426,5 +3426,12 @@
     "type": 0,
     "tagIds": [],
     "message": "FORCE AUGMENTATION\n\nTo better counter the Jet Brigade\u2019s newest capabilities, High Command has authorized the AIRBURST ROCKET LAUNCHER to be made available fleetwide for the next 24 hours."
+  },
+  {
+    "id": 3280,
+    "published": 43308085,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nAIRBURST ROCKET LAUNCHER stratagem availability has now ended."
   }
 ]
