@@ -3461,5 +3461,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nRemembrance\u2014destroyed during the completely failed Illuminate invasion of Super Earth\u2014will be the first of our fallen Mega Cities to be rebuilt, as selected by the Ministry of Prosperity.\n\nTo reclaim worlds threatened by hostile forces, and seize necessary rebuilding assets, the Helldivers must hold all designated planets, and complete the required number of operations."
+  },
+  {
+    "id": 3285,
+    "published": 44330896,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATIONAL ALERT\n\nResource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on Achernar Secundus (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%%. \n\nThe surge in transportation on Achernar Secundus has precipitated a Terminid attack. If the planet is lost, the resources will be as well."
   }
 ]
