@@ -3468,5 +3468,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATIONAL ALERT\n\nResource needs for the reconstruction of Remembrance appear difficult to reach. High Command has reached a deal with AM Defense to repurpose steel & concrete reserves on Achernar Secundus (previously allocated to colony housing) to Remembrance, lowering the required operations for the current Order by 50%%. \n\nThe surge in transportation on Achernar Secundus has precipitated a Terminid attack. If the planet is lost, the resources will be as well."
+  },
+  {
+    "id": 3286,
+    "published": 44584163,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe first of many steps toward healing our noble capital planet, and the broken hearts of all citizens, is complete. The Helldivers have triumphed, and have secured the foundation upon which the great city of Remembrance will be reborn."
   }
 ]
