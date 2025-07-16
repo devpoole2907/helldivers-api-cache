@@ -3482,5 +3482,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nMultiple simultaneous Automaton assaults have been detected on planets with highly-populated Super Earth cities. MININT analysis reports with a high degree of confidence that the strategic objective of this invasion is to take control of key Democracy Space Station facilities.\n\nHold the key DSS facilities at all costs."
+  },
+  {
+    "id": 3288,
+    "published": 44734561,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nMINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM\u2014but they need more time. And the Illuminate have just launched an invasion of the planet.\n\nIf the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion."
   }
 ]
