@@ -3489,5 +3489,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY\n\nMINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on OASIS are actively deconstructing firewall bypass nodes at over 120 WPM\u2014but they need more time. And the Illuminate have just launched an invasion of the planet.\n\nIf the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion."
+  },
+  {
+    "id": 3289,
+    "published": 44821103,
+    "type": 0,
+    "tagIds": [],
+    "message": "OASIS FALLEN\n\nOASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid."
   }
 ]
