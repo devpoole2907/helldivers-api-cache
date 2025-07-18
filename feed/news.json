@@ -3496,5 +3496,19 @@
     "type": 0,
     "tagIds": [],
     "message": "OASIS FALLEN\n\nOASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid."
+  },
+  {
+    "id": 3290,
+    "published": 44902800,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on MERAK."
+  },
+  {
+    "id": 3291,
+    "published": 44902800,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
   }
 ]
