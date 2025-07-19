@@ -3510,5 +3510,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
+  },
+  {
+    "id": 3292,
+    "published": 44993351,
+    "type": 0,
+    "tagIds": [],
+    "message": "GAELLIVARE HAS FALLEN\n\nGaellivare, where the DSS was originally constructed, has been invaded by the Automatons. The DSS Construction Site had been the nexus of coordination and support for the space station since its completion. With its loss, cooldown times for all DSS Tactical Actions will be 24 hours longer until further notice."
   }
 ]
