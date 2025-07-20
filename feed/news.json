@@ -3517,5 +3517,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GAELLIVARE HAS FALLEN\n\nGaellivare, where the DSS was originally constructed, has been invaded by the Automatons. The DSS Construction Site had been the nexus of coordination and support for the space station since its completion. With its loss, cooldown times for all DSS Tactical Actions will be 24 hours longer until further notice."
+  },
+  {
+    "id": 3293,
+    "published": 45089731,
+    "type": 0,
+    "tagIds": [],
+    "message": "CLAORELL HAS FALLEN\n\nThe Automatons have taken Claorell, and the Deep Mantle Forge Complex on the planet. The enemy has stolen this site of great industry; there is no telling what socialist ends they will use it for. \n\nAs a result of losing the Complex, the resource requirement for all DSS Tactical Actions is 25% greater for the next 72 hours."
   }
 ]
