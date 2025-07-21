@@ -3524,5 +3524,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CLAORELL HAS FALLEN\n\nThe Automatons have taken Claorell, and the Deep Mantle Forge Complex on the planet. The enemy has stolen this site of great industry; there is no telling what socialist ends they will use it for. \n\nAs a result of losing the Complex, the resource requirement for all DSS Tactical Actions is 25% greater for the next 72 hours."
+  },
+  {
+    "id": 3294,
+    "published": 45220242,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATIONS RESTORED\n\nDSS Tactical Action activation time has been restored to normal."
   }
 ]
