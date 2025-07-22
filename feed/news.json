@@ -3531,5 +3531,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATIONS RESTORED\n\nDSS Tactical Action activation time has been restored to normal."
+  },
+  {
+    "id": 3295,
+    "published": 45258645,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nSuper Earth cities lie in ruins. Millions of innocent families are sheltered in refugee camps. The Automaton invasion has reaped a heavy toll. Worst of all, the DSS facility on CLAORELL is in the socialist actuators of the enemy."
   }
 ]
