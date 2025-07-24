@@ -3552,5 +3552,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATIONS RESTORED\n\nDSS Tactical Action resource requirements have been restored to normal."
+  },
+  {
+    "id": 3298,
+    "published": 45451523,
+    "type": 0,
+    "tagIds": [],
+    "message": "FACTORY STRIDER SURGE\nSignificantly higher Factory Strider numbers have been observed on CLAORELL."
   }
 ]
