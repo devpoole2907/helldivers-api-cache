@@ -3636,5 +3636,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nThe just decimation of the deadly airborne Leviathans by the Helldivers has inspired a boost in citizen War Bond purchases. High Command has authorized the temporary addition of the EXO-49 Emancipator Exosuit Stratagem to all Helldiver loadouts for the next 8 hours."
+  },
+  {
+    "id": 3311,
+    "published": 45872208,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nVigorous, spirited efforts by the Helldivers to generate patriotic war footage for our citizens has had the desired effect. Their acts of valor are now being broadcast to all workplace and home televisions, showcasing the inspiring and visceral destruction of our enemies inflicted by the Helldivers every day. \n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3312,
+    "published": 45873420,
+    "type": 0,
+    "tagIds": [],
+    "message": "FACTORY STRIDER SURGE ABATED\n\nFactory Strider numbers on CLAORELL have diminished to normal levels."
   }
 ]
