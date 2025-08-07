@@ -3706,5 +3706,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER \n\nThe Helldivers are ordered to clear the Nanos Sector to secure New Aspiration City. \n\nAdditionally, in order to prove to the Automatons\u2014and the Federation\u2014that their brutish scare tactics are ineffective, the Helldivers are ordered to destroy the designated number of Automaton Conscripts with the Railcannon Stratagem. "
+  },
+  {
+    "id": 3322,
+    "published": 46637100,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized the fleetwide use of the Orbital Railcannon Stratagem for the next 96 hours. \n\nThe use of this mighty weapon to so irreversibly dismantle Automaton Conscripts will send a clear message to our enemies: threats to Democracy will result in nothing less than total annihilation."
   }
 ]
