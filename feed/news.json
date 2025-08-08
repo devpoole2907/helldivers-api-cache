@@ -3720,5 +3720,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nIntercepted Automaton messages have identified a secure database on CHARBAL-VII. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements."
+  },
+  {
+    "id": 3324,
+    "published": 46721782,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL BOOST\n\nHigh Command has authorized high-volume use of the Orbital Railcannon Stratagem in the Nanos Sector. For operations in that sector, the mandated waiting period between salvos has been lowered by 150 seconds for the next 96 hours."
   }
 ]
