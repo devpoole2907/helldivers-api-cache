@@ -3727,5 +3727,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL BOOST\n\nHigh Command has authorized high-volume use of the Orbital Railcannon Stratagem in the Nanos Sector. For operations in that sector, the mandated waiting period between salvos has been lowered by 150 seconds for the next 96 hours."
+  },
+  {
+    "id": 3325,
+    "published": 46818376,
+    "type": 0,
+    "tagIds": [],
+    "message": "AUTOMATON SECURE DATA MOVED\n\nThe Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence."
   }
 ]
