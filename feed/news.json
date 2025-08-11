@@ -3734,5 +3734,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AUTOMATON SECURE DATA MOVED\n\nThe Automatons appear to have discovered our attempts to liberate the secure database on CHARBAL-VII. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence."
+  },
+  {
+    "id": 3326,
+    "published": 47001000,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide use of the Orbital Railcannon Stratagem with reduced waiting period between calldowns in the Andromeda Sector for the next 42 hours."
   }
 ]
