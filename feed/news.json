@@ -3762,5 +3762,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nThe Helldivers are ordered to liberate CRIMSICA in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3330,
+    "published": 47242482,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Fast Recon Vehicle (FRV) Stratagem for the duration of the current Major Order.\n\nHelldiver usage of FRVs will contribute diagnostic telemetry, contributing to greatly enhanced safety for Tyranny Park 2\u2019s self-guided off-road expeditions."
   }
 ]
