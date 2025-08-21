@@ -3817,5 +3817,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AUTOMATON ASSAULT\n\nA massive Automaton assault has been detected, targeting multiple sectors left lightly defended while our forces are engaged with the Terminid invasion. Consult your Galactic Map for more information."
+  },
+  {
+    "id": 3338,
+    "published": 47849096,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\n\nIn the current operational context, liberating CHARBAL-VII would end the current Automaton attacks upon both CHARON PRIME, JULHEIM and MORT."
   }
 ]
