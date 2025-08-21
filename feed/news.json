@@ -3831,5 +3831,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TURING FALLEN\n\nTuring has fallen to the Terminids, and with it the illustrious Xenoentomology Center. Due to the tragic and unavoidable rupture of several high-pressure HUNTER pheromone tanks, HUNTER presence on Turing is expected to increase substantially."
+  },
+  {
+    "id": 3340,
+    "published": 47862157,
+    "type": 0,
+    "tagIds": [],
+    "message": "ACHERNAR SECUNDUS FALLEN\n\nAchernar Secundus has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV cooldown will be increased for 48 hours."
   }
 ]
