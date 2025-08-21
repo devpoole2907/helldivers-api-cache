@@ -3810,5 +3810,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nAll units to high alert. Multiple large-scale Terminid incursions have been reported on planets surrounding the Gloom. ACHERNAR SECUNDUS, ERATA PRIME, FENRIR III, AND TURING are under attack. The Helldivers must deploy immediately to their defense.\n\nThe Helldivers are ordered to Kill 6,000,000,000 Terminids. It is believed the attack will continue without abatement until then."
+  },
+  {
+    "id": 3337,
+    "published": 47846946,
+    "type": 0,
+    "tagIds": [],
+    "message": "AUTOMATON ASSAULT\n\nA massive Automaton assault has been detected, targeting multiple sectors left lightly defended while our forces are engaged with the Terminid invasion. Consult your Galactic Map for more information."
   }
 ]
