@@ -3838,5 +3838,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ACHERNAR SECUNDUS FALLEN\n\nAchernar Secundus has fallen to the Terminids. The AM Defense Factory Hub has been evacuated; FRV cooldown will be increased for 48 hours."
+  },
+  {
+    "id": 3341,
+    "published": 47931706,
+    "type": 0,
+    "tagIds": [],
+    "message": "LOW-ORBIT INTERDICTION\n\nIlluminate assault forces have deployed heavy low-orbit anti-air patrols to interdict space-to-ground aircraft. Extraction time on missions against the Illuminate will take an additional 150 seconds for the next 48 hours."
+  },
+  {
+    "id": 3342,
+    "published": 47933266,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Illuminate have launched a massive offensive\u2014the third concurrent onslaught upon our besieged Federation. We are losing ground.\n\nReinforcements are en route. But the new Super Destroyer fleet is still 96 hours from mobilization. They will be too late unless you buy time.\n\nHelldivers: Collapse the Illuminate advance by eliminating 1,000,000,000 of their forces. You must hold on."
   }
 ]
