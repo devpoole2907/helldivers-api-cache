@@ -3866,5 +3866,12 @@
     "type": 0,
     "tagIds": [],
     "message": "JET BRIGADE ATTACK\n\nThe Automaton Jet Brigade has assaulted CURIA."
+  },
+  {
+    "id": 3348,
+    "published": 48040809,
+    "type": 0,
+    "tagIds": [],
+    "message": "EAGLE STORM OFFLINE\n\nAn Automaton cyberattack on the Democracy Space Station has caused catastrophic failures of multiple systems, particularly targeting the Eagle Convocation Bay. Multiple fighter crew personnel fell victim to sudden depressurization. The  Eagle Storm Tactical Action will be offline for an estimated 72 hours until emergency repairs are completed."
   }
 ]
