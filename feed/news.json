@@ -3859,5 +3859,12 @@
     "type": 0,
     "tagIds": [],
     "message": "IMPALER RAMPAGE\n\nA massive outbreak of Impaler Terminids has been reported on URSICA XI."
+  },
+  {
+    "id": 3347,
+    "published": 48016071,
+    "type": 0,
+    "tagIds": [],
+    "message": "JET BRIGADE ATTACK\n\nThe Automaton Jet Brigade has assaulted CURIA."
   }
 ]
