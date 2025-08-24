@@ -3873,5 +3873,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EAGLE STORM OFFLINE\n\nAn Automaton cyberattack on the Democracy Space Station has caused catastrophic failures of multiple systems, particularly targeting the Eagle Convocation Bay. Multiple fighter crew personnel fell victim to sudden depressurization. The  Eagle Storm Tactical Action will be offline for an estimated 72 hours until emergency repairs are completed."
+  },
+  {
+    "id": 3349,
+    "published": 48092469,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCINERATION CORPS ATTACK\n\nThe Automaton Incineration Corps has assaulted BEKVAM III."
   }
 ]
