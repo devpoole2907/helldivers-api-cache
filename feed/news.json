@@ -3894,5 +3894,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXTRACTION TIMES NORMALIZED\n\nSEAF Air forces have re-established low-orbit parity against the Illuminate. Extraction times have been returned to normal."
+  },
+  {
+    "id": 3352,
+    "published": 48120380,
+    "type": 0,
+    "tagIds": [],
+    "message": "FACTORY STRIDER SURGE\n\nSignificantly higher Factory Strider numbers have been observed on FENMIRE."
   }
 ]
