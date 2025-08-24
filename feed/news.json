@@ -3880,5 +3880,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCINERATION CORPS ATTACK\n\nThe Automaton Incineration Corps has assaulted BEKVAM III."
+  },
+  {
+    "id": 3350,
+    "published": 48092545,
+    "type": 0,
+    "tagIds": [],
+    "message": "INCINERATION CORPS ATTACK\n\nThe Automaton Incineration Corps has assaulted TARSH."
   }
 ]
