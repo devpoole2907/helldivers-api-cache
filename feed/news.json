@@ -3887,5 +3887,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCINERATION CORPS ATTACK\n\nThe Automaton Incineration Corps has assaulted TARSH."
+  },
+  {
+    "id": 3351,
+    "published": 48105540,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXTRACTION TIMES NORMALIZED\n\nSEAF Air forces have re-established low-orbit parity against the Illuminate. Extraction times have been returned to normal."
   }
 ]
