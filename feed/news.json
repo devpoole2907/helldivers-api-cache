@@ -3936,5 +3936,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AMMUNITION DISPENSATION INCREASED\n\nIn light of the large influx of newly-trained Helldivers to the battlefield, High Command has authorized a temporary increase to ammunition allotments, in order to account for an anticipated reduction in average accuracy. Average accuracy levels are still, of course, certain to remain extremely high, as befits the most elite fighting force in the galaxy.\n\nFor the next 48 hours, on-deployment ammunition allowances will be increased by 50%."
+  },
+  {
+    "id": 3358,
+    "published": 48298772,
+    "type": 0,
+    "tagIds": [],
+    "message": "EAGLE STORM ONLINE\n\nValiant non-stop work by SEAF Combat Engineers has successfully brought the DSS Eagle Convocation Bay back to operational status. The Eagle Storm Tactical Action is back online."
   }
 ]
