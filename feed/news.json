@@ -3943,5 +3943,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EAGLE STORM ONLINE\n\nValiant non-stop work by SEAF Combat Engineers has successfully brought the DSS Eagle Convocation Bay back to operational status. The Eagle Storm Tactical Action is back online."
+  },
+  {
+    "id": 3359,
+    "published": 48370154,
+    "type": 0,
+    "tagIds": [],
+    "message": "IMPALER RAMPAGE OVER\n\nQuantities of Impaler Terminids on INARI have normalized."
   }
 ]
