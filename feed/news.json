@@ -3964,5 +3964,26 @@
     "type": 0,
     "tagIds": [],
     "message": "REINFORCEMENT BUDGET NORMALIZED\n\nHelldiver Reinforcement Budgets have returned to normal operating levels."
+  },
+  {
+    "id": 3362,
+    "published": 48390334,
+    "type": 0,
+    "tagIds": [],
+    "message": "SPORE BURST STRAIN OUTBREAK\n\nAn outbreak of the Terminid Spore Burst Strain has occured on BORE ROCK."
+  },
+  {
+    "id": 3363,
+    "published": 48390927,
+    "type": 0,
+    "tagIds": [],
+    "message": "PREDATOR STRAIN OUTBREAK\n\nAn outbreak of the Terminid Predator Strain has occured on TERREK."
+  },
+  {
+    "id": 3365,
+    "published": 48391279,
+    "type": 0,
+    "tagIds": [],
+    "message": "TYRANNY PARK 2 AT RISK OF COLLAPSE\n\nTyranny Park 2 on BORE ROCK is threatened by its own insidious inhabitants. Its Charger Behemoth exhibit experienced a catastrophic malfunction earlier in the day; this flagship recreational and edutainment facility, critical to bolstering citizen morale and its significant merchandising potential, is now in grave danger of being overrun. It must be held at all costs.\n\nHelldivers are advised to deploy to Bore Rock to defend the site immediately."
   }
 ]
