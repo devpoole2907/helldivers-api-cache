@@ -4041,5 +4041,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ILLUMINATE ASSAULT BROKEN \n\nThe Helldivers have halted the ILLUMINATE offensive.\n\nThis is a vital breakthrough, but the battle for our survival rages on. The massive fleets of AUTOMATON and TERMINID continue their merciless assault across our besieged sectors. This fight is far from over."
+  },
+  {
+    "id": 3374,
+    "published": 48488705,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nShield Generator Pack Stratagem availability has now ended."
   }
 ]
