@@ -4006,5 +4006,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Stalwart Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3369,
+    "published": 48460119,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW ASPIRATION CITY UNDER ATTACK\n\nNew Aspiration City has come under attack by Automaton Forces. The Maximum Security City represents the impregnable future of citizen safety. It must be defended at all costs.\n\nHelldivers are strongly advised to deploy to Planet Emeria to defend the city immediately."
   }
 ]
