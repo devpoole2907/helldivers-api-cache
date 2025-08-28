@@ -4048,5 +4048,33 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nShield Generator Pack Stratagem availability has now ended."
+  },
+  {
+    "id": 3376,
+    "published": 48493762,
+    "type": 0,
+    "tagIds": [],
+    "message": "PREDATOR STRAIN OUTBREAK\n\nAn outbreak of the Terminid Predator Strain has occured on AZTERRA."
+  },
+  {
+    "id": 3375,
+    "published": 48493809,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3377,
+    "published": 48494014,
+    "type": 0,
+    "tagIds": [],
+    "message": "PREDATOR STRAIN OUTBREAK\n\nAn outbreak of the Terminid Predator Strain has occured on CIRRUS."
+  },
+  {
+    "id": 3378,
+    "published": 48494962,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately.\n\nIn the current operational context, liberating TERREK would end the current TERMINID attacks upon both AZTERRA and CIRRUS."
   }
 ]
