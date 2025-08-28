@@ -4013,5 +4013,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW ASPIRATION CITY UNDER ATTACK\n\nNew Aspiration City has come under attack by Automaton Forces. The Maximum Security City represents the impregnable future of citizen safety. It must be defended at all costs.\n\nHelldivers are strongly advised to deploy to Planet Emeria to defend the city immediately."
+  },
+  {
+    "id": 3370,
+    "published": 48463570,
+    "type": 0,
+    "tagIds": [],
+    "message": "AMMUNITION LEVELS NORMALIZED\n\nOn-deployment ammunition allowances have been returned to normal operational amounts."
   }
 ]
