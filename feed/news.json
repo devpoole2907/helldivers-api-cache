@@ -4020,5 +4020,26 @@
     "type": 0,
     "tagIds": [],
     "message": "AMMUNITION LEVELS NORMALIZED\n\nOn-deployment ammunition allowances have been returned to normal operational amounts."
+  },
+  {
+    "id": 3372,
+    "published": 48477888,
+    "type": 0,
+    "tagIds": [],
+    "message": "Terminids contained within the Park have now escaped, and outbreaks have been detected on adjacent planets. Experts agree this could not have been predicted. Nevertheless, it must be responded to swiftly."
+  },
+  {
+    "id": 3371,
+    "published": 48477926,
+    "type": 0,
+    "tagIds": [],
+    "message": "TYRANNY PARK 2 HAS FALLEN\n\nThe construction site for Tyranny Park 2 on Bore Rock has been overrun by the Terminid swarm. The fate of the pioneering dreamweavers and dedicated construction personnel on-site is unknown."
+  },
+  {
+    "id": 3373,
+    "published": 48478172,
+    "type": 0,
+    "tagIds": [],
+    "message": "ILLUMINATE ASSAULT BROKEN \n\nThe Helldivers have halted the ILLUMINATE offensive.\n\nThis is a vital breakthrough, but the battle for our survival rages on. The massive fleets of AUTOMATON and TERMINID continue their merciless assault across our besieged sectors. This fight is far from over."
   }
 ]
