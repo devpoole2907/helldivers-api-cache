@@ -4097,5 +4097,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM GRANTED\n\nThe Gatling Sentry Stratagem has been authorized for immediate use, for the next 24 hours."
+  },
+  {
+    "id": 3382,
+    "published": 48580555,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Laser Stratagem availability has now ended."
   }
 ]
