@@ -4104,5 +4104,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Laser Stratagem availability has now ended."
+  },
+  {
+    "id": 3383,
+    "published": 48589544,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours."
   }
 ]
