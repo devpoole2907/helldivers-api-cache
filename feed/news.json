@@ -4132,5 +4132,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nGatling Sentry Stratagem availability has now ended."
+  },
+  {
+    "id": 3387,
+    "published": 48643429,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATAGEM GRANTED\n\nThe \"Guard Dog\" Rover Stratagem has been authorized for immediate use, for the next 24 hours."
   }
 ]
