@@ -4139,5 +4139,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM GRANTED\n\nThe \"Guard Dog\" Rover Stratagem has been authorized for immediate use, for the next 24 hours."
+  },
+  {
+    "id": 3388,
+    "published": 48676078,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Napalm Barrage Stratagem availability has now ended."
   }
 ]
