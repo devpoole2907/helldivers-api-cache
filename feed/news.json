@@ -4153,5 +4153,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM GRANTED\n\nThe HMG Emplacement Stratagem has been authorized for immediate use, for the next 24 hours."
+  },
+  {
+    "id": 3390,
+    "published": 48730415,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\n\"Guard Dog\" Rover Stratagem availability has now ended."
   }
 ]
