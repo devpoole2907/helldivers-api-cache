@@ -4181,5 +4181,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC UPDATE\n\nHMG Emplacement Stratagem availability has now ended."
+  },
+  {
+    "id": 3394,
+    "published": 48826841,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nTesla Tower Stratagem availability has now ended."
   }
 ]
