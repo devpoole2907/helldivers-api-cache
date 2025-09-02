@@ -4188,5 +4188,26 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nTesla Tower Stratagem availability has now ended."
+  },
+  {
+    "id": 3395,
+    "published": 48892623,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC TIMELINE ACCELERATED\n\nIn order to maintain operational momentum, High Command has directed the immediate and forceful invasion of OSHAUNE, springboarding from the rapidlly-deployed Outpost Alpha on HELLMIRE.\n\nLow Gloom resistance thus far indicates a lack of enemy preparedness. High deployment velocity will enable full exploitation of this vulnerability."
+  },
+  {
+    "id": 3396,
+    "published": 48892755,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated HELLMIRE from the Gloom\u2019s clutches.\n\nTheir superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed Outpost Alpha. As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom.\n\nOutpost personnel have completed initial geological scans of OSHAUNE. The planet presents a unique biome, which has earned it the designation: Hive World."
+  },
+  {
+    "id": 3397,
+    "published": 48893310,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nOperation Righteous Reclamation has entered its second stage.\n\nOutpost Alpha enables the Helldivers\u2019 spore-resistant Super Destroyers to access the Hive World OSHAUNE.\n\nThe Helldivers are ordered to conduct initial reconnaissance of the Hive World and secure research samples from it. Understanding this unique biome is key to annihilating it for good.\n\nWhile operations on HELLMIRE are ongoing, Outpost Alpha must not be lost."
   }
 ]
