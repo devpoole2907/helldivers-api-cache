@@ -4216,5 +4216,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE.\n\nExtraction times on this planet have increased by 50s."
+  },
+  {
+    "id": 3399,
+    "published": 48905850,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT: NEW MUTATION IDENTIFIED\n\nGloom frontline survivors report sightings of Terminids favoring subterranean movement, breaking generations of identified attack patterns. These Terminids have been dubbed the  Rupture Strain. Excessive force is advised."
   }
 ]
