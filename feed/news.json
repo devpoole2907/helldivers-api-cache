@@ -4209,5 +4209,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nOperation Righteous Reclamation has entered its second stage.\n\nOutpost Alpha enables the Helldivers\u2019 spore-resistant Super Destroyers to access the Hive World OSHAUNE.\n\nThe Helldivers are ordered to conduct initial reconnaissance of the Hive World and secure research samples from it. Understanding this unique biome is key to annihilating it for good.\n\nWhile operations on HELLMIRE are ongoing, Outpost Alpha must not be lost."
+  },
+  {
+    "id": 3398,
+    "published": 48894427,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, Pelican pilots must exercise extreme caution when executing landing maneuvers on OSHAUNE.\n\nExtraction times on this planet have increased by 50s."
   }
 ]
