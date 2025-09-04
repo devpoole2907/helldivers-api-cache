@@ -4223,5 +4223,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT: NEW MUTATION IDENTIFIED\n\nGloom frontline survivors report sightings of Terminids favoring subterranean movement, breaking generations of identified attack patterns. These Terminids have been dubbed the  Rupture Strain. Excessive force is advised."
+  },
+  {
+    "id": 3400,
+    "published": 49058460,
+    "type": 0,
+    "tagIds": [],
+    "message": "HIVE WORLD DISCOVERY\n\nA new form of E-710-like substance has been discovered on the Hive World. Initial testing has yielded promising results. Extraction pipelines are to be installed for maximum research efficiency."
   }
 ]
