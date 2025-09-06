@@ -4251,5 +4251,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT: NEW MUTATION IDENTIFIED\n\nTitan-class Terminids spotted on OSHAUNE\n\nUnconfirmed reports indicate similarities to GW1-era Hive Lords, previously confirmed to be extinct\n\nExtreme measures advised"
+  },
+  {
+    "id": 3404,
+    "published": 49280424,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, Eagles deployed to OSHAUNE must have their spore filters changed every time they re-arm.\n\nEagle re-arm times on this planet have increased by 30%."
   }
 ]
