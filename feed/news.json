@@ -4237,5 +4237,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ALERT: NEW MUTATION IDENTIFIED\n\nHelldivers to HELLMIRE\n\nOutpost Alpha is under siege\nWinged Terminids of unprecedented size observed planetside\n\nHelldivers to HELLMIRE\nDefend Outpost Alpha"
+  },
+  {
+    "id": 3402,
+    "published": 49212367,
+    "type": 0,
+    "tagIds": [],
+    "message": "OUTPOST ALPHA DEFENDED\n\nThe Helldivers have successfully safeguarded Outpost Alpha against the Terminid Dragon Roaches.\n\nThe Hive World on OSHAUNE remains accessible."
   }
 ]
