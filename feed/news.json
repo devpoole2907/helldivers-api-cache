@@ -4244,5 +4244,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OUTPOST ALPHA DEFENDED\n\nThe Helldivers have successfully safeguarded Outpost Alpha against the Terminid Dragon Roaches.\n\nThe Hive World on OSHAUNE remains accessible."
+  },
+  {
+    "id": 3403,
+    "published": 49248222,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALERT: NEW MUTATION IDENTIFIED\n\nTitan-class Terminids spotted on OSHAUNE\n\nUnconfirmed reports indicate similarities to GW1-era Hive Lords, previously confirmed to be extinct\n\nExtreme measures advised"
   }
 ]
