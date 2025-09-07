@@ -4258,5 +4258,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, Eagles deployed to OSHAUNE must have their spore filters changed every time they re-arm.\n\nEagle re-arm times on this planet have increased by 30%."
+  },
+  {
+    "id": 3405,
+    "published": 49345879,
+    "type": 0,
+    "tagIds": [],
+    "message": "HIVE WORLD DISCOVERY\n\nThe terrain on the Hive World OSHAUNE has been subjected to extreme Terminid terraformation. Helldivers are reminded that Super Destroyers can only deploy Hellpods to open-air locations. Adjust tactics as needed."
   }
 ]
