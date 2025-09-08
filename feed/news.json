@@ -4265,5 +4265,12 @@
     "type": 0,
     "tagIds": [],
     "message": "HIVE WORLD DISCOVERY\n\nThe terrain on the Hive World OSHAUNE has been subjected to extreme Terminid terraformation. Helldivers are reminded that Super Destroyers can only deploy Hellpods to open-air locations. Adjust tactics as needed."
+  },
+  {
+    "id": 3406,
+    "published": 49393225,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, logistical support on OSHAUNE has been greatly limited. \n\nAmmunition pickups on this planet yield 50% less ammo."
   }
 ]
