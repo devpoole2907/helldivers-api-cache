@@ -4272,5 +4272,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM INTERFERENCE\n\nDue to adverse spore conditions, logistical support on OSHAUNE has been greatly limited. \n\nAmmunition pickups on this planet yield 50% less ammo."
+  },
+  {
+    "id": 3407,
+    "published": 49497929,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Helldivers, braving the deepest depths of the Gloom, were violently mobbed by waves of monstrous Terminid mutants. Forced to fight for Life and Liberty, the Helldivers were unable to meet target sample numbers.\n\nOutpost Alpha remains safe, and the path to the Hive World remains open. Soon, our boots will thunder down that path once more, squishing every bug in their way."
   }
 ]
