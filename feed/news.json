@@ -4279,5 +4279,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe Helldivers, braving the deepest depths of the Gloom, were violently mobbed by waves of monstrous Terminid mutants. Forced to fight for Life and Liberty, the Helldivers were unable to meet target sample numbers.\n\nOutpost Alpha remains safe, and the path to the Hive World remains open. Soon, our boots will thunder down that path once more, squishing every bug in their way."
+  },
+  {
+    "id": 3408,
+    "published": 49500176,
+    "type": 0,
+    "tagIds": [],
+    "message": "DRAGONROACH ATTACK\n\nTerminid Dragonroaches have been reported attacking the cities on CRIMSICA."
+  },
+  {
+    "id": 3409,
+    "published": 49501791,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nMultiple Gloom-adjacent planets have come under heavy Terminid attack. There are worrying signs the Gloom itself may be expanding, for the first time since the end of its initial expansion. \n\nThe Helldivers are called to the immediate defense of all besieged planets. Be advised: there are unverified reports of mutated Terminid strains, previously confined to the Gloom, on the battlefield."
   }
 ]
