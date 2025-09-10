@@ -4293,5 +4293,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nMultiple Gloom-adjacent planets have come under heavy Terminid attack. There are worrying signs the Gloom itself may be expanding, for the first time since the end of its initial expansion. \n\nThe Helldivers are called to the immediate defense of all besieged planets. Be advised: there are unverified reports of mutated Terminid strains, previously confined to the Gloom, on the battlefield."
+  },
+  {
+    "id": 3410,
+    "published": 49589103,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Recoilless Rifle Stratagem for the next 24 hours."
   }
 ]
