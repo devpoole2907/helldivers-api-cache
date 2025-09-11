@@ -4314,5 +4314,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC IMPERATIVE\n\nGACRUX has become infested by the Terminids, and the planet's system is now infused with low levels of Gloom spores. Left uncleansed, it is believed the Gloom will grow in density.\n\nSwift action is critical; the planet must be re-liberated before the Gloom can grow. The more intense the Gloom becomes, the more difficult liberation of the planet will become."
+  },
+  {
+    "id": 3413,
+    "published": 49675545,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nRecoilless Rifle Stratagem availability has now ended."
   }
 ]
