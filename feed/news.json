@@ -4300,5 +4300,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Recoilless Rifle Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3411,
+    "published": 49653134,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM SPREAD TO GACRUX\n\nGACRUX has become infested by Terminids, and low levels of Gloom now infuse the planetary system. The planet must be retaken quickly, before the Gloom can grow in intensity."
   }
 ]
