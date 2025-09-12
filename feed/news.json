@@ -4335,5 +4335,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC IMPERATIVE MET\n\nGACRUX has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside. \n\nThe planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment."
+  },
+  {
+    "id": 3417,
+    "published": 49788562,
+    "type": 0,
+    "tagIds": [],
+    "message": "OUTPOST ALPHA UNDER ATTACK\n\nOutpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom."
+  },
+  {
+    "id": 3416,
+    "published": 49788689,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATAGEM GRANTED\n\nThe Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours."
   }
 ]
