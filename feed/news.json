@@ -4349,5 +4349,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM GRANTED\n\nThe Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours."
+  },
+  {
+    "id": 3418,
+    "published": 49791387,
+    "type": 0,
+    "tagIds": [],
+    "message": "SUBTERRANEAN DISRUPTIONS\n\nSignificant subterranean disruptions have been reported on HELLMIRE. There have been unverified reports of massive Terminids. Hive Lord presence is possible."
   }
 ]
