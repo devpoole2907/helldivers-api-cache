@@ -4356,5 +4356,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SUBTERRANEAN DISRUPTIONS\n\nSignificant subterranean disruptions have been reported on HELLMIRE. There have been unverified reports of massive Terminids. Hive Lord presence is possible."
+  },
+  {
+    "id": 3419,
+    "published": 49961679,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nFlamethrower Stratagem availability has now ended."
   }
 ]
