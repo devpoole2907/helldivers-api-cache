@@ -4363,5 +4363,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nFlamethrower Stratagem availability has now ended."
+  },
+  {
+    "id": 3420,
+    "published": 50005494,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe outpouring of Terminids from the Gloom appears to have subsided. The damage has been severe, but thanks to the swift intervention of the Helldivers, the worst has been prevented. Consult your Galactic Map for more details."
   }
 ]
