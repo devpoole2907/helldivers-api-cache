@@ -4377,5 +4377,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM SPREAD DETECTED\n\nThe Gloom is spreading amongst Terminid-occupied worlds. ESKER is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately."
+  },
+  {
+    "id": 3422,
+    "published": 50068168,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW ALEXANDRIA SECURED\n\nA small but fervent cohort of Helldivers has successfully repelled the Illuminate menace from New Alexandra, a city on the planet Seyshel Beach. While the city itself bears no particular strategic significance, the single-minded focus of these Helldivers is nevertheless an inspiration to all."
   }
 ]
