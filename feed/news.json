@@ -4426,5 +4426,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ZEFIA LIBERATED\n\n ZEFIA has been liberated. The high-tech mine on MINTORIA is within reach."
+  },
+  {
+    "id": 3429,
+    "published": 50485041,
+    "type": 0,
+    "tagIds": [],
+    "message": "MINTORIA HAS BEEN LIBERATED\n\nSubsurface habitat technologies from the mine on MINTORIA are being dismantled and reverse-engineered. Upon remantling of these repatriated technologies, mining operations are set to resume under the planet\u2019s rightful Super Earth flag."
   }
 ]
