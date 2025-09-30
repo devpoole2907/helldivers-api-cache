@@ -4489,5 +4489,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OUTPOST ALPHA UNDER ATTACK\n\nOutpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom."
+  },
+  {
+    "id": 3438,
+    "published": 51299428,
+    "type": 0,
+    "tagIds": [],
+    "message": "KARLIA LIBERATED\n\nKARLIA has been liberated. The DSS has been warped to the planet. \n\nEngineers have begun upgrading the DSS."
   }
 ]
