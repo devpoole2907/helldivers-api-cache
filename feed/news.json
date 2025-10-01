@@ -4510,5 +4510,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM SPREAD DETECTED\n\nThe Gloom is spreading amongst Terminid-occupied worlds. ESTANU is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately."
+  },
+  {
+    "id": 3441,
+    "published": 51405840,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nKeys to unlock critical Automaton data are located on MENKENT and AESIR PASS. The encryption key on MENKENT would unlock intel regarding Vessel 00; the cache on AESIR PASS would unlock intel regarding the Nucleus.\n\nThe Automatons will purge all data from one site as soon as the other is compromised. Only one encryption key can be recovered.\n\nThe Helldivers must choose whether to liberate MENKENT or AESIR PASS. "
   }
 ]
