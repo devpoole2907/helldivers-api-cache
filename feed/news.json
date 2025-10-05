@@ -4517,5 +4517,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nKeys to unlock critical Automaton data are located on MENKENT and AESIR PASS. The encryption key on MENKENT would unlock intel regarding Vessel 00; the cache on AESIR PASS would unlock intel regarding the Nucleus.\n\nThe Automatons will purge all data from one site as soon as the other is compromised. Only one encryption key can be recovered.\n\nThe Helldivers must choose whether to liberate MENKENT or AESIR PASS. "
+  },
+  {
+    "id": 3442,
+    "published": 51778105,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated MENKENT from the Automatons. The encryption key identified by intel has been secured and transmitted, and used to de-encrypt files from Database One concerning Vessel 00.\n\nConsult the Galactic Map for more information."
   }
 ]
