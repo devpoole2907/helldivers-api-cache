@@ -4524,5 +4524,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated MENKENT from the Automatons. The encryption key identified by intel has been secured and transmitted, and used to de-encrypt files from Database One concerning Vessel 00.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3443,
+    "published": 51789944,
+    "type": 0,
+    "tagIds": [],
+    "message": "The M-105 Stalwart stratagem is temporarily available to all Helldivers."
   }
 ]
