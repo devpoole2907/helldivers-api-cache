@@ -4552,5 +4552,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM SPREAD DETECTED\n\nThe Gloom is spreading amongst Terminid-occupied worlds. ERATA PRIME is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately."
+  },
+  {
+    "id": 3447,
+    "published": 52337721,
+    "type": 0,
+    "tagIds": [],
+    "message": "OUTPOST ALPHA UNDER ATTACK\n\nOutpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom."
   }
 ]
