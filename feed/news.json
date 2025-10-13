@@ -4559,5 +4559,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OUTPOST ALPHA UNDER ATTACK\n\nOutpost Alpha on HELLMIRE is under attack. If it is lost, we will lose access to the Hive World within the Gloom."
+  },
+  {
+    "id": 3448,
+    "published": 52432471,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM SPREAD DETECTED\n\nGloom spores have been detected in the atmosphere of CRIMSICA, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom."
   }
 ]
