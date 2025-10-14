@@ -4566,5 +4566,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM SPREAD DETECTED\n\nGloom spores have been detected in the atmosphere of CRIMSICA, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom."
+  },
+  {
+    "id": 3449,
+    "published": 52513858,
+    "type": 0,
+    "tagIds": [],
+    "message": "ALAIRT III, HERTHON SECUNDUS, and ZEA RUGOSIA have been returned to the dominion of Super Earth. The ancient Illuminate structures present on these planets have been cordoned off, and archaeological excavation has begun.\n\nConsult the Galactic Map for more information.\n"
   }
 ]
