@@ -4622,5 +4622,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nFollowing weeks of preparation, SEAF forces stand at the brink of liberating the Terminid Hive World, Oshaune. \n\nThe offensive will launch from Gloom Base Alpha on Hellmire. The Helldivers are ordered to prepare for the impending offensive by liberating ERATA PRIME and ESTANU to better protect Hellmire from Terminid attacks upon it."
+  },
+  {
+    "id": 3458,
+    "published": 53162681,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately.\n\nIn the current operational context, liberating ESTANU would end the current Terminid attack on HELLMIRE."
   }
 ]
