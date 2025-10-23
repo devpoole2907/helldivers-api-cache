@@ -4629,5 +4629,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately.\n\nIn the current operational context, liberating ESTANU would end the current Terminid attack on HELLMIRE."
+  },
+  {
+    "id": 3459,
+    "published": 53294961,
+    "type": 0,
+    "tagIds": [],
+    "message": "GLOOM SPREAD DETECTED\n\nGloom spores have been detected in the atmosphere of GACRUX, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom."
   }
 ]
