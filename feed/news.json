@@ -4636,5 +4636,12 @@
     "type": 0,
     "tagIds": [],
     "message": "GLOOM SPREAD DETECTED\n\nGloom spores have been detected in the atmosphere of GACRUX, as Terminids invade the planet. If the planet falls, it may become enveloped by the Gloom."
+  },
+  {
+    "id": 3460,
+    "published": 53472868,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated Erata Prime and Estanu, establishing a security buffer around Hellmire.\n\nNow, the strategic conditions to liberate Oshaune are finally set. With great valor and sacrifice, the Terminid Hive World will at last be freed."
   }
 ]
