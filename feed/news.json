@@ -4664,5 +4664,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe time has come to liberate the Hive World. All Helldivers are ordered to deploy to OSHAUNE.\n\nDo not relent until it is purged.\n"
+  },
+  {
+    "id": 3464,
+    "published": 53738837,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS DEPLOYED TO OSHAUNE\n\nIn an effective exercise of Managed Democracy, the Helldivers have elected to deploy the DSS to OSHAUNE. The onboard Atmospheric Autoclave has begun sterilizing Gloom spores on the planet, weakening Terminid resistance."
   }
 ]
