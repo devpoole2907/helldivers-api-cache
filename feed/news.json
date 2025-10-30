@@ -4685,5 +4685,12 @@
     "type": 0,
     "tagIds": [],
     "message": "RUPTURE STRAIN OBSERVED\n\nOutbreaks of the Terminid Rupture Strain have erupted on TERREK and GACRUX. SEAF defenses are overrun; citizens are imperiled. \n\nThe Strain has been dormant for some time, but High Command always predicted its eventual resurgence. It seems the burrowing Terminids hid themselves deep underneath the ground, waiting to strike."
+  },
+  {
+    "id": 3467,
+    "published": 53888070,
+    "type": 0,
+    "tagIds": [],
+    "message": "RUPTURE STRAIN OUTBREAK\n\nThe Terminid Rupture strain has erupted on CRIMSICA.\n"
   }
 ]
