@@ -4706,5 +4706,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC THREAT\n\nEnemy resistance on Oshaune has spiked, precipitated by an unexpectedly high amount of Hive Lords. SEAF forces have been devastated. The Helldivers are ordered to kill 50,000 Hive Lords to bring enemy resistance back down.\n"
+  },
+  {
+    "id": 3470,
+    "published": 54039981,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXO-49 EMANCIPATOR EXOSUIT TEMPORARILY AVAILABLE\n\nHigh Command has authorized the EXO-49 Emancipator Exosuit Stratagem for all Oshaune deployments for the next 24 hours. \n\nThe limited window of availability is all that can be afforded, due to our previous failure to liberate VARYLIA 5."
   }
 ]
