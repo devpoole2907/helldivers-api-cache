@@ -4734,5 +4734,19 @@
     "type": 0,
     "tagIds": [],
     "message": "OSHAUNE RESISTANCE SPIKE\n\nTerminid activity on Oshaune has sharply increased, slowing progress to liberate the Hive World. Analysts believe this increased activity is a collective response to the threat posed by the ongoing offensive. In other words, it is proof that we are winning.\n\nDo not relent. The Hive World must be purged."
+  },
+  {
+    "id": 3474,
+    "published": 54100402,
+    "type": 0,
+    "tagIds": [],
+    "message": "OSHAUNE RESISTANCE SPIKE\n\nTerminid activity on Oshaune has sharply increased, slowing progress to liberate the Hive World. Analysts believe this increased activity is a collective response to the threat posed by the ongoing offensive. In other words, it is proof that we are winning.\n\nDo not relent. The Hive World must be purged."
+  },
+  {
+    "id": 3475,
+    "published": 54100567,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC THREAT COUNTERED\n\nThe Helldivers have culled the directed amount of Hive Lords. As a result, Terminid resistance on OSHAUNE has returned to normal levels.\n"
   }
 ]
