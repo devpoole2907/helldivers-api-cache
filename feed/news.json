@@ -4727,5 +4727,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS GLOOM SHIELDING DEGRADING\n\nThe spore-resistance polymer shielding the DSS from the Gloom is beginning to show early signs of degradation. DSS operation remains unaffected for now, but Gloom spores will eventually eat through the polymer and damage the station, should the DSS remains within the Gloom for an extended period of time."
+  },
+  {
+    "id": 3473,
+    "published": 54087517,
+    "type": 0,
+    "tagIds": [],
+    "message": "OSHAUNE RESISTANCE SPIKE\n\nTerminid activity on Oshaune has sharply increased, slowing progress to liberate the Hive World. Analysts believe this increased activity is a collective response to the threat posed by the ongoing offensive. In other words, it is proof that we are winning.\n\nDo not relent. The Hive World must be purged."
   }
 ]
