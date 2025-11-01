@@ -4748,5 +4748,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC THREAT COUNTERED\n\nThe Helldivers have culled the directed amount of Hive Lords. As a result, Terminid resistance on OSHAUNE has returned to normal levels.\n"
+  },
+  {
+    "id": 3476,
+    "published": 54113671,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS CRITICAL\n\nThe anti-spore polymer shielding on the DSS is critically degraded following prolonged Gloom exposure. The station remains operational, but should it remain in Gloom space much longer, it will suffer a severe breakdown, requiring weeks to repair.\n\nMoving the DSS now to KARLIA to re-apply the polymer coating would prevent this damage. The Helldivers must decide whether to take the DSS out of the action on Oshaune, or risk lasting damage to the station."
   }
 ]
