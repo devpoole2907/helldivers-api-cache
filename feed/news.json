@@ -4713,5 +4713,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXO-49 EMANCIPATOR EXOSUIT TEMPORARILY AVAILABLE\n\nHigh Command has authorized the EXO-49 Emancipator Exosuit Stratagem for all Oshaune deployments for the next 24 hours. \n\nThe limited window of availability is all that can be afforded, due to our previous failure to liberate VARYLIA 5."
+  },
+  {
+    "id": 3471,
+    "published": 54050552,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS GLOOM SHIELDING DEGRADING\n\nThe spore-resistance polymer shielding the DSS from the Gloom is beginning to show early signs of degradation. DSS operation remains unaffected for now, but Gloom spores will eventually eat through the polymer and damage the station, should the DSS remains within the Gloom for an extended period of time."
   }
 ]
