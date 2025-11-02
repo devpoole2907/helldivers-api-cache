@@ -4762,5 +4762,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS WITHDRAWN\n\nThe Democracy Space Station has conducted an emergency warp to KARLIA to avert catastrophic system failure. It will remain out of commission until Gloom spores are fully cleansed from the station."
+  },
+  {
+    "id": 3478,
+    "published": 54171086,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS CLEANSED\n\nThe DSS has been cleansed from gloom spores and is ready for re-deployment to OSHAUNE.\n"
   }
 ]
