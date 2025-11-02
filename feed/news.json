@@ -4755,5 +4755,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS CRITICAL\n\nThe anti-spore polymer shielding on the DSS is critically degraded following prolonged Gloom exposure. The station remains operational, but should it remain in Gloom space much longer, it will suffer a severe breakdown, requiring weeks to repair.\n\nMoving the DSS now to KARLIA to re-apply the polymer coating would prevent this damage. The Helldivers must decide whether to take the DSS out of the action on Oshaune, or risk lasting damage to the station."
+  },
+  {
+    "id": 3477,
+    "published": 54127894,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS WITHDRAWN\n\nThe Democracy Space Station has conducted an emergency warp to KARLIA to avert catastrophic system failure. It will remain out of commission until Gloom spores are fully cleansed from the station."
   }
 ]
