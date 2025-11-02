@@ -4769,5 +4769,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS CLEANSED\n\nThe DSS has been cleansed from gloom spores and is ready for re-deployment to OSHAUNE.\n"
+  },
+  {
+    "id": 3479,
+    "published": 54194489,
+    "type": 0,
+    "tagIds": [],
+    "message": "OSHAUNE ALMOST LIBERATED\n\nOSHAUNE is nearly liberated. Remaining Terminid resistance is expected to be fierce. The infestation runs deep.\n\nDo not relent. All forces are directed to push on OSHAUNE.\n"
   }
 ]
