@@ -4790,5 +4790,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM AUTHORIZED ON OSHAUNE\n\nTerminid resistance on OSHAUNE has been extremely high, as expected for the infested Hive World. The offensive is in danger of failing.\n\nOperational momentum must be regained. High Command has authorized the use of the Recoilless Rifle Stratagem on OSHAUNE for the next 24 hours.\n"
+  },
+  {
+    "id": 3483,
+    "published": 54237638,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARP PACK TEMPORARILY AVAILABLE\n\nHigh Command has authorized the WARP PACK Stratagem for all Oshaune deployments for the next 24 hours. \n\nThe limited window of availability is all that can be afforded, due to our previous failure to liberate OASIS."
   }
 ]
