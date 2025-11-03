@@ -4804,5 +4804,12 @@
     "type": 0,
     "tagIds": [],
     "message": "HIVE WORLD NEARING LIBERATION\n\nThe liberation of Oshaune is nearly complete. A significant spike in Terminid activity, both on the planet itself and from all reaches of the Gloom, has been observed. This is to be expected; the Terminid swarm senses its impending doom. \n\nThis is the final stage of the operation. Push forward. Finish the mission."
+  },
+  {
+    "id": 3485,
+    "published": 54289341,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nThe temporary additional use of the Recoilless Rifle Stratagem has ended."
   }
 ]
