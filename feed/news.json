@@ -4811,5 +4811,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nThe temporary additional use of the Recoilless Rifle Stratagem has ended."
+  },
+  {
+    "id": 3486,
+    "published": 54294599,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nA great victory has been won. Through fortitude and ingenuity, the haze of the Gloom has been pierced. The first great hurdle towards dispersing its maleficence has been cleared.\n\nHive World OSHAUNE has been liberated. Consult your Galactic Map for more information.\n"
   }
 ]
