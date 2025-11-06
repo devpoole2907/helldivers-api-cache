@@ -4825,5 +4825,12 @@
     "type": 0,
     "tagIds": [],
     "message": "WARFRONT DEVELOPMENT\n\nA catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on FENMIRE."
+  },
+  {
+    "id": 3489,
+    "published": 54512371,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe reconstruction of York Supreme has been ordered to commence posthaste. ANDAR and ASPEROTH PRIME contain large, mostly untapped reserves of limestone, iron ore, and gravel. \n\nThe Helldivers are ordered to hold ANDAR and ASPEROTH PRIME until extraction of sufficient materials is complete."
   }
 ]
