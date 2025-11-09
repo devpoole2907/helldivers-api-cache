@@ -4839,5 +4839,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nThe last remaining rainforests on Super Earth were a tragic casualty of the Illuminate invasion. The Ministry of Prosperity has launched a restoration operation, to preserve and conserve the natural beauty of the galaxy. \n\nThe native flora of BARABOS is similar to those of the lost rainforests. The Helldivers are ordered to liberate BARABOS from the enemy, so its plant life can be carefully uprooted and re-planted on Super Earth."
+  },
+  {
+    "id": 3491,
+    "published": 54744744,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\n\nBARABOS has been liberated. Ministry of Prosperity conservationists are hard at work uprooting cultivars and plant material to re-seed one Super Earth's destroyed rainforests. Soon, Super Earth's natural beauty will be restored, thanks to the ecological protection efforts of the Helldivers.\n"
+  },
+  {
+    "id": 3492,
+    "published": 54745069,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours."
   }
 ]
