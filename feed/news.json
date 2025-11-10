@@ -4853,5 +4853,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3493,
+    "published": 54831458,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Napalm Barrage Stratagem availability has now ended."
   }
 ]
