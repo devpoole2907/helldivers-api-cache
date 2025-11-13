@@ -4867,5 +4867,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have valiantly saved ANDAR and ASPEROTH PRIME from the grasping tentacles of the Illuminate. Thanks to their efforts, vast quantities of raw construction materials have been extracted, molded into prefabricated buildings, and shipped to Super Earth.\n\nNow, the reconstruction of York Supreme can begin. Consult the Galactic Map for more information."
+  },
+  {
+    "id": 3495,
+    "published": 55124215,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Center for Citizen Surveillance & Safety has released a disturbing report: several domestic planets are rife with dissident activity.\n\nIt is critical to expand the Center as soon as possible. The Helldivers are ordered to secure 15,000,000 Illuminate samples and 62,500,000 Automaton samples, which will be used to aid development of surveillance technology.\n\nConsult your Galactic Map for more information."
   }
 ]
