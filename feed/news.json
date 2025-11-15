@@ -4874,5 +4874,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Center for Citizen Surveillance & Safety has released a disturbing report: several domestic planets are rife with dissident activity.\n\nIt is critical to expand the Center as soon as possible. The Helldivers are ordered to secure 15,000,000 Illuminate samples and 62,500,000 Automaton samples, which will be used to aid development of surveillance technology.\n\nConsult your Galactic Map for more information."
+  },
+  {
+    "id": 3496,
+    "published": 55267483,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW STRATEGIC OPPORTUNITY\n\nCitizen fear is high following the CCSS report of dissidents lurking among us. Loyal citizens deserve to live in safety.\n\nWhile dissidents lurk in the shadows, The Voteless are out in the open, where they may be easily targeted by military weaponry. Kill 5,000,000 Voteless with the Orbital Laser Stratagem, and show loyal citizens and dissidents alike the fate of those who stray from Liberty\u2019s Light."
+  },
+  {
+    "id": 3497,
+    "published": 55267622,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 72 hours."
   }
 ]
