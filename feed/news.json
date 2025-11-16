@@ -4888,5 +4888,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Laser Stratagem for the next 72 hours."
+  },
+  {
+    "id": 3498,
+    "published": 55366639,
+    "type": 0,
+    "tagIds": [],
+    "message": "The LAS-98 Laser Cannon stratagem is temporarily available to all Helldivers."
   }
 ]
