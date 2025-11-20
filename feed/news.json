@@ -4916,5 +4916,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have secured the resources needed to expand the Center for Citizen Surveillance & Safety, far beyond its walls. Consult the Galactic Map for more information."
+  },
+  {
+    "id": 3502,
+    "published": 55730084,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nIncursions have been detected on all three fronts. The Helldivers are called to their immediate defense.\n\nSEAF defensive garrisons are stretched thin by efforts to quell the dissident crisis on GAELLIVARE, ALTA V, and DILUVIA. The enemy is taking advantage of the vulnerabilities this created in our lines.\n\nConsult the Galactic Map for more information."
   }
 ]
