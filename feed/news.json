@@ -4909,5 +4909,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER ADVISORY\n\nAutomaton sample collection for the current Major Order is currently projected to barely fall short of requirements. But success is still within reach. High Command advises all Helldivers to focus efforts upon acquisition of Automaton samples for the next 24 hours."
+  },
+  {
+    "id": 3501,
+    "published": 55728935,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have secured the resources needed to expand the Center for Citizen Surveillance & Safety, far beyond its walls. Consult the Galactic Map for more information."
   }
 ]
