@@ -4923,5 +4923,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nIncursions have been detected on all three fronts. The Helldivers are called to their immediate defense.\n\nSEAF defensive garrisons are stretched thin by efforts to quell the dissident crisis on GAELLIVARE, ALTA V, and DILUVIA. The enemy is taking advantage of the vulnerabilities this created in our lines.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3503,
+    "published": 55903607,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Walking Barrage Stratagem for the next 24 hours."
   }
 ]
