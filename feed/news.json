@@ -4930,5 +4930,19 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Walking Barrage Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3504,
+    "published": 55908081,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on MERAK."
+  },
+  {
+    "id": 3505,
+    "published": 55908140,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
   }
 ]
