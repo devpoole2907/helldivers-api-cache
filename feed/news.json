@@ -4944,5 +4944,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
+  },
+  {
+    "id": 3506,
+    "published": 55990353,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Walking Barrage Stratagem availability has now ended."
   }
 ]
