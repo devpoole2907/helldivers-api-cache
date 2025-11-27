@@ -4951,5 +4951,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nOrbital Walking Barrage Stratagem availability has now ended."
+  },
+  {
+    "id": 3507,
+    "published": 56335179,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe enemy has gained ground on multiple fronts. Forces have been pulled back in retreat as all 3 factions push forward. Fierce, stalwart Helldiver resistance forestalled catastrophe, but the losses are nevertheless significant. Consult the Galactic Map for more information.\n"
   }
 ]
