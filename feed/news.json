@@ -4958,5 +4958,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe enemy has gained ground on multiple fronts. Forces have been pulled back in retreat as all 3 factions push forward. Fierce, stalwart Helldiver resistance forestalled catastrophe, but the losses are nevertheless significant. Consult the Galactic Map for more information.\n"
+  },
+  {
+    "id": 3508,
+    "published": 56339612,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Government of Super Earth has declared a new war: The War on Dissidence. SEAF units have been deployed in force to cities across the Federation. Our enemies are expected to attempt to exploit this vulnerability; the Helldivers must hold the line.\n\nAdditionally, High Command has ordered the construction of the Center for the Containment of Dissidence on AFOYAY BAY. The Helldivers are additionally ordered to liberate AFOYAY BAY."
   }
 ]
