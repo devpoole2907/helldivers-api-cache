@@ -4965,5 +4965,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Government of Super Earth has declared a new war: The War on Dissidence. SEAF units have been deployed in force to cities across the Federation. Our enemies are expected to attempt to exploit this vulnerability; the Helldivers must hold the line.\n\nAdditionally, High Command has ordered the construction of the Center for the Containment of Dissidence on AFOYAY BAY. The Helldivers are additionally ordered to liberate AFOYAY BAY."
+  },
+  {
+    "id": 3509,
+    "published": 56394856,
+    "type": 0,
+    "tagIds": [],
+    "message": "AMMO RATIONING\n\nHelldivers will be issued 25% less ammunition on deployment for the near future, in order to support the maintenance of law and order as dissident apprehension continues."
   }
 ]
