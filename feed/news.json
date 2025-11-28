@@ -4972,5 +4972,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AMMO RATIONING\n\nHelldivers will be issued 25% less ammunition on deployment for the near future, in order to support the maintenance of law and order as dissident apprehension continues."
+  },
+  {
+    "id": 3510,
+    "published": 56441094,
+    "type": 0,
+    "tagIds": [],
+    "message": "STIM RATIONING\n\nOngoing nonlethal operations to maintain citizen safety during the War on Dissidence has led to a shortage of medical supplies. Helldiver stim rations will be reduced by 1 for the next 24 hours.\n"
   }
 ]
