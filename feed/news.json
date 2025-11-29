@@ -4979,5 +4979,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STIM RATIONING\n\nOngoing nonlethal operations to maintain citizen safety during the War on Dissidence has led to a shortage of medical supplies. Helldiver stim rations will be reduced by 1 for the next 24 hours.\n"
+  },
+  {
+    "id": 3511,
+    "published": 56484246,
+    "type": 0,
+    "tagIds": [],
+    "message": "Orbital Smoke Strike COOLDOWN INCREASE\n\nNonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds."
   }
 ]
