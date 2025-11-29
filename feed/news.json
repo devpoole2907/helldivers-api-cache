@@ -4986,5 +4986,12 @@
     "type": 0,
     "tagIds": [],
     "message": "Orbital Smoke Strike COOLDOWN INCREASE\n\nNonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds."
+  },
+  {
+    "id": 3512,
+    "published": 56528600,
+    "type": 0,
+    "tagIds": [],
+    "message": "FRV COOLDOWN INCREASE\n\nFRV Stratagem cooldowns will be temporarily increased by 60 seconds in order to support SEAF operations to maintain order within Super Earth cities."
   }
 ]
