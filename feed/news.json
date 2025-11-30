@@ -4993,5 +4993,12 @@
     "type": 0,
     "tagIds": [],
     "message": "FRV COOLDOWN INCREASE\n\nFRV Stratagem cooldowns will be temporarily increased by 60 seconds in order to support SEAF operations to maintain order within Super Earth cities."
+  },
+  {
+    "id": 3513,
+    "published": 56610215,
+    "type": 0,
+    "tagIds": [],
+    "message": "EAGLE REARM COOLDOWN INCREASE\n\nEagle fighters are being deployed to conduct flyovers over Super Earth cities to reassure loyal citizens of their safety during this tumultuous time. Eagle Rearm cooldowns will be increased by 60 seconds for the near future."
   }
 ]
