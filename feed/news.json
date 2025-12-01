@@ -5000,5 +5000,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EAGLE REARM COOLDOWN INCREASE\n\nEagle fighters are being deployed to conduct flyovers over Super Earth cities to reassure loyal citizens of their safety during this tumultuous time. Eagle Rearm cooldowns will be increased by 60 seconds for the near future."
+  },
+  {
+    "id": 3514,
+    "published": 56672149,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSUIT COOLDOWN INCREASE\n\nExosuits will be deployed to Super Earth city streets as a display of safety and security. As a result, Exosuit Stratagem cooldowns will be increased by 150 seconds until the end of the current dissident apprehension operation.\n"
   }
 ]
