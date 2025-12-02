@@ -5007,5 +5007,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXOSUIT COOLDOWN INCREASE\n\nExosuits will be deployed to Super Earth city streets as a display of safety and security. As a result, Exosuit Stratagem cooldowns will be increased by 150 seconds until the end of the current dissident apprehension operation.\n"
+  },
+  {
+    "id": 3515,
+    "published": 56753126,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW STRATEGIC OPPORTUNITY\n\nExtremely-high-confidence intel indicates the presence of dissidents hiding from justice in the jungles of Terminid-infested PHERKAD SECUNDUS.\n\nThe Helldivers are ordered to liberate PHERKAD SECUNDUS, to flush out the hidden dissidents and enable their apprehension."
   }
 ]
