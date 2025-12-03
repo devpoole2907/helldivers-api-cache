@@ -5014,5 +5014,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nExtremely-high-confidence intel indicates the presence of dissidents hiding from justice in the jungles of Terminid-infested PHERKAD SECUNDUS.\n\nThe Helldivers are ordered to liberate PHERKAD SECUNDUS, to flush out the hidden dissidents and enable their apprehension."
+  },
+  {
+    "id": 3516,
+    "published": 56839542,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY LOST\n\nThe Hellidvers have failed to liberate PHERKAD SECUNDUS. No trace of the dissidents was found; still they elude Justice, hiding amongst the Terminids with whom they no doubt sympathize."
   }
 ]
