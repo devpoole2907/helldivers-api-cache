@@ -3997,5 +3997,50 @@
         "description": "Frequent earthquakes stun players and enemies alike."
       }
     ]
+  },
+  "261": {
+    "name": "Fury",
+    "sector": "Xzar",
+    "biome": {
+      "slug": "magma",
+      "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
+    },
+    "environmentals": []
+  },
+  "262": {
+    "name": "K",
+    "sector": "Trigon",
+    "biome": {
+      "slug": "magma",
+      "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
+    },
+    "environmentals": []
+  },
+  "263": {
+    "name": "",
+    "sector": "",
+    "biome": "",
+    "environmentals": []
+  },
+  "264": {
+    "name": "",
+    "sector": "",
+    "biome": "",
+    "environmentals": []
+  },
+  "265": {
+    "name": "",
+    "sector": "",
+    "biome": "",
+    "environmentals": []
+  },
+  "266": {
+    "name": "Mox",
+    "sector": "Xzar",
+    "biome": {
+      "slug": "magma",
+      "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
+    },
+    "environmentals": []
   }
 }
