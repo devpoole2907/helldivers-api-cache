@@ -5028,5 +5028,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe first battle in the War on Dissidence has ended in a decisive victory, thanks to the Helldivers.\n\nGround has been broken on the Center for the Confinement of Dissidence (CECOD). Once built, CECOD will hold up to 15 million dissidents, enabling thorough and secure re-education. Consult the Galactic Map for more information."
+  },
+  {
+    "id": 3518,
+    "published": 56918015,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHelldiver operations have led to the discovery of Automaton operations on multiple Magma planets, previously outside of operational surveillance. These planets have been added to the Galactic Map.\n\nThe Helldivers are ordered to deploy to these planets immediately. BICEP, ADRENAL 8, and TERRENE are the initial targets. Seize the Automaton industrial facilities so they may be turned towards Democratic Prosperity. \n"
   }
 ]
