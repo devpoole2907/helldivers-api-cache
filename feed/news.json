@@ -5035,5 +5035,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nHelldiver operations have led to the discovery of Automaton operations on multiple Magma planets, previously outside of operational surveillance. These planets have been added to the Galactic Map.\n\nThe Helldivers are ordered to deploy to these planets immediately. BICEP, ADRENAL 8, and TERRENE are the initial targets. Seize the Automaton industrial facilities so they may be turned towards Democratic Prosperity. \n"
+  },
+  {
+    "id": 3519,
+    "published": 57266463,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on MERAK."
+  },
+  {
+    "id": 3520,
+    "published": 57266483,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
   }
 ]
