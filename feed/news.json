@@ -5049,5 +5049,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT\n\nThe Automaton Incineration Corps has been reported on AURORA BAY."
+  },
+  {
+    "id": 3521,
+    "published": 57359842,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Eagle Napalm Airstrike Stratagem for the next 96 hours."
   }
 ]
