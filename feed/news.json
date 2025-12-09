@@ -5056,5 +5056,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Eagle Napalm Airstrike Stratagem for the next 96 hours."
+  },
+  {
+    "id": 3522,
+    "published": 57389256,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATAGEM GRANTED\n\nThe Flamethrower Stratagem has been authorized for immediate use, for the next 24 hours."
   }
 ]
