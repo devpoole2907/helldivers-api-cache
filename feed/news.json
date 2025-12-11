@@ -5070,5 +5070,12 @@
     "type": 0,
     "tagIds": [],
     "message": "COMMEMORATIVE CAPE\n\nIn recognition of the Helldivers' historic liberation of the Hive World Oshaune, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately."
+  },
+  {
+    "id": 3524,
+    "published": 57522883,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed.\n\nThe facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information.\n"
   }
 ]
