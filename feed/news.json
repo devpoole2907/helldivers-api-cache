@@ -5091,5 +5091,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW HIVE WORLD\n\nGloom outflow analysis from Oshaune has identified another Terminid Hive World. Hive Worlds are nests of Tyranny, producers of Gloom spores, and of valuable E-711. In order to protect our citizens from the threat of the Gloom, and ensure the uninterrupted extraction of E-711, High Command has authorized Helldiver operations on Omicron, effective immediately."
+  },
+  {
+    "id": 3527,
+    "published": 57705673,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nEagle Napalm Airstrike Stratagem availability has now ended."
   }
 ]
