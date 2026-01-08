@@ -5259,5 +5259,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nOperation Free Space proceeds on schedule. Its centerpiece is the creation of the Star of Peace, an augmentation to the Democracy Space Station.\n\nThe primary weapon of the Star of Peace is a cutting-edge beam of ionized Dark Fluid. Synthesizing sufficient Dark Fluid to fire the Star of Peace even once will require vast amounts of E-711.\n\nThe Helldivers are ordered to enable high-risk E-711 extraction on the mostly-untouched Hive World of Omicron."
+  },
+  {
+    "id": 3551,
+    "published": 59951517,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Terminid Hive World of Omicron has proven extremely infested, frustrating efforts to extract E-711 from the planet.\n\nWhile some E-711 was secured, synthesizing it into Dark Fluid remains a highly inefficient process. Currently, projected yields are insufficient to enable the Star of Peace to fire. \n\nConsult the Galactic Map for more details.\n"
+  },
+  {
+    "id": 3552,
+    "published": 59952079,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER \n\nThe Star of Peace requires thermal shielding to withstand firing its high-yield beam, optimized for mass Freedom dispensation.\n\nHelldivers: hold the Magma Planets to secure the mining infrastructure from Automaton greed, and to enable harvesting of their internal iridium-infused heatsinks."
   }
 ]
