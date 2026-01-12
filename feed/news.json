@@ -5294,5 +5294,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nJump Pack Stratagem availability has now ended."
+  },
+  {
+    "id": 3556,
+    "published": 60320029,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\nThe Helldivers have liberated VOG-SOJOTH, setting the strategic conditions for the success of Operation Free Space."
   }
 ]
