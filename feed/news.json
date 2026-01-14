@@ -5301,5 +5301,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY SEIZED\nThe Helldivers have liberated VOG-SOJOTH, setting the strategic conditions for the success of Operation Free Space."
+  },
+  {
+    "id": 3557,
+    "published": 60470460,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have secured the Magma Planets. Internal components harvested from sufficiently-intact Automatons have equipped the Star of Peace  with the thermal shielding it required.\n\nThe Star of Peace nears operational readiness, and will deliver Operation Free Space imminently. Consult the Galactic Map for more information."
+  },
+  {
+    "id": 3558,
+    "published": 60470520,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe DSS will soon be augmented with the Star of Peace, a defensive weapon capable of collapsing entire planets. The Helldivers will vote on which planet to target, beginning in 48 hours. They must ensure the selected planet is adjacent to a planet under Super Earth control at the time of firing.\n\nThere are three potential targets, one per faction: Penta, Valmox, and Zagon Prime."
   }
 ]
