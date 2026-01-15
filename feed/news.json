@@ -5315,5 +5315,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe DSS will soon be augmented with the Star of Peace, a defensive weapon capable of collapsing entire planets. The Helldivers will vote on which planet to target, beginning in 48 hours. They must ensure the selected planet is adjacent to a planet under Super Earth control at the time of firing.\n\nThere are three potential targets, one per faction: Penta, Valmox, and Zagon Prime."
+  },
+  {
+    "id": 3559,
+    "published": 60556860,
+    "type": 0,
+    "tagIds": [],
+    "message": "STAR OF PEACE VOTING IN 24 HOURS\n\nIn 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: Penta, Afoyay Bay, or Zagon Prime.\n\nThe Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing."
   }
 ]
