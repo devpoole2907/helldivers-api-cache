@@ -5322,5 +5322,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STAR OF PEACE VOTING IN 24 HOURS\n\nIn 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: Penta, Afoyay Bay, or Zagon Prime.\n\nThe Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing."
+  },
+  {
+    "id": 3560,
+    "published": 60643260,
+    "type": 0,
+    "tagIds": [],
+    "message": "STAR OF PEACE VOTING HAS BEGUN\n\nHelldivers are advised to access the Democracy Space Station voting panel from the Galactic Map. Helldivers may vote a single time.\n\nIf the chosen planet is not a strategically viable location at the time of firing\u2014if no planet adjacent to the targeted planet is held by Super Earth\u2014the second-highest voted planet will be targeted instead."
   }
 ]
