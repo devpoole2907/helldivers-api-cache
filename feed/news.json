@@ -5329,5 +5329,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STAR OF PEACE VOTING HAS BEGUN\n\nHelldivers are advised to access the Democracy Space Station voting panel from the Galactic Map. Helldivers may vote a single time.\n\nIf the chosen planet is not a strategically viable location at the time of firing\u2014if no planet adjacent to the targeted planet is held by Super Earth\u2014the second-highest voted planet will be targeted instead."
+  },
+  {
+    "id": 3561,
+    "published": 60841380,
+    "type": 0,
+    "tagIds": [],
+    "message": "STAR OF PEACE VOTING CONCLUDED\n\nThe voting period has ended. PENTA has been chosen by the Helldivers as the inaugural target of the Star of Peace. Firing will commence at the end of the Order period."
+  },
+  {
+    "id": 3562,
+    "published": 60842166,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nOperation Free Space has been successfully completed. In a triumph of Managed Democracy, the Star of Peace has fired upon PENTA, collapsing it into a black hole and destroying all enemy forces present.\n\nThe firing of this experimental defensive weapon was a monumental success. However, the DSS sustained damage during the firing process, and must be taken offline for repairs for a short period of time."
   }
 ]
