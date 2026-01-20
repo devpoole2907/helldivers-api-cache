@@ -5343,5 +5343,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nOperation Free Space has been successfully completed. In a triumph of Managed Democracy, the Star of Peace has fired upon PENTA, collapsing it into a black hole and destroying all enemy forces present.\n\nThe firing of this experimental defensive weapon was a monumental success. However, the DSS sustained damage during the firing process, and must be taken offline for repairs for a short period of time."
+  },
+  {
+    "id": 3563,
+    "published": 60993541,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS MOVED\n\nHigh Command has ordered the transport of the Democracy Space Station, damaged during the firing of the Star of Peace, to Pandora Base on planet Afoyay Bay, to begin full-scale repair of the station."
   }
 ]
