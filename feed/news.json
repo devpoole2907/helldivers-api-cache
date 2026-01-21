@@ -5350,5 +5350,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS MOVED\n\nHigh Command has ordered the transport of the Democracy Space Station, damaged during the firing of the Star of Peace, to Pandora Base on planet Afoyay Bay, to begin full-scale repair of the station."
+  },
+  {
+    "id": 3564,
+    "published": 61072366,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nDisturbing evidence has come to light: the Star of Peace may have experienced a data breach at or near the time of firing. The station has been placed into lockdown. \n\nExacerbating the situation, intel indicates an imminent Illuminate attack on Afoyay Bay, seeking to destroy the Star of Peace. the Helldivers are ordered to clear a path through VALMOX and MYRIUM, while holding Afoyay Bay, to enable the evacuation of Pandora Base and CECOD personnel."
   }
 ]
