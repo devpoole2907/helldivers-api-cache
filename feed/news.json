@@ -5357,5 +5357,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nDisturbing evidence has come to light: the Star of Peace may have experienced a data breach at or near the time of firing. The station has been placed into lockdown. \n\nExacerbating the situation, intel indicates an imminent Illuminate attack on Afoyay Bay, seeking to destroy the Star of Peace. the Helldivers are ordered to clear a path through VALMOX and MYRIUM, while holding Afoyay Bay, to enable the evacuation of Pandora Base and CECOD personnel."
+  },
+  {
+    "id": 3565,
+    "published": 61159921,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW ELITE OPERATION\n\nIntel has pinpointed a secure bot database on CLASA. Cyberassault teams are prepared to breach the site. Their objective is at the highest level of secrecy. However, an orbital defense array prevents low-orbit Destroyer operation.\n\nElite Helldivers are ordered to deploy to CLASA and conduct Commando operations\u2014operations with severely limited Super Destroyer support\u2014in order to enable the upload teams to carry out their mission."
   }
 ]
