@@ -5378,5 +5378,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ELITE OPERATION COMPLETED\n\nThe Cyberassault teams have accomplished their mission, completing covert file transfer to the Automaton database.\n\nThe small cadre of Helldivers who enabled mission success displayed uncommon skill in their conduct of Commando missions, proving the viability of this new method by which to extend Freedom's reach even into deeply contested territory."
+  },
+  {
+    "id": 3568,
+    "published": 61510458,
+    "type": 0,
+    "tagIds": [],
+    "message": "COMMANDO OPERATION INITIATED\n\nAutomaton orbital defenses on AESIR PASS demand the employment of new Commando Operations on some regions of the planet. Helldivers seeking to prove themselves as the most elite of the elite are called to take on these operations."
   }
 ]
