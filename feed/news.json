@@ -5413,5 +5413,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS RETURNED TO SERVICE\n\nThe Democracy Space Station has been repaired and returned to service, following the defensive activation of the Star of Peace. \n\nThe Star of Peace itself lacks sufficient Dark Fluid to fire again. Until more E-711 can be gathered from which to synthesize Dark Fluid, the DSS will operate in a non-planetary-destroying capacity only."
+  },
+  {
+    "id": 3574,
+    "published": 62095738,
+    "type": 0,
+    "tagIds": [],
+    "message": "NIVEL 43 HAS FALLEN\n\nNivel 43 has fallen to Terminid infestation.\n\nIntelligence suggests the Terminids may be attempting to re-establish long-destroyed subterranean nurseries, a process likely expedited by the consumed biomass of Xenobiologists who negligently failed to evacuate.\n\nHigh Command has flagged these scientists for posthumous censure for providing unauthorized nutritional aid to the enemy."
   }
 ]
