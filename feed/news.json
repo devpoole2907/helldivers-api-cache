@@ -5441,5 +5441,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATAGEM: BASTION MK XVI\n\nTo secure the success of Operation VALID PRETEXT, the Bastion Mk XVI is now available.\n\nThis heavily armored Tank Destroyer newly accommodates a full squad for optimal dispensing of Liberty: a Driver and Gunner, plus two Spotters capable of engaging threats from open hatches."
+  },
+  {
+    "id": 3578,
+    "published": 62318886,
+    "type": 0,
+    "tagIds": [],
+    "message": "LESATH LIBERATED\n\nLesath is secure, freeing up Shield Generator Relay reserves, to be made available for 24 hours upon Cyberstan landfall.\n\nForces must advance:\n\nLiberate Menkent to seize additional ammunition, immediately granting Railgun availability for 24 hours.\n\nLiberate Chort Bay to secure pharmaceutical facilities, granting +1 Stim Capacity for 24 hours, banked for deployment on Cyberstan."
   }
 ]
