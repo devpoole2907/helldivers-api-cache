@@ -5448,5 +5448,12 @@
     "type": 0,
     "tagIds": [],
     "message": "LESATH LIBERATED\n\nLesath is secure, freeing up Shield Generator Relay reserves, to be made available for 24 hours upon Cyberstan landfall.\n\nForces must advance:\n\nLiberate Menkent to seize additional ammunition, immediately granting Railgun availability for 24 hours.\n\nLiberate Chort Bay to secure pharmaceutical facilities, granting +1 Stim Capacity for 24 hours, banked for deployment on Cyberstan."
+  },
+  {
+    "id": 3579,
+    "published": 62364813,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTE TO RAZE LESATH\n\nLESATH has been liberated. To fully raze any remaining Automaton structures, the DSS may conduct a day-long bombardment of the planet's surface. \n\nThis action would guarantee total destruction of enemy forces, and maximum vengeance for crimes committed. However, it would also render the DSS orbital support fully offline until the bombardment sequence has completed.\n\nThe Helldivers are ordered to vote on the best course of action. Each Helldiver may vote once via the Galactic Map."
   }
 ]
