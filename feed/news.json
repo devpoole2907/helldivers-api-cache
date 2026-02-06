@@ -5455,5 +5455,12 @@
     "type": 0,
     "tagIds": [],
     "message": "VOTE TO RAZE LESATH\n\nLESATH has been liberated. To fully raze any remaining Automaton structures, the DSS may conduct a day-long bombardment of the planet's surface. \n\nThis action would guarantee total destruction of enemy forces, and maximum vengeance for crimes committed. However, it would also render the DSS orbital support fully offline until the bombardment sequence has completed.\n\nThe Helldivers are ordered to vote on the best course of action. Each Helldiver may vote once via the Galactic Map."
+  },
+  {
+    "id": 3580,
+    "published": 62427602,
+    "type": 0,
+    "tagIds": [],
+    "message": "CHORT BAY LIBERATED\n\nIts labs grant +1 Stim Capacity for 24 hours, for use on Cyberstan.\n\nLiberate Merak to secure comms-relays, granting +20% Liberation Rate for 24 hours on Cyberstan.\n\nOr for immediate limited-time deployment, liberate:\n\nMenkent: seize ammo to grant Railgun.\nChoohe: seize heavy munitions to grant Airburst Rocket Launcher.\nAurora Bay: hinder the Jet Brigade and grant Jump Pack."
   }
 ]
