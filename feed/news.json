@@ -5489,5 +5489,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY: DENIAL OF RESURGENCE\n\nDuring Operation VALID PRETEXT, Helldivers may vote to raze newly-liberated planets, triggering a day-long DSS bombardment of the liberated planet's surface.\n\nThis guarantees total destruction of enemy forces, and maximum vengeance for crimes committed. However, it renders DSS orbital support fully offline until the bombardment sequence has completed.\n\nTherefore, Helldivers must exercise strategic judgment when voting on the best course of action."
+  },
+  {
+    "id": 3585,
+    "published": 62465139,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 12,500,000\nDAYS SINCE START OF OPERATION: 3\nREINFORCEMENTS REMAINING: 164,000,000"
   }
 ]
