@@ -5462,5 +5462,19 @@
     "type": 0,
     "tagIds": [],
     "message": "CHORT BAY LIBERATED\n\nIts labs grant +1 Stim Capacity for 24 hours, for use on Cyberstan.\n\nLiberate Merak to secure comms-relays, granting +20% Liberation Rate for 24 hours on Cyberstan.\n\nOr for immediate limited-time deployment, liberate:\n\nMenkent: seize ammo to grant Railgun.\nChoohe: seize heavy munitions to grant Airburst Rocket Launcher.\nAurora Bay: hinder the Jet Brigade and grant Jump Pack."
+  },
+  {
+    "id": 3581,
+    "published": 62451786,
+    "type": 0,
+    "tagIds": [],
+    "message": "DENIAL OF RESURGENCE VOTING CONCLUDED\n\nHelldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of LESATH.\n\nConsequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3582,
+    "published": 62453649,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL UPDATE\n\nAutomaton resistance on MERAK is lower than anticipated. Analysis indicates this is likely due to the destruction of Penta by the Star of Peace. This is yet another mark in the flawless strategic record of the Helldivers."
   }
 ]
