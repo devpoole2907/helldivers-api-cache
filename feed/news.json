@@ -5503,5 +5503,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 14,000,000\nDAYS SINCE START OF OPERATION: 4\nREINFORCEMENTS REMAINING: 150,000,000"
+  },
+  {
+    "id": 3589,
+    "published": 62550217,
+    "type": 0,
+    "tagIds": [],
+    "message": "DENIAL OF RESURGENCE VOTING CONCLUDED\n\nHelldivers have voted to retain Democracy Space Station (DSS) orbital support, in lieu of commencing orbital bombardment of CHORT BAY.\n\nConsequently, the DSS remains fully operational, and available to provide standard orbital support to directly aid the ongoing Operation VALID PRETEXT.\n\nConsult the Galactic Map for more information."
   }
 ]
