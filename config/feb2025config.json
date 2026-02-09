@@ -1,6 +1,6 @@
 {
     "alert": "Created by James Poole",
-    "prominentAlert": "",
+    "prominentAlert": "Data won't load? The Helldivers 2 API is experiencing some issues. Please stand by for a fix.",
     "season": "801",
     "showIlluminate": true,
     "apiAddress": "https://helldivers-2-dotnet.fly.dev/",
