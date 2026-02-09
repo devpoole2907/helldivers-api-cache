@@ -5628,5 +5628,19 @@
     "type": 0,
     "tagIds": [],
     "message": "173,000,000 DEAD HELLDIVERS NOW. PROBABLY, MORE.\n\nPROBABLY, MORE."
+  },
+  {
+    "id": 3607,
+    "published": 62743026,
+    "type": 0,
+    "tagIds": [],
+    "message": "SYSTEM CONTROL RESTORED\n\nIn a deplorable and cowardly cyberattack, the enemy commandeered top-secret Galactic Communications Systems to broadcast heinous and untrue lies. The attack has been repelled, and control over Super Earth systems has been restored.\n\nThis was a concerted campaign of psychological manipulation. These messages, while untrue, may have been disturbing. Personnel experiencing troubling thoughts or feelings as a result of viewing these messages are advised to report to their Democracy Officer."
+  },
+  {
+    "id": 3608,
+    "published": 62743313,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERATTACK ALERT\n\nA craven Automaton cyberattack caused temporary inaccuracies in the Galactic Map Reinforcement Tracker. Control has been reasserted, and the reinforcement count corrected."
   }
 ]
