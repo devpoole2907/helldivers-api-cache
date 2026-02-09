@@ -5649,5 +5649,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MERAK LIBERATED\n\nMERAK is under Super Earth control. SEAF forces have begun mass staging upon the planet, preparing for the assault on Cyberstan.\n\nCyberstan's orbit is extremely well-defended. A simultaneous, coordinated mass assault will be required to overwhelm the enemy defenses. \n\nThe assault on Cyberstan will begin in 15 hours."
+  },
+  {
+    "id": 3610,
+    "published": 62747109,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY: DENIAL OF RESURGENCE\n\nDuring Operation VALID PRETEXT, Helldivers may vote to raze newly-liberated planets, triggering a day-long DSS bombardment of the liberated planet's surface.\n\nThis guarantees total destruction of enemy forces, and maximum vengeance for crimes committed. However, it renders DSS orbital support fully offline until the bombardment sequence has completed.\n\nTherefore, Helldivers must exercise strategic judgment when voting on the best course of action."
+  },
+  {
+    "id": 3611,
+    "published": 62747687,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTE TO RAZE MERAK\n\nMERAK has been liberated. Once again, the Helldivers may choose to direct the vast firepower of the Democracy Space Station towards a total bombardment of the planet's surface.\n\nThe bombardment would last 24 hours. Voting has begun, and will end in 24 hours."
   }
 ]
