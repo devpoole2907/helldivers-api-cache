@@ -5642,5 +5642,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CYBERATTACK ALERT\n\nA craven Automaton cyberattack caused temporary inaccuracies in the Galactic Map Reinforcement Tracker. Control has been reasserted, and the reinforcement count corrected."
+  },
+  {
+    "id": 3609,
+    "published": 62746560,
+    "type": 0,
+    "tagIds": [],
+    "message": "MERAK LIBERATED\n\nMERAK is under Super Earth control. SEAF forces have begun mass staging upon the planet, preparing for the assault on Cyberstan.\n\nCyberstan's orbit is extremely well-defended. A simultaneous, coordinated mass assault will be required to overwhelm the enemy defenses. \n\nThe assault on Cyberstan will begin in 15 hours."
   }
 ]
