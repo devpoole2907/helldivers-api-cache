@@ -5670,5 +5670,19 @@
     "type": 0,
     "tagIds": [],
     "message": "PHASE I COMPLETE\n\nPhase I of Operation Valid Pretext is complete. The assault on Cyberstan is imminent. SEAF units are nearly prepared to initiate Phase II: Landfall.\n\nThe attack will begin in 3 hours. All units: prepare for launch."
+  },
+  {
+    "id": 3613,
+    "published": 62793745,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 13,300,000\nDAYS SINCE START OF OPERATION: 24\nREINFORCEMENTS REMAINING: 100,000,000"
+  },
+  {
+    "id": 3614,
+    "published": 62796960,
+    "type": 0,
+    "tagIds": [],
+    "message": "FINAL PREPARATIONS: CYBERSTAN\n\nT-Minus 1 Hour to Landfall.\n\nThe Automatons believe their orbital cannons will keep us out. Together, we will show these and all enemies of Freedom that nothing can stop the full and combined might of Managed Democracy.\n\nAll ships: align coordinates for Cyberstan. Prepare for the largest singular FTL event in Galactic history.\n\nFor Super Earth."
   }
 ]
