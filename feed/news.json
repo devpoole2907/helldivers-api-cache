@@ -5725,5 +5725,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 30,000,000\nDAYS SINCE START OF OPERATION: 8\nREINFORCEMENTS REMAINING: 140,000,000"
+  },
+  {
+    "id": 3621,
+    "published": 62886988,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATION VALID PRETEXT: PHASE III\n\nOperation VALID PRETEXT now enters Phase III: Ground Invasion. The Helldivers will deploy directly to enemy Megafactories and repel the enemy, in order to effect their total destruction.\n\nConsult the Galactic Map for additional information."
   }
 ]
