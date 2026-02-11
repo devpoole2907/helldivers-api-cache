@@ -5739,5 +5739,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AUTONOMY 50% LIBERATED\n\nFriendly forces now control roughly 50% of AUTONOMY. "
+  },
+  {
+    "id": 3623,
+    "published": 62920413,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS BACK ONLINE\n\nThe Democracy Space Station (DSS) has returned from the orbital bombardment of MERAK.\n\nConsequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT.\n\nConsult the Galactic Map for more information."
   }
 ]
