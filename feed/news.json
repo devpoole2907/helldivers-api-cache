@@ -5732,5 +5732,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OPERATION VALID PRETEXT: PHASE III\n\nOperation VALID PRETEXT now enters Phase III: Ground Invasion. The Helldivers will deploy directly to enemy Megafactories and repel the enemy, in order to effect their total destruction.\n\nConsult the Galactic Map for additional information."
+  },
+  {
+    "id": 3622,
+    "published": 62896166,
+    "type": 0,
+    "tagIds": [],
+    "message": "AUTONOMY 50% LIBERATED\n\nFriendly forces now control roughly 50% of AUTONOMY. "
   }
 ]
