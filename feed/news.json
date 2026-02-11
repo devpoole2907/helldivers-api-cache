@@ -5718,5 +5718,12 @@
     "type": 0,
     "tagIds": [],
     "message": "PHASE II COMPLETE: DROPHEAD SECURED\n\nThe synchronized blitz assault was a resounding tactical success. The Drophead is established.\n\nHelldiver forces rapidly dismantled enemy anti-orbital defenses. Casualties were severe, and hundreds of ships were lost; however, losses were kept within operational parameters.\n\nOperation VALID PRETEXT now moves to Phase III."
+  },
+  {
+    "id": 3620,
+    "published": 62879240,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 30,000,000\nDAYS SINCE START OF OPERATION: 8\nREINFORCEMENTS REMAINING: 140,000,000"
   }
 ]
