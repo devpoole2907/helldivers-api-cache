@@ -5767,5 +5767,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SEAF GROUND INVASION SITREP\n\n3rd Army has advanced past the 18th parallel in the western hemisphere. 68th Air Assault Division has taken heavy casualties; 23rd to reinforce. Heavy shelling on East front slowing advance."
+  },
+  {
+    "id": 3627,
+    "published": 62976960,
+    "type": 0,
+    "tagIds": [],
+    "message": "TACTICAL ADVISORY\n\nAverage Helldiver time-to-expiration has dropped sharply on Cyberstan operations. This is causing Reinforcements to decrease rapidly.\n\n To prevent this, High Command recommends that Helldivers avoid expiration for as long as possible."
   }
 ]
