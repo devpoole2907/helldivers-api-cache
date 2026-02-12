@@ -5746,5 +5746,26 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS BACK ONLINE\n\nThe Democracy Space Station (DSS) has returned from the orbital bombardment of MERAK.\n\nConsequently, the DSS is now available to provide immediate orbital support to directly aid the ongoing Operation VALID PRETEXT.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3624,
+    "published": 62968630,
+    "type": 0,
+    "tagIds": [],
+    "message": "OP VALID PRETEXT\u2014SITREP\n\nREINFORCEMENTS LOST, PAST 24 HOURS: 29,000,000\nDAYS SINCE START OF OPERATION: 9\nREINFORCEMENTS REMAINING: 111,000,000"
+  },
+  {
+    "id": 3625,
+    "published": 62971502,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nTo augment ongoing operations on Cyberstan, the Ministry of Defense has authorized the procurement of inert Terminid eggs, for sale as high-value patriotic curios to Class-A citizens.\n\nHelldivers: Cull Chargers, Impalers, and Bile Titans to allow xenozoologists to retrieve their eggs.\n\nSuccess will fund new fasttrack Helldiver training, resulting in addtional fleetwide reinforcements, and immediate use of the experimental INCENDIARY GATLING BARRAGE Stratagem."
+  },
+  {
+    "id": 3626,
+    "published": 62972967,
+    "type": 0,
+    "tagIds": [],
+    "message": "SEAF GROUND INVASION SITREP\n\n3rd Army has advanced past the 18th parallel in the western hemisphere. 68th Air Assault Division has taken heavy casualties; 23rd to reinforce. Heavy shelling on East front slowing advance."
   }
 ]
