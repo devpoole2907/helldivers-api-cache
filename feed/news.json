@@ -5781,5 +5781,12 @@
     "type": 0,
     "tagIds": [],
     "message": "AUTONOMY DESTROYED\n\nAUTONOMY has been wiped off the surface of Cyberstan, following the repulsion of enemy forces by the valiant Helldiver assault.\n\n Forces may now advance upon two new targets: OMNIPARITUS and LURZA."
+  },
+  {
+    "id": 3629,
+    "published": 63050549,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATIONAL ADVISORY\n\nFalsified mission data has been traced to dissidents corrupted by Automaton lies.\n\nThe offenders have been volunteered to beta-test Permacura\u2019s Bio-Safety Protocols. This exemplifies the magnanimity of Super Earth: even the disloyal may find redemption by contributing to scientific progress.\n\nTo ensure fleetwide integrity, Helldivers must now complete Full Operations to progress the Major Order.\n\nProceed with your orders. Defection will not be tolerated."
   }
 ]
