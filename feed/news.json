@@ -5802,5 +5802,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nDisaster relief funds for Class C and under citizens have been re-allocated to fund the temporary augmentation of all Helldiver arsenals with the ORBITAL RAILCANNON STRIKE Stratagem for the next 24 hours, in support of Operation VALID PRETEXT."
+  },
+  {
+    "id": 3632,
+    "published": 63087120,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nSEAF infantry have launched a distraction offensive on the manufacturing districts neighboring OMNIPARITUS.\n\nTo prevent a total breach of their flank, Automaton command has been forced to divert significant forces away from OMNIPARITUS to intercept the SEAF advance.\n\nThis has resulted in defenses on OMNIPARITUS being temporarily compromised.\n\nHelldivers: exploit this weakening of the Megafactory while it lasts."
   }
 ]
