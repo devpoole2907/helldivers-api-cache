@@ -5774,5 +5774,12 @@
     "type": 0,
     "tagIds": [],
     "message": "TACTICAL ADVISORY\n\nAverage Helldiver time-to-expiration has dropped sharply on Cyberstan operations. This is causing Reinforcements to decrease rapidly.\n\n To prevent this, High Command recommends that Helldivers avoid expiration for as long as possible."
+  },
+  {
+    "id": 3628,
+    "published": 63011155,
+    "type": 0,
+    "tagIds": [],
+    "message": "AUTONOMY DESTROYED\n\nAUTONOMY has been wiped off the surface of Cyberstan, following the repulsion of enemy forces by the valiant Helldiver assault.\n\n Forces may now advance upon two new targets: OMNIPARITUS and LURZA."
   }
 ]
