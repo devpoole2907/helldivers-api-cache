@@ -5823,5 +5823,12 @@
     "type": 0,
     "tagIds": [],
     "message": "REINFORCEMENT OPPORTUNITY\n\nWarehouses containing 35,000,000 Helldivers in cryostasis were found on FORT JUSTICE following a spreadsheet audit. However, no sufficiently large FTL-capable vessels are available on short notice.\n\nThe DSS could transport these troops. Doing so would take it offline for 12 hours. A vote has been initiated on the Galactic Map; send the DSS to FORT JUSTICE to secure reinforcements, or elsewhere to maintain its offensive pressure."
+  },
+  {
+    "id": 3635,
+    "published": 63174617,
+    "type": 0,
+    "tagIds": [],
+    "message": "OMNIPARITUS DEFENSES DISRUPTED\n\nSEAF 4th Army has seized an Automaton ammunition cache in vicinity of OMNIPARITUS.\n\nHelldiver deployments to OMNIPARITUS will no longer have reduced ammunition."
   }
 ]
