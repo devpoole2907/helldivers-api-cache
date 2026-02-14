@@ -5830,5 +5830,12 @@
     "type": 0,
     "tagIds": [],
     "message": "OMNIPARITUS DEFENSES DISRUPTED\n\nSEAF 4th Army has seized an Automaton ammunition cache in vicinity of OMNIPARITUS.\n\nHelldiver deployments to OMNIPARITUS will no longer have reduced ammunition."
+  },
+  {
+    "id": 3636,
+    "published": 63179063,
+    "type": 0,
+    "tagIds": [],
+    "message": "OMNIPARITUS 50% LIBERATED\n\nFriendly forces now control roughly 50% of OMNIPARITUS. "
   }
 ]
