@@ -5858,5 +5858,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY\n\nOMNIPARITUS has been cut off from its supply lines, which have been redirected to STAR KIELD, in a desperate bid to reject Liberty's light. \n\nOMNIPARITUS is currently operating on emergency power reserves; its defenses are temporaily compromised.\n\nHelldivers are ordered to put the Megafactory out of its misery immediately."
+  },
+  {
+    "id": 3642,
+    "published": 63262054,
+    "type": 0,
+    "tagIds": [],
+    "message": "REINFORCEMENTS RECEIVED\n\nThe DSS has returned from FORT JUSTICE with 35,000,000 reinforcements\u2014this is reflected in the current total. The DSS has now returned to service."
   }
 ]
