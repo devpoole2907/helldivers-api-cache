@@ -5865,5 +5865,26 @@
     "type": 0,
     "tagIds": [],
     "message": "REINFORCEMENTS RECEIVED\n\nThe DSS has returned from FORT JUSTICE with 35,000,000 reinforcements\u2014this is reflected in the current total. The DSS has now returned to service."
+  },
+  {
+    "id": 3643,
+    "published": 63272293,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC IMPERATIVE SEIZED\n\nDozens of captured illuminate were subjected to Improved Questioning Techniques. However, no actionable intelligence on an impending Illuminate attack was acquired. The combatants have since expired due to constitutional weakness.\n\nThis effort was not a waste. High Command has authorized the temporary use of the experimental SMOKE-ENHANCED WALKING BARRAGE  Stratagem, to further evidence the non-wasteful nature of this effort. In addition, millions of rescued captives have immediately been enlisted into the Armed Forces and are now undergoing rapid military training for short-order deployment to Cyberstan. The Reinforcement Allocation has been increased by 35,000,000."
+  },
+  {
+    "id": 3644,
+    "published": 63273112,
+    "type": 0,
+    "tagIds": [],
+    "message": "OMNIPARITUS DESTROYED\n\nOMNIPARITUS has been wiped off the surface of Cyberstan, following the repulsion of enemy forces by the valiant Helldiver assault.\n\n Forces may now advance upon two new targets: STAR KIELD and URSOOT NINE."
+  },
+  {
+    "id": 3645,
+    "published": 63280929,
+    "type": 0,
+    "tagIds": [],
+    "message": "SEAF GROUND INVASION SITREP\n\n3rd, 7th, and 8th Armies have advanced past equator. 12th Armor holding position IVO OMNIPARITUS demolition site. "
   }
 ]
