@@ -5900,5 +5900,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nTo aid their valiant efforts, all Helldiver deployments on CYBERSTAN will be augmented with the EXPENDABLE ANTI-TANK Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3648,
+    "published": 63347398,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nThe Federation\u2019s orbital blockade of Cyberstan has prohibited the enemy's import of raw silicates and conductors.\n\nAutomaton fabricators are now forced to utilize substandard alloys. Intelligence confirms: interspersed among older units, the newly-manufactured reserve bot chassis are more brittle, more susceptible to heavy fire.\n\nAs such, planet-wide defense ratings are temporarily compromised.\n\nHelldivers: exploit this weakening of Cyberstan while it lasts."
   }
 ]
