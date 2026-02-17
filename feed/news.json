@@ -5907,5 +5907,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY\n\nThe Federation\u2019s orbital blockade of Cyberstan has prohibited the enemy's import of raw silicates and conductors.\n\nAutomaton fabricators are now forced to utilize substandard alloys. Intelligence confirms: interspersed among older units, the newly-manufactured reserve bot chassis are more brittle, more susceptible to heavy fire.\n\nAs such, planet-wide defense ratings are temporarily compromised.\n\nHelldivers: exploit this weakening of Cyberstan while it lasts."
+  },
+  {
+    "id": 3649,
+    "published": 63402351,
+    "type": 0,
+    "tagIds": [],
+    "message": "ENEMY MOVEMENT INTERCEPTED\n\nAutomaton forces are attempting to evacuate mechanized personnel\u2014falsely designated as  \u201cnon-combatant\u201d industrial units\u2014into fortified bunkers within Cyberstan.\n\nHigh Command will not permit agents of Tyranny to regroup, reconfigure, or reassemble.\n\nSEAF artillery is shelling the purported \u201cevacuation corridors\u201d to prevent these assets from their true aim: being repurposed for war.\n\nResultingly, planet-wide defense ratings are temporarily compromised."
   }
 ]
