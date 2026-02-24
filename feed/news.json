@@ -5998,5 +5998,19 @@
     "type": 0,
     "tagIds": [],
     "message": "AMMUNITION ALLOCATIONS RESTORED\n\nDeployment ammunition allocations have been restored to standard quantities."
+  },
+  {
+    "id": 3676,
+    "published": 64006749,
+    "type": 0,
+    "tagIds": [],
+    "message": "REINFORCEMENT BUDGET REDUCTION\n\nDue to the unauthorized biological activation of Titan-class Terminid eggs, emergency luxury evacuation of displaced Class-A citizens has begun.\n\nTo ensure vital contributors to the Federal economy are extracted alongside their most valued\u2014and confirmed inert\u2014luxury assets, a proportion of Helldiver cryo-pods have been temporarily repurposed for civilian transport.\n\nReinforcement budgets will therefore be temporarily reduced by 1 until further notice."
+  },
+  {
+    "id": 3677,
+    "published": 64007533,
+    "type": 0,
+    "tagIds": [],
+    "message": "DENIAL OF RESURGENCE VOTING CONCLUDED\n\nHelldivers have voted to authorize the total bombardment of LESATH.\n\nAccordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be 24 hours from now."
   }
 ]
