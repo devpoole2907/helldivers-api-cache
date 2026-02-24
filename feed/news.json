@@ -5928,5 +5928,75 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS SENT FOR REINFORCEMENTS\n\nThe Helldivers have voted to send the DSS to FORT JUSTICE to secure 35,000,000 additional reinforcements. The DSS will be offline for the next 12 hours."
+  },
+  {
+    "id": 3662,
+    "published": 63608673,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nCyborg and Automaton forces have been observed shifting from CAMRAT FOR to TRANSCENDENCE. Higher resistance on TRANSCENDENCE is anticipated."
+  },
+  {
+    "id": 3663,
+    "published": 63608969,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nCyborg and Automaton forces have been observed shifting from URSOOT NINE to TRANSCENDENCE. Higher resistance on TRANSCENDENCE is anticipated."
+  },
+  {
+    "id": 3665,
+    "published": 63664140,
+    "type": 0,
+    "tagIds": [],
+    "message": "77TH RESCUED\n\nThe destruction of SOLIDARITET by the Helldivers has allowed the secure withdrawal of the SEAF 77th Mobile Infantry Corps. The 30,000 brave soldiers of the 77th are currently being evacuated off-planet and receiving medical care. \n\nEach of these warriors had accepted the forfeiture of their lives in service of Freedom. But thanks to the Helldivers, they live to fight another day."
+  },
+  {
+    "id": 3666,
+    "published": 63701160,
+    "type": 0,
+    "tagIds": [],
+    "message": "ORBITAL BOMBARDMENT ENDED\n\nThe DSS Orbital Bombardment of Cyberstan has ended."
+  },
+  {
+    "id": 3667,
+    "published": 63701700,
+    "type": 0,
+    "tagIds": [],
+    "message": "OPERATION VALID PRETEXT CONCLUDED\n\nThe peacekeeping Operation on Cyberstan has concluded.\n\nThe liberation of Cyberstan has failed. The underhanded, subhuman treachery of the Cyborgs returned to once again steal peace from Super Earth's citizens. The threat of a socialist planet-killer remains active. This is a grotesque travesty of Justice.\n\nConsult the Galactic Map for more information and an Operational Summary."
+  },
+  {
+    "id": 3668,
+    "published": 63746754,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTE TO RAZE CHORT BAY\n\nA Cyborg counteroffensive is anticipated. The DSS may bombard the surface of CHORT BAY, preventing the Cyborgs from establishing a foothold there. \n\nVoting has begun. Each Helldiver may vote once via the Galactic Map."
+  },
+  {
+    "id": 3669,
+    "published": 63749535,
+    "type": 0,
+    "tagIds": [],
+    "message": "AMMUNITION RATIONING\n\nDue to the sheer volume of ordnance required to deliver the peacekeeping message of Operation VALID PRETEXT on Cyberstan, ammunition allocations must be temporarily reduced.\n\nAll deployed Helldivers will be issued 25% less ammunition until further notice. High Command expects the heroes of Super Earth to view this not as a shortfall, but as an opportunity to demonstrate their superior accuracy."
+  },
+  {
+    "id": 3673,
+    "published": 63921022,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTE TO RAZE LESATH\n\nA Cyborg counteroffensive is anticipated. The DSS may bombard the surface of LESATH, preventing the Cyborgs from establishing a foothold there. \n\nVoting has begun. Each Helldiver may vote once via the Galactic Map."
+  },
+  {
+    "id": 3674,
+    "published": 63928783,
+    "type": 0,
+    "tagIds": [],
+    "message": "Titan-class Terminid eggs recently sold as patriotic curios to Class-A citizens have experienced unauthorized biological activation.\n\nBizarrely coinciding with this phenomenon, Terminids are ransacking high-density Class-A citizen zones, threatening domestic tranquility and workforce productivity.\n\nHelldivers are ordered to liberate more planets than are lost to repel this grotesque fascist swarm."
+  },
+  {
+    "id": 3675,
+    "published": 64001682,
+    "type": 0,
+    "tagIds": [],
+    "message": "AMMUNITION ALLOCATIONS RESTORED\n\nDeployment ammunition allocations have been restored to standard quantities."
   }
 ]
