@@ -6019,5 +6019,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS BACK ONLINE\n\nThe Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH.\n"
+  },
+  {
+    "id": 3679,
+    "published": 64105472,
+    "type": 0,
+    "tagIds": [],
+    "message": "CYBERSTAN ORBITAL DEFENSES RE-ENGAGED\n\nThe orbital defense array on Cyberstan is back online. FTL travel to Cyberstan is no longer possible."
   }
 ]
