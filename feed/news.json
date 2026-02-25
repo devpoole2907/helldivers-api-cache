@@ -6012,5 +6012,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DENIAL OF RESURGENCE VOTING CONCLUDED\n\nHelldivers have voted to authorize the total bombardment of LESATH.\n\nAccordingly, the Democracy Space Station (DSS) is now mobilizing. DSS orbital support will remain fully offline until the bombardment sequence has completed, estimated to be 24 hours from now."
+  },
+  {
+    "id": 3678,
+    "published": 64093881,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS BACK ONLINE\n\nThe Democracy Space Station (DSS) has returned from the orbital bombardment of LESATH.\n"
   }
 ]
