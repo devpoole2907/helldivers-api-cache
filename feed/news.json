@@ -6026,5 +6026,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CYBERSTAN ORBITAL DEFENSES RE-ENGAGED\n\nThe orbital defense array on Cyberstan is back online. FTL travel to Cyberstan is no longer possible."
+  },
+  {
+    "id": 3680,
+    "published": 64193109,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY\n\nThe Terminids are invading Oshaune, likely driven by undemocratic instinct. Oshaune was liberated at great cost to our citizens, and its potential re-infestation would risk it becoming a Hive World once again.\n\nHelldivers: defend Oshaune and in doing so, secure the planet's stockpile of the Warp Pack Stratagem for immediate fleet-wide availability."
   }
 ]
