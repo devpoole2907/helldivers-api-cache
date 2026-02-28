@@ -6033,5 +6033,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY\n\nThe Terminids are invading Oshaune, likely driven by undemocratic instinct. Oshaune was liberated at great cost to our citizens, and its potential re-infestation would risk it becoming a Hive World once again.\n\nHelldivers: defend Oshaune and in doing so, secure the planet's stockpile of the Warp Pack Stratagem for immediate fleet-wide availability."
+  },
+  {
+    "id": 3681,
+    "published": 64381271,
+    "type": 0,
+    "tagIds": [],
+    "message": "REINFORCEMENT BUDGET RESTORED\n\nReinforcement budgets have now returned to the standard quantity."
+  },
+  {
+    "id": 3682,
+    "published": 64381589,
+    "type": 0,
+    "tagIds": [],
+    "message": "STIM RATIONING\n\nClass-A citizens affected by sudden domestic Terminid infestations are experiencing severe emotional distress and aesthetic trauma.\n\nTo preserve their wellbeing, a proportion of top-of-the-line medical treatments are understandably being diverted to these high-density zones.\n\nHelldiver stim capacity is therefore temporarily reduced by 1 until further notice."
   }
 ]
