@@ -6068,5 +6068,12 @@
     "type": 0,
     "tagIds": [],
     "message": "COMMEMORATIVE CAPE\n\nFor two years, the Helldivers have defended Managed Democracy in the Second Galactic War. High Command recognizes and honors this selfless sacrifice with a specially-made cape, issued to all Helldivers free of charge. \n\nThe cape may be found in the Armory of each Super Destroyer."
+  },
+  {
+    "id": 3687,
+    "published": 64539104,
+    "type": 0,
+    "tagIds": [],
+    "message": "STIM ALLOCATION RESTORED\n\nDeployment stim capacity has been restored to the standard quantity. "
   }
 ]
