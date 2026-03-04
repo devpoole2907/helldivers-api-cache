@@ -6075,5 +6075,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STIM ALLOCATION RESTORED\n\nDeployment stim capacity has been restored to the standard quantity. "
+  },
+  {
+    "id": 3688,
+    "published": 64698973,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nClassified readouts indicate a severe escalation of spacetime disruptions across archaeological sites illicitly re-occupied by the Illuminate.\n\nHelldivers must infiltrate Zea Rugosia and Herthon Secundus to extract Rare Samples. These materials will grant crucial insights into this subterranean threat.\n\nSimultaneously, Helldivers must hold Alairt III to protect ongoing excavations against unauthorized repossession."
   }
 ]
