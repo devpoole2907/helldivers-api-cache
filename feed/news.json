@@ -6096,5 +6096,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY SEIZED\n\nAchernar Secundus has been reclaimed. Reconstruction of the AM Defense Factory Hub is underway, stabilizing regional market confidence.\n\nIn a gesture of corporate patriotism, AM Defense has issued a \"Customer Appreciation\" dividend: the Fast Recon Vehicle (FRV) Stratagem is available fleetwide for the next 24 hours."
+  },
+  {
+    "id": 3691,
+    "published": 65303720,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Helldivers protected Alairt III, but could not extract sufficient Rare Samples from Zea Rugosia and Herthon Secundus.\n\nIllegal patterns of astral pressure appear to be rapidly compounding into a volatile anomaly, gestating beneath planets bearing ancient Illuminate ruins."
   }
 ]
