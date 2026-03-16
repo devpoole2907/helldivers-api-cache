@@ -6117,5 +6117,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nIntel has identified the Utopia Varen Megafactory on Charbal VII as a primary Cyborg Production Unit hub.\n\nMassive quantities of components and organic tissue currently lie dormant within its bio-furnaces, awaiting cybernetic activation and augmentation.\n\nLiberating the planet will allow the pre-emptive decommissioning of these unregistered units. Succeed, and the required kill count for the current Major Order will be reduced by 25,000,000."
+  },
+  {
+    "id": 3695,
+    "published": 65739997,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\n\nCharbal VII has been liberated. The Utopia Varen Megafactory and its bio-furnaces have been decisively dismantled.\n\nWith massive quantities of components and dormant organic tissue pre-emptively liquidated, the required kill count for the current Major Order has been officially reduced by 25,000,000."
   }
 ]
