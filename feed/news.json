@@ -6124,5 +6124,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY SEIZED\n\nCharbal VII has been liberated. The Utopia Varen Megafactory and its bio-furnaces have been decisively dismantled.\n\nWith massive quantities of components and dormant organic tissue pre-emptively liquidated, the required kill count for the current Major Order has been officially reduced by 25,000,000."
+  },
+  {
+    "id": 3696,
+    "published": 65749593,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Cyborg demilitarization target was not reached. The Cyborg force remains strong; they lead their Automaton war slaves to spread their empire and subjugate more territory.\n\nHowever, CHOEPESSA IV and CHARBAL-VII have been liberated by the Helldivers, their Megafactories destroyed.\n\nConsult the Galactic Map for more information."
   }
 ]
