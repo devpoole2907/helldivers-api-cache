@@ -6131,5 +6131,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe Cyborg demilitarization target was not reached. The Cyborg force remains strong; they lead their Automaton war slaves to spread their empire and subjugate more territory.\n\nHowever, CHOEPESSA IV and CHARBAL-VII have been liberated by the Helldivers, their Megafactories destroyed.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3697,
+    "published": 65814370,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHighly threatening readings have been observed originating from planet SEASSE, deep in Illuminate territory. Gravitational waves that defy sanctioned scientific models are emanating from the planet, and anomalous weather formations now cover its surface.\n\nThe Helldivers are ordered to launch an immediate offensive towards SEASSE, with the objective of determining the nature of this Illuminate activity, and interdicting it."
   }
 ]
