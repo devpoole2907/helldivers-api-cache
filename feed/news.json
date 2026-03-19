@@ -6145,5 +6145,19 @@
     "type": 0,
     "tagIds": [],
     "message": "VOTELESS ASSAULT\n\nA mass wave of Voteless have invaded HEZE BAY. The Illuminate themselves are not present; they have deployed only the twisted former citizens in a cowardly and naked attempt to distract from their operations on SEASSE. Non-voting abominations are destroying public property and terrorizing registered voters."
+  },
+  {
+    "id": 3699,
+    "published": 66028395,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL REPORT\n\nThe first Super Destroyers have reached SEASSE. The Illuminate appear to have raised massive spires from beneath their ancient ruins. The meteorological phenomena engulfing the planet appear to originate from these spires, which have been named Exospires.\n\nHelldivers: focus operations on these Exospires. Deploy to SEASSE and destroy as many of them as possible."
+  },
+  {
+    "id": 3700,
+    "published": 66029691,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL REPORT\n\nNovel Illuminate threats have been encountered on SEASSE. Troops report piloted armored suits on the battlefield, likely created from stolen Exosuit blueprints."
   }
 ]
