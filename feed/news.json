@@ -6159,5 +6159,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INTEL REPORT\n\nNovel Illuminate threats have been encountered on SEASSE. Troops report piloted armored suits on the battlefield, likely created from stolen Exosuit blueprints."
+  },
+  {
+    "id": 3701,
+    "published": 66088380,
+    "type": 0,
+    "tagIds": [],
+    "message": " EXOSTORM ESCALATION\n\nThe Exostorm on Seasse has escalated to Category 2. Localized Exospire weather cells are merging into planetary super-storms.\n\nDue to atmospheric volatility, completion of operations is no longer required for mission success.\n\nHelldivers are ordered to focus on high-volume Illuminate liquidation and the requisition of anomalous assets. Make the enemy pay in blood for every second of unlawful environmental interference."
   }
 ]
