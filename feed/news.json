@@ -6180,5 +6180,19 @@
     "type": 0,
     "tagIds": [],
     "message": " CRITICAL EXOSTORM ESCALATION\n\nThe Exostorm has reached Category 3: all super-storms have merged into a single, extreme, planet-covering storm system.\n\nThe Ministry of Science reports initial adverse spacetime fractures within the Seasse system, amidst claims of fluctuating chronometric drift, and unidentifiable visual artifacts.\n\nThe tactical window is closing before spacetime stability is irrevocably compromised."
+  },
+  {
+    "id": 3704,
+    "published": 66274409,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC IMPERATIVE SEIZED\n\nThe Cyborgs have been repelled from ZEFIA. Their territorial ambitions have been checked for the time being."
+  },
+  {
+    "id": 3705,
+    "published": 66274549,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Flamethrower Stratagem for the next 24 hours."
   }
 ]
