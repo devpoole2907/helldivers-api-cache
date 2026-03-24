@@ -6208,5 +6208,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SEASSE SYSTEM UNOBSERVABLE\n\nThe SEASSE System has been rendered unobservable to all equipment. The space surrounding the system is blocked by a seemingly impenetrable Void of an unknown nature. \n\nTravel to SEASSE is not possible at this time. The Ministry of Science is aggressively investigating the situation."
+  },
+  {
+    "id": 3708,
+    "published": 66434483,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nSEASSE has been engulfed by a strange Void. The Illuminate have already begun raising additional Exospires on HORT. If not stopped, it must be assumed the planet will be engulfed as well. Liberate HORT from the Illuminate.\n\n\nSimultaneously, swarms of Voteless have invaded RIRGA BAY. Defend the planet from attack."
   }
 ]
