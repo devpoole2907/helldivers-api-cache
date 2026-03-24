@@ -6194,5 +6194,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Flamethrower Stratagem for the next 24 hours."
+  },
+  {
+    "id": 3706,
+    "published": 66420186,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers interceded on SEASSE, successfully nullifying this latest Illuminate scheme.\n\nHowever, the planet remains in the inhuman, tentacled grasp of the xenophobic enemy. The Exospires they have raised are generating a growing Exostorm that will soon cover the entire planet.\n\nConsult the Galactic Map for more information."
   }
 ]
