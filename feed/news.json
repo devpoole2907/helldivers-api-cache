@@ -6201,5 +6201,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers interceded on SEASSE, successfully nullifying this latest Illuminate scheme.\n\nHowever, the planet remains in the inhuman, tentacled grasp of the xenophobic enemy. The Exospires they have raised are generating a growing Exostorm that will soon cover the entire planet.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3707,
+    "published": 66421943,
+    "type": 0,
+    "tagIds": [],
+    "message": "SEASSE SYSTEM UNOBSERVABLE\n\nThe SEASSE System has been rendered unobservable to all equipment. The space surrounding the system is blocked by a seemingly impenetrable Void of an unknown nature. \n\nTravel to SEASSE is not possible at this time. The Ministry of Science is aggressively investigating the situation."
   }
 ]
