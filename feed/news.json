@@ -6243,5 +6243,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER \n\nTerminids swarm the Ursa sector. Helldivers must choose which front to defend. These simultaneous assaults are complicated by the presence of Rupture and Predator strains, which must be exterminated. \n\nDefend the Ursa sector from Terminid attacks and exterminate the Rupture and Predator strains. "
+  },
+  {
+    "id": 3713,
+    "published": 67277483,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW STRATEGIC OPPORTUNITY\n\nThe Ministry of Science needs intelligence on the Void in order to facilitate the development of technology to interdict the developing threat. \n\nThe Helldivers must contest Illuminate presence on designated planets, in order to allow research teams to gather data from sites of Illuminate ruins.\n\nSuccessfully complete 2,000,000 missions on selected planets to gather intel. "
   }
 ]
