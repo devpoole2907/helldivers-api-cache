@@ -6250,5 +6250,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nThe Ministry of Science needs intelligence on the Void in order to facilitate the development of technology to interdict the developing threat. \n\nThe Helldivers must contest Illuminate presence on designated planets, in order to allow research teams to gather data from sites of Illuminate ruins.\n\nSuccessfully complete 2,000,000 missions on selected planets to gather intel. "
+  },
+  {
+    "id": 3714,
+    "published": 67473042,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\n\nThe Helldivers successfully completed the missions on key planets. Strategic intel has been relayed to the Ministry of Science. \n\nThe intel gathered will be a vital component of the Illuminate\u2019s inevitable downfall, possible thanks to the sacrifices of the Helldivers."
+  },
+  {
+    "id": 3715,
+    "published": 67473085,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours."
   }
 ]
