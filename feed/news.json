@@ -6271,5 +6271,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Terminid threat has been repelled from the Ursa sector. Rupture and Predator strains have been squashed in a strategic win for Democracy."
+  },
+  {
+    "id": 3717,
+    "published": 67641510,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nMINDEF intel has assessed with high confidence that a fresh Cyborg effort to expand Megafactories to new planets is imminent. The Helldivers are ordered to complete 5,000,000 missions on MARFARK, to acquire more information about the Cyborg targets.\n\nCyborg forces have simultaneously launched offensives on CHOEPESSA IV and VARYLIA 5. These may be setup strikes to lay groundwork for a larger invasion. Hold the planets against Cyborg invasion."
   }
 ]
