@@ -852,7 +852,10 @@
   "57": {
     "name": "Kerth Secundus",
     "sector": "Rictus",
-    "biome": null,
+    "biome": {
+      "slug": "tundra",
+      "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+    },
     "environmentals": []
   },
   "58": {
@@ -2080,7 +2083,10 @@
   "139": {
     "name": "Alamak VII",
     "sector": "Hanzo",
-    "biome": null,
+    "biome": {
+      "slug": "ethereal",
+      "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+    },
     "environmentals": []
   },
   "140": {
@@ -4019,19 +4025,19 @@
   "263": {
     "name": "",
     "sector": "",
-    "biome": "",
+    "biome": null,
     "environmentals": []
   },
   "264": {
     "name": "",
     "sector": "",
-    "biome": "",
+    "biome": null,
     "environmentals": []
   },
   "265": {
     "name": "",
     "sector": "",
-    "biome": "",
+    "biome": null,
     "environmentals": []
   },
   "266": {
