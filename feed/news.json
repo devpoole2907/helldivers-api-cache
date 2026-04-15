@@ -6299,5 +6299,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nEfforts to acquire intel regarding future Cyborg expansion plans have failed. Their next targets remain unknown, and all citizens on nearby planets fear for their voting rights.\n\nHowever, swift Helldiver defensive action rebuffed from CHOEPESSA IV and VARYLIA 5. The citizens there, and their homesteads, remain safe from Cyborg mutilation and dismemberment."
+  },
+  {
+    "id": 3721,
+    "published": 68357612,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Illuminate have launched unprovoked raids against our most valued territories. Appropriator squads are attempting unauthorized relocation of human assets, threatening Federation workforce productivity. \n\nHelldivers: defend against Illuminate attacks, and repel this insidious abduction scheme with righteous vigor."
   }
 ]
