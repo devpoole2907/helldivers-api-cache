@@ -6306,5 +6306,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Illuminate have launched unprovoked raids against our most valued territories. Appropriator squads are attempting unauthorized relocation of human assets, threatening Federation workforce productivity. \n\nHelldivers: defend against Illuminate attacks, and repel this insidious abduction scheme with righteous vigor."
+  },
+  {
+    "id": 3722,
+    "published": 68423552,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Gatling Barrage Stratagem for the next 48 hours."
   }
 ]
