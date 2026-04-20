@@ -6313,5 +6313,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Gatling Barrage Stratagem for the next 48 hours."
+  },
+  {
+    "id": 3723,
+    "published": 68775884,
+    "type": 0,
+    "tagIds": [],
+    "message": "dispatch_once_story_main_arc6_12_outcome_win"
   }
 ]
