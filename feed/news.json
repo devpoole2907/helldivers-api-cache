@@ -6425,5 +6425,26 @@
     "type": 0,
     "tagIds": [],
     "message": "WARFRONT DEVELOPMENT\n\nHigh-morale SEAF reinforcements have taken significant ground on MEISSA."
+  },
+  {
+    "id": 3742,
+    "published": 71175345,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nThat Freedom be cherished and held close, all Helldiver deployments will be augmented with the EAGLE 500KG BOMB for the next 48 hours.\n"
+  },
+  {
+    "id": 3740,
+    "published": 71175496,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC DIRECTIVE COMPLETED\n\nThe Helldivers have enthusiastically and thoroughly battled the twin snakes of propaganda and disinformation, by executing over 10,000,000 enemies of the state. \n\nUtilization of the One True Flag demonstrated the invulnerability of Managed Democracy and its hallowed symbols, and inspired citizens across the Federation to redouble their vigilance against manipulation."
+  },
+  {
+    "id": 3741,
+    "published": 71175550,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nMEISSA has been liberated. The Cyborgs and Automatons have been repelled, and the Communications Array from which their vile propaganda was broadcast has been captured.\n\nConsult the Galactic Map for more information."
   }
 ]
