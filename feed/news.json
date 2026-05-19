@@ -6453,5 +6453,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NOTICE: NETWORK REFIT\n\nHigh Command has authorized a scheduled refit of the Super Destroyer network on May 19 at 10:00AM CET.\n\nExpect temporary login interruptions during this maintenance, as we optimize logic circuits for Freedom.\n\nDuring maintenance, external Super Credit acquisitions will be offline. The Superstore will remain open, but spending transactions, Warbond claims, field pickups, and reward processing may experience temporary desynchronization."
+  },
+  {
+    "id": 3744,
+    "published": 71241733,
+    "type": 0,
+    "tagIds": [],
+    "message": "WARNING: MAINTENANCE IMMINENT\n\nSuper Destroyer network maintenance begins in 1 hour. Helldivers are advised to extract before commencement: remaining in-atmosphere may lose rewards.\n\nDuring maintenance, external Super Credit acquisitions will be offline. The Superstore will remain open, but spending transactions, Warbond claims, field pickups, and reward processing may experience temporary desynchronization."
   }
 ]
