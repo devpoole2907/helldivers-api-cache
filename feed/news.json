@@ -6460,5 +6460,12 @@
     "type": 0,
     "tagIds": [],
     "message": "WARNING: MAINTENANCE IMMINENT\n\nSuper Destroyer network maintenance begins in 1 hour. Helldivers are advised to extract before commencement: remaining in-atmosphere may lose rewards.\n\nDuring maintenance, external Super Credit acquisitions will be offline. The Superstore will remain open, but spending transactions, Warbond claims, field pickups, and reward processing may experience temporary desynchronization."
+  },
+  {
+    "id": 3745,
+    "published": 71260697,
+    "type": 0,
+    "tagIds": [],
+    "message": "NETWORK MAINTENANCE COMPLETE\n\nThe Super Destroyer network refit has successfully concluded. Logic circuits are now fully optimized for maximum structural efficiency.\n\nAll network systems are operational. External Super Credit acquisition channels have reopened. Any lingering latency regarding login queues, Superstore purchases, Warbond claims, or delayed mission reward payouts will automatically resolve.\n\nReturn to your stations, and continue to uphold the glory of Managed Democracy."
   }
 ]
