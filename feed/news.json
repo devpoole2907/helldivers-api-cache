@@ -6467,5 +6467,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NETWORK MAINTENANCE COMPLETE\n\nThe Super Destroyer network refit has successfully concluded. Logic circuits are now fully optimized for maximum structural efficiency.\n\nAll network systems are operational. External Super Credit acquisition channels have reopened. Any lingering latency regarding login queues, Superstore purchases, Warbond claims, or delayed mission reward payouts will automatically resolve.\n\nReturn to your stations, and continue to uphold the glory of Managed Democracy."
+  },
+  {
+    "id": 3746,
+    "published": 71346073,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nOne year ago today, the Battle for Super Earth began, as the Illuminate launched an unprovoked assault on our sovereign homeworld.\n\nAs we begin this period of remembrance leading up to Victory Day, the Helldivers are ordered liberate 5 Illuminate-controlled planets and successfully hold Super Earth\u2014to honor the heroes from all walks of life, who made the ultimate sacrifice to protect Managed Democracy."
   }
 ]
