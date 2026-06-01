@@ -6621,5 +6621,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have triumphed. Infrastructure materials are being aggressively harvested from the smoldering wreckage of the defeated Illuminate forces to immediately commence the ecological restoration of NEW HAVEN.\n\nTo further celebrate Victory Day, all Helldivers are hereby awarded a commemorative cape, issued in recognition of one of the greatest victories of the Battle for Super Earth: the defense of Equality-on-Sea."
+  },
+  {
+    "id": 3768,
+    "published": 72394849,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Cyborgs have launched a coordinated offensive on K and FURY, magma-covered planets previously wrested from the enemy at great cost. The Helldivers are ordered to the immediate defense of these planets.\n\nConsult the Galactic Map for more information."
   }
 ]
