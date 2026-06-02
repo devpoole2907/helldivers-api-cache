@@ -6628,5 +6628,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Cyborgs have launched a coordinated offensive on K and FURY, magma-covered planets previously wrested from the enemy at great cost. The Helldivers are ordered to the immediate defense of these planets.\n\nConsult the Galactic Map for more information."
+  },
+  {
+    "id": 3769,
+    "published": 72484354,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTEL ADVISORY\n\nThe Automaton Jet Brigade is active on CHOOHE, in conjunction with a simultaneous Hulk Surge.\n"
   }
 ]
