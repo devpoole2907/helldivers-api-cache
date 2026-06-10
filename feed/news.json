@@ -6670,5 +6670,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC IMPERATIVE\n\nFascist Terminids have invaded Crimsica, attacking the incredibly secure E-710 farm situated there.\n\nThis completely unforeseeable response to the current Major Order has caused E-710 prices to skyrocket, impacting all citizens.\n\nFleetwide rationing of E-710 is now in place, reducing logistical capabilities. Multiple supply shortages will be conveyed momentarily.\n\nHelldivers: Hold Crimsica, and restore the fuel lines of Managed Democracy."
+  },
+  {
+    "id": 3775,
+    "published": 73177994,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ALERT: SUPPLY SHORTAGES\n\nUntil further notice, as a result of fleetwide E-710 rationing, the following supply shortages are now in effect:\n\nOrbital Stratagem Cooldowns will be increased by 15 seconds.\n\nEagle Rearm Cooldowns will be increased by 15 seconds.\n\nReinforcement budgets will be temporarily reduced by 1.\n\nHelldivers will be issued 25% less ammunition on deployment."
   }
 ]
