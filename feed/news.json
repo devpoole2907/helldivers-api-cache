@@ -6677,5 +6677,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ALERT: SUPPLY SHORTAGES\n\nUntil further notice, as a result of fleetwide E-710 rationing, the following supply shortages are now in effect:\n\nOrbital Stratagem Cooldowns will be increased by 15 seconds.\n\nEagle Rearm Cooldowns will be increased by 15 seconds.\n\nReinforcement budgets will be temporarily reduced by 1.\n\nHelldivers will be issued 25% less ammunition on deployment."
+  },
+  {
+    "id": 3776,
+    "published": 73192459,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW STRATEGIC OPPORTUNITY\n\nDragon Roaches are igniting E-710 reserves on Crimsica, worsening the fuel crisis.\n\nTo aid their extermination\u2014and comply with ammo restrictions\u2014High Command authorizes temporary fleetwide deployment of the CQC-20 Breaching Hammer and experimental Dark Energy Jet Pack\u2014calculated to secure more E-711 than they expend.\n\nHelldivers: kill 2,000,000 Dragon Roaches, and prove the righteous don\u2019t need bullets to crush Tyranny."
   }
 ]
