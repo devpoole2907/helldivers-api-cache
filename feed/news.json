@@ -6719,5 +6719,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized the use of new FRV models: SUPPLY FRV on BASQUINE VIII and INCINERATOR FRV on SANGIS. The FRV model associated with the first liberated planet will go into full-scale production."
+  },
+  {
+    "id": 3782,
+    "published": 73852005,
+    "type": 0,
+    "tagIds": [],
+    "message": "Following the liberation of BASQUINE VIII, all Helldiver loadouts will be augmented with the SUPPLY FRV for the duration of this Campaign."
   }
 ]
