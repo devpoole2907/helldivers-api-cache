@@ -6733,5 +6733,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CAMPAIGN SUCCESS TERMS\n\nCENSUS THUNDER is a multi-phasic campaign. It is anticipated to consist of multiple Major Orders. Campaign success is defined as success in a majority of the Major Orders comprising the campaign. \n\nHelldivers are, therefore, strategically advised to succeed in all Major Orders."
+  },
+  {
+    "id": 3784,
+    "published": 74012808,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nBASQUINE VIII is secure. However, the Helldivers were unable to secure SANGIS. Its vast, untouched forests have been severely impacted by the Voteless incursion, and may never recover."
   }
 ]
