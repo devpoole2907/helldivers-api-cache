@@ -6747,5 +6747,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void.\n\nDeploy to Automaton-held BLISTICA to secure the enemy's bio-processors. Additionally, secure 15,000,000 samples from ALARAPH, currently overrun by Voteless."
+  },
+  {
+    "id": 3786,
+    "published": 74350211,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated BLISTICA from the Automatons. Simultaneously, the Helldivers secured over 15,000,000 Voteless tissue samples. These samples have proved the hypothesis of Federation scientists: exotic alterations to their cells have occured, allowing for laboratory study of the Void for the first time."
   }
 ]
