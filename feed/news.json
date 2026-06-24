@@ -6754,5 +6754,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have liberated BLISTICA from the Automatons. Simultaneously, the Helldivers secured over 15,000,000 Voteless tissue samples. These samples have proved the hypothesis of Federation scientists: exotic alterations to their cells have occured, allowing for laboratory study of the Void for the first time."
+  },
+  {
+    "id": 3787,
+    "published": 74378720,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Ministry of Science has commenced construction of a Voteless Processing Plant on ALARAPH. The Helldivers are ordered to hold ALARAPH until the facility is complete. Additionally, prepare 25,000,000 Voteless specimens for study, by rendering them inert."
   }
 ]
