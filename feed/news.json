@@ -6761,5 +6761,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Ministry of Science has commenced construction of a Voteless Processing Plant on ALARAPH. The Helldivers are ordered to hold ALARAPH until the facility is complete. Additionally, prepare 25,000,000 Voteless specimens for study, by rendering them inert."
+  },
+  {
+    "id": 3788,
+    "published": 74810835,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Voteless Processing Plant is operational. Its bio-centrifuges have already processed several tons of Voteless tissue, aiding research into the Void. Voteless incursions from the Void have subsided. Consult the Control Center for more information."
   }
 ]
