@@ -6768,5 +6768,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Voteless Processing Plant is operational. Its bio-centrifuges have already processed several tons of Voteless tissue, aiding research into the Void. Voteless incursions from the Void have subsided. Consult the Control Center for more information."
+  },
+  {
+    "id": 3789,
+    "published": 74876175,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nTerminids have launched attacks to halt construction of the flawless, updated, and entirely safe TCS+ project. Helldivers must defend against 5 Terminid attacks to secure the sites; wherever Helldivers hold the line is where the unshakeable borders of Liberty will be drawn."
   }
 ]
