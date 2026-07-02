@@ -6789,5 +6789,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nTo further increase the likelihood of the Helldivers' success, the MD-8 Gas Mines Stratagem is now freely available fleetwide, for the next 48 hours."
+  },
+  {
+    "id": 3792,
+    "published": 75060180,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on , blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend SANGIS to nullify the exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
   }
 ]
