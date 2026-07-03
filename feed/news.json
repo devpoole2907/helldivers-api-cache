@@ -6796,5 +6796,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on , blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend SANGIS to nullify the exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
+  },
+  {
+    "id": 3793,
+    "published": 75113979,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nTo aid the Helldivers with their newest mandate, the Orbital Gas Strike Stratagem has been made freely available fleetwide, for the next 48 hours.\n\nFurthermore, the mandated waiting period between each use of the Stratagem has been reduced during this same timeframe."
   }
 ]
