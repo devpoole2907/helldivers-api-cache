@@ -6810,5 +6810,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the MD-8 Gas Mines Stratagem has now ended."
+  },
+  {
+    "id": 3795,
+    "published": 75253695,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully defended the initial TCS+ construction sites; demand for the new wall has surged beyond all projected models. Resultantly, the Helldivers must prepare for rapid resource procurement operations across multiple enemy fronts."
   }
 ]
