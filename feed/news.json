@@ -6803,5 +6803,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nTo aid the Helldivers with their newest mandate, the Orbital Gas Strike Stratagem has been made freely available fleetwide, for the next 48 hours.\n\nFurthermore, the mandated waiting period between each use of the Stratagem has been reduced during this same timeframe."
+  },
+  {
+    "id": 3794,
+    "published": 75229299,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the MD-8 Gas Mines Stratagem has now ended."
   }
 ]
