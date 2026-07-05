@@ -6817,5 +6817,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers have successfully defended the initial TCS+ construction sites; demand for the new wall has surged beyond all projected models. Resultantly, the Helldivers must prepare for rapid resource procurement operations across multiple enemy fronts."
+  },
+  {
+    "id": 3797,
+    "published": 75315722,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Ministry of Expansion requires an immediate influx of gas and mineral resources to maintain the construction pace of the new TCS+. \n\nTo secure these, the Helldivers are ordered to liberate MOX from the Automatons and GENESIS PRIME from the Illuminate, while holding BRILLIANCE, the key construction site for planetary TCS+ arrays."
+  },
+  {
+    "id": 3798,
+    "published": 75319396,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ESCALATION\n\nThe Exostorm on SANGIS has intensified to Category 2\u2014localized atmospheric cells are fusing into cascading planetary maelstroms.\n\nThis severe atmospheric volatility presents an extreme hazard to Helldivers.\n\nHelldivers: defend SANGIS to nullify the Exostorm before it progresses into a far more hazardous Category 3 maelstrom.\n\nOvercome this environmental interference with the unyielding determination Super Earth demands."
   }
 ]
