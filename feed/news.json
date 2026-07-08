@@ -6845,5 +6845,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CRITICAL EXOSTORM ESCALATION\n\nThe unnatural Exostorm on SANGIS has reached Category 3, now a chaotic, singular, planet-wide tempest of absolute atmospheric violence.\n\nInitial adverse spacetime fractures have been reported by the Ministry of Science as localized reality fields begin to fluctuate.\n\nHelldivers: you must defend SANGIS to nullify the Exostorm. Failure to do so would result in galactic catastrophe."
+  },
+  {
+    "id": 3801,
+    "published": 75579789,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the AX/TX-13 Dog Breath and A/GM-17 Gas Mortar Sentry Stratagems has now ended."
   }
 ]
