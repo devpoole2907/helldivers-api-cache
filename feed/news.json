@@ -6852,5 +6852,26 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the AX/TX-13 Dog Breath and A/GM-17 Gas Mortar Sentry Stratagems has now ended."
+  },
+  {
+    "id": 3802,
+    "published": 75661264,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER LOST\n\nThe Helldivers were prevented from procuring all required resources on MOX and GENESIS PRIME. However, their successful defense of BRILLIANCE enabled construction of the TCS+ wall to proceed, albeit with budget-optimized, localized materials."
+  },
+  {
+    "id": 3803,
+    "published": 75664986,
+    "type": 0,
+    "tagIds": [],
+    "message": "CATASTROPHIC ANOMALY: PLANET CONSUMED\n\nThe Category 3 Exostorm on SANGIS has surpassed all known theoretical parameters. In an unprecedented cosmological event, the tempest has completely collapsed the planetary mass into an expanding expanse of the Void.\n\nHigh Command confirms: SANGIS has been entirely consumed and erased from the galactic map. Fortify all adjacent sectors with utmost urgency."
+  },
+  {
+    "id": 3804,
+    "published": 75671454,
+    "type": 0,
+    "tagIds": [],
+    "message": "The first construction phase of the Termicide 2.0-dispersing TCS+ wall is nearing completion. In response, the Terminids are applying extreme pressure to break through and circumvent the new barrier before it seals them in forever.\n\nThe Helldivers are ordered to kill 600,000,000 Terminids, while successfully holding TERREK and ERATA PRIME. Helldivers should anticipate the bugs' unlawful resistance to increase as they grow more desperate to evade their eradication."
   }
 ]
