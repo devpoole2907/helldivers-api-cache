@@ -6880,5 +6880,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nTo aid the Helldivers with their newest mandate, the TX-41 Sterilizer Stratagem has been made freely available fleetwide, for the next 48 hours."
+  },
+  {
+    "id": 3807,
+    "published": 75870098,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on KEID, blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend KEID to nullify the Exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
   }
 ]
