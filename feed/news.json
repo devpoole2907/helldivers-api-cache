@@ -6887,5 +6887,12 @@
     "type": 0,
     "tagIds": [],
     "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on KEID, blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend KEID to nullify the Exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
+  },
+  {
+    "id": 3808,
+    "published": 75938725,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the TX-41 Sterilizer Stratagem has now ended.\n\nFor Helldivers with authorization to continue using the Stratagem, the mandated waiting period between its usage has returned to normal."
   }
 ]
