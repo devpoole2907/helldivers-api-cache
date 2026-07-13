@@ -6894,5 +6894,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nFree fleetwide availability of the TX-41 Sterilizer Stratagem has now ended.\n\nFor Helldivers with authorization to continue using the Stratagem, the mandated waiting period between its usage has returned to normal."
+  },
+  {
+    "id": 3809,
+    "published": 76017050,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers successfully held the line against progressively stronger waves of Terminids, and ensured the first construction phase of the TCS+ completed without hindrance. Countless bugs are now definitively shielded off within a controlled set of sectors. Consult the Control Center for more information."
   }
 ]
