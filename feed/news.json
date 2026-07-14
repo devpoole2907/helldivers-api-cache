@@ -6908,5 +6908,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER \n\nThe Automatons have launched an attack on VARYLIA 5 with a sudden and unprovoked kinetic bombardment. The Helldivers are ordered to hold the planet against an ongoing planetside invasion.\n\nAdditional attacks are anticipated. The Helldivers are ordered to conduct operations on MARFARK, where a Cyborg Megafactory has recently been built, to gather intelligence on which planet will be targeted next."
+  },
+  {
+    "id": 3811,
+    "published": 76129242,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ESCALATION\n\nThe Exostorm on KEID has intensified to Category 2\u2014localized atmospheric cells are fusing into cascading planetary maelstroms.\n\nThis severe atmospheric volatility presents an extreme hazard to Helldivers.\n\nHelldivers: defend KEID to nullify the Exostorm before it progresses into a far more hazardous Category 3 maelstrom.\n\nOvercome this environmental interference with the unyielding determination Super Earth demands."
   }
 ]
