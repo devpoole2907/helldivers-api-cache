@@ -6936,5 +6936,19 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY LOST\n\nDespite an honorable attempt on CHOOHE by Helldiver forces, the Automatons became aware of the concentrated effort to retrieve the data and were able to destroy the relevant data banks before they could be secured."
+  },
+  {
+    "id": 3815,
+    "published": 76429113,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers held VARYLIA 5 and secured intel from MARFARK. The Helldivers must now utilize the Democracy Space Station to attempt to intercept the enemy weapons platform before it can strike again. Helldivers must access the Galactic Map and cast their vote within the next 24 hours."
+  },
+  {
+    "id": 3816,
+    "published": 76429648,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTING HAS BEGUN\n\nVote now to navigate the DSS to the next expected location of the Automaton orbital superweapon. Evaluate available intel and choose accordingly. Votes may be cast via the Galactic Map Voting ends in 24 hours. \n"
   }
 ]
