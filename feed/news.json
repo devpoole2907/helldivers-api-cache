@@ -6978,5 +6978,12 @@
     "type": 0,
     "tagIds": [],
     "message": "VOTING ENDS IN 12 HOURS\n\nVoting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 12 hours. Evaluate available intel and choose accordingly.\n"
+  },
+  {
+    "id": 3821,
+    "published": 76548760,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOTING ENDS IN 6 HOURS\n\nVoting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 6 hours. Evaluate available intel and choose accordingly.\n"
   }
 ]
