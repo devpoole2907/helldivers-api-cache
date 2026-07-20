@@ -6992,5 +6992,12 @@
     "type": 0,
     "tagIds": [],
     "message": "VOTING ENDS IN 3 HOURS\n\nVoting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly.\n"
+  },
+  {
+    "id": 3823,
+    "published": 76602332,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Automaton orbital platform superweapon has struck YED PRIOR and Automaton ground forces are descending on the burning planet. Helldivers are ordered to deploy to YED PRIOR and hold it against enemy attack. \n\nFollowing the strike, SEAF field decrypters were cut off on WEZEN. Without access to their field expertise, decryption of Automaton transmissions has been critically stalled. Failing to liberate WEZEN and the decryption force would be a critical blow to tracking the superweapon. \n"
   }
 ]
