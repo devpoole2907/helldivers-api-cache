@@ -6999,5 +6999,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe Automaton orbital platform superweapon has struck YED PRIOR and Automaton ground forces are descending on the burning planet. Helldivers are ordered to deploy to YED PRIOR and hold it against enemy attack. \n\nFollowing the strike, SEAF field decrypters were cut off on WEZEN. Without access to their field expertise, decryption of Automaton transmissions has been critically stalled. Failing to liberate WEZEN and the decryption force would be a critical blow to tracking the superweapon. \n"
+  },
+  {
+    "id": 3824,
+    "published": 76723375,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on HEZE BAY, blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend HEZE BAY to nullify the Exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
   }
 ]
