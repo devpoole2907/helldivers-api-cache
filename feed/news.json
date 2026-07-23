@@ -7006,5 +7006,19 @@
     "type": 0,
     "tagIds": [],
     "message": "EXOSTORM ADVISORY\n\nA Category 1 Exostorm has been detected on HEZE BAY, blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend HEZE BAY to nullify the Exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
+  },
+  {
+    "id": 3825,
+    "published": 76861573,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers repelled the Automatons from YED PRIOR, and liberated the decryption team on WEZEN. The data recovered from the teams indicate that additional intel regarding the Automatons\u2019 next target may be found on X-45."
+  },
+  {
+    "id": 3826,
+    "published": 76862417,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nIntelligence secured from the SEAF decryption forces on WEZEN confirms that Automatons are using X-45 as a hub planet for facilities dedicated to the orbital superweapon. X-45 must be liberated in order to seize the data needed to intercept the superweapon. Enemy positions are well-fortified; expect heavy resistance. \n\nLiberate the planet and secure the superweapon intel, for the sake of Managed Democracy everywhere. \n"
   }
 ]
