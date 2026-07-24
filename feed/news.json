@@ -7034,5 +7034,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY SEIZED\n\nThe supplies recovered from CHOEPESSA IV, along with seized intel from the Automatons, have been turned over to top tactical analysts.\n\nEarly reports indicate that the bots are scrambling to increase the reliability of orbital scanning on planets with thick fog. \n"
+  },
+  {
+    "id": 3829,
+    "published": 76946775,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW STRATEGIC OPPORTUNITY\n\nHelldiver operations on CHOEPESSA IV have secured an intel cache that indicates planned testing parameters for the orbital superweapon are located on CHARON PRIME.\n\nIn an attempt to prevent intel interception, the Automatons have distributed encrypted data fragments directly into the memory drives of planetside forces. To reconstruct the intel, Helldivers must terminate 100,000,000 Automatons and upload their internal drives for analysis."
   }
 ]
