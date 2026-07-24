@@ -7027,5 +7027,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nAutomaton transmissions indicate that the bots are reallocating forces to extract raw material from CHOEPESSA IV ahead of the next orbital superweapon strike. \n\nIt is suspected that these materials are crucial to the operation of the superweapon. Helldivers will deploy immediately and seize these supplies as part of the effort to gather intel on the superweapon."
+  },
+  {
+    "id": 3828,
+    "published": 76927560,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\n\nThe supplies recovered from CHOEPESSA IV, along with seized intel from the Automatons, have been turned over to top tactical analysts.\n\nEarly reports indicate that the bots are scrambling to increase the reliability of orbital scanning on planets with thick fog. \n"
   }
 ]
