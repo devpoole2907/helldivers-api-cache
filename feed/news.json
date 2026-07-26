@@ -7083,5 +7083,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC OPPORTUNITY LOST\n\nThe operational window has closed on CHARON PRIME. The local Automaton forces purged the superweapon data fragments before Helldivers could retrieve the complete package. \n"
+  },
+  {
+    "id": 3836,
+    "published": 77133657,
+    "type": 0,
+    "tagIds": [],
+    "message": "The DSS fired successfully on the enemy orbital platform. The enemy weapon sustained heavy damage, but remains operational. A second hit will likely destroy it completely. The Automatons have nevertheless launched a ground invasion on MORT. The Helldivers are ordered to the planet\u2019s defense. "
   }
 ]
