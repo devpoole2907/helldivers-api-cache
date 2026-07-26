@@ -7076,5 +7076,12 @@
     "type": 0,
     "tagIds": [],
     "message": "VOTING ENDS IN 3 HOURS\n\nVoting to navigate the DSS to the next expected location of the Automaton orbital superweapon ends in 3 hours. Evaluate available intel and choose accordingly.\n"
+  },
+  {
+    "id": 3835,
+    "published": 77119592,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY LOST\n\nThe operational window has closed on CHARON PRIME. The local Automaton forces purged the superweapon data fragments before Helldivers could retrieve the complete package. \n"
   }
 ]
