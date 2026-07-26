@@ -7090,5 +7090,12 @@
     "type": 0,
     "tagIds": [],
     "message": "The DSS fired successfully on the enemy orbital platform. The enemy weapon sustained heavy damage, but remains operational. A second hit will likely destroy it completely. The Automatons have nevertheless launched a ground invasion on MORT. The Helldivers are ordered to the planet\u2019s defense. "
+  },
+  {
+    "id": 3837,
+    "published": 77155350,
+    "type": 0,
+    "tagIds": [],
+    "message": "CRITICAL EXOSTORM ESCALATION\n\nThe unnatural Exostorm on HEZE BAY has reached Category 3, now a chaotic, singular, planet-wide tempest of absolute atmospheric violence.\n\nInitial adverse spacetime fractures have been reported by the Ministry of Science as localized reality fields begin to fluctuate.\n\nHelldivers: you must defend HEZE BAY to nullify the Exostorm. Failure to do so would result in galactic catastrophe."
   }
 ]
