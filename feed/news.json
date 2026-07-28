@@ -7111,5 +7111,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThe time has now come to extend the barrier to fully pen in the Terminid Swarm. TCS+ Towers have been constructed on the following planets: FRONTERIA, TURING, and ACHIRD III. The construction has triggered instinctive assaults from the Terminids. The Helldivers are ordered to defend these planets and activate TCS+ towers in the process."
+  },
+  {
+    "id": 3840,
+    "published": 77328142,
+    "type": 0,
+    "tagIds": [],
+    "message": "TOTAL EXOSTORM COLLAPSE\n\nThe Category 3 Exostorm on HEZE BAY has reached terminal density, completely collapsing the planetary environment into a permanent expanse of the Void.\n\nThe entire planetary mass has been fully consumed by this expanding spatial vacuum. High Command confirms that HEZE BAY has been erased from the galactic map; all local coordinates are no longer viable for deployment.\n\nFortify adjacent sectors. This anomaly must be contained."
   }
 ]
