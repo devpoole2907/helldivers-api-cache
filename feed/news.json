@@ -7125,5 +7125,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DISINFORMATION ALERT\n\nAll personnel: a dossier containing malicious, false information has been spread via cyberattack. It contains lab reports which have been duplicitously altered to indicate that Termicide 2.0 is inneffective. This is a heinous act of information warfare, perpetrated by the Cyborg Legion with the intent of disrupting citizen unity.\n\nAll personnel are advised to destroy and immediately report any such information to their Democracy Officer immediately."
+  },
+  {
+    "id": 3842,
+    "published": 77590386,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 48 hours."
   }
 ]
