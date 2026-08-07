@@ -7153,5 +7153,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC IMPERATIVE\n\nDissident saboteurs have planted Terminids on ERATA PRIME, where the TCS+ is already fully functioning. This is an obvious and pathetic attempt to cast doubt upon the unimpeachable effectiveness of the TCS+. These dissidents were likely influenced by Cyborg disinformation, proving the imperative of ongoing operations to disrupt them.\n\nNevertheless, the threat posed by this artificially-produced outbreak is very real. The Helldivers are ordered to eliminate it before it spreads out of control."
+  },
+  {
+    "id": 3846,
+    "published": 78118538,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC IMPERATIVE FAILED\n\nThe Terminid outbreak on ERATA PRIME remains uncontained, creating a critical vulnerability in the TCS+ so long as it exists."
   }
 ]
