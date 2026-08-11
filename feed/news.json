@@ -7209,5 +7209,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MINOR TERMINID OUTBREAK\n\nA minor Terminid outbreak has occured on CRIMSICA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak.\n"
+  },
+  {
+    "id": 3854,
+    "published": 78498412,
+    "type": 0,
+    "tagIds": [],
+    "message": "Campaign Won\n\nThe TCS+ is complete. On an unbroken line of planets, Termicide 2.0 fills the atmosphere, completely preventing the possibility of Terminid infestation."
   }
 ]
