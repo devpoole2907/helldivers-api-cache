@@ -7216,5 +7216,26 @@
     "type": 0,
     "tagIds": [],
     "message": "Campaign Won\n\nThe TCS+ is complete. On an unbroken line of planets, Termicide 2.0 fills the atmosphere, completely preventing the possibility of Terminid infestation."
+  },
+  {
+    "id": 3855,
+    "published": 78600691,
+    "type": 0,
+    "tagIds": [],
+    "message": "INTELLIGENCE BRIEF\n\nIn a desperate bid to halt our progress on Rirga Bay, the enemy has launched an offensive from the Void, deploying grotesque, previously unseen biological weapons designated as Vote Snatchers.\n\nThese Democratically-voided thralls are highly dangerous and possess zero perceivable humanity. Helldivers must neutralize them immediately to secure the Warp Relay perimeter."
+  },
+  {
+    "id": 3856,
+    "published": 78600706,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nTo breach the Void, engineering corps are finalizing a Void Warp Relay on Rirga Bay. However, initial calibration tests have allowed an onslaught of horrific Illuminate creations to spill out from the gateway, threatening construction.\n\nHelldivers must hold Rirga Bay, stop the spread of these grotesque mutations, and collect critical E-711 to fuel the relay and facilitate upcoming SEAF deployments into the unknown."
+  },
+  {
+    "id": 3857,
+    "published": 78600717,
+    "type": 0,
+    "tagIds": [],
+    "message": "FORCE AUGMENTATION\n\nHigh Command has authorized auxiliary SEAF infantry to deploy alongside Helldivers on Rirga Bay.\n\nSEAF detachments will deploy to ongoing Helldiver missions as available to augment firepower and draw enemy aggression. SEAF troops report ecstatic morale at this opportunity to witness Helldiver lethality firsthand."
   }
 ]
