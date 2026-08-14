@@ -7237,5 +7237,12 @@
     "type": 0,
     "tagIds": [],
     "message": "FORCE AUGMENTATION\n\nHigh Command has authorized auxiliary SEAF infantry to deploy alongside Helldivers on Rirga Bay.\n\nSEAF detachments will deploy to ongoing Helldiver missions as available to augment firepower and draw enemy aggression. SEAF troops report ecstatic morale at this opportunity to witness Helldiver lethality firsthand."
+  },
+  {
+    "id": 3858,
+    "published": 78747293,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers successfully protected Rirga Bay, proving that no amount of Illuminate genetic tampering can withstand Liberty's might.\n\nConsequently, the Void Warp Relay has achieved full operational status. In addition to securing primary fuel metrics, the enthusiastic harvesting of E-711 enabled High Command to reward auxiliary SEAF regiments with immediate, mandatory deployment into the Void alongside Super Earth's most elite forces."
   }
 ]
