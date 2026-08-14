@@ -7244,5 +7244,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers successfully protected Rirga Bay, proving that no amount of Illuminate genetic tampering can withstand Liberty's might.\n\nConsequently, the Void Warp Relay has achieved full operational status. In addition to securing primary fuel metrics, the enthusiastic harvesting of E-711 enabled High Command to reward auxiliary SEAF regiments with immediate, mandatory deployment into the Void alongside Super Earth's most elite forces."
+  },
+  {
+    "id": 3859,
+    "published": 78773198,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nHelldivers are to enter the Void immediately. Here, conventional navigational arrays are non-functional.\n\nTo aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void source planet, Helldivers must extract 35,000,000 samples from UVP ALPHA, complete 1,000,000 operations on UVP GAMMA, and eliminate 1,250,000,000 hostiles on SENGE 23."
   }
 ]
