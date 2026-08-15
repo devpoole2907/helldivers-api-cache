@@ -7272,5 +7272,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS UPDATE\n\nThe gloom-resistant polymer coating enabling the DSS to sustain the corrosive spore environment is having an adverse reaction to the warp relay treatment. Rumors of taps or knocks on the hull of the station are unfounded.\n\nThe DSS is exiting the void for examination."
+  },
+  {
+    "id": 3863,
+    "published": 78895366,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOID PLANET TRIANGULATED\n\nHelldiver actions within the Void have enabled the triangulation of UVP BETA, which may now be accessed. The Helldivers are ordered to support further data gathering efforts in order to support continued progress toward's the Void's center.\n"
   }
 ]
