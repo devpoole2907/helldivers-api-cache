@@ -7265,5 +7265,12 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATEGIC ADVISORY\n\nData indicates the exteriors of the Void is barricaded with highly intense cosmic radiation field. In order to avoid molecular disintegration, or worse, Helldivers are advised to utilize the Warp Relay on the gateway planet of RIRGA BAY to enter the Void.\n\nThis is a perfectly safe and mandatory process for destroyer and crew."
+  },
+  {
+    "id": 3862,
+    "published": 78851278,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS UPDATE\n\nThe gloom-resistant polymer coating enabling the DSS to sustain the corrosive spore environment is having an adverse reaction to the warp relay treatment. Rumors of taps or knocks on the hull of the station are unfounded.\n\nThe DSS is exiting the void for examination."
   }
 ]
