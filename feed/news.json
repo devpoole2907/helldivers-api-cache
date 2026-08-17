@@ -7279,5 +7279,19 @@
     "type": 0,
     "tagIds": [],
     "message": "VOID PLANET TRIANGULATED\n\nHelldiver actions within the Void have enabled the triangulation of UVP BETA, which may now be accessed. The Helldivers are ordered to support further data gathering efforts in order to support continued progress toward's the Void's center.\n"
+  },
+  {
+    "id": 3864,
+    "published": 79054366,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOID PLANET TRIANGULATED\n\nCoordinates for HYDROBIUS have been determined within .01% error, following extensive Void material analysis. Operations on the planet may now commence.\n\nMatter from planets within the Void has been discovered to posses varying levels of a novel property similar in principle to radiation. Higher levels of radiation are believed to indicate longer exposure to the Void, and thus point towards the Void's origin."
+  },
+  {
+    "id": 3865,
+    "published": 79054528,
+    "type": 0,
+    "tagIds": [],
+    "message": "SEASSE LOCATED\n\nThe body at the Void barycenter closely matches known properties of the planet Seasse, the first to fall into the Void. This confirms theories on approaching the Void's origin. \n\nNearly enough data has been gathered to allow travel to Seasse. The Helldivers are ordered to take all necessary measures to hasten the final stages of research.\n"
   }
 ]
