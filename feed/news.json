@@ -7293,5 +7293,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SEASSE LOCATED\n\nThe body at the Void barycenter closely matches known properties of the planet Seasse, the first to fall into the Void. This confirms theories on approaching the Void's origin. \n\nNearly enough data has been gathered to allow travel to Seasse. The Helldivers are ordered to take all necessary measures to hasten the final stages of research.\n"
+  },
+  {
+    "id": 3866,
+    "published": 79055221,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nTo aid their valiant efforts, all Helldiver deployments on UVP ALPHA will be augmented with the Shield Generator Pack Stratagem for the next 24 hours."
   }
 ]
