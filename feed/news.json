@@ -7328,5 +7328,12 @@
     "type": 0,
     "tagIds": [],
     "message": "T-MINUS 6 HOURS: SEASSE\n\nThe Void Warp Relay has entered its final power-up sequence. The jump corridor to the Void source planet will open in exactly six hours.\n\nLogistics teams will soon finalize the distribution of advanced arsenal augmentations across all participating destroyer hulls. Ensure all standard-issue compliance tools are fully serviced."
+  },
+  {
+    "id": 3871,
+    "published": 79107974,
+    "type": 0,
+    "tagIds": [],
+    "message": "T-MINUS 3 HOURS: SEASSE\n\nFinal systems checks are underway across the vanguard fleet. The Void Warp Relay is approaching the terminal energy density required for transit on schedule.\n\nHigh Command reminds all personnel to report to battle stations and immediately report any unapproved physical mutations. Continue to prepare for imminent, synchronized FTL transit."
   }
 ]
