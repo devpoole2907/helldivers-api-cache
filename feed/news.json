@@ -7335,5 +7335,12 @@
     "type": 0,
     "tagIds": [],
     "message": "T-MINUS 3 HOURS: SEASSE\n\nFinal systems checks are underway across the vanguard fleet. The Void Warp Relay is approaching the terminal energy density required for transit on schedule.\n\nHigh Command reminds all personnel to report to battle stations and immediately report any unapproved physical mutations. Continue to prepare for imminent, synchronized FTL transit."
+  },
+  {
+    "id": 3872,
+    "published": 79114976,
+    "type": 0,
+    "tagIds": [],
+    "message": "FINAL PREPARATIONS: SEASSE\n\nThe Void Warp Relay calibration is complete. Helldivers are advised: T-Minus 1 Hour to Landfall.\n\nThe path to to Seasse, the Void source planet, is fully stabilized. All Helldivers are ordered to conclude preparatory operations. Ready for imminent deployment into the heart of the anomaly, and the lawful eradication of the Void.\n\nFor Super Earth."
   }
 ]
