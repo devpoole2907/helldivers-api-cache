@@ -7307,5 +7307,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nThe Helldivers\u2019 investigative charting of the Void's initial layer was a masterclass in conquering the unknown. \n\nData extracted from the three initial worlds allowed SEAF navigation arrays to successfully calibrate despite the unlawful spacetime anomalies, narrowing search parameters for the hidden Illuminate source planet. As such, the offensive toward the enemy's central base of operations remains on schedule, and with immediate SEAF support available."
+  },
+  {
+    "id": 3868,
+    "published": 79092801,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOID PLANET TRIANGULATED\n\nUVP DELTA is now reachable, thanks to Helldiver efforts. All detected planet within the Void are now accessible, with the exception of one, which is believed to lie at the Void's astro-temporal center."
+  },
+  {
+    "id": 3869,
+    "published": 79092933,
+    "type": 0,
+    "tagIds": [],
+    "message": "T-MINUS 7 HOURS: SEASSE\n\nThe Void Warp Relay is nearing optimal calibration. The jump to Seasse, the Void source planet will commence in 7 hours.\n\nTactical augmentations procured by the Helldivers during this preparatory phase are currently being processed by fleet logistics. The Illuminate will soon face the inescapable reality of Managed Democracy."
   }
 ]
