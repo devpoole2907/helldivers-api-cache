@@ -7384,5 +7384,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS UPDATE\n\nThe DSS (Democracy Space Station) is undergoing examination after exiting the Void. Reports of rhythmic knocking across the hull have been independently confirmed, and though they have intensified, High Command maintains these vibrations are merely localized thermal contraction. \n\nThe examiners assigned by the Ministry of Truth have volunteered to remain aboard indefinitely to monitor the situation; as a precaution, all outbound shuttle access is suspended."
+  },
+  {
+    "id": 3879,
+    "published": 79215468,
+    "type": 0,
+    "tagIds": [],
+    "message": "EXOSTORM ADVISORY\n\nA Category 3 Exostorm has been detected on KARLIA, blanketing the planet in violent celestial super-storms.\n\nThese unnatural atmospheric anomalies threaten to disrupt our current operations. High Command demands absolute operational resilience in the face of these severe environmental hazards.\n\nHelldivers: defend KARLIA to nullify the Exostorm before it can worsen.\n\nDo not let these celestial tempests halt our advance."
   }
 ]
