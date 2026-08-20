@@ -7440,5 +7440,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS UPDATE\n\nTo fully resolve minor navigational discrepancies aboard the DSS, High Command has remotely initiated a station-wide environmental optimization cycle.\n\nThis deep sanitization has successfully returned the vessel to sterile parameters and hereby concludes the DSS examination to a satisfactory standard. Remote helm controls have locked a direct vector to Afoyay Bay for routine maintenance and post-cycle ventilation."
+  },
+  {
+    "id": 3887,
+    "published": 79327427,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS UPDATE\n\nThe DSS has docked at Afoyay Bay. A workforce of eager legally-mandated volunteers has been transported from the CECOD (Center for the Confinement of Dissidence) secure relocation site to carry out manual bio-remediation.\n\nThe DURs (Dissidents-Undergoing-Reeducation) have also been tasked with restoring the DSS to match original inventory manifests, and report exceptional morale at this generous opportunity to earn atonement."
   }
 ]
