@@ -7426,5 +7426,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS UPDATE\n\nThe DSS has temporarily ceased any and all communication transmissions. Automated diagnostics confirm transceiver hardware is operating at 100% efficiency. \n\nHigh Command has officially attributed this ongoing silence to a mandatory, station-wide silent contemplation period. Normal communications, log updates, and official examiner reports will resume immediately upon its scheduled conclusion."
+  },
+  {
+    "id": 3885,
+    "published": 79319783,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS UPDATE\n\nThe DSS has completed an unscheduled FTL jump toward Calypso, forgoing the standard administrative channels for requests of this nature.\n\nWhile the crew's sudden interest in this sector is under review, the on-board Ministry of Truth examiners are commended for their diligence, encouraged to complete their audit, and reminded that High Command has remotely disabled any and all manual controls aboard the station until further notice."
   }
 ]
