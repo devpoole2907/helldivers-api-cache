@@ -7433,5 +7433,12 @@
     "type": 0,
     "tagIds": [],
     "message": "DSS STATUS UPDATE\n\nThe DSS has completed an unscheduled FTL jump toward Calypso, forgoing the standard administrative channels for requests of this nature.\n\nWhile the crew's sudden interest in this sector is under review, the on-board Ministry of Truth examiners are commended for their diligence, encouraged to complete their audit, and reminded that High Command has remotely disabled any and all manual controls aboard the station until further notice."
+  },
+  {
+    "id": 3886,
+    "published": 79325191,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS UPDATE\n\nTo fully resolve minor navigational discrepancies aboard the DSS, High Command has remotely initiated a station-wide environmental optimization cycle.\n\nThis deep sanitization has successfully returned the vessel to sterile parameters and hereby concludes the DSS examination to a satisfactory standard. Remote helm controls have locked a direct vector to Afoyay Bay for routine maintenance and post-cycle ventilation."
   }
 ]
