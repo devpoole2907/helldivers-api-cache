@@ -7419,5 +7419,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide use of the Orbital Railcannon Stratagem with reduced waiting period between calldowns at the Void Source Planet for the next 48 hours."
+  },
+  {
+    "id": 3884,
+    "published": 79297231,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS STATUS UPDATE\n\nThe DSS has temporarily ceased any and all communication transmissions. Automated diagnostics confirm transceiver hardware is operating at 100% efficiency. \n\nHigh Command has officially attributed this ongoing silence to a mandatory, station-wide silent contemplation period. Normal communications, log updates, and official examiner reports will resume immediately upon its scheduled conclusion."
   }
 ]
