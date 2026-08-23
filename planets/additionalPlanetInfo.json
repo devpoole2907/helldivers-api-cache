@@ -4150,16 +4150,6 @@
     },
     "environmentals": []
   },
-  "270": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "271": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
   "272": {
     "name": "Basquine VIII",
     "biome": {
@@ -4174,66 +4164,6 @@
       "slug": "autumn",
       "description": ""
     },
-    "environmentals": []
-  },
-  "274": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "275": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "276": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "277": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "278": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "279": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "280": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "281": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "282": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "283": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "284": {
-    "name": "Unknown",
-    "biome": null,
-    "environmentals": []
-  },
-  "285": {
-    "name": "Unknown",
-    "biome": null,
     "environmentals": []
   }
 }
