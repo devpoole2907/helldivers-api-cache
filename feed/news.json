@@ -7517,5 +7517,12 @@
     "type": 0,
     "tagIds": [],
     "message": "VOID EXPANSION DETECTED\n\nThe expanding perimeter of the Void has surpassed all projections. Massive swathes of galactic real estate have been consumed by the anomaly.\n\nAny colonial populations within the engulfed coordinates are advised to work from home, where viable, and to otherwise uphold their professional commitments until notified otherwise."
+  },
+  {
+    "id": 3900,
+    "published": 79568606,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Helldivers have secured Seasse, enabling the three Ministry of Science team members to trigger the total, completely understood dissolution of the Void, reverting all affected worlds to their designated, legally-approved layout.\n\nThough mutated enemies persist in minimized numbers, the Void has been safely obliterated, securing the Federation against obfuscated Tyranny."
   }
 ]
