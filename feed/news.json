@@ -7510,5 +7510,12 @@
     "type": 0,
     "tagIds": [],
     "message": "SEASSE SCIENCE EXPEDITION LOGS CLASSIFIED\n\nTo optimize administrative efficiency, all subterranean research logs from Seasse have been permanently classified. High Command explicitly reassures citizens that the remaining three personnel are performing with absolute Patriotic excellence. \n\nNo further reports are required; the expedition has fulfilled all mandated success criteria."
+  },
+  {
+    "id": 3899,
+    "published": 79557569,
+    "type": 0,
+    "tagIds": [],
+    "message": "VOID EXPANSION DETECTED\n\nThe expanding perimeter of the Void has surpassed all projections. Massive swathes of galactic real estate have been consumed by the anomaly.\n\nAny colonial populations within the engulfed coordinates are advised to work from home, where viable, and to otherwise uphold their professional commitments until notified otherwise."
   }
 ]
