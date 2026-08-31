@@ -7545,5 +7545,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC IMPERATIVE\n\nTerminids threaten to overrun BRILLIANCE following dissident sabotage of its TCS+ towers. The Helldivers are ordered to reclaim the planet and cleanse the Terminid infestation, so that the TCS+ may be repaired.\n"
+  },
+  {
+    "id": 3906,
+    "published": 80229741,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC IMPERATIVE FAILED\n\nThe Terminid outbreak remains on BRILLIANCE. Fewer than 5% of TCS+ nodes on the planet remain operational. At this time, the planet represents a severe gap in the TCS+ barrier planets, presenting risk of further outbreak and breach of containment.\n"
+  },
+  {
+    "id": 3907,
+    "published": 80232549,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON\n\nThe Heldlivers rapidly secured each planet suspected to harbor the dissidents responsible for sabotaging the TCS+. However, no dissidents were found or apprehended. \n\nThis evasion demonstrates the capability to orchestrate the rapid evacuation of dissident agents from these planets. It is clear that the dissident network is even more extensive and well-resourced than initially estimated. \n\n"
   }
 ]
