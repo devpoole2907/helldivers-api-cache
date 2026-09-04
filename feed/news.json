@@ -7580,5 +7580,19 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER WON\n\nDeputized citizens have apprehended thousands of suspected dissidents across the Federation. They were motivated and rewarded by premium trophies of Freedom's enemies valiantly secured by the Helldivers.\n\nHundreds of apprehended suspects have already confessed to conspiracy to sabotage the TCS+ and destroy Managed Democracy. The dissident network, which existed, is rapidly being mapped and dismantled."
+  },
+  {
+    "id": 3911,
+    "published": 80589912,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nRecent sabotages of the TCS+ by dissidents have threatened the populace and inflamed public outrage. \n\nThe Helldivers are ordered to liberate BORE ROCK and NIVEL 43, Terminid-held planets adjacent to those sabotaged by dissidents, so that the TCS+ can be built on those planets as well. In so doing, the impregnable barrier of the TCS+ will be made twice as impregnable as before."
+  },
+  {
+    "id": 3912,
+    "published": 80589961,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nHigh Command has authorized fleetwide availability of the Eagle Gas Airstrike  Stratagem for the next 72 hours."
   }
 ]
