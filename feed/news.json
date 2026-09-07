@@ -7608,5 +7608,19 @@
     "type": 0,
     "tagIds": [],
     "message": "CAMPAIGN WON\n\nTCS+ nodes are under construction on BORE ROCK and NIVEL 43 following their liberation by the Helldivers. The containment of the Terminids has never been more guaranteed. The dissident network responsible for these sabotages, which existed, has been dismantled."
+  },
+  {
+    "id": 3915,
+    "published": 80841760,
+    "type": 0,
+    "tagIds": [],
+    "message": "HEETH LOST\nHeeth has fallen to the Terminid Menace. We cannot allow this infestation to continue to spread."
+  },
+  {
+    "id": 3916,
+    "published": 80849403,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nEagle Gas Airstrike  Stratagem availability has now ended."
   }
 ]
