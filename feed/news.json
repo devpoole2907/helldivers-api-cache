@@ -7643,5 +7643,12 @@
     "type": 0,
     "tagIds": [],
     "message": "INCINERATION CORPS SIGHTED\n\nThe Automaton Incineration Corps has resurfaced on VINDEMITARIX PRIME."
+  },
+  {
+    "id": 3920,
+    "published": 81364178,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe Helldivers recaptured CHARBAL-VII, by the Cyborgs retained hold of ZZANIAH PRIME. \n\nMassive server banks were discovered in the captured Megafactories. Cybersecurity specialists have confirmed that these server banks could be used in the conduct of cyberattacks\u2014confirming the enemy's intent beyond doubt."
   }
 ]
