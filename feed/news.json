@@ -7650,5 +7650,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nThe Helldivers recaptured CHARBAL-VII, by the Cyborgs retained hold of ZZANIAH PRIME. \n\nMassive server banks were discovered in the captured Megafactories. Cybersecurity specialists have confirmed that these server banks could be used in the conduct of cyberattacks\u2014confirming the enemy's intent beyond doubt."
+  },
+  {
+    "id": 3922,
+    "published": 81462288,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nEvidence of an even more abhorrent Cyborg plot to manipulate the upcoming Quarter-term elections has been discovered: to create androids, disguised as Super Earth citizens, to infiltrate voting centers.\n\nThe Helldivers are ordered to immediately deploy to destroy 200,000,000 Automaton Troopers, depleting their stock of potential infiltrators."
   }
 ]
