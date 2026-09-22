@@ -7741,5 +7741,12 @@
     "type": 0,
     "tagIds": [],
     "message": "CAMPAIGN FAILURE\n\nCyborg interference has raised significant doubts in the veracity of the Quarter-Term Elections. As a result, a re-vote has been ordered, with enhanced election security measures to make interference impossible.\n\nSEAF Battalions have been recalled from the frontlines to secure voting sites."
+  },
+  {
+    "id": 3935,
+    "published": 82130718,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nMiscalibrations in the Democracy Space Station have required it to be taken temporarily offline in order to be resolved. The Ministry of Defense has shifted significant personnel to these fixes, making it a top priority. \n\nThose responsible for the mistakes will attend an intensive re-training seminar. If the issue persists, their families will also attend the seminar."
   }
 ]
