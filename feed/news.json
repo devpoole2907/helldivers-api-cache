@@ -7755,5 +7755,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nEnemy aggression prevents the long-term construction of the new Maelstrom Tank, threatening our citizens' inherent right to self-defense. Liberate MARFARK and PHACT BAY immediately."
+  },
+  {
+    "id": 3938,
+    "published": 82229055,
+    "type": 0,
+    "tagIds": [],
+    "message": "MINOR TERMINID OUTBREAK\n\nA minor Terminid outbreak has occured on FRONTERIA. It is evident that some dissidents continue their hopeless effort to disrupt citizen confidence in the TCS+. The Helldivers are ordered to put down this small, low-threat outbreak.\n"
   }
 ]
