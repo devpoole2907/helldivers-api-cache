@@ -7783,5 +7783,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nProduction of Maelstrom Tanks for civilian and military use is proceeding on schedule. Now, deluxe features offered as incentives for early investors must be fabricated. The Helldivers are ordered to dismantle 5,000,000 Automaton Tanks to repurpose their engine cooling systems as climate-controlled cupholders, and harvest 25,000,000 Chargers to convert their carapaces to vibration-insulation panels."
+  },
+  {
+    "id": 3942,
+    "published": 82945292,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nInsufficient materials have been harvested by the Helldivers to fulfill production quotas for deluxe Maelstrom Tank features. This has caused significant distress amongst the early investors who were promised these features as incentives, resulting in a precipitous drop in pre-sales and a decrease in share value.\n\nAs a result, the Maelstrom Tank project is now at risk of termination."
   }
 ]
