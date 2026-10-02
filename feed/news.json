@@ -7790,5 +7790,12 @@
     "type": 0,
     "tagIds": [],
     "message": "MAJOR ORDER FAILED\n\nInsufficient materials have been harvested by the Helldivers to fulfill production quotas for deluxe Maelstrom Tank features. This has caused significant distress amongst the early investors who were promised these features as incentives, resulting in a precipitous drop in pre-sales and a decrease in share value.\n\nAs a result, the Maelstrom Tank project is now at risk of termination."
+  },
+  {
+    "id": 3943,
+    "published": 83031177,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nUnrelenting enemy aggression has put production of the Maelstrom Tank in jeopardy. To recoup costs, the Helldivers are ordered to aid the creation of a public awareness sales campaign. Footage of the Helldivers obliterating Freedom's enemies could increase pre-sales, providing the funding needed to save the project.\n\nGATRIA and WASAT have just come under attack. Deploy to defend these planets, utilizing the Maelstrom Tank. "
   }
 ]
