@@ -7916,5 +7916,40 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nTo honor the fallen, the government has authorized the construction of The Malevelon Creek Memorial & Interrogation Center for Human Rights. However, enemy aggression threatens this project. \n\nTheir occupation of Super Earth territories rich in rare metals, crude oil, and radioactive isotopes, among others, steals from the prosperity of all. This is an insult to the memory of our heroes. The Helldivers are ordered to liberate FURY, ESKER, and ZEA RUGOSIA."
+  },
+  {
+    "id": 3961,
+    "published": 84892860,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER LOST\n\nEnemy aggression has denied the rightful return of certain territories to Freedom's embrace.\n\nThe Malevelon Creek Memorial & Interrogation Center for Human Rights project is on rocky ground\u2014a consequence that Democracy's enemies doubtlessly celebrate with glee. So long as our resources remain in enemy hands, our fallen heroes will suffer grave insult."
+  },
+  {
+    "id": 3962,
+    "published": 84899049,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nThe Ministry of Truth is producing an inspirational education film called \"Democratic Sniper.\" Proceeds from the film will go towards construction of the Malevelon Creek Memorial & Interrogation Center for Human Rights.\n\nMuch of the film will consist of real battlefield footage. The Helldivers are ordered to kill 300,000,000 Terminids, 65,000,000 Illuminates, and 50,000,000 Automatons in order to ensure the availability of sufficiently high-quality footage."
+  },
+  {
+    "id": 3963,
+    "published": 84899998,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nTo bolster war efforts, the HMG Emplacement Stratagem has been made freely available for all Helldiver deployments on the Terminid warfront, for the next 120 hours."
+  },
+  {
+    "id": 3964,
+    "published": 84900950,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nTo bolster war efforts, the Orbital Railcannon Strike Stratagem has been made freely available for all Helldiver deployments on the Automaton warfront, for the next 120 hours."
+  },
+  {
+    "id": 3965,
+    "published": 84901928,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION\n\nTo bolster war efforts, the Anti-Materiel Rifle Stratagem has been made freely available for all Helldiver deployments on the Illuminate warfront, for the next 120 hours."
   }
 ]
