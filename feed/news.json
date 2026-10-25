@@ -7951,5 +7951,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION\n\nTo bolster war efforts, the Anti-Materiel Rifle Stratagem has been made freely available for all Helldiver deployments on the Illuminate warfront, for the next 120 hours."
+  },
+  {
+    "id": 3966,
+    "published": 84975052,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL BOOST High Command has authorized high-volume use of the Orbital Railcannon Stratagem on the Automaton warfront. For operations on that warfront, the mandated waiting period between salvos has been lowered by 120 seconds for the next 72 hours."
   }
 ]
