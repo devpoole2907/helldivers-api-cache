@@ -7986,5 +7986,19 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW STRATEGIC OPPORTUNITY\n\nA Terminid outbreak has occurred on Nivel 43, likely due to the splintered remnants of the eco-fascistic terrorist network culled in the Counterdissident Hammer campaign. While the threat is assessed as very low, it presents an opportunity to capture vital footage of their wanton aggression. \n\nHelldivers must aid in this virtuously expedient cause and liberate Nivel 43. Securing the footage will reduce remaining major order requirement by 50%."
+  },
+  {
+    "id": 3971,
+    "published": 85273532,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC OPPORTUNITY SEIZED\n\nHelldivers have contained the outbreak on Nivel 43, securing essential footage for Democratic Sniper. Simultaneously, reports of new Terminid mutations have been investigated; the mutations were determined to be merely superficial changes, well within normal Terminid gene expression. \n\nThe Ministry of Truth has deemed the filmed footage to be of masterfully evocative cinematic quality. As a result, the remaining major order requirements are reduced by 50%."
+  },
+  {
+    "id": 3972,
+    "published": 85276655,
+    "type": 0,
+    "tagIds": [],
+    "message": "ARSENAL AUGMENTATION ENDED\n\nFree availability of the Gas Mines Stratagem for forces on the Terminid front has now ended."
   }
 ]
