@@ -8035,5 +8035,12 @@
     "type": 0,
     "tagIds": [],
     "message": "ARSENAL AUGMENTATION ENDED\n\nFree availability of the Anti-Materiel Rifle Stratagem for forces on the Illuminate front has now ended."
+  },
+  {
+    "id": 3978,
+    "published": 85344679,
+    "type": 0,
+    "tagIds": [],
+    "message": "SCAVENGER RAMPAGE UPDATE\n\nScavenger numbers on Terminid warfront have returned to normal levels."
   }
 ]
