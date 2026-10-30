@@ -8042,5 +8042,19 @@
     "type": 0,
     "tagIds": [],
     "message": "SCAVENGER RAMPAGE UPDATE\n\nScavenger numbers on Terminid warfront have returned to normal levels."
+  },
+  {
+    "id": 3979,
+    "published": 85435901,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER\n\nEnemy aggression has made the construction of the Malevelon Creek Memorial & Interrogation Center for Human Rights impossible. The project has therefore been downscoped to solely consist of the Interrogation Center for Human Rights.\n\nTo aid development of more effective digital interrogation techniques, the Helldivers are ordered to acquire 35,000,000 Automaton samples and kill 60,000,000 Cyborgs."
+  },
+  {
+    "id": 3980,
+    "published": 85437029,
+    "type": 0,
+    "tagIds": [],
+    "message": "SYSTEMS NOTIFICATION\n\nSome Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. \n\nThis experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as:\n\n-a fluttering Super Earth flag\n-a filled-out ballot\n-the inevitable destruction of Freedom's enemies"
   }
 ]
