@@ -8063,5 +8063,33 @@
     "type": 0,
     "tagIds": [],
     "message": "STRATAGEM GRANTED\n\nThe Orbital Laser Stratagem has been authorized for immediate use on Choepessa IV, for the next 24 hours."
+  },
+  {
+    "id": 3982,
+    "published": 85681334,
+    "type": 0,
+    "tagIds": [],
+    "message": "MINOR TERMINID OUTBREAK\n\nA minor Terminid outbreak has occurred on FORI PRIME, likely merely the result of recent system updates to the TCS+ firmware. While the outbreak is minor and will be contained in due time, Helldivers are welcome to aid in the containment, should they so choose, but the threat is assessed as very low and barely worth attention."
+  },
+  {
+    "id": 3983,
+    "published": 85695707,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER FAILED\n\nThe naked hatred of our enemies has made the construction of the Malevelon Creek Interrogation Center for Human Rights impossible. Funding issues have unfortunately forced the Records Department to erase the bottom 10% of fallen heroes from their records, affecting all soldiers with last names beginning with Y and Z."
+  },
+  {
+    "id": 3984,
+    "published": 85702607,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC UPDATE\n\nOrbital Laser Stratagem availability has now ended."
+  },
+  {
+    "id": 3985,
+    "published": 85715754,
+    "type": 0,
+    "tagIds": [],
+    "message": "MISINFORMATION ALERT\n\nHelldivers are to be aware of recent falsified reports fraudulently claiming that Termicide 2.0 exposure has increased the spread of the Gloom. The Ministry of Truth is investigating the source of this blatant attempt to deceive our citizens with outlandish lies. In the meantime, all personnel are ordered to report any credulous discussion of these rumors."
   }
 ]
