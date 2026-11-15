@@ -8147,5 +8147,12 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER\n\nThanks to the Helldivers\u2019 superior frontline productivity, full containment of the mutated Terminid strain is within reach. To cleanse affected planets of their infestation, High Command has authorized the Firebreak Protocol.\n\nTo enable this innovative proactive solution, Helldivers must Hold ACAMAR IV, GACRUX and PARTION, to secure orbital firing corridors until the necessary purification is complete.\n"
+  },
+  {
+    "id": 3997,
+    "published": 86759400,
+    "type": 0,
+    "tagIds": [],
+    "message": "DSS FIREBREAK PROTOCOL\n\nThe Democracy Space Station will be temporarily unavailable while performing planetary purification from orbit.\n\nHelldivers are expected to regain control of the DSS once FIREBREAK PROTOCOL is complete."
   }
 ]
