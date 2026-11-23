@@ -8161,5 +8161,26 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER \n\nHelldivers are ordered to hold ZEA RUGOSIA, the planetary base for the Center for Mental Clarity (CMC). \n\nHelldivers are also ordered to kill 215,000,000 Voteless to develop the experimental therapeutic program. The Ministry of Truth knows that the Helldivers will rise to the occasion."
+  },
+  {
+    "id": 4002,
+    "published": 87326725,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON \n\nBoth orders were successful and as a result, construction of the CMC began on schedule and without issue. Early reports from the mental health initiatives show promise, with SEAF personnel especially appreciating therapeutic activities such as the Illuminate live-fire range. The neural implant tested well at the prototype phase and will move to full production immediately. "
+  },
+  {
+    "id": 4003,
+    "published": 87334943,
+    "type": 0,
+    "tagIds": [],
+    "message": "SYSTEM OUTAGE UPDATE\nSome Helldivers may have noticed a recent service error in the Major Order Communication Display. The issue has since been resolved (details below).\n[SYSTEM ERROR REPORT #8.03.529]\nCause: Stray bullet hit central data relay.\nDiscussion: Truth Enforcer in-field execution had dissident facing the wrong wall.\nResolution: Electronics replaced. Family of dissident fined for damages. \n[END REPORT]"
+  },
+  {
+    "id": 4004,
+    "published": 87356143,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER \n\nThe continuing Voteless surges require vastly more SEAF to be sent planetside, increasing demand for the production of the neural implants. To lower the project's economic impact, Helldivers are ordered to eliminate 135,000,000 Troopers, 2,000,000 Factory Striders, 250,000,000 of Terminids and 25,000,000 Bile Spewers. "
   }
 ]
