@@ -8182,5 +8182,26 @@
     "type": 0,
     "tagIds": [],
     "message": "NEW MAJOR ORDER \n\nThe continuing Voteless surges require vastly more SEAF to be sent planetside, increasing demand for the production of the neural implants. To lower the project's economic impact, Helldivers are ordered to eliminate 135,000,000 Troopers, 2,000,000 Factory Striders, 250,000,000 of Terminids and 25,000,000 Bile Spewers. "
+  },
+  {
+    "id": 4005,
+    "published": 87712626,
+    "type": 0,
+    "tagIds": [],
+    "message": "MAJOR ORDER WON \n\nThe Helldivers eliminated the specified targets with Democratic zeal and exemplary obedience. The materials extracted from the fallen enemies will be prepared for production. A portion of the cost savings will be forwarded to the Helldivers in the form of a free Orbital Napalm Barrage, available for the next 48 hours. "
+  },
+  {
+    "id": 4006,
+    "published": 87768156,
+    "type": 0,
+    "tagIds": [],
+    "message": "NEW MAJOR ORDER \n\nThe first SEAF personnel have reported to the newly completed CMC for their wellness leave and mandatory neural implant surgery. Helldivers must defend ZEA RUGOSIA and the CMC as SEAF undergo the medical procedure and legally mandated minimum recovery time. Helldivers are ordered to liberate HERTHON SECUNDUS and HEZE BAY to prepare for the planetary campaigns on ALAMAK VII and ALAIRT III. "
+  },
+  {
+    "id": 4007,
+    "published": 87778840,
+    "type": 0,
+    "tagIds": [],
+    "message": "STRATEGIC ADVISORY\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet will end the enemy attack immediately.\n\nIn the current operational context, liberating HERTHON SECUNDUS would end the current Illuminate attack on ZEA RUGOSIA."
   }
 ]
